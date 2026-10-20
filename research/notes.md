@@ -8,3 +8,4 @@
 - 2026-10-20 — Sources disagree on NLSAT Part B structure (5 × 12-mark problems vs 10 short
   answers) and AILET duration (120 vs 90 min). Resolve from official notifications when released.
 - 2026-10-20 — Daily scheduled task "Law Entrance Prep - Daily Session" created: 9:25 AM IST daily (ready by 9:30), push + email notifications.
+- 2026-10-20 — Tagging rule adopted: a question is credited to one topic only (the session's topic when the skill tested is principle application), to avoid double counting in readiness.
