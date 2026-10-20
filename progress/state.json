@@ -34,10 +34,12 @@
   "sessions_completed": 0,
   "streak": 0,
   "last_session": null,
-  "pending_session": null,
-  "sessions_since_surprise": 0,
-  "last_session_type": null,
-  "recent_topics": [],
+  "pending_session": "2026-10-20",
+  "sessions_since_surprise": 1,
+  "last_session_type": "normal",
+  "recent_topics": [
+    "LEG-PRIN"
+  ],
   "topics": {
     "ENG-RC": {
       "mastery": 0,

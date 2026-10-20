@@ -30,3 +30,4 @@ CLAT 47 · AILET 54 · CUET PG ~132 (to 1 Mar) · NLSAT 187
 ## Change log
 
 - 2026-10-20 — initial entries.
+- 2026-10-20 (Day 1 run) — re-checked CLAT date (Careers360 body/table: Sun 6 Dec 2026; '7 Dec' headline is an error) and NLSAT (apply Nov 2026, close 23 Mar 2027, exam 25 Apr 2027). No changes.
