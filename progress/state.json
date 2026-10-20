@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "student": "Chintan Shah",
+  "target": "3-year LLB (graduate entry)",
+  "timezone": "Asia/Calcutta",
+  "session_time": "09:30",
+  "exams": {
+    "CLAT": {
+      "date": "2026-12-06",
+      "priority": 1.0,
+      "status": "confirmed",
+      "marking": "+1/-0.25"
+    },
+    "AILET": {
+      "date": "2026-12-13",
+      "priority": 1.0,
+      "status": "confirmed",
+      "marking": "+1/-0.25"
+    },
+    "CUET": {
+      "date": "2027-03-01",
+      "priority": 1.2,
+      "status": "tentative (window 1-25 Mar 2027; LLB paper day TBA)",
+      "marking": "+4/-1"
+    },
+    "NLSAT": {
+      "date": "2027-04-25",
+      "priority": 1.5,
+      "status": "announced",
+      "marking": "Part A +1/-0.25 incl. unanswered; Part B descriptive"
+    }
+  },
+  "calendar_last_verified": "2026-10-20",
+  "sessions_completed": 0,
+  "streak": 0,
+  "last_session": null,
+  "pending_session": null,
+  "sessions_since_surprise": 0,
+  "last_session_type": null,
+  "recent_topics": [],
+  "topics": {
+    "ENG-RC": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "ENG-VOC": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "ENG-GRM": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "HIN": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "GK-CA": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "LEG-NEW": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "GK-POL": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "GK-ECO": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "GK-STA": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "LEG-PRIN": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "LEG-TORT": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "LEG-CONT": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "LEG-CRIM": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "LEG-CONST": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "LEG-OTH": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "LEG-MAX": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "LR-CR": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "LR-ARG": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "LR-ANA": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "QT-ARITH": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "QT-DI": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "QT-GEO": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "COMP": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "WRIT-LEGAL": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    },
+    "WRIT-ESSAY": {
+      "mastery": 0,
+      "attempts": 0,
+      "correct": 0,
+      "recent": [],
+      "last_seen": null,
+      "interval_days": null,
+      "next_review": null
+    }
+  },
+  "review_queue": [],
+  "tests": [],
+  "readiness": {
+    "CLAT": {
+      "level": "Not assessed",
+      "projection_pct": null,
+      "updated": "2026-10-20"
+    },
+    "AILET": {
+      "level": "Not assessed",
+      "projection_pct": null,
+      "updated": "2026-10-20"
+    },
+    "CUET": {
+      "level": "Not assessed",
+      "projection_pct": null,
+      "updated": "2026-10-20"
+    },
+    "NLSAT": {
+      "level": "Not assessed",
+      "projection_pct": null,
+      "updated": "2026-10-20"
+    }
+  }
+}
