@@ -31,10 +31,10 @@
     }
   },
   "calendar_last_verified": "2026-10-21",
-  "sessions_completed": 1,
-  "streak": 1,
-  "last_session": "2026-10-20",
-  "pending_session": "2026-10-21",
+  "sessions_completed": 2,
+  "streak": 2,
+  "last_session": "2026-10-21",
+  "pending_session": null,
   "sessions_since_surprise": 2,
   "last_session_type": "normal",
   "recent_topics": [
@@ -125,9 +125,10 @@
     },
     "LEG-PRIN": {
       "mastery": 100,
-      "attempts": 8,
-      "correct": 8,
+      "attempts": 9,
+      "correct": 9,
       "recent": [
+        1,
         1,
         1,
         1,
@@ -137,9 +138,9 @@
         1,
         1
       ],
-      "last_seen": "2026-10-20",
-      "interval_days": 3,
-      "next_review": "2026-10-23"
+      "last_seen": "2026-10-21",
+      "interval_days": 6,
+      "next_review": "2026-10-27"
     },
     "LEG-TORT": {
       "mastery": 0,
@@ -151,13 +152,21 @@
       "next_review": null
     },
     "LEG-CONT": {
-      "mastery": 0,
-      "attempts": 0,
-      "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
+      "mastery": 57,
+      "attempts": 7,
+      "correct": 5,
+      "recent": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "last_seen": "2026-10-21",
+      "interval_days": 3,
+      "next_review": "2026-10-24"
     },
     "LEG-CRIM": {
       "mastery": 0,
@@ -279,8 +288,12 @@
   },
   "review_queue": [
     {
+      "topic": "LEG-CONT",
+      "due": "2026-10-24"
+    },
+    {
       "topic": "LEG-PRIN",
-      "due": "2026-10-23"
+      "due": "2026-10-27"
     }
   ],
   "tests": [
@@ -305,18 +318,44 @@
         ]
       },
       "note": "Q1-4 tort (volenti) passage, Q5-8 BNS theft passage; all tagged LEG-PRIN"
+    },
+    {
+      "date": "2026-10-21",
+      "type": "normal",
+      "exam": "CLAT",
+      "topic": "LEG-CONT",
+      "questions": 8,
+      "correct": 6,
+      "wrong": 2,
+      "unanswered": 0,
+      "raw": 6,
+      "net": 5.5,
+      "max": 8,
+      "minutes": null,
+      "surprise": false,
+      "per_topic": {
+        "LEG-CONT": [
+          5,
+          7
+        ],
+        "LEG-PRIN": [
+          1,
+          1
+        ]
+      },
+      "note": "Missed Q5 (revocation posting date) and Q7 (right result, wrong reason) - both on ss.4-5 timing"
     }
   ],
   "readiness": {
     "CLAT": {
       "level": "Not ready (insufficient data)",
       "projection_pct": null,
-      "updated": "2026-10-20"
+      "updated": "2026-10-21"
     },
     "AILET": {
       "level": "Not ready (insufficient data)",
       "projection_pct": null,
-      "updated": "2026-10-20"
+      "updated": "2026-10-21"
     },
     "CUET": {
       "level": "Not assessed",
