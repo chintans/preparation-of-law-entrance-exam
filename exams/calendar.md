@@ -1,6 +1,6 @@
 # Exam calendar
 
-Last verified: **2026-10-20** (initial setup, by web research; official sites to be re-checked each Monday)
+Last verified: **2026-10-21** (web search; official sites to be re-checked each Monday)
 
 Status key: **Confirmed** = stated in official notice or consistently reported from it · **Announced** =
 exam date published, other dates pending · **Tentative** = expected from past cycles.
@@ -23,11 +23,12 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | NLSAT-LLB 2027 | Offers | end May 2027 | Reported | Careers360 |
 | LSAT India | — | Discontinued after May 2024 | Confirmed | LSAC notice (via AglaSem) |
 
-## Days to exam (as of 2026-10-20)
+## Days to exam (as of 2026-10-21)
 
-CLAT 47 · AILET 54 · CUET PG ~132 (to 1 Mar) · NLSAT 187
+CLAT 46 · AILET 53 · CUET PG ~131 (to 1 Mar) · NLSAT 186
 
 ## Change log
 
 - 2026-10-20 — initial entries.
 - 2026-10-20 (Day 1 run) — re-checked CLAT date (Careers360 body/table: Sun 6 Dec 2026; '7 Dec' headline is an error) and NLSAT (apply Nov 2026, close 23 Mar 2027, exam 25 Apr 2027). No changes.
+- 2026-10-21 (Day 2 run) — searched CLAT 2027 registration deadline (still 31 Oct; no extension reported) and NLSAT 2027 application (not yet open). No changes. Alert: CLAT registration closes in 10 days.
