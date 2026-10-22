@@ -30,16 +30,17 @@
       "marking": "Part A +1/-0.25 incl. unanswered; Part B descriptive"
     }
   },
-  "calendar_last_verified": "2026-10-21",
+  "calendar_last_verified": "2026-10-22",
   "sessions_completed": 2,
   "streak": 2,
   "last_session": "2026-10-21",
-  "pending_session": null,
-  "sessions_since_surprise": 2,
+  "pending_session": "2026-10-22",
+  "sessions_since_surprise": 3,
   "last_session_type": "normal",
   "recent_topics": [
     "LEG-PRIN",
-    "LEG-CONT"
+    "LEG-CONT",
+    "COMP"
   ],
   "topics": {
     "ENG-RC": {
