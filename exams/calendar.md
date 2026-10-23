@@ -1,6 +1,6 @@
 # Exam calendar
 
-Last verified: **2026-10-22** (web search; official sites to be re-checked each Monday)
+Last verified: **2026-10-23** (web search; official sites to be re-checked each Monday)
 
 Status key: **Confirmed** = stated in official notice or consistently reported from it · **Announced** =
 exam date published, other dates pending · **Tentative** = expected from past cycles.
@@ -23,9 +23,9 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | NLSAT-LLB 2027 | Offers | end May 2027 | Reported | Careers360 |
 | LSAT India | — | Discontinued after May 2024 | Confirmed | LSAC notice (via AglaSem) |
 
-## Days to exam (as of 2026-10-22)
+## Days to exam (as of 2026-10-23)
 
-CLAT 45 · AILET 52 · CUET PG ~130 (to 1 Mar) · NLSAT 185
+CLAT 44 · AILET 51 · CUET PG ~129 (to 1 Mar) · NLSAT 184
 
 ## Change log
 
@@ -33,3 +33,4 @@ CLAT 45 · AILET 52 · CUET PG ~130 (to 1 Mar) · NLSAT 185
 - 2026-10-20 (Day 1 run) — re-checked CLAT date (Careers360 body/table: Sun 6 Dec 2026; '7 Dec' headline is an error) and NLSAT (apply Nov 2026, close 23 Mar 2027, exam 25 Apr 2027). No changes.
 - 2026-10-21 (Day 2 run) — searched CLAT 2027 registration deadline (still 31 Oct; no extension reported) and NLSAT 2027 application (not yet open). No changes. Alert: CLAT registration closes in 10 days.
 - 2026-10-22 (Day 3 run) — searched CLAT 2027 last date and NLSAT 2027 application. No changes (CLAT closes 31 Oct; NLSAT application not yet open). Alert: CLAT registration closes in 9 days.
+- 2026-10-23 (Day 4 run) — Careers360 CLAT live page and NLSAT 2027 page. No date changes (CLAT closes 31 Oct, no extension; admit card ~15 days before exam; NLSAT opens Nov 2026). New: Consortium revised MNLU Mumbai reservation criteria/seat matrix (Careers360, 21 Oct) — category can be updated by 31 Oct. Alert: CLAT registration closes in 8 days.

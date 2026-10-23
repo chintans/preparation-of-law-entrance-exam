@@ -30,17 +30,17 @@
       "marking": "Part A +1/-0.25 incl. unanswered; Part B descriptive"
     }
   },
-  "calendar_last_verified": "2026-10-22",
+  "calendar_last_verified": "2026-10-23",
   "sessions_completed": 2,
-  "streak": 2,
+  "streak": 0,
   "last_session": "2026-10-21",
-  "pending_session": "2026-10-22",
-  "sessions_since_surprise": 3,
+  "pending_session": "2026-10-23",
+  "sessions_since_surprise": 4,
   "last_session_type": "normal",
   "recent_topics": [
-    "LEG-PRIN",
     "LEG-CONT",
-    "COMP"
+    "COMP",
+    "LR-CR"
   ],
   "topics": {
     "ENG-RC": {
@@ -368,5 +368,12 @@
       "projection_pct": null,
       "updated": "2026-10-20"
     }
-  }
+  },
+  "missed_sessions": [
+    {
+      "date": "2026-10-22",
+      "exam": "CUET",
+      "topic": "COMP"
+    }
+  ]
 }
