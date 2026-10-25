@@ -1,6 +1,6 @@
 # Exam calendar
 
-Last verified: **2026-10-24** (web search; official sites to be re-checked each Monday)
+Last verified: **2026-10-25** (web search; official sites to be re-checked each Monday)
 
 Status key: **Confirmed** = stated in official notice or consistently reported from it · **Announced** =
 exam date published, other dates pending · **Tentative** = expected from past cycles.
@@ -24,9 +24,9 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | NLSAT-LLB 2027 | Offers | end May 2027 | Reported | Careers360 |
 | LSAT India | — | Discontinued after May 2024 | Confirmed | LSAC notice (via AglaSem) |
 
-## Days to exam (as of 2026-10-24)
+## Days to exam (as of 2026-10-25)
 
-CLAT 43 · AILET 50 · CUET PG ~128 (to 1 Mar) · NLSAT 183
+CLAT 42 · AILET 49 · CUET PG ~127 (to 1 Mar) · NLSAT 182
 
 ## Change log
 
@@ -36,3 +36,4 @@ CLAT 43 · AILET 50 · CUET PG ~128 (to 1 Mar) · NLSAT 183
 - 2026-10-22 (Day 3 run) — searched CLAT 2027 last date and NLSAT 2027 application. No changes (CLAT closes 31 Oct; NLSAT application not yet open). Alert: CLAT registration closes in 9 days.
 - 2026-10-23 (Day 4 run) — Careers360 CLAT live page and NLSAT 2027 page. No date changes (CLAT closes 31 Oct, no extension; admit card ~15 days before exam; NLSAT opens Nov 2026). New: Consortium revised MNLU Mumbai reservation criteria/seat matrix (Careers360, 21 Oct) — category can be updated by 31 Oct. Alert: CLAT registration closes in 8 days.
 - 2026-10-24 (Day 5 run) — PW CLAT correction-window article and Careers360 CLAT live page / NLSAT page. No date changes (CLAT closes 31 Oct 11:59 PM, no extension; NLSAT application still expected Nov 2026). Added: CLAT correction window expected from ~2 Nov (PW, unconfirmed). Alert: CLAT registration closes in 7 days.
+- 2026-10-25 (Day 6 run) — Careers360 CLAT live/last-date pages, PW; Careers360/PW NLSAT 2027 pages. No date changes (CLAT closes 31 Oct, no extension reported; NLSAT application not yet open, exam 25 Apr 2027). Alert: CLAT registration closes in 6 days.

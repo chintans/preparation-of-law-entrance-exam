@@ -7,3 +7,4 @@
 | 2026-10-21 | 2 | normal | CLAT | LEG-CONT | 6/8 | 5.50 | Missed Q5, Q7 (revocation timing, ss.4–5); time not noted; LEG-CONT review 24 Oct |
 | 2026-10-22 | 3 | normal | CUET | COMP | missed | — | No answers received; streak reset |
 | 2026-10-23 | 4 | normal | AILET | LR-CR | missed | — | No answers received; streak stays 0 |
+| 2026-10-24 | 5 | normal | NLSAT | LEG-CONT | missed | — | No answers received; third miss in a row; LEG-CONT carried to 25 Oct |
