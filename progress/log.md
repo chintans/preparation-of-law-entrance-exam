@@ -8,3 +8,4 @@
 | 2026-10-22 | 3 | normal | CUET | COMP | missed | — | No answers received; streak reset |
 | 2026-10-23 | 4 | normal | AILET | LR-CR | missed | — | No answers received; streak stays 0 |
 | 2026-10-24 | 5 | normal | NLSAT | LEG-CONT | missed | — | No answers received; third miss in a row; LEG-CONT carried to 25 Oct |
+| 2026-10-25 | 6 | normal | AILET | LEG-CONT | missed | — | No answers received; fourth miss in a row; 3 LEG-CONT Qs carried to 26 Oct |

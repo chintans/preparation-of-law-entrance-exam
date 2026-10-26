@@ -30,17 +30,17 @@
       "marking": "Part A +1/-0.25 incl. unanswered; Part B descriptive"
     }
   },
-  "calendar_last_verified": "2026-10-25",
+  "calendar_last_verified": "2026-10-26",
   "sessions_completed": 2,
   "streak": 0,
   "last_session": "2026-10-21",
-  "pending_session": "2026-10-25",
-  "sessions_since_surprise": 6,
-  "last_session_type": "normal",
+  "pending_session": "2026-10-26",
+  "sessions_since_surprise": 0,
+  "last_session_type": "surprise",
   "recent_topics": [
-    "LR-CR",
     "LEG-CONT",
-    "LEG-CONT"
+    "LEG-CONT",
+    "MIXED"
   ],
   "topics": {
     "ENG-RC": {
@@ -383,6 +383,11 @@
     {
       "date": "2026-10-24",
       "exam": "NLSAT",
+      "topic": "LEG-CONT"
+    },
+    {
+      "date": "2026-10-25",
+      "exam": "AILET",
       "topic": "LEG-CONT"
     }
   ]
