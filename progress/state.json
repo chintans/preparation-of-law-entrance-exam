@@ -30,17 +30,17 @@
       "marking": "Part A +1/-0.25 incl. unanswered; Part B descriptive"
     }
   },
-  "calendar_last_verified": "2026-10-26",
+  "calendar_last_verified": "2026-10-27",
   "sessions_completed": 2,
   "streak": 0,
   "last_session": "2026-10-21",
-  "pending_session": "2026-10-26",
-  "sessions_since_surprise": 0,
-  "last_session_type": "surprise",
+  "pending_session": "2026-10-27",
+  "sessions_since_surprise": 1,
+  "last_session_type": "normal",
   "recent_topics": [
     "LEG-CONT",
-    "LEG-CONT",
-    "MIXED"
+    "MIXED",
+    "LEG-PRIN"
   ],
   "topics": {
     "ENG-RC": {
@@ -389,6 +389,11 @@
       "date": "2026-10-25",
       "exam": "AILET",
       "topic": "LEG-CONT"
+    },
+    {
+      "date": "2026-10-26",
+      "exam": "CLAT",
+      "topic": "MIXED (surprise)"
     }
   ]
 }
