@@ -12,3 +12,4 @@
 | 2026-10-26 | 7 | surprise | CLAT | MIXED | missed | — | No answers received; fifth miss in a row; LEG-CONT review continues 27 Oct |
 | 2026-10-27 | 8 | normal | NLSAT | LEG-PRIN | missed | — | No answers received; sixth miss in a row; LEG-PRIN + LEG-CONT items carried to 28 Oct |
 | 2026-10-28 | 9 | normal | CLAT | LEG-CONT | missed | — | No answers received; seventh miss in a row; one LEG-CONT item carried to 29 Oct |
+| 2026-10-29 | 10 | normal | AILET | LEG-PRIN | missed | — | No answers received; eighth miss in a row; LEG-PRIN item carried (recast) to 30 Oct |
