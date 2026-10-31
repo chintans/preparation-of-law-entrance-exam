@@ -1,6 +1,6 @@
 # Exam calendar
 
-Last verified: **2026-10-30** (web search; official sites to be re-checked each Monday)
+Last verified: **2026-10-31** (web search; official sites to be re-checked each Monday)
 
 Status key: **Confirmed** = stated in official notice or consistently reported from it · **Announced** =
 exam date published, other dates pending · **Tentative** = expected from past cycles.
@@ -24,9 +24,9 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | NLSAT-LLB 2027 | Offers | end May 2027 | Reported | Careers360 |
 | LSAT India | — | Discontinued after May 2024 | Confirmed | LSAC notice (via AglaSem) |
 
-## Days to exam (as of 2026-10-30)
+## Days to exam (as of 2026-10-31)
 
-CLAT 37 · AILET 44 · CUET PG ~122 (to 1 Mar) · NLSAT 177
+CLAT 36 · AILET 43 · CUET PG ~121 (to 1 Mar) · NLSAT 176
 
 ## Change log
 
@@ -42,3 +42,4 @@ CLAT 37 · AILET 44 · CUET PG ~122 (to 1 Mar) · NLSAT 177
 - 2026-10-28 (Day 9 run) — Careers360 CLAT live page, KollegeApply, PW correction-window page; Careers360 NLSAT notification, findmycollege. No date changes (CLAT closes 31 Oct, no extension; correction window still listed from 2 Nov; NLSAT forms open Nov 2026). Alert: CLAT registration closes in 3 days; AILET closes 10 Nov.
 - 2026-10-29 (Day 10 run) — Careers360 CLAT live + "closing soon" pages, KollegeApply; Careers360/findmycollege AILET pages; Careers360/zollege NLSAT pages. No date changes (CLAT closes 31 Oct, no extension; AILET closes 10 Nov; NLSAT forms open Nov 2026). Alert: CLAT registration closes in 2 days; AILET in 12.
 - 2026-10-30 (Day 11 run) — Careers360 CLAT last-date page, EBC blog, Shiksha; Careers360/PW/findmycollege NLSAT pages. No date changes (CLAT closes 31 Oct, no extension found; NLSAT apply in November). Alert: CLAT registration closes tomorrow; AILET in 11 days.
+- 2026-10-31 (Day 12 run) — Careers360 "registration closes", PW, CollegeDekho, matchtocollege CLAT pages; Careers360/Shiksha/findmycollege/zollege NLSAT pages. No date changes (CLAT closes today 31 Oct 11:59 PM, no extension; NLSAT forms open Nov 2026). Alert: CLAT registration closes today; AILET in 10 days.
