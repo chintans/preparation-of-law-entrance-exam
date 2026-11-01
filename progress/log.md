@@ -15,3 +15,4 @@
 | 2026-10-29 | 10 | normal | AILET | LEG-PRIN | missed | — | No answers received; eighth miss in a row; LEG-PRIN item carried (recast) to 30 Oct |
 | 2026-10-30 | 11 | normal | CLAT | ENG-RC | missed | — | No answers received; ninth miss in a row; LEG-CONT + LEG-PRIN items carried (recast) to 31 Oct |
 | 2026-10-31 | 12 | normal | AILET | LR-CR | missed | — | No answers received; tenth miss in a row; LEG-CONT + LEG-PRIN items carried (recast) to 1 Nov |
+| 2026-11-01 | 3 (late) | normal | CUET | COMP | 5/8 | 17/32 | Day-3 set answered late; missed Q3 nibble, Q7 EEPROM, Q8 revocation timing (3rd timing miss); COMP review 4 Nov, LEG-CONT 2 Nov |

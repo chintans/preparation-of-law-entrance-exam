@@ -32,9 +32,9 @@
     }
   },
   "calendar_last_verified": "2026-11-01",
-  "sessions_completed": 2,
-  "streak": 0,
-  "last_session": "2026-10-21",
+  "sessions_completed": 3,
+  "streak": 1,
+  "last_session": "2026-10-22",
   "pending_session": "2026-11-01",
   "sessions_since_surprise": 6,
   "last_session_type": "normal",
@@ -154,8 +154,8 @@
       "next_review": null
     },
     "LEG-CONT": {
-      "mastery": 57,
-      "attempts": 7,
+      "mastery": 44,
+      "attempts": 8,
       "correct": 5,
       "recent": [
         1,
@@ -164,11 +164,12 @@
         1,
         0,
         1,
+        0,
         0
       ],
-      "last_seen": "2026-10-21",
-      "interval_days": 3,
-      "next_review": "2026-10-24"
+      "last_seen": "2026-11-01",
+      "interval_days": 1,
+      "next_review": "2026-11-02"
     },
     "LEG-CRIM": {
       "mastery": 0,
@@ -261,13 +262,21 @@
       "next_review": null
     },
     "COMP": {
-      "mastery": 0,
-      "attempts": 0,
-      "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
+      "mastery": 64,
+      "attempts": 7,
+      "correct": 5,
+      "recent": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "last_seen": "2026-11-01",
+      "interval_days": 3,
+      "next_review": "2026-11-04"
     },
     "WRIT-LEGAL": {
       "mastery": 0,
@@ -290,12 +299,16 @@
   },
   "review_queue": [
     {
-      "topic": "LEG-CONT",
-      "due": "2026-10-24"
-    },
-    {
       "topic": "LEG-PRIN",
       "due": "2026-10-27"
+    },
+    {
+      "topic": "LEG-CONT",
+      "due": "2026-11-02"
+    },
+    {
+      "topic": "COMP",
+      "due": "2026-11-04"
     }
   ],
   "tests": [
@@ -346,6 +359,33 @@
         ]
       },
       "note": "Missed Q5 (revocation posting date) and Q7 (right result, wrong reason) - both on ss.4-5 timing"
+    },
+    {
+      "date": "2026-10-22",
+      "type": "normal",
+      "exam": "CUET",
+      "topic": "COMP",
+      "questions": 8,
+      "correct": 5,
+      "wrong": 3,
+      "unanswered": 0,
+      "raw": 20,
+      "net": 17.0,
+      "max": 32,
+      "minutes": null,
+      "surprise": false,
+      "per_topic": {
+        "COMP": [
+          5,
+          7
+        ],
+        "LEG-CONT": [
+          0,
+          1
+        ]
+      },
+      "graded_on": "2026-11-01",
+      "note": "Answered late (1 Nov) after being marked missed on 23 Oct. Missed Q3 (nibble), Q7 (EEPROM expansion), Q8 (revocation timing - compared with acceptance receipt)"
     }
   ],
   "readiness": {
@@ -360,9 +400,9 @@
       "updated": "2026-11-01"
     },
     "CUET": {
-      "level": "Not assessed",
+      "level": "Not ready (insufficient data)",
       "projection_pct": null,
-      "updated": "2026-10-20"
+      "updated": "2026-11-01"
     },
     "NLSAT": {
       "level": "Not ready (insufficient data)",
