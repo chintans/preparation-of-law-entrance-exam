@@ -15,3 +15,7 @@
   questions as "the BIOS program".
 - 2026-11-01 — Ss. 4–5 timing: 0/3 across Days 2–3, each a different wrong date comparison. Teach as a one-line test:
   "Did the revocation REACH the acceptor before the acceptance was POSTED?"
+- 2026-11-01 — Mastery for a topic's first graded attempts: prior mastery 0 is a placeholder (no data), so it is not
+  blended in; mastery = linear-weighted accuracy of `recent` (weights 1..n, newest highest), matching earlier runs.
+- 2026-11-01 — Day-7 surprise (CLAT): 12.5/20 in 40 min. CA 0/5 (confused Art. 32/143, Art. 200 options, CJI
+  Gavai vs Surya Kant, took "deemed assent" as the holding). Pace ~2 min/Q — twice CLAT budget.

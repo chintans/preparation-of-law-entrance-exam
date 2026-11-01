@@ -19,3 +19,4 @@
 | 2026-11-01 | 4 (late) | normal | AILET | LR-CR | 6/8 | 5.50 | Day-4 set answered late; missed Q4 (premise taken as main conclusion), Q5 (extreme 'every' assumption); Q8 acceptor-revocation clock right; LR-CR review 4 Nov, LEG-CONT 3 Nov |
 | 2026-11-01 | 5 (late) | normal | NLSAT | LEG-CONT | 6/8 | 5.50 | Day-5 set answered late; proposer/acceptor clocks all right (Q1, Q2, Q7); missed Q3 (reasonable-time lapse), Q5 (death of proposer — outside rule); LEG-CONT mastery 70, review 3 Nov |
 | 2026-11-01 | 6 (late) | normal | AILET | LEG-CONT | 7/8 | 6.75 | Day-6 set answered late; all s. 7 items right (counter-offer, inquiry, prescribed manner, silence, unauthorised communication); missed Q2 proposer revocation clock again; LEG-CONT mastery 83, review 5 Nov |
+| 2026-11-01 | 7 (late) | surprise | CLAT | MIXED | 14/20 | 12.50 | Day-7 surprise answered late, 40 min (budget 22); Legal 5/5, Logical 4/4, Quant 2/2, English 3/4, **CA 0/5**; CA/polity reviews 2 Nov |

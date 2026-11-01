@@ -32,9 +32,9 @@
     }
   },
   "calendar_last_verified": "2026-11-01",
-  "sessions_completed": 6,
-  "streak": 4,
-  "last_session": "2026-10-25",
+  "sessions_completed": 7,
+  "streak": 5,
+  "last_session": "2026-10-26",
   "pending_session": "2026-11-01",
   "sessions_since_surprise": 6,
   "last_session_type": "normal",
@@ -45,22 +45,28 @@
   ],
   "topics": {
     "ENG-RC": {
-      "mastery": 0,
-      "attempts": 0,
-      "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
+      "mastery": 100,
+      "attempts": 3,
+      "correct": 3,
+      "recent": [
+        1,
+        1,
+        1
+      ],
+      "last_seen": "2026-11-01",
+      "interval_days": 3,
+      "next_review": "2026-11-04"
     },
     "ENG-VOC": {
       "mastery": 0,
-      "attempts": 0,
+      "attempts": 1,
       "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
+      "recent": [
+        0
+      ],
+      "last_seen": "2026-11-01",
+      "interval_days": 1,
+      "next_review": "2026-11-02"
     },
     "ENG-GRM": {
       "mastery": 0,
@@ -82,30 +88,38 @@
     },
     "GK-CA": {
       "mastery": 0,
-      "attempts": 0,
+      "attempts": 1,
       "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
+      "recent": [
+        0
+      ],
+      "last_seen": "2026-11-01",
+      "interval_days": 1,
+      "next_review": "2026-11-02"
     },
     "LEG-NEW": {
       "mastery": 0,
-      "attempts": 0,
+      "attempts": 2,
       "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
+      "recent": [
+        0,
+        0
+      ],
+      "last_seen": "2026-11-01",
+      "interval_days": 1,
+      "next_review": "2026-11-02"
     },
     "GK-POL": {
       "mastery": 0,
-      "attempts": 0,
+      "attempts": 2,
       "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
+      "recent": [
+        0,
+        0
+      ],
+      "last_seen": "2026-11-01",
+      "interval_days": 1,
+      "next_review": "2026-11-02"
     },
     "GK-ECO": {
       "mastery": 0,
@@ -145,22 +159,22 @@
       "next_review": "2026-10-27"
     },
     "LEG-TORT": {
-      "mastery": 0,
-      "attempts": 0,
-      "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
-    },
-    "LEG-CONT": {
-      "mastery": 83,
-      "attempts": 25,
-      "correct": 19,
+      "mastery": 100,
+      "attempts": 2,
+      "correct": 2,
       "recent": [
         1,
-        0,
-        0,
+        1
+      ],
+      "last_seen": "2026-11-01",
+      "interval_days": 3,
+      "next_review": "2026-11-04"
+    },
+    "LEG-CONT": {
+      "mastery": 90,
+      "attempts": 28,
+      "correct": 22,
+      "recent": [
         1,
         1,
         1,
@@ -172,6 +186,9 @@
         1,
         1,
         0,
+        1,
+        1,
+        1,
         1,
         1,
         1,
@@ -180,8 +197,8 @@
         1
       ],
       "last_seen": "2026-11-01",
-      "interval_days": 4,
-      "next_review": "2026-11-05"
+      "interval_days": 8,
+      "next_review": "2026-11-09"
     },
     "LEG-CRIM": {
       "mastery": 0,
@@ -220,9 +237,9 @@
       "next_review": null
     },
     "LR-CR": {
-      "mastery": 68,
-      "attempts": 7,
-      "correct": 5,
+      "mastery": 84,
+      "attempts": 10,
+      "correct": 8,
       "recent": [
         1,
         1,
@@ -230,20 +247,25 @@
         0,
         0,
         1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "last_seen": "2026-11-01",
+      "interval_days": 6,
+      "next_review": "2026-11-07"
+    },
+    "LR-ARG": {
+      "mastery": 100,
+      "attempts": 1,
+      "correct": 1,
+      "recent": [
         1
       ],
       "last_seen": "2026-11-01",
       "interval_days": 3,
       "next_review": "2026-11-04"
-    },
-    "LR-ARG": {
-      "mastery": 0,
-      "attempts": 0,
-      "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
     },
     "LR-ANA": {
       "mastery": 0,
@@ -255,22 +277,26 @@
       "next_review": null
     },
     "QT-ARITH": {
-      "mastery": 0,
-      "attempts": 0,
-      "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
+      "mastery": 100,
+      "attempts": 1,
+      "correct": 1,
+      "recent": [
+        1
+      ],
+      "last_seen": "2026-11-01",
+      "interval_days": 3,
+      "next_review": "2026-11-04"
     },
     "QT-DI": {
-      "mastery": 0,
-      "attempts": 0,
-      "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
+      "mastery": 100,
+      "attempts": 1,
+      "correct": 1,
+      "recent": [
+        1
+      ],
+      "last_seen": "2026-11-01",
+      "interval_days": 3,
+      "next_review": "2026-11-04"
     },
     "QT-GEO": {
       "mastery": 0,
@@ -323,16 +349,52 @@
       "due": "2026-10-27"
     },
     {
+      "topic": "ENG-VOC",
+      "due": "2026-11-02"
+    },
+    {
+      "topic": "GK-POL",
+      "due": "2026-11-02"
+    },
+    {
+      "topic": "LEG-NEW",
+      "due": "2026-11-02"
+    },
+    {
+      "topic": "GK-CA",
+      "due": "2026-11-02"
+    },
+    {
       "topic": "COMP",
       "due": "2026-11-04"
     },
     {
-      "topic": "LR-CR",
+      "topic": "ENG-RC",
       "due": "2026-11-04"
     },
     {
+      "topic": "LEG-TORT",
+      "due": "2026-11-04"
+    },
+    {
+      "topic": "LR-ARG",
+      "due": "2026-11-04"
+    },
+    {
+      "topic": "QT-DI",
+      "due": "2026-11-04"
+    },
+    {
+      "topic": "QT-ARITH",
+      "due": "2026-11-04"
+    },
+    {
+      "topic": "LR-CR",
+      "due": "2026-11-07"
+    },
+    {
       "topic": "LEG-CONT",
-      "due": "2026-11-05"
+      "due": "2026-11-09"
     }
   ],
   "tests": [
@@ -483,11 +545,74 @@
       },
       "graded_on": "2026-11-01",
       "note": "Answered late (1 Nov). All s.7 items right (counter-offer, inquiry, prescribed manner, silence, unauthorised communication) and death/knowledge right. Missed Q2: proposer's revocation clock - chose C (compared revocation sending with acceptance arrival); same item answered correctly on Day 5 Q7."
+    },
+    {
+      "date": "2026-10-26",
+      "type": "surprise",
+      "exam": "CLAT",
+      "topic": "MIXED",
+      "questions": 20,
+      "correct": 14,
+      "wrong": 6,
+      "unanswered": 0,
+      "raw": 14,
+      "net": 12.5,
+      "max": 20,
+      "minutes": 40,
+      "surprise": true,
+      "per_topic": {
+        "ENG-RC": [
+          3,
+          3
+        ],
+        "ENG-VOC": [
+          0,
+          1
+        ],
+        "GK-POL": [
+          0,
+          2
+        ],
+        "LEG-NEW": [
+          0,
+          2
+        ],
+        "GK-CA": [
+          0,
+          1
+        ],
+        "LEG-CONT": [
+          3,
+          3
+        ],
+        "LEG-TORT": [
+          2,
+          2
+        ],
+        "LR-CR": [
+          3,
+          3
+        ],
+        "LR-ARG": [
+          1,
+          1
+        ],
+        "QT-DI": [
+          1,
+          1
+        ],
+        "QT-ARITH": [
+          1,
+          1
+        ]
+      },
+      "graded_on": "2026-11-01",
+      "note": "Answered late (1 Nov), 40 min vs 22 budget. Sections: English 3/4, CA 0/5, Legal 5/5, Logical 4/4, Quant 2/2. Missed Q4 (modest - picked 'inexpensive'), Q5 Art 143, Q6 Art 200 options, Q7 Gavai presided, Q8 Surya Kant 53rd CJI, Q9 opinion holding."
     }
   ],
   "readiness": {
     "CLAT": {
-      "level": "Not ready (insufficient data)",
+      "level": "Not ready (insufficient data; Current Affairs 0/5)",
       "projection_pct": null,
       "updated": "2026-11-01"
     },
@@ -534,7 +659,8 @@
     {
       "date": "2026-10-26",
       "exam": "CLAT",
-      "topic": "MIXED (surprise)"
+      "topic": "MIXED (surprise)",
+      "answered_late": "2026-11-01"
     },
     {
       "date": "2026-10-27",
