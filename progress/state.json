@@ -9,7 +9,8 @@
       "date": "2026-12-06",
       "priority": 1.0,
       "status": "confirmed",
-      "marking": "+1/-0.25"
+      "marking": "+1/-0.25",
+      "registration": "extension reported 1 Nov 2026 (Shiksha); revised date not confirmed"
     },
     "AILET": {
       "date": "2026-12-13",
@@ -30,17 +31,17 @@
       "marking": "Part A +1/-0.25 incl. unanswered; Part B descriptive"
     }
   },
-  "calendar_last_verified": "2026-10-31",
+  "calendar_last_verified": "2026-11-01",
   "sessions_completed": 2,
   "streak": 0,
   "last_session": "2026-10-21",
-  "pending_session": "2026-10-31",
-  "sessions_since_surprise": 5,
+  "pending_session": "2026-11-01",
+  "sessions_since_surprise": 6,
   "last_session_type": "normal",
   "recent_topics": [
-    "LEG-PRIN",
     "ENG-RC",
-    "LR-CR"
+    "LR-CR",
+    "GK-CA"
   ],
   "topics": {
     "ENG-RC": {
@@ -351,12 +352,12 @@
     "CLAT": {
       "level": "Not ready (insufficient data)",
       "projection_pct": null,
-      "updated": "2026-10-21"
+      "updated": "2026-11-01"
     },
     "AILET": {
       "level": "Not ready (insufficient data)",
       "projection_pct": null,
-      "updated": "2026-10-21"
+      "updated": "2026-11-01"
     },
     "CUET": {
       "level": "Not assessed",
@@ -366,7 +367,7 @@
     "NLSAT": {
       "level": "Not ready (insufficient data)",
       "projection_pct": null,
-      "updated": "2026-10-20"
+      "updated": "2026-11-01"
     }
   },
   "missed_sessions": [
@@ -414,6 +415,11 @@
       "date": "2026-10-30",
       "exam": "CLAT",
       "topic": "ENG-RC"
+    },
+    {
+      "date": "2026-10-31",
+      "exam": "AILET",
+      "topic": "LR-CR"
     }
   ]
 }
