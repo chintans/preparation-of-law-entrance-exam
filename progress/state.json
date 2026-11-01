@@ -687,5 +687,17 @@
       "exam": "AILET",
       "topic": "LR-CR"
     }
-  ]
+  ],
+  "ca": {
+    "backfill_cursor": "2025-11",
+    "window": "2025-11 to 2026-11 (Phase 1)",
+    "briefs": 0
+  },
+  "reading": {
+    "level": 1,
+    "technique_week": 1,
+    "technique_started": "2026-11-02",
+    "log": [],
+    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min ≈ 120 s/Q vs 60 s budget; reading time not measured."
+  }
 }

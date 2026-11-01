@@ -27,30 +27,40 @@ session length and surprise tests: `plan/study-plan.md`. State: `progress/state.
    advance that it might be a surprise day.
 6. **Pick exam and topic** per the focus-allocation rules (random draw for the exam). Record the
    draw and the reasoning in the session file's metadata.
+6a. **CA brief.** Build today's Current-Affairs Brief per `plan/study-plan.md` → "Current-affairs
+   brief" (every session except exam day; surprise tests included). Verify every item by web search,
+   cite it in the session file, log it in `research/current-affairs.md`, and advance
+   `ca.backfill_cursor` in `state.json`.
 7. **Build the session** (format below). Write `sessions/YYYY-MM-DD.md`. Set `pending_session` to
    today's date in `state.json`.
 8. **Commit and push** (`git pull --rebase` first). Message: `session YYYY-MM-DD: <topic id> (<type>)`.
 9. **Deliver** with SendUserMessage (if unavailable, put it in your final response): the
-   lesson and the questions, **without** the answer key. End with: "Reply with your answers like
-   `1B 2D 3A …` (for writing tasks, paste your answer). Started at: note the time you begin."
+   CA brief, the lesson and the questions, **without** the answer key. End with: "Reply with your
+   answers like `1B 2D 3A …` (for writing tasks, paste your answer), your start and end times, and
+   your reading time for the timed passage (e.g. `R 2:10`)."
 
 ## B. Session formats
 
 ### Normal session
 - **Header:** day N · streak · today's focus (exam + topic) · days to each upcoming exam (one line).
 - **Exam alert** (only if any).
+- **Current-Affairs Brief (5 min, always first, not timed):** see `plan/study-plan.md`.
+- **Speed drill:** see `plan/study-plan.md` → "Reading speed". Every passage shows its word count;
+  one passage per session is marked ⏱ with a target reading time.
 - **Lesson (5–10 min read):** the concept in plain language → a rule of thumb or method →
   one worked example in the target exam's style → the trap examiners set. Use real current
   events and real legal developments; verify any fact you are not certain of with a web search,
   and log new current-affairs facts in `research/current-affairs.md` with the date and source.
 - **Test:** count per `plan/study-plan.md`. Match the exam's style (passage-based for CLAT/NLSAT,
   standalone for CUET/AILET grammar/GK). 4 options, one correct. Include 1 question from a
-  topic in the review queue when one exists.
+  topic in the review queue when one exists. **Plus 2 CA recall questions** (standalone, from
+  earlier briefs, tagged by topic) added to the count — these test retention, not today's brief.
 - **Readiness line:** one sentence with the RAG status for the focus exam.
 
 ### Surprise test
 - Open with: "**Surprise test** — <exam> pattern, <n> questions, <m> minutes, real marking
-  (<scheme>). Start the clock now." No lesson.
+  (<scheme>). Start the clock now." No lesson. The CA brief still comes first, before the clock
+  starts, and its items are **not** tested in that day's surprise test.
 - Mixed across that exam's sections, proportional to its real weightage.
 - After grading, produce the full readiness report (section D) and a 3-item action list.
 
@@ -66,6 +76,10 @@ session length and surprise tests: `plan/study-plan.md`. State: `progress/state.
 1. Grade against the key. For each miss: the right answer, why, and the trap he fell into.
    For CLAT/AILET/NLSAT score at +1/−0.25; CUET at +4/−1. Show raw and net score.
    If he noted time taken, compare with the exam's per-question time budget.
+   If he gave a reading time, compute words-per-minute for the ⏱ passage and compare with the
+   current target (`plan/study-plan.md` → "Reading speed"); give one concrete speed tip tied to
+   what he missed. Append `{date, words, seconds, wpm, target_wpm, accuracy_on_passage}` to
+   `reading.log` in `state.json` and move `reading.level` per the plan's rules.
 2. Update `progress/state.json`:
    - per topic: `attempts`, `correct`, append to `recent` (keep last 20 results as 1/0),
      `mastery` = round(100 × weighted accuracy of `recent`, newer weighted higher, blended with

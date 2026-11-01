@@ -19,3 +19,6 @@
   blended in; mastery = linear-weighted accuracy of `recent` (weights 1..n, newest highest), matching earlier runs.
 - 2026-11-01 — Day-7 surprise (CLAT): 12.5/20 in 40 min. CA 0/5 (confused Art. 32/143, Art. 200 options, CJI
   Gavai vs Surya Kant, took "deemed assent" as the holding). Pace ~2 min/Q — twice CLAT budget.
+- 2026-11-01 — At Chintan's request: every session now opens with a 6-item Current-Affairs Brief (verified,
+  backfill Nov 2025 → now + last 14 days), 2 CA recall questions per test, and a timed ⏱ reading drill with wpm
+  levels (180 → 300). Rules in plan/study-plan.md; protocol steps in CLAUDE.md (A.6a, B, C.1).
