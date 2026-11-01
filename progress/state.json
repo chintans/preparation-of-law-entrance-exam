@@ -32,9 +32,9 @@
     }
   },
   "calendar_last_verified": "2026-11-01",
-  "sessions_completed": 3,
-  "streak": 1,
-  "last_session": "2026-10-22",
+  "sessions_completed": 4,
+  "streak": 2,
+  "last_session": "2026-10-23",
   "pending_session": "2026-11-01",
   "sessions_since_surprise": 6,
   "last_session_type": "normal",
@@ -154,9 +154,9 @@
       "next_review": null
     },
     "LEG-CONT": {
-      "mastery": 44,
-      "attempts": 8,
-      "correct": 5,
+      "mastery": 56,
+      "attempts": 9,
+      "correct": 6,
       "recent": [
         1,
         1,
@@ -165,11 +165,12 @@
         0,
         1,
         0,
-        0
+        0,
+        1
       ],
       "last_seen": "2026-11-01",
-      "interval_days": 1,
-      "next_review": "2026-11-02"
+      "interval_days": 2,
+      "next_review": "2026-11-03"
     },
     "LEG-CRIM": {
       "mastery": 0,
@@ -208,13 +209,21 @@
       "next_review": null
     },
     "LR-CR": {
-      "mastery": 0,
-      "attempts": 0,
-      "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
+      "mastery": 68,
+      "attempts": 7,
+      "correct": 5,
+      "recent": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "last_seen": "2026-11-01",
+      "interval_days": 3,
+      "next_review": "2026-11-04"
     },
     "LR-ARG": {
       "mastery": 0,
@@ -304,10 +313,14 @@
     },
     {
       "topic": "LEG-CONT",
-      "due": "2026-11-02"
+      "due": "2026-11-03"
     },
     {
       "topic": "COMP",
+      "due": "2026-11-04"
+    },
+    {
+      "topic": "LR-CR",
       "due": "2026-11-04"
     }
   ],
@@ -386,6 +399,33 @@
       },
       "graded_on": "2026-11-01",
       "note": "Answered late (1 Nov) after being marked missed on 23 Oct. Missed Q3 (nibble), Q7 (EEPROM expansion), Q8 (revocation timing - compared with acceptance receipt)"
+    },
+    {
+      "date": "2026-10-23",
+      "type": "normal",
+      "exam": "AILET",
+      "topic": "LR-CR",
+      "questions": 8,
+      "correct": 6,
+      "wrong": 2,
+      "unanswered": 0,
+      "raw": 6,
+      "net": 5.5,
+      "max": 8,
+      "minutes": null,
+      "surprise": false,
+      "per_topic": {
+        "LR-CR": [
+          5,
+          7
+        ],
+        "LEG-CONT": [
+          1,
+          1
+        ]
+      },
+      "graded_on": "2026-11-01",
+      "note": "Answered late (1 Nov). Missed Q4 (picked intermediate premise as main conclusion), Q5 (picked extreme \"every commuter\" assumption). Q8 acceptance-revocation clock correct."
     }
   ],
   "readiness": {
@@ -419,7 +459,8 @@
     {
       "date": "2026-10-23",
       "exam": "AILET",
-      "topic": "LR-CR"
+      "topic": "LR-CR",
+      "answered_late": "2026-11-01"
     },
     {
       "date": "2026-10-24",
