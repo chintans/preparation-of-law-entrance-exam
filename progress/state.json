@@ -32,9 +32,9 @@
     }
   },
   "calendar_last_verified": "2026-11-01",
-  "sessions_completed": 4,
-  "streak": 2,
-  "last_session": "2026-10-23",
+  "sessions_completed": 5,
+  "streak": 3,
+  "last_session": "2026-10-24",
   "pending_session": "2026-11-01",
   "sessions_since_surprise": 6,
   "last_session_type": "normal",
@@ -154,9 +154,9 @@
       "next_review": null
     },
     "LEG-CONT": {
-      "mastery": 56,
-      "attempts": 9,
-      "correct": 6,
+      "mastery": 70,
+      "attempts": 17,
+      "correct": 12,
       "recent": [
         1,
         1,
@@ -166,6 +166,14 @@
         1,
         0,
         0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
         1
       ],
       "last_seen": "2026-11-01",
@@ -426,6 +434,29 @@
       },
       "graded_on": "2026-11-01",
       "note": "Answered late (1 Nov). Missed Q4 (picked intermediate premise as main conclusion), Q5 (picked extreme \"every commuter\" assumption). Q8 acceptance-revocation clock correct."
+    },
+    {
+      "date": "2026-10-24",
+      "type": "normal",
+      "exam": "NLSAT",
+      "topic": "LEG-CONT",
+      "questions": 8,
+      "correct": 6,
+      "wrong": 2,
+      "unanswered": 0,
+      "raw": 6,
+      "net": 5.5,
+      "max": 8,
+      "minutes": null,
+      "surprise": false,
+      "per_topic": {
+        "LEG-CONT": [
+          6,
+          8
+        ]
+      },
+      "graded_on": "2026-11-01",
+      "note": "Answered late (1 Nov). Proposer's clock now right (Q1, Q7) and acceptor's (Q2). Missed Q3 (no time stated taken as 'open until withdrawn' - ignored reasonable-time lapse), Q5 (death of proposer: chose 'revoked, dead cannot be bound' though Q6 answered the knowledge rule correctly)."
     }
   ],
   "readiness": {
@@ -465,7 +496,8 @@
     {
       "date": "2026-10-24",
       "exam": "NLSAT",
-      "topic": "LEG-CONT"
+      "topic": "LEG-CONT",
+      "answered_late": "2026-11-01"
     },
     {
       "date": "2026-10-25",

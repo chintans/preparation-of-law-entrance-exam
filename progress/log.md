@@ -17,3 +17,4 @@
 | 2026-10-31 | 12 | normal | AILET | LR-CR | missed | — | No answers received; tenth miss in a row; LEG-CONT + LEG-PRIN items carried (recast) to 1 Nov |
 | 2026-11-01 | 3 (late) | normal | CUET | COMP | 5/8 | 17/32 | Day-3 set answered late; missed Q3 nibble, Q7 EEPROM, Q8 revocation timing (3rd timing miss); COMP review 4 Nov, LEG-CONT 2 Nov |
 | 2026-11-01 | 4 (late) | normal | AILET | LR-CR | 6/8 | 5.50 | Day-4 set answered late; missed Q4 (premise taken as main conclusion), Q5 (extreme 'every' assumption); Q8 acceptor-revocation clock right; LR-CR review 4 Nov, LEG-CONT 3 Nov |
+| 2026-11-01 | 5 (late) | normal | NLSAT | LEG-CONT | 6/8 | 5.50 | Day-5 set answered late; proposer/acceptor clocks all right (Q1, Q2, Q7); missed Q3 (reasonable-time lapse), Q5 (death of proposer — outside rule); LEG-CONT mastery 70, review 3 Nov |
