@@ -32,9 +32,9 @@
     }
   },
   "calendar_last_verified": "2026-11-01",
-  "sessions_completed": 5,
-  "streak": 3,
-  "last_session": "2026-10-24",
+  "sessions_completed": 6,
+  "streak": 4,
+  "last_session": "2026-10-25",
   "pending_session": "2026-11-01",
   "sessions_since_surprise": 6,
   "last_session_type": "normal",
@@ -154,16 +154,11 @@
       "next_review": null
     },
     "LEG-CONT": {
-      "mastery": 70,
-      "attempts": 17,
-      "correct": 12,
+      "mastery": 83,
+      "attempts": 25,
+      "correct": 19,
       "recent": [
         1,
-        1,
-        1,
-        1,
-        0,
-        1,
         0,
         0,
         1,
@@ -172,13 +167,21 @@
         0,
         1,
         0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
         1,
         1,
         1
       ],
       "last_seen": "2026-11-01",
-      "interval_days": 2,
-      "next_review": "2026-11-03"
+      "interval_days": 4,
+      "next_review": "2026-11-05"
     },
     "LEG-CRIM": {
       "mastery": 0,
@@ -320,16 +323,16 @@
       "due": "2026-10-27"
     },
     {
-      "topic": "LEG-CONT",
-      "due": "2026-11-03"
-    },
-    {
       "topic": "COMP",
       "due": "2026-11-04"
     },
     {
       "topic": "LR-CR",
       "due": "2026-11-04"
+    },
+    {
+      "topic": "LEG-CONT",
+      "due": "2026-11-05"
     }
   ],
   "tests": [
@@ -457,6 +460,29 @@
       },
       "graded_on": "2026-11-01",
       "note": "Answered late (1 Nov). Proposer's clock now right (Q1, Q7) and acceptor's (Q2). Missed Q3 (no time stated taken as 'open until withdrawn' - ignored reasonable-time lapse), Q5 (death of proposer: chose 'revoked, dead cannot be bound' though Q6 answered the knowledge rule correctly)."
+    },
+    {
+      "date": "2026-10-25",
+      "type": "normal",
+      "exam": "AILET",
+      "topic": "LEG-CONT",
+      "questions": 8,
+      "correct": 7,
+      "wrong": 1,
+      "unanswered": 0,
+      "raw": 7,
+      "net": 6.75,
+      "max": 8,
+      "minutes": null,
+      "surprise": false,
+      "per_topic": {
+        "LEG-CONT": [
+          7,
+          8
+        ]
+      },
+      "graded_on": "2026-11-01",
+      "note": "Answered late (1 Nov). All s.7 items right (counter-offer, inquiry, prescribed manner, silence, unauthorised communication) and death/knowledge right. Missed Q2: proposer's revocation clock - chose C (compared revocation sending with acceptance arrival); same item answered correctly on Day 5 Q7."
     }
   ],
   "readiness": {
@@ -502,7 +528,8 @@
     {
       "date": "2026-10-25",
       "exam": "AILET",
-      "topic": "LEG-CONT"
+      "topic": "LEG-CONT",
+      "answered_late": "2026-11-01"
     },
     {
       "date": "2026-10-26",
