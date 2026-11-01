@@ -10,9 +10,7 @@ COMP 5/7, LR-CR 5/7. Days 5–12 missed; 1 Nov set pending.)
 | CUET PG LLB | Mar 2027 | ~120 | Not ready (insufficient data) | — | Computer section: 5/7 (71%) → projected 64% (Amber); Language, GK, Aptitude, Reasoning untested |
 | NLSAT-LLB | 25 Apr 2027 | 175 | Not ready (insufficient data) | — | Part A Reasoning 14/16 (88%) → projected 84% (Green, coverage 2/3); English, CA/GK, Part B untested |
 
-**Plain verdict.** There is no basis yet to call you ready or not for any exam: 16 answered questions in 13 days, all
-in one section. The legal-reasoning sample is strong, but four of CLAT's five sections have no data and CLAT is five
-weeks away. Answering the daily set is now the single biggest lever on this report.
+**Plain verdict.** Still no basis to call you ready for any exam: 32 graded questions, all in Legal, Logical/CR and Computer. Accuracy where tested is good (78% overall), but English, Current Affairs and Quant (about 55% of CLAT) have no data, and CLAT is five weeks away. Answering the daily set on the day is the biggest lever on this report.
 
 Bands are provisional until `research/cutoffs.md` holds official figures (current figures are aggregator-reported; top-5
 NLUs ≈ 90+/120 net).
