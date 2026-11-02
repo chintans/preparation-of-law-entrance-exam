@@ -1,14 +1,14 @@
 # Readiness report
 
-Headline table updated 2026-11-02 (Day-8 NLSAT set graded late: 6/8, net 5.5). Full report: 2026-11-01 (after Day-7 CLAT surprise test, graded late — 68 graded questions in all; surprise items count
-double in section accuracy. Days 9–12 missed (Day 8 answered late on 2 Nov); 1 Nov set pending.)
+Headline table updated 2026-11-02 (Day-8 NLSAT set graded late: 6/8, net 5.5; Day-9 CLAT set graded late: 7/8, net 6.75 in 7 min). Full report: 2026-11-01 (after Day-7 CLAT surprise test, graded late — 68 graded questions in all; surprise items count
+double in section accuracy. Days 10–12 missed (Days 8–9 answered late on 2 Nov); 1 Nov set pending.)
 
 **CLAT readiness: Not ready** (insufficient data; Current Affairs Red) — surprise test 12.5/20 net (62.5%) in 40 min against a 22-min budget.
 
 | Exam | Date | Days left | Level | Projection | Note |
 |---|---|---|---|---|---|
-| CLAT 2027 | 6 Dec 2026 | 34 | Not ready (insufficient data) | — (surprise test: 62.5%) | Logical Green; Legal 82% (proj. 78%) but coverage 2/5; **Current Affairs 0/5**; English, Quant thin |
-| AILET 2027 | 13 Dec 2026 | 41 | Not ready (insufficient data) | — | Reasoning 89% (proj. 86%) but coverage 3/7; CA & GK 0/5 |
+| CLAT 2027 | 6 Dec 2026 | 34 | Not ready (insufficient data) | — (surprise test: 62.5%) | Logical Green; Legal 85% (proj. 81%) but coverage 2/5; **Current Affairs 0/5**; English, Quant thin |
+| AILET 2027 | 13 Dec 2026 | 41 | Not ready (insufficient data) | — | Reasoning 90% (proj. 88%) but coverage 3/7; CA & GK 0/5 |
 | CUET PG LLB | Mar 2027 | ~119 | Not ready (insufficient data) | — | Computer 5/7 → 64% (Amber); GK 0/5; others untested |
 | NLSAT-LLB | 25 Apr 2027 | 174 | Not ready (insufficient data) | — | Part A Reasoning 90% (proj. 88%, Green, coverage 2/3); English 3/3 (thin); CA/GK 0/5; Part B untested |
 

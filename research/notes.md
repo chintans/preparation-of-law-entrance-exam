@@ -23,3 +23,4 @@
   backfill Nov 2025 → now + last 14 days), 2 CA recall questions per test, and a timed ⏱ reading drill with wpm
   levels (180 → 300). Rules in plan/study-plan.md; protocol steps in CLAUDE.md (A.6a, B, C.1).
 - 2026-11-02 — Proposer-revocation clock: 4th miss (Day 2 Q5, Day 3 Q8, Day 6 Q2, Day 8 Q7); acceptor clock is reliably right. Each miss compares against the acceptance's ARRIVAL. Every LEG-CONT review should carry one proposer-revocation item until he gets 3 in a row. Also missed a 'to the extent' qualifier (Day 8 Q2) right after a worked example on it — drill qualifier words in LEG-PRIN.
+- 2026-11-02 — Day 9 (28 Oct set): proposer-revocation clock right for the first time (1 of 3 needed in a row) — keep one such item in LEG-CONT reviews. New slip: Q5 chose a right-result option with an absolute "never" reason; drill "right result, right reason" and distrust absolutes. Timed 7 min for 8 Q — first set inside the CLAT budget.

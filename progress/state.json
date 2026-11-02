@@ -32,9 +32,9 @@
     }
   },
   "calendar_last_verified": "2026-11-01",
-  "sessions_completed": 8,
-  "streak": 6,
-  "last_session": "2026-10-27",
+  "sessions_completed": 9,
+  "streak": 7,
+  "last_session": "2026-10-28",
   "pending_session": "2026-11-01",
   "sessions_since_surprise": 6,
   "last_session_type": "normal",
@@ -140,9 +140,9 @@
       "next_review": null
     },
     "LEG-PRIN": {
-      "mastery": 91,
-      "attempts": 15,
-      "correct": 14,
+      "mastery": 92,
+      "attempts": 16,
+      "correct": 15,
       "recent": [
         1,
         1,
@@ -158,11 +158,12 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "last_seen": "2026-11-02",
-      "interval_days": 12,
-      "next_review": "2026-11-14"
+      "interval_days": 24,
+      "next_review": "2026-11-26"
     },
     "LEG-TORT": {
       "mastery": 100,
@@ -177,20 +178,13 @@
       "next_review": "2026-11-04"
     },
     "LEG-CONT": {
-      "mastery": 84,
-      "attempts": 30,
-      "correct": 23,
+      "mastery": 85,
+      "attempts": 37,
+      "correct": 29,
       "recent": [
         1,
         0,
         1,
-        0,
-        1,
-        1,
-        1,
-        1,
-        0,
-        1,
         1,
         1,
         1,
@@ -200,11 +194,18 @@
         1,
         1,
         0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
         1
       ],
       "last_seen": "2026-11-02",
-      "interval_days": 8,
-      "next_review": "2026-11-10"
+      "interval_days": 16,
+      "next_review": "2026-11-18"
     },
     "LEG-CRIM": {
       "mastery": 0,
@@ -396,11 +397,11 @@
     },
     {
       "topic": "LEG-CONT",
-      "due": "2026-11-10"
+      "due": "2026-11-18"
     },
     {
       "topic": "LEG-PRIN",
-      "due": "2026-11-14"
+      "due": "2026-11-26"
     }
   ],
   "tests": [
@@ -641,6 +642,33 @@
       },
       "graded_on": "2026-11-02",
       "note": "Answered late (2 Nov), time not noted. Missed Q2: voided whole bundled consent, ignoring 'invalid to the extent' (the worked example's exact trap). Missed Q7: proposer's revocation clock again - compared revocation arrival with acceptance arrival instead of acceptance posting (4th miss on this one test). Private defence (Q5-6) and P3/P4 consent items right."
+    },
+    {
+      "date": "2026-10-28",
+      "type": "normal",
+      "exam": "CLAT",
+      "topic": "LEG-CONT",
+      "questions": 8,
+      "correct": 7,
+      "wrong": 1,
+      "unanswered": 0,
+      "raw": 7,
+      "net": 6.75,
+      "max": 8,
+      "minutes": 7,
+      "surprise": false,
+      "per_topic": {
+        "LEG-CONT": [
+          6,
+          7
+        ],
+        "LEG-PRIN": [
+          1,
+          1
+        ]
+      },
+      "graded_on": "2026-11-02",
+      "note": "Answered late (2 Nov), 7 min vs 8-min budget. Missed Q5: chose 'gratitude can never be enforced' (overstated absolute) instead of the s. 2(d) desire test + s. 25(ii) 'for the promisor'. Proposer-revocation clock (Q7) right - first time after 4 misses. Capacity (Q1-4) and third-party consideration (Q6) clean."
     }
   ],
   "readiness": {
@@ -704,7 +732,8 @@
     {
       "date": "2026-10-28",
       "exam": "CLAT",
-      "topic": "LEG-CONT"
+      "topic": "LEG-CONT",
+      "answered_late": "2026-11-02"
     },
     {
       "date": "2026-10-29",
@@ -732,6 +761,6 @@
     "technique_week": 1,
     "technique_started": "2026-11-02",
     "log": [],
-    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min ≈ 120 s/Q vs 60 s budget; reading time not measured."
+    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min \u2248 120 s/Q vs 60 s budget; reading time not measured."
   }
 }
