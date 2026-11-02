@@ -32,9 +32,9 @@
     }
   },
   "calendar_last_verified": "2026-11-01",
-  "sessions_completed": 7,
-  "streak": 5,
-  "last_session": "2026-10-26",
+  "sessions_completed": 8,
+  "streak": 6,
+  "last_session": "2026-10-27",
   "pending_session": "2026-11-01",
   "sessions_since_surprise": 6,
   "last_session_type": "normal",
@@ -140,9 +140,9 @@
       "next_review": null
     },
     "LEG-PRIN": {
-      "mastery": 100,
-      "attempts": 9,
-      "correct": 9,
+      "mastery": 91,
+      "attempts": 15,
+      "correct": 14,
       "recent": [
         1,
         1,
@@ -152,11 +152,17 @@
         1,
         1,
         1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
         1
       ],
-      "last_seen": "2026-10-21",
-      "interval_days": 6,
-      "next_review": "2026-10-27"
+      "last_seen": "2026-11-02",
+      "interval_days": 12,
+      "next_review": "2026-11-14"
     },
     "LEG-TORT": {
       "mastery": 100,
@@ -171,13 +177,11 @@
       "next_review": "2026-11-04"
     },
     "LEG-CONT": {
-      "mastery": 90,
-      "attempts": 28,
-      "correct": 22,
+      "mastery": 84,
+      "attempts": 30,
+      "correct": 23,
       "recent": [
         1,
-        1,
-        1,
         0,
         1,
         0,
@@ -194,11 +198,13 @@
         1,
         1,
         1,
+        1,
+        0,
         1
       ],
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "interval_days": 8,
-      "next_review": "2026-11-09"
+      "next_review": "2026-11-10"
     },
     "LEG-CRIM": {
       "mastery": 0,
@@ -345,10 +351,6 @@
   },
   "review_queue": [
     {
-      "topic": "LEG-PRIN",
-      "due": "2026-10-27"
-    },
-    {
       "topic": "ENG-VOC",
       "due": "2026-11-02"
     },
@@ -394,7 +396,11 @@
     },
     {
       "topic": "LEG-CONT",
-      "due": "2026-11-09"
+      "due": "2026-11-10"
+    },
+    {
+      "topic": "LEG-PRIN",
+      "due": "2026-11-14"
     }
   ],
   "tests": [
@@ -608,18 +614,45 @@
       },
       "graded_on": "2026-11-01",
       "note": "Answered late (1 Nov), 40 min vs 22 budget. Sections: English 3/4, CA 0/5, Legal 5/5, Logical 4/4, Quant 2/2. Missed Q4 (modest - picked 'inexpensive'), Q5 Art 143, Q6 Art 200 options, Q7 Gavai presided, Q8 Surya Kant 53rd CJI, Q9 opinion holding."
+    },
+    {
+      "date": "2026-10-27",
+      "type": "normal",
+      "exam": "NLSAT",
+      "topic": "LEG-PRIN",
+      "questions": 8,
+      "correct": 6,
+      "wrong": 2,
+      "unanswered": 0,
+      "raw": 6,
+      "net": 5.5,
+      "max": 8,
+      "minutes": null,
+      "surprise": false,
+      "per_topic": {
+        "LEG-PRIN": [
+          5,
+          6
+        ],
+        "LEG-CONT": [
+          1,
+          2
+        ]
+      },
+      "graded_on": "2026-11-02",
+      "note": "Answered late (2 Nov), time not noted. Missed Q2: voided whole bundled consent, ignoring 'invalid to the extent' (the worked example's exact trap). Missed Q7: proposer's revocation clock again - compared revocation arrival with acceptance arrival instead of acceptance posting (4th miss on this one test). Private defence (Q5-6) and P3/P4 consent items right."
     }
   ],
   "readiness": {
     "CLAT": {
       "level": "Not ready (insufficient data; Current Affairs 0/5)",
       "projection_pct": null,
-      "updated": "2026-11-01"
+      "updated": "2026-11-02"
     },
     "AILET": {
       "level": "Not ready (insufficient data)",
       "projection_pct": null,
-      "updated": "2026-11-01"
+      "updated": "2026-11-02"
     },
     "CUET": {
       "level": "Not ready (insufficient data)",
@@ -629,7 +662,7 @@
     "NLSAT": {
       "level": "Not ready (insufficient data)",
       "projection_pct": null,
-      "updated": "2026-11-01"
+      "updated": "2026-11-02"
     }
   },
   "missed_sessions": [
@@ -665,7 +698,8 @@
     {
       "date": "2026-10-27",
       "exam": "NLSAT",
-      "topic": "LEG-PRIN"
+      "topic": "LEG-PRIN",
+      "answered_late": "2026-11-02"
     },
     {
       "date": "2026-10-28",
