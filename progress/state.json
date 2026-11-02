@@ -32,7 +32,7 @@
     }
   },
   "calendar_last_verified": "2026-11-02",
-  "sessions_completed": 10,
+  "sessions_completed": 11,
   "streak": 1,
   "last_session": "2026-11-01",
   "pending_session": "2026-11-02",
@@ -146,14 +146,10 @@
       "next_review": null
     },
     "LEG-PRIN": {
-      "mastery": 93,
-      "attempts": 17,
-      "correct": 16,
+      "mastery": 81,
+      "attempts": 24,
+      "correct": 21,
       "recent": [
-        1,
-        1,
-        1,
-        1,
         1,
         1,
         1,
@@ -164,6 +160,13 @@
         1,
         1,
         1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
         1,
         1,
         1
@@ -185,11 +188,10 @@
       "next_review": "2026-11-04"
     },
     "LEG-CONT": {
-      "mastery": 77,
-      "attempts": 38,
-      "correct": 29,
+      "mastery": 79,
+      "attempts": 39,
+      "correct": 30,
       "recent": [
-        0,
         1,
         1,
         1,
@@ -208,11 +210,12 @@
         0,
         1,
         1,
-        0
+        0,
+        1
       ],
       "last_seen": "2026-11-02",
-      "interval_days": 1,
-      "next_review": "2026-11-03"
+      "interval_days": 2,
+      "next_review": "2026-11-04"
     },
     "LEG-CRIM": {
       "mastery": 0,
@@ -375,10 +378,6 @@
       "due": "2026-11-03"
     },
     {
-      "topic": "LEG-CONT",
-      "due": "2026-11-03"
-    },
-    {
       "topic": "COMP",
       "due": "2026-11-04"
     },
@@ -400,6 +399,10 @@
     },
     {
       "topic": "QT-ARITH",
+      "due": "2026-11-04"
+    },
+    {
+      "topic": "LEG-CONT",
       "due": "2026-11-04"
     },
     {
@@ -707,6 +710,33 @@
       },
       "graded_on": "2026-11-02",
       "note": "Answered 2 Nov (a day late), 3 min vs 8-min budget. CA 3/6: venue, Seoul, MeitY right; missed sutras (C), next host (chose Brazil), IndiaAI outlay (chose ISM's Rs 76,000 cr). Q7 proposer-revocation clock missed again (compared revocation SENT time with acceptance posting) - 5th miss in 6 tries. Q8 mistake of fact right."
+    },
+    {
+      "date": "2026-10-29",
+      "type": "normal",
+      "exam": "AILET",
+      "topic": "LEG-PRIN",
+      "questions": 8,
+      "correct": 6,
+      "wrong": 2,
+      "unanswered": 0,
+      "raw": 6,
+      "net": 5.5,
+      "max": 8,
+      "minutes": null,
+      "surprise": false,
+      "per_topic": {
+        "LEG-PRIN": [
+          5,
+          7
+        ],
+        "LEG-CONT": [
+          1,
+          1
+        ]
+      },
+      "graded_on": "2026-11-02",
+      "note": "Day-10 AILET set answered 2 Nov (4 days late), time not noted. Both mistake-of-fact items missed: Q3 chose D (right result, wrong reason - treated a mistake about the ban's scope as a care issue, not a mistake of law); Q4 chose B (imported an outside rule 'only police may detain'). Vicarious liability, strict liability, involuntary intoxication, minor fresh-consideration all right."
     }
   ],
   "readiness": {
@@ -776,7 +806,8 @@
     {
       "date": "2026-10-29",
       "exam": "AILET",
-      "topic": "LEG-PRIN"
+      "topic": "LEG-PRIN",
+      "answered_late": "2026-11-02"
     },
     {
       "date": "2026-10-30",
@@ -806,6 +837,6 @@
     "technique_week": 1,
     "technique_started": "2026-11-02",
     "log": [],
-    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min ≈ 120 s/Q vs 60 s budget; reading time not measured."
+    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min \u2248 120 s/Q vs 60 s budget; reading time not measured."
   }
 }
