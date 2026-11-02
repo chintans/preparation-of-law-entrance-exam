@@ -32,9 +32,9 @@
     }
   },
   "calendar_last_verified": "2026-11-02",
-  "sessions_completed": 9,
-  "streak": 0,
-  "last_session": "2026-10-28",
+  "sessions_completed": 10,
+  "streak": 1,
+  "last_session": "2026-11-01",
   "pending_session": "2026-11-02",
   "sessions_since_surprise": 7,
   "last_session_type": "normal",
@@ -87,15 +87,21 @@
       "next_review": null
     },
     "GK-CA": {
-      "mastery": 0,
-      "attempts": 1,
-      "correct": 0,
+      "mastery": 39,
+      "attempts": 7,
+      "correct": 3,
       "recent": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
         0
       ],
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "interval_days": 1,
-      "next_review": "2026-11-02"
+      "next_review": "2026-11-03"
     },
     "LEG-NEW": {
       "mastery": 0,
@@ -140,9 +146,9 @@
       "next_review": null
     },
     "LEG-PRIN": {
-      "mastery": 92,
-      "attempts": 16,
-      "correct": 15,
+      "mastery": 93,
+      "attempts": 17,
+      "correct": 16,
       "recent": [
         1,
         1,
@@ -159,11 +165,12 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "last_seen": "2026-11-02",
-      "interval_days": 24,
-      "next_review": "2026-11-26"
+      "interval_days": 30,
+      "next_review": "2026-12-02"
     },
     "LEG-TORT": {
       "mastery": 100,
@@ -178,11 +185,10 @@
       "next_review": "2026-11-04"
     },
     "LEG-CONT": {
-      "mastery": 85,
-      "attempts": 37,
+      "mastery": 77,
+      "attempts": 38,
       "correct": 29,
       "recent": [
-        1,
         0,
         1,
         1,
@@ -201,11 +207,12 @@
         1,
         0,
         1,
-        1
+        1,
+        0
       ],
       "last_seen": "2026-11-02",
-      "interval_days": 16,
-      "next_review": "2026-11-18"
+      "interval_days": 1,
+      "next_review": "2026-11-03"
     },
     "LEG-CRIM": {
       "mastery": 0,
@@ -365,7 +372,11 @@
     },
     {
       "topic": "GK-CA",
-      "due": "2026-11-02"
+      "due": "2026-11-03"
+    },
+    {
+      "topic": "LEG-CONT",
+      "due": "2026-11-03"
     },
     {
       "topic": "COMP",
@@ -396,12 +407,8 @@
       "due": "2026-11-07"
     },
     {
-      "topic": "LEG-CONT",
-      "due": "2026-11-18"
-    },
-    {
       "topic": "LEG-PRIN",
-      "due": "2026-11-26"
+      "due": "2026-12-02"
     }
   ],
   "tests": [
@@ -669,11 +676,42 @@
       },
       "graded_on": "2026-11-02",
       "note": "Answered late (2 Nov), 7 min vs 8-min budget. Missed Q5: chose 'gratitude can never be enforced' (overstated absolute) instead of the s. 2(d) desire test + s. 25(ii) 'for the promisor'. Proposer-revocation clock (Q7) right - first time after 4 misses. Capacity (Q1-4) and third-party consideration (Q6) clean."
+    },
+    {
+      "date": "2026-11-01",
+      "type": "normal",
+      "exam": "CLAT",
+      "topic": "GK-CA",
+      "questions": 8,
+      "correct": 4,
+      "wrong": 4,
+      "unanswered": 0,
+      "raw": 4,
+      "net": 3.0,
+      "max": 8,
+      "minutes": 3,
+      "surprise": false,
+      "per_topic": {
+        "GK-CA": [
+          3,
+          6
+        ],
+        "LEG-CONT": [
+          0,
+          1
+        ],
+        "LEG-PRIN": [
+          1,
+          1
+        ]
+      },
+      "graded_on": "2026-11-02",
+      "note": "Answered 2 Nov (a day late), 3 min vs 8-min budget. CA 3/6: venue, Seoul, MeitY right; missed sutras (C), next host (chose Brazil), IndiaAI outlay (chose ISM's Rs 76,000 cr). Q7 proposer-revocation clock missed again (compared revocation SENT time with acceptance posting) - 5th miss in 6 tries. Q8 mistake of fact right."
     }
   ],
   "readiness": {
     "CLAT": {
-      "level": "Not ready (insufficient data; Current Affairs 0/5)",
+      "level": "Not ready (insufficient data; Current Affairs Red, 3/16 weighted)",
       "projection_pct": null,
       "updated": "2026-11-02"
     },
@@ -753,7 +791,8 @@
     {
       "date": "2026-11-01",
       "exam": "CLAT",
-      "topic": "GK-CA"
+      "topic": "GK-CA",
+      "answered_late": "2026-11-02"
     }
   ],
   "ca": {
