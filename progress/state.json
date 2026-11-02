@@ -10,7 +10,7 @@
       "priority": 1.0,
       "status": "confirmed",
       "marking": "+1/-0.25",
-      "registration": "extension reported 1 Nov 2026 (Shiksha); revised date not confirmed"
+      "registration": "extended to 2026-11-07 11:59 PM (findmycollege, ummid 1 Nov 2026)"
     },
     "AILET": {
       "date": "2026-12-13",
@@ -31,17 +31,17 @@
       "marking": "Part A +1/-0.25 incl. unanswered; Part B descriptive"
     }
   },
-  "calendar_last_verified": "2026-11-01",
+  "calendar_last_verified": "2026-11-02",
   "sessions_completed": 9,
-  "streak": 7,
+  "streak": 0,
   "last_session": "2026-10-28",
-  "pending_session": "2026-11-01",
-  "sessions_since_surprise": 6,
+  "pending_session": "2026-11-02",
+  "sessions_since_surprise": 7,
   "last_session_type": "normal",
   "recent_topics": [
-    "ENG-RC",
     "LR-CR",
-    "GK-CA"
+    "GK-CA",
+    "ENG-VOC"
   ],
   "topics": {
     "ENG-RC": {
@@ -749,18 +749,24 @@
       "date": "2026-10-31",
       "exam": "AILET",
       "topic": "LR-CR"
+    },
+    {
+      "date": "2026-11-01",
+      "exam": "CLAT",
+      "topic": "GK-CA"
     }
   ],
   "ca": {
-    "backfill_cursor": "2025-11",
+    "backfill_cursor": "2025-12",
     "window": "2025-11 to 2026-11 (Phase 1)",
-    "briefs": 0
+    "briefs": 1,
+    "last_brief": "2026-11-02"
   },
   "reading": {
     "level": 1,
     "technique_week": 1,
     "technique_started": "2026-11-02",
     "log": [],
-    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min \u2248 120 s/Q vs 60 s budget; reading time not measured."
+    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min ≈ 120 s/Q vs 60 s budget; reading time not measured."
   }
 }

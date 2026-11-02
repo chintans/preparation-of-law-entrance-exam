@@ -22,3 +22,4 @@
 | 2026-11-01 | 7 (late) | surprise | CLAT | MIXED | 14/20 | 12.50 | Day-7 surprise answered late, 40 min (budget 22); Legal 5/5, Logical 4/4, Quant 2/2, English 3/4, **CA 0/5**; CA/polity reviews 2 Nov |
 | 2026-11-02 | 8 (late) | normal | NLSAT | LEG-PRIN | 6/8 | 5.50 | Day-8 set answered late, time not noted; missed Q2 ('to the extent' — took whole consent as valid), Q7 proposer revocation clock (4th miss); private defence clean; LEG-PRIN 91 (review 14 Nov), LEG-CONT 84 (review 10 Nov) |
 | 2026-11-02 | 9 (late) | normal | CLAT | LEG-CONT | 7/8 | 6.75 | Day-9 set answered late, 7 min (budget 8); missed Q5 (right result, absolute "never" reason - s. 25(ii) ignored); proposer-revocation clock right (Q7) - 1st time; LEG-CONT 85 (review 18 Nov), LEG-PRIN 92 (review 26 Nov) |
+| 2026-11-01 | 13 | normal | CLAT | GK-CA | missed | — | No answers received; streak reset to 0; one GK-CA item (next AI-summit host) carried to 2 Nov as CA recall |
