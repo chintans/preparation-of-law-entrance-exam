@@ -33,9 +33,9 @@
     }
   },
   "calendar_last_verified": "2026-11-03",
-  "sessions_completed": 11,
-  "streak": 0,
-  "last_session": "2026-11-01",
+  "sessions_completed": 12,
+  "streak": 1,
+  "last_session": "2026-11-02",
   "pending_session": "2026-11-03",
   "sessions_since_surprise": 8,
   "last_session_type": "normal",
@@ -47,27 +47,35 @@
   "topics": {
     "ENG-RC": {
       "mastery": 100,
-      "attempts": 3,
-      "correct": 3,
+      "attempts": 4,
+      "correct": 4,
       "recent": [
+        1,
         1,
         1,
         1
       ],
-      "last_seen": "2026-11-01",
-      "interval_days": 3,
-      "next_review": "2026-11-04"
+      "last_seen": "2026-11-03",
+      "interval_days": 6,
+      "next_review": "2026-11-09"
     },
     "ENG-VOC": {
-      "mastery": 0,
-      "attempts": 1,
-      "correct": 0,
+      "mastery": 97,
+      "attempts": 8,
+      "correct": 7,
       "recent": [
-        0
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
       ],
-      "last_seen": "2026-11-01",
-      "interval_days": 1,
-      "next_review": "2026-11-02"
+      "last_seen": "2026-11-03",
+      "interval_days": 3,
+      "next_review": "2026-11-06"
     },
     "ENG-GRM": {
       "mastery": 0,
@@ -88,9 +96,9 @@
       "next_review": null
     },
     "GK-CA": {
-      "mastery": 39,
-      "attempts": 7,
-      "correct": 3,
+      "mastery": 53,
+      "attempts": 8,
+      "correct": 4,
       "recent": [
         0,
         1,
@@ -98,11 +106,12 @@
         0,
         0,
         1,
-        0
+        0,
+        1
       ],
-      "last_seen": "2026-11-02",
-      "interval_days": 1,
-      "next_review": "2026-11-03"
+      "last_seen": "2026-11-03",
+      "interval_days": 3,
+      "next_review": "2026-11-06"
     },
     "LEG-NEW": {
       "mastery": 0,
@@ -118,15 +127,16 @@
     },
     "GK-POL": {
       "mastery": 0,
-      "attempts": 2,
+      "attempts": 3,
       "correct": 0,
       "recent": [
         0,
+        0,
         0
       ],
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-03",
       "interval_days": 1,
-      "next_review": "2026-11-02"
+      "next_review": "2026-11-04"
     },
     "GK-ECO": {
       "mastery": 0,
@@ -363,27 +373,15 @@
   },
   "review_queue": [
     {
-      "topic": "ENG-VOC",
-      "due": "2026-11-02"
-    },
-    {
-      "topic": "GK-POL",
-      "due": "2026-11-02"
-    },
-    {
       "topic": "LEG-NEW",
       "due": "2026-11-02"
     },
     {
-      "topic": "GK-CA",
-      "due": "2026-11-03"
-    },
-    {
-      "topic": "COMP",
+      "topic": "GK-POL",
       "due": "2026-11-04"
     },
     {
-      "topic": "ENG-RC",
+      "topic": "COMP",
       "due": "2026-11-04"
     },
     {
@@ -407,8 +405,20 @@
       "due": "2026-11-04"
     },
     {
+      "topic": "ENG-VOC",
+      "due": "2026-11-06"
+    },
+    {
+      "topic": "GK-CA",
+      "due": "2026-11-06"
+    },
+    {
       "topic": "LR-CR",
       "due": "2026-11-07"
+    },
+    {
+      "topic": "ENG-RC",
+      "due": "2026-11-09"
     },
     {
       "topic": "LEG-PRIN",
@@ -738,6 +748,41 @@
       },
       "graded_on": "2026-11-02",
       "note": "Day-10 AILET set answered 2 Nov (4 days late), time not noted. Both mistake-of-fact items missed: Q3 chose D (right result, wrong reason - treated a mistake about the ban's scope as a care issue, not a mistake of law); Q4 chose B (imported an outside rule 'only police may detain'). Vicarious liability, strict liability, involuntary intoxication, minor fresh-consideration all right."
+    },
+    {
+      "date": "2026-11-02",
+      "type": "normal",
+      "exam": "AILET",
+      "topic": "ENG-VOC",
+      "questions": 10,
+      "correct": 9,
+      "wrong": 1,
+      "unanswered": 0,
+      "raw": 9,
+      "net": 8.75,
+      "max": 10,
+      "minutes": null,
+      "surprise": false,
+      "per_topic": {
+        "ENG-VOC": [
+          7,
+          7
+        ],
+        "ENG-RC": [
+          1,
+          1
+        ],
+        "GK-CA": [
+          1,
+          1
+        ],
+        "GK-POL": [
+          0,
+          1
+        ]
+      },
+      "graded_on": "2026-11-03",
+      "note": "Answered 3 Nov (1 day late); no times, no reading time. All 7 vocab items right incl. 'modest' (Day-7 miss) and the legal-sense baits (arrest, qualified). RC main idea right. Missed Q10: chose Art 200 (subject) over Art 143 (route) for the Presidential Reference - 2nd miss on this exact item."
     }
   ],
   "readiness": {
@@ -829,7 +874,8 @@
     {
       "date": "2026-11-02",
       "exam": "AILET",
-      "topic": "ENG-VOC"
+      "topic": "ENG-VOC",
+      "answered_late": "2026-11-03"
     }
   ],
   "ca": {
