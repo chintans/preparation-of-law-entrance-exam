@@ -10,7 +10,8 @@
       "priority": 1.0,
       "status": "confirmed",
       "marking": "+1/-0.25",
-      "registration": "extended to 2026-11-07 11:59 PM (findmycollege, ummid 1 Nov 2026)"
+      "registration": "extended to 2026-11-07 11:59 PM (findmycollege, ummid 1 Nov 2026)",
+      "admit_card": "expected third week of Nov 2026 (Careers360)"
     },
     "AILET": {
       "date": "2026-12-13",
@@ -31,17 +32,17 @@
       "marking": "Part A +1/-0.25 incl. unanswered; Part B descriptive"
     }
   },
-  "calendar_last_verified": "2026-11-02",
+  "calendar_last_verified": "2026-11-03",
   "sessions_completed": 11,
-  "streak": 1,
+  "streak": 0,
   "last_session": "2026-11-01",
-  "pending_session": "2026-11-02",
-  "sessions_since_surprise": 7,
+  "pending_session": "2026-11-03",
+  "sessions_since_surprise": 8,
   "last_session_type": "normal",
   "recent_topics": [
-    "LR-CR",
     "GK-CA",
-    "ENG-VOC"
+    "ENG-VOC",
+    "GK-POL"
   ],
   "topics": {
     "ENG-RC": {
@@ -824,19 +825,24 @@
       "exam": "CLAT",
       "topic": "GK-CA",
       "answered_late": "2026-11-02"
+    },
+    {
+      "date": "2026-11-02",
+      "exam": "AILET",
+      "topic": "ENG-VOC"
     }
   ],
   "ca": {
     "backfill_cursor": "2025-12",
     "window": "2025-11 to 2026-11 (Phase 1)",
-    "briefs": 1,
-    "last_brief": "2026-11-02"
+    "briefs": 2,
+    "last_brief": "2026-11-03"
   },
   "reading": {
     "level": 1,
     "technique_week": 1,
     "technique_started": "2026-11-02",
     "log": [],
-    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min \u2248 120 s/Q vs 60 s budget; reading time not measured."
+    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min ≈ 120 s/Q vs 60 s budget; reading time not measured."
   }
 }

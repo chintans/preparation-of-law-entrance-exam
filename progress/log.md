@@ -25,3 +25,4 @@
 | 2026-11-01 | 13 | normal | CLAT | GK-CA | missed | — | No answers received; streak reset to 0; one GK-CA item (next AI-summit host) carried to 2 Nov as CA recall |
 | 2026-11-01 | 13 (late) | normal | CLAT | GK-CA | 4/8 | 3.00 | Answered 2 Nov, 3 min (budget 8); CA 3/6 — missed sutras, next host (Brazil), IndiaAI outlay (took ISM ₹76k cr); Q7 proposer-revocation clock missed again (5th); GK-CA 39 & LEG-CONT 77 review 3 Nov, LEG-PRIN 93 review 2 Dec |
 | 2026-11-02 | 10 (late) | normal | AILET | LEG-PRIN | 6/8 | 5.50 | Day-10 set answered 2 Nov, time not noted; both mistake-of-fact items missed (Q3 law-vs-fact not classified, right result/wrong reason; Q4 imported outside "only police may detain" rule); LEG-PRIN 81 (review 2 Dec), LEG-CONT 79 (review 4 Nov) |
+| 2026-11-02 | 14 | normal | AILET | ENG-VOC | missed | — | No answers received; streak reset to 0; ENG-VOC (Q6 + vocab-in-context method) and GK-CA Q9 (next AI-summit host) carried to 3 Nov |
