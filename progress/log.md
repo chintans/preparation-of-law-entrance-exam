@@ -27,3 +27,4 @@
 | 2026-11-02 | 10 (late) | normal | AILET | LEG-PRIN | 6/8 | 5.50 | Day-10 set answered 2 Nov, time not noted; both mistake-of-fact items missed (Q3 law-vs-fact not classified, right result/wrong reason; Q4 imported outside "only police may detain" rule); LEG-PRIN 81 (review 2 Dec), LEG-CONT 79 (review 4 Nov) |
 | 2026-11-02 | 14 | normal | AILET | ENG-VOC | missed | — | No answers received; streak reset to 0; ENG-VOC (Q6 + vocab-in-context method) and GK-CA Q9 (next AI-summit host) carried to 3 Nov |
 | 2026-11-03 | 14 (late) | normal | AILET | ENG-VOC | 9/10 | 8.75 | Day-14 set answered 3 Nov, no times; vocab 7/7 incl. 'modest' and legal-sense baits; RC ✓; missed Q10 Art 143 (chose Art 200 — subject vs route, 2nd miss); ENG-VOC 97 (review 6 Nov), GK-POL 0/3 (review 4 Nov) |
+| 2026-11-03 | 15 | normal | AILET | GK-POL | missed | — | No answers received by 4 Nov run; streak reset to 0; Q4 (Art 131) and Q5 (Art 143 bench) carried to 4 Nov as Q7–8 |

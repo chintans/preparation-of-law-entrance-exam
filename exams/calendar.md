@@ -1,6 +1,6 @@
 # Exam calendar
 
-Last verified: **2026-11-03** (web search; official sites to be re-checked each Monday)
+Last verified: **2026-11-04** (web search; official sites to be re-checked each Monday)
 
 Status key: **Confirmed** = stated in official notice or consistently reported from it · **Announced** =
 exam date published, other dates pending · **Tentative** = expected from past cycles.
@@ -24,9 +24,9 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | NLSAT-LLB 2027 | Offers | end May 2027 | Reported | Careers360 |
 | LSAT India | — | Discontinued after May 2024 | Confirmed | LSAC notice (via AglaSem) |
 
-## Days to exam (as of 2026-11-03)
+## Days to exam (as of 2026-11-04)
 
-CLAT 33 · AILET 40 · CUET PG ~118 (to 1 Mar) · NLSAT 173
+CLAT 32 · AILET 39 · CUET PG ~117 (to 1 Mar) · NLSAT 172
 
 ## Change log
 
@@ -46,3 +46,4 @@ CLAT 33 · AILET 40 · CUET PG ~118 (to 1 Mar) · NLSAT 173
 - 2026-11-01 (Day 13 run) — CLAT: Shiksha news article and Shiksha application-form/exam pages (1 Nov) now say the Consortium has **extended** the CLAT 2027 registration deadline; revised date could not be read from any accessible source (EBC, lawpreptutorial, KollegeApply still show 31 Oct). Exam date 6 Dec unchanged. NLSAT: Careers360/Shiksha/findmycollege — application still "November", not yet open. Alert: CLAT registration extension (date TBC); AILET closes 10 Nov (9 days).
 - 2026-11-02 (Day 14 run, Monday) — CLAT: findmycollege and ummid.com (both 1 Nov) and Toprankers give the extended deadline as **7 Nov 2026, 11:59 PM**; exam 6 Dec unchanged. AILET: closes 10 Nov (findmycollege, Careers360) — no change. NLSAT: application still "November" (Careers360, findmycollege) — not open. Alert: CLAT closes in 5 days, AILET in 8.
 - 2026-11-03 (Day 15 run) — Careers360 CLAT "registration closes" page (Nov-1 extension notice), AILET last-date page, NLSAT 3-year LLB notification page. No date changes (CLAT closes 7 Nov 11:59 PM, exam 6 Dec; admit card refined to third week of Nov; AILET closes 10 Nov, admit card 30 Nov; NLSAT application still "November", not open). Alert: CLAT closes in 4 days, AILET in 7.
+- 2026-11-04 (Day 16 run) — Careers360 CLAT "registration closes" page (Nov-1 extension notice to 7 Nov) and NLSAT 3-year LLB notification page (12 Oct). No date changes (CLAT closes 7 Nov 11:59 PM, admit card third week of Nov, exam 6 Dec; correction window still unconfirmed; NLSAT application "November", not yet open). Alert: CLAT closes in 3 days, AILET in 6.

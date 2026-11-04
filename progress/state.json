@@ -32,17 +32,17 @@
       "marking": "Part A +1/-0.25 incl. unanswered; Part B descriptive"
     }
   },
-  "calendar_last_verified": "2026-11-03",
+  "calendar_last_verified": "2026-11-04",
   "sessions_completed": 12,
-  "streak": 1,
+  "streak": 0,
   "last_session": "2026-11-02",
-  "pending_session": "2026-11-03",
-  "sessions_since_surprise": 8,
+  "pending_session": "2026-11-04",
+  "sessions_since_surprise": 9,
   "last_session_type": "normal",
   "recent_topics": [
-    "GK-CA",
     "ENG-VOC",
-    "GK-POL"
+    "GK-POL",
+    "LEG-NEW"
   ],
   "topics": {
     "ENG-RC": {
@@ -876,13 +876,18 @@
       "exam": "AILET",
       "topic": "ENG-VOC",
       "answered_late": "2026-11-03"
+    },
+    {
+      "date": "2026-11-03",
+      "exam": "AILET",
+      "topic": "GK-POL"
     }
   ],
   "ca": {
-    "backfill_cursor": "2025-12",
+    "backfill_cursor": "2026-01",
     "window": "2025-11 to 2026-11 (Phase 1)",
-    "briefs": 2,
-    "last_brief": "2026-11-03"
+    "briefs": 3,
+    "last_brief": "2026-11-04"
   },
   "reading": {
     "level": 1,
