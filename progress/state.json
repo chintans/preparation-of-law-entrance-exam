@@ -11,7 +11,7 @@
       "status": "confirmed",
       "marking": "+1/-0.25",
       "registration": "extended to 2026-11-07 11:59 PM (findmycollege, ummid 1 Nov 2026)",
-      "admit_card": "expected third week of Nov 2026 (Careers360)"
+      "admit_card": "third (Careers360) or fourth (matchtocollege) week of Nov 2026 - sources differ"
     },
     "AILET": {
       "date": "2026-12-13",
@@ -32,17 +32,17 @@
       "marking": "Part A +1/-0.25 incl. unanswered; Part B descriptive"
     }
   },
-  "calendar_last_verified": "2026-11-04",
+  "calendar_last_verified": "2026-11-05",
   "sessions_completed": 12,
   "streak": 0,
   "last_session": "2026-11-02",
-  "pending_session": "2026-11-04",
-  "sessions_since_surprise": 9,
-  "last_session_type": "normal",
+  "pending_session": "2026-11-05",
+  "sessions_since_surprise": 0,
+  "last_session_type": "surprise",
   "recent_topics": [
-    "ENG-VOC",
     "GK-POL",
-    "LEG-NEW"
+    "LEG-NEW",
+    "MIXED"
   ],
   "topics": {
     "ENG-RC": {
@@ -881,13 +881,18 @@
       "date": "2026-11-03",
       "exam": "AILET",
       "topic": "GK-POL"
+    },
+    {
+      "date": "2026-11-04",
+      "exam": "NLSAT",
+      "topic": "LEG-NEW"
     }
   ],
   "ca": {
     "backfill_cursor": "2026-01",
     "window": "2025-11 to 2026-11 (Phase 1)",
-    "briefs": 3,
-    "last_brief": "2026-11-04"
+    "briefs": 4,
+    "last_brief": "2026-11-05"
   },
   "reading": {
     "level": 1,

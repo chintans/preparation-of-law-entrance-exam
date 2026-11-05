@@ -1,6 +1,6 @@
 # Exam calendar
 
-Last verified: **2026-11-04** (web search; official sites to be re-checked each Monday)
+Last verified: **2026-11-05** (web search; official sites to be re-checked each Monday)
 
 Status key: **Confirmed** = stated in official notice or consistently reported from it · **Announced** =
 exam date published, other dates pending · **Tentative** = expected from past cycles.
@@ -10,7 +10,7 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | CLAT 2027 | Registration opened | 2026-08-03 | Confirmed | consortiumofnlus.ac.in (via Careers360, Free Press Journal) |
 | CLAT 2027 | Registration closes | ~~2026-10-31~~ **2026-11-07, 11:59 PM (extended)** | Reported | findmycollege & ummid.com (1 Nov 2026), Toprankers; Shiksha (1 Nov) — confirm on consortiumofnlus.ac.in |
 | CLAT 2027 | Application correction window | from ~2026-11-02 | Tentative | PW (9 Oct 2026; not confirmed by Consortium) |
-| CLAT 2027 | Admit card | third week of Nov 2026 (~15 days before exam) | Tentative | Careers360 |
+| CLAT 2027 | Admit card | third week of Nov 2026 (~15 days before exam); matchtocollege says fourth week | Tentative | Careers360; matchtocollege (2 Nov 2026) |
 | CLAT 2027 | **Exam** | **2026-12-06 (Sun), 2–4 PM, offline** | Confirmed | Careers360, FPJ (one Careers360 headline says 7 Dec; body and FPJ say 6 Dec — re-check on official site) |
 | AILET 2027 | Registration opened | 2026-08-07 | Confirmed | nationallawuniversitydelhi.in (via PW, Careers360) |
 | AILET 2027 | Registration closes | **2026-11-10** | Confirmed | Careers360 |
@@ -24,9 +24,9 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | NLSAT-LLB 2027 | Offers | end May 2027 | Reported | Careers360 |
 | LSAT India | — | Discontinued after May 2024 | Confirmed | LSAC notice (via AglaSem) |
 
-## Days to exam (as of 2026-11-04)
+## Days to exam (as of 2026-11-05)
 
-CLAT 32 · AILET 39 · CUET PG ~117 (to 1 Mar) · NLSAT 172
+CLAT 31 · AILET 38 · CUET PG ~116 (to 1 Mar) · NLSAT 171
 
 ## Change log
 
@@ -47,3 +47,4 @@ CLAT 32 · AILET 39 · CUET PG ~117 (to 1 Mar) · NLSAT 172
 - 2026-11-02 (Day 14 run, Monday) — CLAT: findmycollege and ummid.com (both 1 Nov) and Toprankers give the extended deadline as **7 Nov 2026, 11:59 PM**; exam 6 Dec unchanged. AILET: closes 10 Nov (findmycollege, Careers360) — no change. NLSAT: application still "November" (Careers360, findmycollege) — not open. Alert: CLAT closes in 5 days, AILET in 8.
 - 2026-11-03 (Day 15 run) — Careers360 CLAT "registration closes" page (Nov-1 extension notice), AILET last-date page, NLSAT 3-year LLB notification page. No date changes (CLAT closes 7 Nov 11:59 PM, exam 6 Dec; admit card refined to third week of Nov; AILET closes 10 Nov, admit card 30 Nov; NLSAT application still "November", not open). Alert: CLAT closes in 4 days, AILET in 7.
 - 2026-11-04 (Day 16 run) — Careers360 CLAT "registration closes" page (Nov-1 extension notice to 7 Nov) and NLSAT 3-year LLB notification page (12 Oct). No date changes (CLAT closes 7 Nov 11:59 PM, admit card third week of Nov, exam 6 Dec; correction window still unconfirmed; NLSAT application "November", not yet open). Alert: CLAT closes in 3 days, AILET in 6.
+- 2026-11-05 (Day 17 run) — Careers360 CLAT "registration closes" page (sidebar 3 Aug–7 Nov; AILET 7 Aug–10 Nov), matchtocollege (2 Nov: CLAT extended to 7 Nov 11:59 PM, admit card "fourth week of Nov, tentative"), Careers360 NLSAT 3-year LLB page (12 Oct). No date changes. Admit-card timing now differs between sources (third vs fourth week). NLSAT application not yet open. Alert: CLAT closes in 2 days, AILET in 5.
