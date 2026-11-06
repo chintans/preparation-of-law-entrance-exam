@@ -29,3 +29,4 @@
 | 2026-11-03 | 14 (late) | normal | AILET | ENG-VOC | 9/10 | 8.75 | Day-14 set answered 3 Nov, no times; vocab 7/7 incl. 'modest' and legal-sense baits; RC ✓; missed Q10 Art 143 (chose Art 200 — subject vs route, 2nd miss); ENG-VOC 97 (review 6 Nov), GK-POL 0/3 (review 4 Nov) |
 | 2026-11-03 | 15 | normal | AILET | GK-POL | missed | — | No answers received by 4 Nov run; streak reset to 0; Q4 (Art 131) and Q5 (Art 143 bench) carried to 4 Nov as Q7–8 |
 | 2026-11-04 | 16 | normal | NLSAT | LEG-NEW | missed | — | No answers by 5 Nov run; streak 0; Q6 (Art 12) and Q7 (Art 131) carried to 5 Nov surprise test as Q6 and Q5 |
+| 2026-11-05 | 17 | surprise | CUET | MIXED | missed | — | No answers by 6 Nov run; streak 0; GK-POL slot recast as Art 143 route item on 6 Nov |

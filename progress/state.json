@@ -10,39 +10,42 @@
       "priority": 1.0,
       "status": "confirmed",
       "marking": "+1/-0.25",
-      "registration": "extended to 2026-11-07 11:59 PM (findmycollege, ummid 1 Nov 2026)",
+      "registration": "closes 2026-11-07 (extended); correction window open, test-city edits till 2026-11-10 (Careers360 4 Nov notice)",
       "admit_card": "third (Careers360) or fourth (matchtocollege) week of Nov 2026 - sources differ"
     },
     "AILET": {
       "date": "2026-12-13",
       "priority": 1.0,
       "status": "confirmed",
-      "marking": "+1/-0.25"
+      "marking": "+1/-0.25",
+      "registration": "closes 2026-11-10",
+      "admit_card": "2026-11-30"
     },
     "CUET": {
-      "date": "2027-03-01",
+      "date": "2027-03-02",
       "priority": 1.2,
-      "status": "tentative (window 1-25 Mar 2027; LLB paper day TBA)",
+      "status": "tentative (NTA window 2-31 Mar 2027, revised 26 Oct; LLB paper day TBA; registration Dec 2026)",
       "marking": "+4/-1"
     },
     "NLSAT": {
       "date": "2027-04-25",
       "priority": 1.5,
       "status": "announced",
-      "marking": "Part A +1/-0.25 incl. unanswered; Part B descriptive"
+      "marking": "Part A +1/-0.25 incl. unanswered; Part B descriptive",
+      "application": "OPEN (nlsatadmissions.nls.ac.in, seen 6 Nov 2026); closes 2027-03-23 (Careers360)"
     }
   },
-  "calendar_last_verified": "2026-11-05",
+  "calendar_last_verified": "2026-11-06",
   "sessions_completed": 12,
   "streak": 0,
   "last_session": "2026-11-02",
-  "pending_session": "2026-11-05",
-  "sessions_since_surprise": 0,
-  "last_session_type": "surprise",
+  "pending_session": "2026-11-06",
+  "sessions_since_surprise": 1,
+  "last_session_type": "normal",
   "recent_topics": [
-    "GK-POL",
     "LEG-NEW",
-    "MIXED"
+    "MIXED",
+    "LEG-NEW"
   ],
   "topics": {
     "ENG-RC": {
@@ -886,13 +889,19 @@
       "date": "2026-11-04",
       "exam": "NLSAT",
       "topic": "LEG-NEW"
+    },
+    {
+      "date": "2026-11-05",
+      "exam": "CUET",
+      "topic": "MIXED (surprise)"
     }
   ],
   "ca": {
-    "backfill_cursor": "2026-01",
+    "backfill_cursor": "2026-02",
     "window": "2025-11 to 2026-11 (Phase 1)",
-    "briefs": 4,
-    "last_brief": "2026-11-05"
+    "briefs": 5,
+    "last_brief": "2026-11-06",
+    "pace_note": "From 6 Nov: advance cursor every brief (3 items/month) so it reaches 2026-11 by ~30 Nov."
   },
   "reading": {
     "level": 1,
