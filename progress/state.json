@@ -35,17 +35,17 @@
       "application": "OPEN (nlsatadmissions.nls.ac.in, seen 6 Nov 2026); closes 2027-03-23 (Careers360)"
     }
   },
-  "calendar_last_verified": "2026-11-06",
+  "calendar_last_verified": "2026-11-07",
   "sessions_completed": 12,
   "streak": 0,
   "last_session": "2026-11-02",
-  "pending_session": "2026-11-06",
-  "sessions_since_surprise": 1,
+  "pending_session": "2026-11-07",
+  "sessions_since_surprise": 2,
   "last_session_type": "normal",
   "recent_topics": [
-    "LEG-NEW",
     "MIXED",
-    "LEG-NEW"
+    "LEG-NEW",
+    "GK-POL"
   ],
   "topics": {
     "ENG-RC": {
@@ -894,13 +894,18 @@
       "date": "2026-11-05",
       "exam": "CUET",
       "topic": "MIXED (surprise)"
+    },
+    {
+      "date": "2026-11-06",
+      "exam": "CLAT",
+      "topic": "LEG-NEW"
     }
   ],
   "ca": {
-    "backfill_cursor": "2026-02",
+    "backfill_cursor": "2026-03",
     "window": "2025-11 to 2026-11 (Phase 1)",
-    "briefs": 5,
-    "last_brief": "2026-11-06",
+    "briefs": 6,
+    "last_brief": "2026-11-07",
     "pace_note": "From 6 Nov: advance cursor every brief (3 items/month) so it reaches 2026-11 by ~30 Nov."
   },
   "reading": {
