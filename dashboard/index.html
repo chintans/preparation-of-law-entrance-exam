@@ -1,0 +1,280 @@
+<meta name="dash-one-writer">
+<style>
+  .lp { display: grid; gap: var(--cds-gap-xl); font-family: var(--font-anthropic-sans); }
+  .lp-head { display: grid; gap: var(--cds-gap-xs); }
+  .lp-title { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0; text-wrap: balance; }
+  .lp-take { margin: 0; color: var(--color-fg-muted); font-size: var(--cds-font-size-body); }
+  .lp .lp-take b { color: var(--color-fg); font-weight: 600; }
+  .lp-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 9.5rem), 1fr)); gap: var(--cds-gap-md); }
+  .lp-tile { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-md); display: grid; gap: var(--cds-gap-xs); align-content: start; }
+  .lp-lab { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .lp-big { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); font-variant-numeric: tabular-nums; line-height: 1.1; }
+  .lp-sub { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); font-variant-numeric: tabular-nums; }
+  .lp-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); gap: var(--cds-gap-md); }
+  .lp-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: grid; gap: var(--cds-gap-sm); align-content: start; min-width: 0; }
+  .lp-card h2 { margin: 0; font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); }
+  .lp-note { margin: 0; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .lp-chart { position: relative; min-height: 240px; }
+  .lp-chart svg { display: block; }
+  .lp-tip { position: absolute; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); pointer-events: none; white-space: nowrap; z-index: 2; }
+  .lp-tip .k { color: var(--cds-text-secondary); }
+  .lp-tabs { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs); }
+  .lp-tab { font: inherit; font-size: var(--cds-font-size-caption); padding: var(--cds-pad-xs) var(--cds-pad-sm); border-radius: var(--cds-radius); border: 1px solid var(--color-border-line); background: transparent; color: var(--color-fg); cursor: pointer; }
+  .lp-tab[aria-pressed="true"] { background: var(--color-fg); color: var(--color-bg); border-color: var(--color-fg); }
+  .lp-tab:focus-visible { outline: 2px solid var(--color-fg); outline-offset: 2px; }
+  .lp-sec { display: grid; gap: var(--cds-gap-sm); }
+  .lp-row { display: grid; grid-template-columns: 7.5rem 1fr 6.5rem; gap: var(--cds-gap-sm); align-items: center; font-size: var(--cds-font-size-caption); }
+  .lp-bar { position: relative; height: 14px; background: color-mix(in srgb, var(--cds-chart-grid) 60%, transparent); border-radius: var(--cds-radius); overflow: hidden; }
+  .lp-bar i { position: absolute; inset: 0 auto 0 0; border-radius: var(--cds-radius); }
+  .lp-bar .t { position: absolute; top: 0; bottom: 0; width: 1px; background: var(--cds-chart-reference); }
+  .lp-pill { justify-self: start; padding: 1px 8px; border-radius: 999px; font-size: var(--cds-font-size-caption); border: 1px solid currentColor; white-space: nowrap; }
+  .lp-pill.g { color: var(--color-ok); } .lp-pill.a { color: var(--color-warn); } .lp-pill.r { color: var(--color-bad); } .lp-pill.n { color: var(--color-fg-muted); }
+  .lp-tablewrap { max-height: 26rem; overflow: auto; }
+  .lp table { width: 100%; border-collapse: collapse; font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; }
+  .lp th { position: sticky; top: 0; background: var(--color-panel); text-align: left; font-weight: var(--cds-font-weight-medium); color: var(--color-fg-muted); padding: var(--cds-pad-xs); border-bottom: 1px solid var(--color-border-line); }
+  .lp td { padding: var(--cds-pad-xs); border-bottom: 1px solid var(--color-border-line); }
+  .lp td.num, .lp th.num { text-align: right; }
+  .lp-mbar { display: inline-block; height: 8px; border-radius: 2px; vertical-align: middle; margin-right: 6px; }
+  .lp-due { color: var(--color-warn); }
+  .lp-legend { display: flex; flex-wrap: wrap; gap: var(--cds-gap-md); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .lp-legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 5px; vertical-align: -1px; background: var(--sw); }
+  [data-dash-source-state=empty] { color: transparent; }
+  [data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+  @media (max-width: 30rem) { .lp-row { grid-template-columns: 5.5rem 1fr 5.5rem; } }
+</style>
+
+<div class="lp">
+  <header class="lp-head" id="top">
+    <h1 class="lp-title">Law Entrance Progress</h1>
+    <p class="lp-take">Day <b data-draw="day" data-source="summary" data-field="day" data-row="0">—</b> · CLAT readiness <b data-draw="lvl" data-source="summary" data-field="level_clat" data-row="0">—</b>, indicative projection <b data-draw="ind" data-source="summary" data-field="clat_indicative" data-row="0">—</b> (top-5 NLU band ≈ 75%).</p>
+  </header>
+
+  <section class="lp-tiles" id="tiles" aria-label="Countdown and habits">
+    <div class="lp-tile"><span class="lp-lab">CLAT · 6 Dec</span><span class="lp-big" data-draw="dc" data-source="summary" data-field="days_clat" data-row="0">—</span><span class="lp-sub">days left</span></div>
+    <div class="lp-tile"><span class="lp-lab">AILET · 13 Dec</span><span class="lp-big" data-draw="da" data-source="summary" data-field="days_ailet" data-row="0">—</span><span class="lp-sub">days left</span></div>
+    <div class="lp-tile"><span class="lp-lab">CUET PG · Mar (window)</span><span class="lp-big" data-draw="du" data-source="summary" data-field="days_cuet" data-row="0">—</span><span class="lp-sub">days left (to 2 Mar)</span></div>
+    <div class="lp-tile"><span class="lp-lab">NLSAT · 25 Apr</span><span class="lp-big" data-draw="dn" data-source="summary" data-field="days_nlsat" data-row="0">—</span><span class="lp-sub">days left</span></div>
+    <div class="lp-tile"><span class="lp-lab">Streak</span><span class="lp-big" data-draw="st" data-source="summary" data-field="streak" data-row="0">—</span><span class="lp-sub">sets answered on the day</span></div>
+    <div class="lp-tile"><span class="lp-lab">Reading speed, last drill</span><span class="lp-big" data-draw="wpm" data-source="latest_reading" data-field="wpm" data-row="0">—</span><span class="lp-sub">wpm · target <span data-draw="twpm" data-source="summary" data-field="target_wpm" data-row="0">—</span></span></div>
+  </section>
+
+  <section class="lp-card" id="readiness">
+    <h2>Readiness by section</h2>
+    <p class="lp-note">Projected score = accuracy − 0.25 × misses, over the last 40 graded questions per section (surprise tests count double). Green ≥ 65%, Amber 45–64%. A section needs half its main topics with 5+ attempts before it gets a colour.</p>
+    <div class="lp-tabs" role="group" aria-label="Exam">
+      <button class="lp-tab" type="button" data-exam="CLAT" aria-pressed="true">CLAT</button>
+      <button class="lp-tab" type="button" data-exam="AILET" aria-pressed="false">AILET</button>
+      <button class="lp-tab" type="button" data-exam="CUET" aria-pressed="false">CUET PG</button>
+      <button class="lp-tab" type="button" data-exam="NLSAT" aria-pressed="false">NLSAT</button>
+    </div>
+    <div class="lp-sec" data-draw="sections" data-source="sections">—</div>
+  </section>
+
+  <div class="lp-grid">
+    <section class="lp-card" id="scores">
+      <h2>Score per set</h2>
+      <p class="lp-note">Net score after negative marking, as % of the maximum, by the day the set was given. The dashed line is the ≈ 75% top-5 NLU band.</p>
+      <div class="lp-legend"><span style="--sw: var(--sw-ontime)">Answered on the day</span><span style="--sw: var(--sw-late)">Answered late</span><span style="--sw: var(--sw-surprise)">Surprise test</span></div>
+      <div class="lp-chart" data-draw="scorechart" data-source="tests"></div>
+    </section>
+
+    <section class="lp-card" id="reading">
+      <h2>Reading speed</h2>
+      <p class="lp-note">Words per minute on the timed passage. Dashed lines: your current target and CLAT pace (270 wpm).</p>
+      <div class="lp-chart" data-draw="readchart" data-source="reading summary"></div>
+    </section>
+  </div>
+
+  <section class="lp-card" id="topics">
+    <h2>Topic mastery</h2>
+    <p class="lp-note">Mastery weights recent answers more. Orange dates are reviews due today or overdue. CLAT weight: 3 core, 2 regular, 1 occasional.</p>
+    <div class="lp-tablewrap">
+      <table data-source="topics" data-row-key="topic">
+        <thead><tr><th data-field="topic">Topic</th><th data-field="name">Name</th><th data-field="clat_weight" class="num">CLAT wt</th><th data-field="mastery">Mastery</th><th data-field="attempts" class="num">Attempts</th><th data-field="correct" class="num">Correct</th><th data-field="next_review">Next review</th></tr></thead>
+        <tbody data-draw="topicrows"></tbody>
+      </table>
+    </div>
+  </section>
+</div>
+
+<script>
+  ['summary', 'tests', 'topics', 'sections', 'reading'].forEach((key) => {
+    dash.loader(key, {
+      description: 'Reads the "' + key + '" table from the progress export',
+      fn: ({ answer }) => {
+        const o = typeof answer === 'string' ? JSON.parse(answer) : answer;
+        if (!o || !Array.isArray(o[key])) throw new Error('The export has no "' + key + '" table');
+        return o[key];
+      },
+    });
+  });
+
+  const pct = d3.format('.0%');
+  const S = () => { const g = dash.data('summary'); return g.status === 'ok' && g.data.length ? g.data[0] : null; };
+  const one = (name, get) => dash.draw(name, (el) => { const s = S(); el.textContent = s ? get(s) : '—'; });
+  one('day', (s) => s.day);
+  one('lvl', (s) => s.level_clat);
+  one('ind', (s) => pct(s.clat_indicative));
+  one('dc', (s) => s.days_clat);
+  one('da', (s) => s.days_ailet);
+  one('du', (s) => '~' + s.days_cuet);
+  one('dn', (s) => s.days_nlsat);
+  one('st', (s) => s.streak);
+  one('twpm', (s) => s.target_wpm);
+  dash.calc('latest_reading', {
+    inputs: ['reading'], title: 'Latest reading drill', description: 'The most recent timed-passage drill.',
+    fn: (reading) => reading.slice(-1),
+  });
+  dash.draw('wpm', (el) => {
+    const g = dash.data('latest_reading');
+    el.textContent = g.status === 'ok' && g.data.length ? g.data[0].wpm : '—';
+  });
+
+  // Theme-following swatches for the score chart.
+  const root = document.querySelector('.lp');
+  dash.onData(() => {
+    if (!root) return;
+    root.style.setProperty('--sw-ontime', dash.colors[0]);
+    root.style.setProperty('--sw-late', 'var(--cds-chart-muted)');
+    root.style.setProperty('--sw-surprise', dash.colors[2]);
+  });
+
+  // Exam tabs (no query uses this parameter, so a change only redraws).
+  const exam = () => dash.params().exam || 'CLAT';
+  document.querySelectorAll('.lp-tab').forEach((b) => b.addEventListener('click', () => dash.setParams({ exam: b.dataset.exam })));
+  dash.onData(() => { document.querySelectorAll('.lp-tab').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.exam === exam()))); });
+
+  dash.draw('sections', (el) => {
+    const g = dash.data('sections');
+    if (g.status !== 'ok') { el.textContent = '—'; return; }
+    el.replaceChildren();
+    const cls = { Green: 'g', Amber: 'a', Red: 'r' };
+    const col = { Green: 'var(--color-ok)', Amber: 'var(--color-warn)', Red: 'var(--color-bad)' };
+    g.data.filter((r) => r.exam === exam()).forEach((r) => {
+      const row = document.createElement('div'); row.className = 'lp-row';
+      const name = document.createElement('div');
+      const nm = document.createElement('div'); nm.textContent = r.section;
+      const sub = document.createElement('div'); sub.className = 'lp-sub';
+      sub.textContent = r.projected == null ? 'not tested yet' : pct(Math.max(0, r.projected)) + ' · ' + r.graded + ' Q · cov ' + r.coverage;
+      name.append(nm, sub);
+      const bar = document.createElement('div'); bar.className = 'lp-bar';
+      const fill = document.createElement('i');
+      fill.style.width = (r.projected == null ? 0 : Math.max(0, Math.min(1, r.projected)) * 100) + '%';
+      fill.style.background = col[r.status] || 'var(--cds-chart-muted)';
+      bar.append(fill);
+      [0.45, 0.65].forEach((t) => { const m = document.createElement('span'); m.className = 't'; m.style.left = t * 100 + '%'; bar.append(m); });
+      const pill = document.createElement('span'); pill.className = 'lp-pill ' + (cls[r.status] || 'n'); pill.textContent = r.status;
+      row.append(name, bar, pill);
+      el.append(row);
+    });
+  });
+
+  function tipBox(el) { const t = document.createElement('div'); t.className = 'lp-tip'; t.hidden = true; el.append(t); return t; }
+  function placeTip(el, tip, x, y) {
+    const w = el.clientWidth, tw = tip.offsetWidth;
+    tip.style.left = Math.max(0, Math.min(w - tw, x - tw / 2)) + 'px';
+    tip.style.top = Math.max(0, y - tip.offsetHeight - 10) + 'px';
+  }
+  const fmtDate = (d) => d3.utcFormat('%b %-d')(new Date(d + 'T00:00:00Z'));
+
+  dash.draw('scorechart', (el) => {
+    const g = dash.data('tests');
+    el.replaceChildren();
+    if (g.status !== 'ok' || !g.data.length) return;
+    const rows = g.data.filter((r) => r.net_pct != null);
+    const W = el.clientWidth || 600, H = 240, m = { t: 10, r: 8, b: 26, l: 36 };
+    const x = d3.scaleBand(rows.map((r) => r.date), [m.l, W - m.r]).padding(0.25);
+    const y = d3.scaleLinear([0, 1], [H - m.b, m.t]);
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', 'Net score per set');
+    svg.append('g').selectAll('line').data([0, .25, .5, .75, 1]).join('line')
+      .attr('x1', m.l).attr('x2', W - m.r).attr('y1', y).attr('y2', y).attr('stroke', 'var(--cds-chart-grid)');
+    svg.append('g').selectAll('text').data([0, .25, .5, .75, 1]).join('text')
+      .attr('x', m.l - 6).attr('y', (d) => y(d) + 4).attr('text-anchor', 'end').attr('fill', 'var(--color-fg-muted)')
+      .style('font-size', 'var(--cds-font-size-caption)').text(pct);
+    const color = (r) => r.type === 'surprise' ? dash.colors[2] : r.on_time ? dash.colors[0] : 'var(--cds-chart-muted)';
+    svg.append('g').selectAll('rect').data(rows).join('rect')
+      .attr('x', (r) => x(r.date)).attr('width', Math.min(32, x.bandwidth()))
+      .attr('y', (r) => y(Math.max(0, r.net_pct))).attr('height', (r) => y(0) - y(Math.max(0, r.net_pct)))
+      .attr('rx', 2).attr('fill', color);
+    svg.append('line').attr('x1', m.l).attr('x2', W - m.r).attr('y1', y(.75)).attr('y2', y(.75))
+      .attr('stroke', 'var(--cds-chart-reference)').attr('stroke-dasharray', '4 3');
+    const step = Math.ceil(rows.length / Math.max(1, Math.floor((W - m.l) / 52)));
+    svg.append('g').selectAll('text').data(rows.filter((_, i) => i % step === 0)).join('text')
+      .attr('x', (r) => x(r.date) + Math.min(32, x.bandwidth()) / 2).attr('y', H - 8).attr('text-anchor', 'middle')
+      .attr('fill', 'var(--color-fg-muted)').style('font-size', 'var(--cds-font-size-caption)').text((r) => fmtDate(r.date));
+    const tip = tipBox(el);
+    svg.selectAll('rect').on('mousemove', (ev, r) => {
+      tip.hidden = false;
+      tip.replaceChildren();
+      const a = document.createElement('div'); a.className = 'k'; a.textContent = 'Day ' + r.day + ' · ' + fmtDate(r.date) + ' · ' + r.exam;
+      const b = document.createElement('div'); b.textContent = r.topic + ' · ' + (r.type === 'surprise' ? 'surprise · ' : '') + 'net ' + r.net + '/' + r.max + ' (' + pct(r.net_pct) + ')';
+      const c = document.createElement('div'); c.className = 'k'; c.textContent = (r.on_time ? 'on the day' : 'answered late') + (r.sec_per_q ? ' · ' + r.sec_per_q + ' s/question' : '');
+      tip.append(a, b, c);
+      const [px, py] = d3.pointer(ev, el); placeTip(el, tip, px, py);
+    }).on('mouseleave', () => { tip.hidden = true; });
+  });
+
+  dash.draw('readchart', (el) => {
+    const g = dash.data('reading');
+    el.replaceChildren();
+    if (g.status !== 'ok' || !g.data.length) return;
+    const s = S();
+    const rows = g.data.map((r) => ({ ...r, d: new Date(r.date + 'T00:00:00Z') }));
+    const W = el.clientWidth || 600, H = 240, m = { t: 14, r: 72, b: 26, l: 36 };
+    const ext = d3.extent(rows, (r) => r.d);
+    if (+ext[0] === +ext[1]) ext[1] = d3.utcDay.offset(ext[1], 1);
+    const x = d3.scaleUtc(ext, [m.l + 8, W - m.r]);
+    const y = d3.scaleLinear([0, 300], [H - m.b, m.t]);
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', 'Reading speed per drill');
+    svg.append('g').selectAll('line').data([0, 100, 200, 300]).join('line')
+      .attr('x1', m.l).attr('x2', W - m.r).attr('y1', y).attr('y2', y).attr('stroke', 'var(--cds-chart-grid)');
+    svg.append('g').selectAll('text').data([0, 100, 200, 300]).join('text')
+      .attr('x', m.l - 6).attr('y', (d) => y(d) + 4).attr('text-anchor', 'end').attr('fill', 'var(--color-fg-muted)')
+      .style('font-size', 'var(--cds-font-size-caption)').text((d) => d);
+    const refs = [{ v: 270, label: 'CLAT pace 270' }];
+    if (s) refs.push({ v: s.target_wpm, label: 'target ' + s.target_wpm });
+    refs.forEach((r, i) => {
+      svg.append('line').attr('x1', m.l).attr('x2', W - m.r).attr('y1', y(r.v)).attr('y2', y(r.v))
+        .attr('stroke', 'var(--cds-chart-reference)').attr('stroke-dasharray', '4 3');
+      svg.append('text').attr('x', W - m.r + 4).attr('y', y(r.v) + (i === 0 ? 4 : 12)).attr('fill', 'var(--color-fg-muted)')
+        .style('font-size', 'var(--cds-font-size-caption)').text(r.label);
+    });
+    svg.append('path').datum(rows).attr('fill', 'none').attr('stroke', dash.colors[0]).attr('stroke-width', 2)
+      .attr('stroke-linecap', 'round').attr('stroke-linejoin', 'round').attr('d', d3.line((r) => x(r.d), (r) => y(r.wpm)));
+    const dots = svg.append('g').selectAll('circle').data(rows).join('circle')
+      .attr('cx', (r) => x(r.d)).attr('cy', (r) => y(r.wpm)).attr('r', 4).attr('fill', dash.colors[0]);
+    svg.append('g').selectAll('text').data(rows).join('text')
+      .attr('x', (r) => x(r.d)).attr('y', H - 8).attr('text-anchor', 'middle').attr('fill', 'var(--color-fg-muted)')
+      .style('font-size', 'var(--cds-font-size-caption)').text((r) => fmtDate(r.date));
+    const tip = tipBox(el);
+    dots.on('mousemove', (ev, r) => {
+      tip.hidden = false; tip.replaceChildren();
+      const a = document.createElement('div'); a.className = 'k'; a.textContent = fmtDate(r.date);
+      const b = document.createElement('div'); b.textContent = r.wpm + ' wpm · ' + r.words + ' words in ' + Math.floor(r.seconds / 60) + ':' + String(r.seconds % 60).padStart(2, '0');
+      const c = document.createElement('div'); c.className = 'k'; c.textContent = 'passage accuracy ' + pct(r.accuracy_on_passage);
+      tip.append(a, b, c);
+      const [px, py] = d3.pointer(ev, el); placeTip(el, tip, px, py);
+    }).on('mouseleave', () => { tip.hidden = true; });
+  });
+
+  dash.draw('topicrows', (tb) => {
+    const g = dash.data('topics');
+    tb.replaceChildren();
+    if (g.status !== 'ok') return;
+    const rows = [...g.data].sort((a, b) => (b.attempts > 0) - (a.attempts > 0) || (a.mastery ?? 999) - (b.mastery ?? 999));
+    rows.forEach((r) => {
+      const tr = document.createElement('tr');
+      const td = (t, c) => { const e = document.createElement('td'); if (c) e.className = c; e.textContent = t; return e; };
+      const m = document.createElement('td');
+      if (r.mastery != null) {
+        const sw = document.createElement('span'); sw.className = 'lp-mbar';
+        sw.style.width = Math.max(2, r.mastery * 0.6) + 'px';
+        sw.style.background = r.mastery >= 65 ? 'var(--color-ok)' : r.mastery >= 45 ? 'var(--color-warn)' : 'var(--color-bad)';
+        m.append(sw, document.createTextNode(String(r.mastery)));
+      } else m.textContent = 'untested';
+      const nr = td(r.next_review ? fmtDate(r.next_review) : '—', r.due ? 'lp-due' : '');
+      tr.append(td(r.topic), td(r.name), td(r.clat_weight, 'num'), m, td(r.attempts, 'num'), td(r.correct, 'num'), nr);
+      tb.append(tr);
+    });
+  });
+</script>

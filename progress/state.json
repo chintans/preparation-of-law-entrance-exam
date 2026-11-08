@@ -1383,5 +1383,11 @@
     "last_capsule": null,
     "repeat_pending": false,
     "note": "Started 8 Nov 2026 at Chintan's request. Units 1 (Art 131/143) and 3 (Art 356 numbers) seeded as weak from Day-15 misses; unit 2 (Art 200) also missed — taught on day 2 of the track."
+  },
+  "dashboard": {
+    "url": "https://claude.ai/artifact/7QP98w9CGCsG5QrdtasF8W",
+    "data_blob": "/_blob/e095f57599aa047084d242e30c5007cc",
+    "last_refreshed": "2026-11-08",
+    "note": "Refresh per CLAUDE.md section G"
   }
 }

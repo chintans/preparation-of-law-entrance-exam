@@ -38,6 +38,7 @@ session length and surprise tests: `plan/study-plan.md`. State: `progress/state.
 7. **Build the session** (format below). Write `sessions/YYYY-MM-DD.md`. Set `pending_session` to
    today's date in `state.json`.
 8. **Commit and push** (`git pull --rebase` first). Message: `session YYYY-MM-DD: <topic id> (<type>)`.
+8a. **Refresh the progress dashboard** (section G) so the day count and countdown move.
 9. **Deliver** with SendUserMessage (if unavailable, put it in your final response): the
    CA brief, the lesson, the Constitution Capsule and the questions, **without** the answer key. End with: "Reply with your
    answers like `1B 2D 3A …` (for writing tasks, paste your answer), your start and end times, and
@@ -102,6 +103,7 @@ session length and surprise tests: `plan/study-plan.md`. State: `progress/state.
 5. Recompute readiness (section D). Rewrite `progress/readiness.md` after surprise tests, every
    Sunday, and whenever any exam's RAG status changes; otherwise only update the headline table.
 6. Commit and push: `graded YYYY-MM-DD: <score>`.
+6a. **Refresh the progress dashboard** (section G) — every grading, including late ones.
 7. Reply with the graded result, the readiness line, and what tomorrow will likely target.
 
 If he asks something off-plan (doubt on a topic, a different exam), help, and record anything
@@ -154,3 +156,19 @@ git config user.name "Claude" ; git config user.email "noreply@anthropic.com"
 ```
 End commit messages with the attribution lines the environment provides, if any. Always
 `git pull --rebase` before pushing. Never force-push.
+
+## G. Progress dashboard
+
+Chintan's dashboard "Law Entrance Progress" is a Dashboard artifact: https://claude.ai/artifact/7QP98w9CGCsG5QrdtasF8W
+(URL also in `state.json` → `dashboard`). Its five datasets (`summary`, `tests`, `topics`, `sections`, `reading`) all read
+one uploaded file, `progress.json`, built from this repo. It does **not** update itself — refresh it at A.8a and C.6a:
+
+1. `python3 tools/dashboard_data.py --today YYYY-MM-DD` (writes `dashboard/progress.json`; commit it with the run).
+2. Upload it: Artifact `publish` with `url` = the dashboard, `file_path` = `dashboard/progress.json`, `asset: true`.
+   Note the returned `/_blob/<id>` url.
+3. ArtifactData `get` each of `datasets/summary|tests|topics|sections|reading` for its `version`, then one `batch` of five
+   `update`s (pinned with `if_version`): `source.url` = the new blob url (keep `kind: "file"`, `name: "progress.json"`,
+   `format: "json"`), `updated: {at: <UTC ISO>, by: "Claude (daily coaching session)"}`, `edit: {via: "claude", at: <UTC ISO>}`.
+4. Optionally delete the previous blob (Artifact `delete` with `url` and `path` = old asset id) once no dataset names it.
+   Never rewrite `files/index.html` unless Chintan asks for a design change (its source is `dashboard/index.html`).
+   If the upload or write is refused, say so in the message and carry on — the dashboard is a view, the repo is the record.
