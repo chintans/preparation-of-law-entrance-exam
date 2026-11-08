@@ -31,11 +31,15 @@ session length and surprise tests: `plan/study-plan.md`. State: `progress/state.
    brief" (every session except exam day; surprise tests included). Verify every item by web search,
    cite it in the session file, log it in `research/current-affairs.md`, and advance
    `ca.backfill_cursor` in `state.json`.
+6b. **Constitution Capsule.** Every session except exam day: take the unit at `constitution.cursor`
+   (`syllabus/constitution-track.md`; repeat the previous unit if `repeat_pending`), build the capsule per
+   `plan/study-plan.md` → "Daily Constitution Capsule", add its 2 questions to the test, record the unit in the session
+   metadata, and update `constitution` in `state.json` (cursor, `last_capsule`, `units_done`).
 7. **Build the session** (format below). Write `sessions/YYYY-MM-DD.md`. Set `pending_session` to
    today's date in `state.json`.
 8. **Commit and push** (`git pull --rebase` first). Message: `session YYYY-MM-DD: <topic id> (<type>)`.
 9. **Deliver** with SendUserMessage (if unavailable, put it in your final response): the
-   CA brief, the lesson and the questions, **without** the answer key. End with: "Reply with your
+   CA brief, the lesson, the Constitution Capsule and the questions, **without** the answer key. End with: "Reply with your
    answers like `1B 2D 3A …` (for writing tasks, paste your answer), your start and end times, and
    your reading time for the timed passage (e.g. `R 2:10`)."
 
@@ -51,13 +55,17 @@ session length and surprise tests: `plan/study-plan.md`. State: `progress/state.
   one worked example in the target exam's style → the trap examiners set. Use real current
   events and real legal developments; verify any fact you are not certain of with a web search,
   and log new current-affairs facts in `research/current-affairs.md` with the date and source.
+- **Constitution Capsule (~4 min, every session, after the lesson):** see `plan/study-plan.md` → "Daily
+  Constitution Capsule" — 5 numbered flash facts, say-it drill, one case, the trap.
 - **Test:** count per `plan/study-plan.md`. Match the exam's style (passage-based for CLAT/NLSAT,
   standalone for CUET/AILET grammar/GK). 4 options, one correct. Include 1 question from a
   topic in the review queue when one exists. **Plus 2 CA recall questions** (standalone, from
   earlier briefs, tagged by topic) added to the count — these test retention, not today's brief.
+  **Plus 2 Constitution questions** (1 on today's capsule, 1 spaced recall from an earlier capsule), also added.
 - **Readiness line:** one sentence with the RAG status for the focus exam.
 
 ### Surprise test
+- The Constitution Capsule comes after the CA brief, before the clock; its 2 test questions come from earlier capsules.
 - Open with: "**Surprise test** — <exam> pattern, <n> questions, <m> minutes, real marking
   (<scheme>). Start the clock now." No lesson. The CA brief still comes first, before the clock
   starts, and its items are **not** tested in that day's surprise test.

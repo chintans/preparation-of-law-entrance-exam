@@ -1034,5 +1034,17 @@
     "log": [],
     "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min ≈ 120 s/Q vs 60 s budget; reading time not measured.",
     "technique_note": "Week 2 (paragraph map) named from 8 Nov session (one day early; no drills returned yet)"
+  },
+  "constitution": {
+    "cursor": 1,
+    "track": "syllabus/constitution-track.md",
+    "units_done": [],
+    "weak_units": [
+      1,
+      3
+    ],
+    "last_capsule": null,
+    "repeat_pending": false,
+    "note": "Started 8 Nov 2026 at Chintan's request. Units 1 (Art 131/143) and 3 (Art 356 numbers) seeded as weak from Day-15 misses; unit 2 (Art 200) also missed — taught on day 2 of the track."
   }
 }

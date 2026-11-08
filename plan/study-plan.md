@@ -75,6 +75,30 @@ Every session except exam day opens with a **Current-Affairs Brief** of **6 item
   Today's brief is never tested the same day.
 - **Day before an exam:** the brief becomes a top-15 "most likely to be asked" recap. **Exam day:** none.
 
+## Daily Constitution Capsule (added 8 Nov 2026 at Chintan's request — GK-POL 0/7; "I am weak at Constitution")
+
+Every session except exam day carries a **Constitution Capsule** in the learning section, **in addition to** the day's
+main lesson (whatever exam or topic the draw picks). Units and their must-know core: `syllabus/constitution-track.md`;
+next unit = `constitution.cursor` in `state.json`.
+
+- **Where:** right after the main lesson (normal sessions). On surprise-test days it comes after the CA brief and before
+  the clock starts. Day before an exam: a "top-10 Articles and numbers" recap of units done. Exam day: none.
+- **Length:** ~4 minutes. **Format** (no tables — tables were read, not learned, on Day 15):
+  1. **5 numbered flash facts** from the unit — each one line: *Article → what it does → the number/case examiners ask*.
+  2. **Say-it drill:** the 5 Article numbers listed alone; he covers the facts and says what each does before checking.
+  3. **One landmark case** in two lines (name, year, bench size if famous, holding).
+  4. **The trap** examiners set on this unit (the twin Article, the wrong number, the absolute word).
+- **Tests:** every test (normal and surprise) adds **2 Constitution questions** on top of the usual count and the CA recall
+  items: **1 on today's capsule** and **1 spaced-recall item from an earlier capsule** (prefer `weak_units`; on the first
+  capsule day, use unit 1 facts already missed). Standalone, 4 options, tagged GK-POL or LEG-CONST (per the unit's tag in the
+  track file). On surprise tests both are drawn from earlier capsules only. Mark them *(Constitution)* in the test.
+- **Advancing:** move `constitution.cursor` on by one unit each session. If the previous session was **missed**, repeat its
+  unit once (set `repeat_pending`), then move on. When grading, add a unit to `constitution.weak_units` if its capsule
+  question was wrong; remove it after two later correct answers on that unit.
+- **Main lesson overlap:** if the draw picks GK-POL or LEG-CONST as the day's topic, the main lesson goes deeper (worked
+  examples, passage-based items) on a unit already taught or the current one; the capsule still runs as normal.
+- **Session length:** the capsule adds ~4 min reading and ~2 min of questions to the times in "Session length".
+
 ## Reading speed (added 1 Nov 2026 — Day-7 pace was ~2 min/question against CLAT's 1)
 
 **Goal for CLAT/AILET:** read a ~450-word passage in about 1:40 (≈ 270 wpm) and answer its questions at ~40 s each,
