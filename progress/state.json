@@ -36,7 +36,7 @@
     }
   },
   "calendar_last_verified": "2026-11-08",
-  "sessions_completed": 17,
+  "sessions_completed": 18,
   "streak": 0,
   "last_session": "2026-11-02",
   "pending_session": "2026-11-08",
@@ -114,49 +114,57 @@
       "next_review": null
     },
     "GK-CA": {
-      "mastery": 51,
-      "attempts": 10,
-      "correct": 5,
-      "recent": [
-        0,
-        1,
-        1,
-        0,
-        0,
-        1,
-        0,
-        1,
-        1,
-        0
-      ],
-      "last_seen": "2026-11-08",
-      "interval_days": 1,
-      "next_review": "2026-11-09"
-    },
-    "LEG-NEW": {
-      "mastery": 62,
-      "attempts": 10,
+      "mastery": 59,
+      "attempts": 11,
       "correct": 6,
       "recent": [
         0,
-        0,
-        1,
-        1,
-        1,
         1,
         1,
         0,
+        0,
         1,
-        0
+        0,
+        1,
+        1,
+        0,
+        1
       ],
       "last_seen": "2026-11-08",
-      "interval_days": 1,
-      "next_review": "2026-11-09"
+      "interval_days": 3,
+      "next_review": "2026-11-11"
+    },
+    "LEG-NEW": {
+      "mastery": 86,
+      "attempts": 17,
+      "correct": 13,
+      "recent": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "last_seen": "2026-11-08",
+      "interval_days": 3,
+      "next_review": "2026-11-11"
     },
     "GK-POL": {
-      "mastery": 0,
-      "attempts": 7,
-      "correct": 0,
+      "mastery": 22,
+      "attempts": 8,
+      "correct": 1,
       "recent": [
         0,
         0,
@@ -164,11 +172,12 @@
         0,
         0,
         0,
-        0
+        0,
+        1
       ],
-      "last_seen": "2026-11-03",
-      "interval_days": 1,
-      "next_review": "2026-11-09"
+      "last_seen": "2026-11-08",
+      "interval_days": 3,
+      "next_review": "2026-11-11"
     },
     "GK-ECO": {
       "mastery": 0,
@@ -233,9 +242,9 @@
       "next_review": "2026-11-04"
     },
     "LEG-CONT": {
-      "mastery": 81,
-      "attempts": 41,
-      "correct": 32,
+      "mastery": 83,
+      "attempts": 42,
+      "correct": 33,
       "recent": [
         1,
         1,
@@ -243,7 +252,6 @@
         1,
         1,
         1,
-        1,
         0,
         1,
         1,
@@ -254,13 +262,14 @@
         1,
         1,
         0,
+        1,
         1,
         1,
         1
       ],
       "last_seen": "2026-11-08",
-      "interval_days": 8,
-      "next_review": "2026-11-16"
+      "interval_days": 16,
+      "next_review": "2026-11-24"
     },
     "LEG-CRIM": {
       "mastery": 0,
@@ -442,18 +451,6 @@
       "due": "2026-11-09"
     },
     {
-      "topic": "GK-POL",
-      "due": "2026-11-09"
-    },
-    {
-      "topic": "LEG-NEW",
-      "due": "2026-11-09"
-    },
-    {
-      "topic": "GK-CA",
-      "due": "2026-11-09"
-    },
-    {
       "topic": "GK-STA",
       "due": "2026-11-09"
     },
@@ -474,6 +471,18 @@
       "due": "2026-11-11"
     },
     {
+      "topic": "LEG-NEW",
+      "due": "2026-11-11"
+    },
+    {
+      "topic": "GK-POL",
+      "due": "2026-11-11"
+    },
+    {
+      "topic": "GK-CA",
+      "due": "2026-11-11"
+    },
+    {
       "topic": "COMP",
       "due": "2026-11-14"
     },
@@ -487,7 +496,7 @@
     },
     {
       "topic": "LEG-CONT",
-      "due": "2026-11-16"
+      "due": "2026-11-24"
     },
     {
       "topic": "ENG-RC",
@@ -1043,12 +1052,48 @@
       },
       "graded_on": "2026-11-08",
       "note": "Day-17 CUET surprise answered 8 Nov (3 days late), 11 min for 20 (33 s/Q vs 72 s budget); R 1:25 on 227 words = 160 wpm vs 180 target. Language 4/4 (RC 2/2, first grammar items 2/2), Computer 4/4 (nibble now right), GK 2/5 scored (missed Labour Codes 29 - took old '44'; ISA HQ - took Abu Dhabi (IRENA); Tribunals Reforms Act - took 1985 Act); Aptitude 3/4 (Q15 7.5 vs 7.2 - arithmetic slip); Reasoning 2/3 (Q18 stopped one generation short: 'father'). Q5 (Art 131) and Q6 (Art 12) are repeats graded earlier today - in score, not mastery."
+    },
+    {
+      "date": "2026-11-06",
+      "type": "normal",
+      "exam": "CLAT",
+      "topic": "LEG-NEW",
+      "questions": 10,
+      "correct": 10,
+      "wrong": 0,
+      "unanswered": 0,
+      "raw": 10,
+      "net": 10.0,
+      "max": 10,
+      "minutes": 10,
+      "surprise": false,
+      "per_topic": {
+        "LEG-NEW": [
+          7,
+          7
+        ],
+        "GK-POL": [
+          1,
+          1
+        ],
+        "LEG-CONT": [
+          1,
+          1
+        ],
+        "GK-CA": [
+          1,
+          1
+        ]
+      },
+      "graded_on": "2026-11-08",
+      "note": "Day-18 CLAT legal-CA set answered 8 Nov (2 days late), 9:52-10:02 = 10 min incl. 4:14 read -> 5:46 for 10 Q (35 s/Q vs 60). Perfect: Art 22(2) holding, lower-court ground, result (bail not acquittal), 24-h application with journey time, inference, Art 22(3) neighbour; Art 143 route-vs-subject right (first time, recast item); proposer-revocation clock right; recall VB-G RAM G 125 days and Aravalli 100 m right. R 4:14 on 443 words = 105 wpm vs 180 target."
     }
   ],
   "readiness": {
     "CLAT": {
-      "level": "Not ready (Current Affairs Red: 11/30 weighted, 37%, proj. 21%; coverage 3/3)",
+      "level": "Not ready (Current Affairs Red: 20/43 weighted, 47%, proj. 33%; Legal/Quant coverage insufficient)",
       "projection_pct": null,
+      "indicative_pct": 69,
       "updated": "2026-11-08"
     },
     "AILET": {
@@ -1159,7 +1204,8 @@
     {
       "date": "2026-11-06",
       "exam": "CLAT",
-      "topic": "LEG-NEW"
+      "topic": "LEG-NEW",
+      "answered_late": "2026-11-08"
     },
     {
       "date": "2026-11-07",
@@ -1184,6 +1230,14 @@
         "words": 227,
         "seconds": 85,
         "wpm": 160,
+        "target_wpm": 180,
+        "accuracy_on_passage": 1.0
+      },
+      {
+        "date": "2026-11-06",
+        "words": 443,
+        "seconds": 254,
+        "wpm": 105,
         "target_wpm": 180,
         "accuracy_on_passage": 1.0
       }

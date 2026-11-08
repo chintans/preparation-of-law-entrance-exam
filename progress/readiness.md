@@ -4,15 +4,17 @@ Full report: **2026-11-08**, after the Day-17 CUET surprise test (set 5 Nov, ans
 11 min** against a 24-min budget. The figures below are the last 40 graded questions per section, with surprise items counted twice.
 Earlier full report: 2026-11-01 (Day-7 CLAT surprise test, 12.5/20).
 
+**Update 2026-11-08 (later):** Day-18 CLAT legal-CA set (6 Nov) graded: **10/10, net 10.00, 35 s/question; R 4:14 = 105 wpm**. Current Affairs moves from 32% to **47% weighted (projected 33%)** — still Red on projection, but the gap is narrowing.
+
 **CUET readiness: Not ready** (GK Red, 31%, projected 13%). Language and Computer are Green; Aptitude and Reasoning don't have enough data yet.
 Today's surprise test: 68.75%.
 
 | Exam | Date | Days left | Level | Projection | Note |
 |---|---|---|---|---|---|
-| CLAT 2027 | 6 Dec 2026 | 28 | Not ready (Current Affairs Red) | — (Day-7 surprise: 62.5%) | English 90% (proj. 88%, Green); Logical 81% (Green); Legal 83% but coverage 2/5; **Current Affairs 11/34 weighted (32%, proj. 15%, Red)**; Quant 80% on 5 Q, coverage 0/2 |
-| AILET 2027 | 13 Dec 2026 | 35 | Not ready (CA & GK Red) | — | English 91% (Green, coverage 2/3, first ENG-GRM 2/2); Reasoning 77% (proj. 71%) but coverage 3/7; **CA & GK 31% (proj. 13%, Red)** |
-| CUET PG LLB | Mar 2027 | ~113 | **Not ready (GK Red)** | — (Day-17 surprise: 68.75%) | Language 91% (proj. 89%, **Green**); Computer 87% (proj. 83%, **Green**, up from Amber); **GK 31% (proj. 13%, Red)**; Aptitude 83% / Reasoning 75%, both insufficient data (coverage 0/2) |
-| NLSAT-LLB | 25 Apr 2027 | 168 | Not ready (CA/GK Red) | — | English 94% (Green); Reasoning 83% (proj. 79%, Green); **CA/GK 32% (proj. 15%, Red)**; Part B untested |
+| CLAT 2027 | 6 Dec 2026 | 28 | Not ready (Current Affairs Red) | — (Day-7 surprise: 62.5%; indicative ≈ 69% if sections hold) | English 90% (proj. 88%, Green); Logical 81% (Green); Legal 84% (proj. 80%) but coverage 2/5; **Current Affairs 20/43 weighted (47%, proj. 33%, Red)**; Quant 80% on 5 Q, coverage 0/2 |
+| AILET 2027 | 13 Dec 2026 | 35 | Not ready (CA & GK Red) | — | English 91% (Green, coverage 2/3, first ENG-GRM 2/2); Reasoning 77% (proj. 71%) but coverage 3/7; **CA & GK 44% (proj. 31%, Red)** |
+| CUET PG LLB | Mar 2027 | ~113 | **Not ready (GK Red)** | — (Day-17 surprise: 68.75%) | Language 91% (proj. 89%, **Green**); Computer 87% (proj. 83%, **Green**, up from Amber); **GK 44% (proj. 31%, Red; was 31% before the Day-18 set)**; Aptitude 83% / Reasoning 75%, both insufficient data (coverage 0/2) |
+| NLSAT-LLB | 25 Apr 2027 | 168 | Not ready (CA/GK Red) | — | English 94% (Green); Reasoning 83% (proj. 79%, Green); **CA/GK 47% (proj. 33%, Red)**; Part B untested |
 
 ## CUET section detail (last 40 per section, surprise ×2; projected = acc − 0.25 × (1 − acc))
 
@@ -29,8 +31,8 @@ Today's surprise test: 68.75%.
 | Section | Graded | Accuracy | Projected | Coverage | RAG |
 |---|---|---|---|---|---|
 | English | 24 (→ 30) | 90% | 88% | 1/1 | **Green** |
-| Current Affairs | 27 (→ 34) | 32% | 15% | 3/3 (GK-CA 10, LEG-NEW 10, GK-POL 7) | **Red** |
-| Legal | 43 (→ 48) | 83% | 79% | 2/5 (TORT 2, CRIM 0, CONST 0) | Insufficient data |
+| Current Affairs | 36 (→ 43) | 47% | 33% | 3/3 (GK-CA 11, LEG-NEW 17, GK-POL 8) | **Red** |
+| Legal | 44 (→ 49) | 84% | 80% | 2/5 (TORT 2, CRIM 0, CONST 0) | Insufficient data |
 | Logical | 17 (→ 21) | 81% | 76% | 1/2 (LR-CR 16) | **Green** |
 | Quant | 5 (→ 10) | 80% | 75% | 0/2 | Insufficient data |
 
@@ -45,6 +47,7 @@ Today's surprise test: 68.75%.
 ## Reading speed
 
 The first timed read was 227 words in 1:25, which is **160 wpm** against the 180 target (Level 1). You were 12% over target with full accuracy, so the level holds.
+Second read (Day 18, 443 words): **4:14 = 105 wpm**, 72% over target, 5/5 on the passage. On a full-length passage you are reading at a bit over half of the Level-1 target, and well under half of CLAT pace (270 wpm). This is now the biggest risk after current affairs.
 
 ## Action list (Day-17 surprise)
 
