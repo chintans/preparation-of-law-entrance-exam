@@ -32,3 +32,4 @@
 | 2026-11-05 | 17 | surprise | CUET | MIXED | missed | — | No answers by 6 Nov run; streak 0; GK-POL slot recast as Art 143 route item on 6 Nov |
 | 2026-11-06 | 18 | normal | CLAT | LEG-NEW | missed | — | No answers by 7 Nov run; streak 0; Q4 (Art 22 clock) carried to 7 Nov as Q7, Art 143 item recast as Q6 |
 | 2026-11-07 | 19 | normal | CLAT | GK-POL | missed | — | No answers by 8 Nov run; streak 0; Q3 (2/3 merger), Q7 (Art 22 clock), Q8 (revocation) carried to 8 Nov as Q7, Q6, Q8 |
+| 2026-11-08 | 11 (late) | normal | CLAT | ENG-RC | 7/8 | 6.75 | Day-11 RC set answered 8 Nov, 10 min (budget 8); RC 5/6 — missed Q6 (picked extreme 'no worthwhile employment', contradicted by P4); Q7 revocation clock ✓, Q8 mistake of fact ✓; ENG-RC 82 (review 20 Nov), LEG-CONT 80 (12 Nov), LEG-PRIN 82 (8 Dec); English now Green in CLAT/AILET/NLSAT |

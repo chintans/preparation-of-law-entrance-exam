@@ -36,7 +36,7 @@
     }
   },
   "calendar_last_verified": "2026-11-08",
-  "sessions_completed": 12,
+  "sessions_completed": 13,
   "streak": 0,
   "last_session": "2026-11-02",
   "pending_session": "2026-11-08",
@@ -49,18 +49,24 @@
   ],
   "topics": {
     "ENG-RC": {
-      "mastery": 100,
-      "attempts": 4,
-      "correct": 4,
+      "mastery": 82,
+      "attempts": 10,
+      "correct": 9,
       "recent": [
         1,
         1,
         1,
-        1
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
       ],
-      "last_seen": "2026-11-03",
-      "interval_days": 6,
-      "next_review": "2026-11-09"
+      "last_seen": "2026-11-08",
+      "interval_days": 12,
+      "next_review": "2026-11-20"
     },
     "ENG-VOC": {
       "mastery": 97,
@@ -160,16 +166,15 @@
       "next_review": null
     },
     "LEG-PRIN": {
-      "mastery": 81,
-      "attempts": 24,
-      "correct": 21,
+      "mastery": 82,
+      "attempts": 25,
+      "correct": 22,
       "recent": [
         1,
         1,
         1,
         1,
         1,
-        1,
         0,
         1,
         1,
@@ -181,13 +186,14 @@
         1,
         0,
         0,
+        1,
         1,
         1,
         1
       ],
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-08",
       "interval_days": 30,
-      "next_review": "2026-12-02"
+      "next_review": "2026-12-08"
     },
     "LEG-TORT": {
       "mastery": 100,
@@ -202,9 +208,9 @@
       "next_review": "2026-11-04"
     },
     "LEG-CONT": {
-      "mastery": 79,
-      "attempts": 39,
-      "correct": 30,
+      "mastery": 80,
+      "attempts": 40,
+      "correct": 31,
       "recent": [
         1,
         1,
@@ -214,7 +220,6 @@
         1,
         1,
         1,
-        1,
         0,
         1,
         1,
@@ -225,11 +230,12 @@
         1,
         1,
         0,
+        1,
         1
       ],
-      "last_seen": "2026-11-02",
-      "interval_days": 2,
-      "next_review": "2026-11-04"
+      "last_seen": "2026-11-08",
+      "interval_days": 4,
+      "next_review": "2026-11-12"
     },
     "LEG-CRIM": {
       "mastery": 0,
@@ -404,10 +410,6 @@
       "due": "2026-11-04"
     },
     {
-      "topic": "LEG-CONT",
-      "due": "2026-11-04"
-    },
-    {
       "topic": "ENG-VOC",
       "due": "2026-11-06"
     },
@@ -420,12 +422,16 @@
       "due": "2026-11-07"
     },
     {
+      "topic": "LEG-CONT",
+      "due": "2026-11-12"
+    },
+    {
       "topic": "ENG-RC",
-      "due": "2026-11-09"
+      "due": "2026-11-20"
     },
     {
       "topic": "LEG-PRIN",
-      "due": "2026-12-02"
+      "due": "2026-12-08"
     }
   ],
   "tests": [
@@ -786,18 +792,49 @@
       },
       "graded_on": "2026-11-03",
       "note": "Answered 3 Nov (1 day late); no times, no reading time. All 7 vocab items right incl. 'modest' (Day-7 miss) and the legal-sense baits (arrest, qualified). RC main idea right. Missed Q10: chose Art 200 (subject) over Art 143 (route) for the Presidential Reference - 2nd miss on this exact item."
+    },
+    {
+      "date": "2026-10-30",
+      "type": "normal",
+      "exam": "CLAT",
+      "topic": "ENG-RC",
+      "questions": 8,
+      "correct": 7,
+      "wrong": 1,
+      "unanswered": 0,
+      "raw": 7,
+      "net": 6.75,
+      "max": 8,
+      "minutes": 10,
+      "surprise": false,
+      "per_topic": {
+        "ENG-RC": [
+          5,
+          6
+        ],
+        "LEG-CONT": [
+          1,
+          1
+        ],
+        "LEG-PRIN": [
+          1,
+          1
+        ]
+      },
+      "graded_on": "2026-11-08",
+      "note": "Day-11 CLAT RC set answered late (8 Nov), 10 min vs 8-min budget. RC 5/6: main idea, inference, assumption, tone, weaken all right; missed Q6 - chose D 'no worthwhile employment' (extreme, contradicted by P4 'created work') over C. Q7 revocation-after-posting clock right; Q8 mistake of fact (product identity + due care) right - first clean mistake-of-fact item after two misses on 29 Oct."
     }
   ],
   "readiness": {
     "CLAT": {
       "level": "Not ready (insufficient data; Current Affairs Red, 3/16 weighted)",
       "projection_pct": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-08"
     },
     "AILET": {
       "level": "Not ready (insufficient data)",
       "projection_pct": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-08"
     },
     "CUET": {
       "level": "Not ready (insufficient data)",
@@ -807,7 +844,7 @@
     "NLSAT": {
       "level": "Not ready (insufficient data)",
       "projection_pct": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-08"
     }
   },
   "missed_sessions": [
@@ -918,7 +955,7 @@
     "technique_week": 2,
     "technique_started": "2026-11-02",
     "log": [],
-    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min ≈ 120 s/Q vs 60 s budget; reading time not measured.",
+    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min \u2248 120 s/Q vs 60 s budget; reading time not measured.",
     "technique_note": "Week 2 (paragraph map) named from 8 Nov session (one day early; no drills returned yet)"
   }
 }
