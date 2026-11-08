@@ -36,7 +36,7 @@
     }
   },
   "calendar_last_verified": "2026-11-08",
-  "sessions_completed": 15,
+  "sessions_completed": 16,
   "streak": 0,
   "last_session": "2026-11-02",
   "pending_session": "2026-11-08",
@@ -109,34 +109,42 @@
       "next_review": null
     },
     "GK-CA": {
-      "mastery": 53,
-      "attempts": 8,
-      "correct": 4,
+      "mastery": 62,
+      "attempts": 9,
+      "correct": 5,
       "recent": [
         0,
         1,
         1,
         0,
         0,
+        1,
+        0,
+        1,
+        1
+      ],
+      "last_seen": "2026-11-08",
+      "interval_days": 6,
+      "next_review": "2026-11-14"
+    },
+    "LEG-NEW": {
+      "mastery": 76,
+      "attempts": 9,
+      "correct": 6,
+      "recent": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
         1,
         0,
         1
       ],
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-08",
       "interval_days": 3,
-      "next_review": "2026-11-06"
-    },
-    "LEG-NEW": {
-      "mastery": 0,
-      "attempts": 2,
-      "correct": 0,
-      "recent": [
-        0,
-        0
-      ],
-      "last_seen": "2026-11-01",
-      "interval_days": 1,
-      "next_review": "2026-11-02"
+      "next_review": "2026-11-11"
     },
     "GK-POL": {
       "mastery": 0,
@@ -396,10 +404,6 @@
   },
   "review_queue": [
     {
-      "topic": "LEG-NEW",
-      "due": "2026-11-02"
-    },
-    {
       "topic": "COMP",
       "due": "2026-11-04"
     },
@@ -420,10 +424,6 @@
       "due": "2026-11-04"
     },
     {
-      "topic": "GK-CA",
-      "due": "2026-11-06"
-    },
-    {
       "topic": "LEG-PRIN",
       "due": "2026-11-09"
     },
@@ -432,11 +432,19 @@
       "due": "2026-11-09"
     },
     {
+      "topic": "LEG-NEW",
+      "due": "2026-11-11"
+    },
+    {
       "topic": "LR-CR",
       "due": "2026-11-14"
     },
     {
       "topic": "ENG-VOC",
+      "due": "2026-11-14"
+    },
+    {
+      "topic": "GK-CA",
       "due": "2026-11-14"
     },
     {
@@ -899,16 +907,49 @@
       },
       "graded_on": "2026-11-08",
       "note": "Day-15 AILET polity set answered 8 Nov (5 days late), 7 min for 8 answered (52 s/Q vs 48 s budget); no reading time sent. Passage + vocab 4/4 (sanction, temper, perfunctory, main idea). GK-POL 0/4 straight after the route lesson: Q4 chose Art 143 for a State-v-Union suit (131); Q5 'must answer every question' (Court may decline; Art 145(3) five judges); Q6 picked 'reserve for President' as not available (Money Bill cannot be returned); Q7 one year (two months, Art 356(3)). Q9-10 CA recall left blank."
+    },
+    {
+      "date": "2026-11-04",
+      "type": "normal",
+      "exam": "NLSAT",
+      "topic": "LEG-NEW",
+      "questions": 10,
+      "correct": 9,
+      "wrong": 1,
+      "unanswered": 0,
+      "raw": 9,
+      "net": 8.75,
+      "max": 10,
+      "minutes": 8,
+      "surprise": false,
+      "per_topic": {
+        "LEG-NEW": [
+          6,
+          7
+        ],
+        "GK-CA": [
+          1,
+          1
+        ]
+      },
+      "not_in_mastery": {
+        "GK-POL": [
+          2,
+          2
+        ]
+      },
+      "graded_on": "2026-11-08",
+      "note": "Day-16 NLSAT judgment-report set answered 8 Nov (4 days late), 8 min for 10 (48 s/Q vs 60 s budget); no reading time sent. Passage Q1-5 5/5 (holding, purpose, result, BNSS 218, application). Missed Q6: picked 'employees become government servants' for Art 12 'State' - the exact error the passage corrected. Q7-8 (Art 131, Art 145(3)) right but are repeats of 3 Nov Q4-5 graded earlier the same day - counted in score, not mastery. Recall: DPDP Rules MeitY right; AI-summit sutras right (missed 1 Nov)."
     }
   ],
   "readiness": {
     "CLAT": {
-      "level": "Not ready (Current Affairs Red: 4/22 weighted, 18%, proj. -2%; coverage now 2/3)",
+      "level": "Not ready (Current Affairs Red: 11/30 weighted, 37%, proj. 21%; coverage 3/3)",
       "projection_pct": null,
       "updated": "2026-11-08"
     },
     "AILET": {
-      "level": "Not ready (CA & GK Red: 18%, coverage 2/4; English Green)",
+      "level": "Not ready (CA & GK Red: 37%, proj. 21%, coverage 3/4; English Green)",
       "projection_pct": null,
       "updated": "2026-11-08"
     },
@@ -918,7 +959,7 @@
       "updated": "2026-11-01"
     },
     "NLSAT": {
-      "level": "Not ready (Part A CA/GK Red: 18%, coverage 2/3)",
+      "level": "Not ready (Part A CA/GK Red: 37%, proj. 21%, coverage 3/3)",
       "projection_pct": null,
       "updated": "2026-11-08"
     }
@@ -1002,7 +1043,8 @@
     {
       "date": "2026-11-04",
       "exam": "NLSAT",
-      "topic": "LEG-NEW"
+      "topic": "LEG-NEW",
+      "answered_late": "2026-11-08"
     },
     {
       "date": "2026-11-05",
