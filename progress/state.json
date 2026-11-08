@@ -36,7 +36,7 @@
     }
   },
   "calendar_last_verified": "2026-11-08",
-  "sessions_completed": 14,
+  "sessions_completed": 15,
   "streak": 0,
   "last_session": "2026-11-02",
   "pending_session": "2026-11-08",
@@ -49,9 +49,9 @@
   ],
   "topics": {
     "ENG-RC": {
-      "mastery": 82,
-      "attempts": 10,
-      "correct": 9,
+      "mastery": 85,
+      "attempts": 11,
+      "correct": 10,
       "recent": [
         1,
         1,
@@ -62,18 +62,22 @@
         1,
         1,
         1,
-        0
+        0,
+        1
       ],
       "last_seen": "2026-11-08",
       "interval_days": 12,
       "next_review": "2026-11-20"
     },
     "ENG-VOC": {
-      "mastery": 97,
-      "attempts": 8,
-      "correct": 7,
+      "mastery": 98,
+      "attempts": 11,
+      "correct": 10,
       "recent": [
         0,
+        1,
+        1,
+        1,
         1,
         1,
         1,
@@ -83,8 +87,8 @@
         1
       ],
       "last_seen": "2026-11-03",
-      "interval_days": 3,
-      "next_review": "2026-11-06"
+      "interval_days": 6,
+      "next_review": "2026-11-14"
     },
     "ENG-GRM": {
       "mastery": 0,
@@ -136,16 +140,20 @@
     },
     "GK-POL": {
       "mastery": 0,
-      "attempts": 3,
+      "attempts": 7,
       "correct": 0,
       "recent": [
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         0
       ],
       "last_seen": "2026-11-03",
       "interval_days": 1,
-      "next_review": "2026-11-04"
+      "next_review": "2026-11-09"
     },
     "GK-ECO": {
       "mastery": 0,
@@ -392,10 +400,6 @@
       "due": "2026-11-02"
     },
     {
-      "topic": "GK-POL",
-      "due": "2026-11-04"
-    },
-    {
       "topic": "COMP",
       "due": "2026-11-04"
     },
@@ -416,10 +420,6 @@
       "due": "2026-11-04"
     },
     {
-      "topic": "ENG-VOC",
-      "due": "2026-11-06"
-    },
-    {
       "topic": "GK-CA",
       "due": "2026-11-06"
     },
@@ -428,7 +428,15 @@
       "due": "2026-11-09"
     },
     {
+      "topic": "GK-POL",
+      "due": "2026-11-09"
+    },
+    {
       "topic": "LR-CR",
+      "due": "2026-11-14"
+    },
+    {
+      "topic": "ENG-VOC",
       "due": "2026-11-14"
     },
     {
@@ -860,16 +868,47 @@
       },
       "graded_on": "2026-11-08",
       "note": "Day-12 AILET CR set answered late (8 Nov), 7 min vs ~6.4-min budget (48 s/q). CR 4/6: weaken, strengthen, flaw, paradox right; missed Q1 main conclusion (picked premise A) and Q2 assumption (picked over-strong 'every customer' B). Q7 revocation of acceptance right; Q8 picked D - right result (no defence), wrong reason (invented lack of care) - 3rd law-vs-fact classification miss."
+    },
+    {
+      "date": "2026-11-03",
+      "type": "normal",
+      "exam": "AILET",
+      "topic": "GK-POL",
+      "questions": 10,
+      "correct": 4,
+      "wrong": 4,
+      "unanswered": 2,
+      "raw": 4,
+      "net": 3.0,
+      "max": 10,
+      "minutes": 7,
+      "surprise": false,
+      "per_topic": {
+        "ENG-VOC": [
+          3,
+          3
+        ],
+        "ENG-RC": [
+          1,
+          1
+        ],
+        "GK-POL": [
+          0,
+          4
+        ]
+      },
+      "graded_on": "2026-11-08",
+      "note": "Day-15 AILET polity set answered 8 Nov (5 days late), 7 min for 8 answered (52 s/Q vs 48 s budget); no reading time sent. Passage + vocab 4/4 (sanction, temper, perfunctory, main idea). GK-POL 0/4 straight after the route lesson: Q4 chose Art 143 for a State-v-Union suit (131); Q5 'must answer every question' (Court may decline; Art 145(3) five judges); Q6 picked 'reserve for President' as not available (Money Bill cannot be returned); Q7 one year (two months, Art 356(3)). Q9-10 CA recall left blank."
     }
   ],
   "readiness": {
     "CLAT": {
-      "level": "Not ready (insufficient data; Current Affairs Red, 3/16 weighted)",
+      "level": "Not ready (Current Affairs Red: 4/22 weighted, 18%, proj. -2%; coverage now 2/3)",
       "projection_pct": null,
       "updated": "2026-11-08"
     },
     "AILET": {
-      "level": "Not ready (insufficient data)",
+      "level": "Not ready (CA & GK Red: 18%, coverage 2/4; English Green)",
       "projection_pct": null,
       "updated": "2026-11-08"
     },
@@ -879,7 +918,7 @@
       "updated": "2026-11-01"
     },
     "NLSAT": {
-      "level": "Not ready (insufficient data)",
+      "level": "Not ready (Part A CA/GK Red: 18%, coverage 2/3)",
       "projection_pct": null,
       "updated": "2026-11-08"
     }
@@ -957,7 +996,8 @@
     {
       "date": "2026-11-03",
       "exam": "AILET",
-      "topic": "GK-POL"
+      "topic": "GK-POL",
+      "answered_late": "2026-11-08"
     },
     {
       "date": "2026-11-04",
@@ -992,7 +1032,7 @@
     "technique_week": 2,
     "technique_started": "2026-11-02",
     "log": [],
-    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min \u2248 120 s/Q vs 60 s budget; reading time not measured.",
+    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min ≈ 120 s/Q vs 60 s budget; reading time not measured.",
     "technique_note": "Week 2 (paragraph map) named from 8 Nov session (one day early; no drills returned yet)"
   }
 }
