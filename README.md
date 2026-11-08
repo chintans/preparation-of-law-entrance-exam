@@ -34,7 +34,8 @@ Full details and sources: [`exams/`](exams/). The live date tracker is
 | `progress/log.md` | One line per session |
 | `progress/readiness.md` | Latest readiness report (RAG per exam and section) |
 | `sessions/YYYY-MM-DD.md` | Each day's lesson, test, your answers and the grading |
-| `research/` | Notes carried forward: current-affairs log, cut-offs, sources |
+| `research/` | Notes carried forward: `ca-items.json` (tagged CA/polity items — source of truth), generated `hook-map.md` and `current-affairs.md`, cut-offs, sources |
+| `tools/` | `hookmap.py` — rebuilds the hook map and CA log from `ca-items.json` |
 
 ## How a day works
 

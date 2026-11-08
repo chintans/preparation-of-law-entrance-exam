@@ -29,7 +29,7 @@ session length and surprise tests: `plan/study-plan.md`. State: `progress/state.
    draw and the reasoning in the session file's metadata.
 6a. **CA brief.** Build today's Current-Affairs Brief per `plan/study-plan.md` → "Current-affairs
    brief" (every session except exam day; surprise tests included). Verify every item by web search,
-   cite it in the session file, log it in `research/current-affairs.md`, and advance
+   cite it in the session file, add it to `research/ca-items.json` (see section E), and advance
    `ca.backfill_cursor` in `state.json`.
 6b. **Constitution Capsule.** Every session except exam day: take the unit at `constitution.cursor`
    (`syllabus/constitution-track.md`; repeat the previous unit if `repeat_pending`), build the capsule per
@@ -54,7 +54,7 @@ session length and surprise tests: `plan/study-plan.md`. State: `progress/state.
 - **Lesson (5–10 min read):** the concept in plain language → a rule of thumb or method →
   one worked example in the target exam's style → the trap examiners set. Use real current
   events and real legal developments; verify any fact you are not certain of with a web search,
-  and log new current-affairs facts in `research/current-affairs.md` with the date and source.
+  and add new current-affairs facts to `research/ca-items.json` (kind `lesson`) with the date, hooks and source.
 - **Constitution Capsule (~4 min, every session, after the lesson):** see `plan/study-plan.md` → "Daily
   Constitution Capsule" — 5 numbered flash facts, say-it drill, one case, the trap.
 - **Test:** count per `plan/study-plan.md`. Match the exam's style (passage-based for CLAT/NLSAT,
@@ -95,6 +95,8 @@ session length and surprise tests: `plan/study-plan.md`. State: `progress/state.
    - Spaced repetition: accuracy ≥ 80% → next review interval doubles (start 3 days, cap 30);
      50–79% → interval stays; < 50% → review in 1 day. Write `next_review`; maintain `review_queue`.
    - `sessions_completed`, `streak`, `last_session`, clear `pending_session`, append to `tests`.
+   - In `research/ca-items.json`, set each CA/polity item's `tests` entry from `pending` to `right`/`wrong`/`blank`;
+     for a wrong answer add `chose` (the option he picked, in a few words). Then run `python3 tools/hookmap.py --today <date>`.
 3. Update the session file: his answers, score, per-question verdict, misses explained.
 4. Append one line to `progress/log.md`.
 5. Recompute readiness (section D). Rewrite `progress/readiness.md` after surprise tests, every
@@ -126,8 +128,16 @@ For each exam and each of its sections (`syllabus/topic-map.md` section mapping)
 
 ## E. Research carried forward
 
-- `research/current-affairs.md` — dated log of verified current-affairs facts taught or tested
-  (feeds revision and mocks; avoid repeating questions).
+- `research/ca-items.json` — **source of truth** for every current-affairs item briefed or taught and every polity
+  fact tested: `id, logged, kind (brief|lesson|static), category, label, topics, hooks, fact, sources, tests`.
+  Hooks are normalised strings: `Art 22`, `Tenth Schedule`, `BNSS 58`, `CrPC 57` (always add both old and new
+  code numbers), `Act: …`, `Case: …`, `Body: …`, `Person: …`, `Report: …`, `Treaty: …`, `Event: …`.
+  When a question uses an item, append `{date, q, result: "pending"}` to its `tests`; grading resolves it.
+  After any edit run `python3 tools/hookmap.py --today <date>`, which regenerates:
+  - `research/hook-map.md` — hook → items with ✓/✗ record, his recorded confusions, and **recall candidates**
+    (pick CA recall questions from the top of that list; build "neighbour" questions from hooks he already got
+    right; re-test hooks marked ✗ or –);
+  - `research/current-affairs.md` — readable dated log (generated; never edit by hand).
 - `research/cutoffs.md` — previous-year cut-offs with sources. **Backlog:** fill this in the first
   Monday session (search for CLAT 2026 closing ranks/marks at NLSIU, NALSAR, NLU Delhi via AILET,
   DU LLB CUET PG 2026 cut-offs, NLSAT 2026 cut-offs).

@@ -68,10 +68,11 @@ Every session except exam day opens with a **Current-Affairs Brief** of **6 item
   - Phase 1 (to 13 Dec 2026): window **Nov 2025 → Nov 2026** (CLAT/AILET). Cursor must reach the current month by ~30 Nov.
   - Phase 2/3: window **Apr 2026 → Mar 2027** (CUET/NLSAT); add 1 static-GK item (GK-STA) per brief for CUET.
 - **Accuracy:** every item verified by web search (prefer PIB, official sites, SC/HC judgments, reputable dailies); cite
-  in the session file; log in `research/current-affairs.md` as `(brief)`; never repeat an item already briefed unless
+  in the session file; add to `research/ca-items.json` as kind `brief` with its hooks; never repeat an item already briefed unless
   it has a new development.
 - **Recall questions:** every normal session's test adds **2 standalone CA recall questions** from briefs ≥ 3 days old
-  (prefer items never tested; on Sundays, **5**), tagged GK-CA / LEG-NEW / GK-POL / GK-ECO. Mark logged items `(tested)`.
+  (on Sundays, **5**), tagged GK-CA / LEG-NEW / GK-POL / GK-ECO, chosen from the top of **Recall candidates** in
+  `research/hook-map.md`. Record each use as a `pending` test on the item in `research/ca-items.json`.
   Today's brief is never tested the same day.
 - **Day before an exam:** the brief becomes a top-15 "most likely to be asked" recap. **Exam day:** none.
 

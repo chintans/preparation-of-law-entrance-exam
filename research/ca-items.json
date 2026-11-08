@@ -1,0 +1,1312 @@
+{
+ "schema": 1,
+ "note": "Source of truth for current-affairs and polity items taught/tested. Edit here, then run: python3 tools/hookmap.py --today YYYY-MM-DD",
+ "items": [
+  {
+   "id": "ca-20261020-1",
+   "logged": "2026-10-20",
+   "kind": "lesson",
+   "category": "legislation",
+   "label": "BNS replaced IPC (1 Jul 2024)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "BNS 303",
+    "Act: BNS 2023"
+   ],
+   "fact": "Bharatiya Nyaya Sanhita, 2023 replaced the IPC w.e.f. 1 July 2024; theft is BNS s. 303",
+   "sources": "MHA notification / India Code",
+   "tests": []
+  },
+  {
+   "id": "ca-20261026-1",
+   "logged": "2026-10-26",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "16th Presidential Reference answered",
+   "topics": [
+    "LEG-NEW",
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 143",
+    "Art 200",
+    "Art 201",
+    "Art 145"
+   ],
+   "fact": "20 Nov 2025: 5-judge Constitution Bench (CJI B. R. Gavai; Surya Kant, Vikram Nath, P. S. Narasimha, A. S. Chandurkar JJ) answered the 16th Presidential Reference (Art. 143, 14 questions) — no court-fixed timelines under Arts 200/201, no 'deemed assent', limited review of prolonged unexplained inaction (direction to decide, no merits review); followed State of TN v Governor of TN (Apr 2025, 2 judges; 10 Bills deemed assented)",
+   "sources": "Wikipedia case page; Drishti IAS 25 Nov 2025",
+   "tests": [
+    {
+     "date": "2026-10-26",
+     "q": "surprise Q5",
+     "result": "wrong",
+     "chose": "Art 32"
+    },
+    {
+     "date": "2026-10-26",
+     "q": "surprise Q7",
+     "result": "wrong",
+     "chose": "Chandrachud as presiding CJI (it was Gavai)"
+    },
+    {
+     "date": "2026-10-26",
+     "q": "surprise Q9",
+     "result": "wrong",
+     "chose": "deemed assent (April 2025 two-judge ruling)"
+    },
+    {
+     "date": "2026-11-02",
+     "q": "Q10",
+     "result": "wrong",
+     "chose": "Art 200 (subject, not route)"
+    },
+    {
+     "date": "2026-11-06",
+     "q": "Q7",
+     "result": "right"
+    },
+    {
+     "date": "2026-11-07",
+     "q": "Q6",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261026-2",
+   "logged": "2026-10-26",
+   "kind": "brief",
+   "category": "appointments",
+   "label": "Surya Kant 53rd CJI",
+   "topics": [
+    "GK-CA",
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 124",
+    "Person: Surya Kant"
+   ],
+   "fact": "Justice Surya Kant sworn in as 53rd CJI on 24 Nov 2025 (first from Haryana; tenure ~15 months); B. R. Gavai was 52nd",
+   "sources": "Scroll; The Week",
+   "tests": [
+    {
+     "date": "2026-10-26",
+     "q": "surprise Q8",
+     "result": "wrong",
+     "chose": "Gavai (52nd)"
+    },
+    {
+     "date": "2026-11-03",
+     "q": "Q10",
+     "result": "blank"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261027-1",
+   "logged": "2026-10-27",
+   "kind": "lesson",
+   "category": "legislation",
+   "label": "DPDP Rules 2025 (MeitY)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Act: DPDP Act 2023",
+    "Body: MeitY",
+    "Body: Data Protection Board"
+   ],
+   "fact": "DPDP Rules, 2025 notified by MeitY on 14 Nov 2025 under the DPDP Act, 2023; phased 12–18 months (consent managers, notices, core processing norms); Data Protection Board to levy penalties, up to ₹250 crore per breach under the Act; breach intimation to affected persons 'without delay'",
+   "sources": "Deccan Herald 14 Nov 2025; PIB 17 Nov 2025",
+   "tests": [
+    {
+     "date": "2026-11-04",
+     "q": "Q9",
+     "result": "right"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261101-1",
+   "logged": "2026-11-01",
+   "kind": "lesson",
+   "category": "international/science",
+   "label": "India AI Impact Summit 2026",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Event: AI Impact Summit",
+    "Body: MeitY"
+   ],
+   "fact": "India AI Impact Summit, 16–20 Feb 2026 (extended to 21 Feb), Bharat Mandapam, New Delhi; MeitY/IndiaAI Mission; first in the Global South; 4th in series (Bletchley 2023 → Seoul 2024 → Paris 2025); next Geneva, Switzerland 2027 (UAE 2028); New Delhi Declaration on AI Impact endorsed by 88 countries & orgs; 3 sutras People, Planet, Progress; 7 chakras",
+   "sources": "Wikipedia; newsonair 21 Feb 2026; NeGD",
+   "tests": [
+    {
+     "date": "2026-11-01",
+     "q": "Q1-Q4",
+     "result": "wrong",
+     "chose": "2/4: sutras (invented triad), next host Brazil (COP30)"
+    },
+    {
+     "date": "2026-11-02",
+     "q": "Q9 next host",
+     "result": "right"
+    },
+    {
+     "date": "2026-11-03",
+     "q": "Q9 next host",
+     "result": "blank"
+    },
+    {
+     "date": "2026-11-04",
+     "q": "Q10 sutras",
+     "result": "right"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261101-2",
+   "logged": "2026-11-01",
+   "kind": "brief",
+   "category": "schemes",
+   "label": "IndiaAI Mission outlay ₹10,372 cr",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: MeitY"
+   ],
+   "fact": "IndiaAI Mission outlay ₹10,371.92 crore (Cabinet, 7 Mar 2024)",
+   "sources": "PIB",
+   "tests": [
+    {
+     "date": "2026-11-01",
+     "q": "Q6",
+     "result": "wrong",
+     "chose": "₹76,000 cr (India Semiconductor Mission)"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261102-1",
+   "logged": "2026-11-02",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Tribunals Reforms Act 2021 struck down in part",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Act: Tribunals Reforms Act 2021",
+    "Act: Administrative Tribunals Act 1985",
+    "Case: Madras Bar Association"
+   ],
+   "fact": "19 Nov 2025: SC (CJI B. R. Gavai, K. Vinod Chandran J) struck down parts of the Tribunals Reforms Act, 2021 — 50-yr minimum age, 4-yr tenure (min. 5 required), two-names-per-post panel, civil-service-linked conditions — as re-enactments of provisions invalidated in Madras Bar Assn (2020, 2021); Centre to set up a National Tribunals Commission within 4 months",
+   "sources": "SC Observer; Vision IAS",
+   "tests": [
+    {
+     "date": "2026-11-05",
+     "q": "surprise Q9",
+     "result": "wrong",
+     "chose": "Administrative Tribunals Act 1985"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261102-2",
+   "logged": "2026-11-02",
+   "kind": "brief",
+   "category": "legislation/economy",
+   "label": "Four Labour Codes in force (29 laws)",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Act: Labour Codes"
+   ],
+   "fact": "21 Nov 2025: all four Labour Codes in force (Wages 2019; IR 2020; Social Security 2020; OSH & WC 2020), subsuming 29 central labour laws; appointment letters, universal minimum wage, gig/platform social security",
+   "sources": "PIB via labour.gov.in",
+   "tests": [
+    {
+     "date": "2026-11-05",
+     "q": "surprise Q7",
+     "result": "wrong",
+     "chose": "44 laws (old count)"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261102-3",
+   "logged": "2026-11-02",
+   "kind": "brief",
+   "category": "sports",
+   "label": "India win Women's ODI World Cup 2025",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: ICC"
+   ],
+   "fact": "2 Nov 2025: India won its first Women's ODI World Cup, beating South Africa by 52 runs at DY Patil Stadium, Navi Mumbai (298/7 v 246); capt. Harmanpreet Kaur; PoM Shafali Verma (87 + 2 wkts); PoT Deepti Sharma (22 wkts, 215 runs); 13th edition, co-hosted with Sri Lanka",
+   "sources": "The Star (Reuters) 3 Nov 2025; Wikipedia",
+   "tests": []
+  },
+  {
+   "id": "ca-20261102-4",
+   "logged": "2026-11-02",
+   "kind": "brief",
+   "category": "legal/polity",
+   "label": "CEC acting without full Commission plea",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 324",
+    "Body: Election Commission of India"
+   ],
+   "fact": "Oct 2026: SC (CJI Surya Kant, Bagchi, V. Mohana JJ) hearing Rakesh Kumar Singh v UoI (WP(C) 1246/2026) — whether CEC Gyanesh Kumar acted without the full Commission (SIR orders, Form 6); notice 5 Oct, suspension declined; ECI affidavit 26 Oct says SIR orders unanimous; Art 324(5) CEC removable only like an SC judge",
+   "sources": "SC Observer 27 Oct 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261102-5",
+   "logged": "2026-11-02",
+   "kind": "brief",
+   "category": "polity",
+   "label": "Shiv Sena (UBT) LS merger challenge",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Tenth Schedule"
+   ],
+   "fact": "27 Oct 2026: SC (Narasimha, Aradhe JJ) listed Shiv Sena (UBT) challenge to Speaker Om Birla accepting the merger of 6 of its 9 LS MPs with the Shinde-led Shiv Sena for final disposal on 8 Dec (Speaker did not appear); Tenth Schedule para 4 — merger needs ≥ 2/3 of legislature party",
+   "sources": "LawChakra",
+   "tests": []
+  },
+  {
+   "id": "ca-20261102-6",
+   "logged": "2026-11-02",
+   "kind": "brief",
+   "category": "international",
+   "label": "12th BRICS Parliamentary Forum",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: BRICS"
+   ],
+   "fact": "26–27 Oct 2026: 12th BRICS Parliamentary Forum, New Delhi, hosted by Parliament of India (Speaker Om Birla) in India's 2026 BRICS chairship; theme \"Fostering Parliaments for People-Centric Development\"; unanimous joint declaration (terrorism incl. Pahalgam 22 Apr 2025, global-governance reform, West Asia restraint); 10 members",
+   "sources": "newsonair 27 Oct 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261103-1",
+   "logged": "2026-11-03",
+   "kind": "brief",
+   "category": "legal/environment",
+   "label": "Aravalli definition kept in abeyance",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Body: MoEFCC"
+   ],
+   "fact": "29 Dec 2025: SC (CJI Surya Kant, J. K. Maheshwari, A. G. Masih JJ; suo motu) kept in abeyance its Nov 2025 directions accepting the MoEFCC committee's Aravalli definition (hill ≥ 100 m above local relief; range = 2+ hills within 500 m; only 1,048 of 12,081 hills qualify); new high-powered expert committee; no new mining meanwhile; notice returnable 21 Jan",
+   "sources": "LiveLaw 29 Dec 2025; newsonair",
+   "tests": [
+    {
+     "date": "2026-11-06",
+     "q": "Q10",
+     "result": "right"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261103-2",
+   "logged": "2026-11-03",
+   "kind": "brief",
+   "category": "legislation/schemes",
+   "label": "VB-G RAM G Act replaced MGNREGA (125 days)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Act: VB-G RAM G Act 2025",
+    "Act: MGNREGA 2005"
+   ],
+   "fact": "Dec 2025: Viksit Bharat – Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G RAM G) Act, 2025 replaced MGNREGA 2005 — 125 days (was 100), up to 60-day pause in peak farm season, Centre:State 60:40 (90:10 NE/Himalayan; 100% UTs without legislature), unemployment allowance after 15 days; RS passed 18 Dec; assent announced 21 Dec",
+   "sources": "Onmanorama 21 Dec 2025; India TV",
+   "tests": [
+    {
+     "date": "2026-11-06",
+     "q": "Q9",
+     "result": "right"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261103-3",
+   "logged": "2026-11-03",
+   "kind": "brief",
+   "category": "international",
+   "label": "23rd India–Russia summit",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: International Big Cat Alliance"
+   ],
+   "fact": "4–5 Dec 2025: 23rd India–Russia Annual Summit, New Delhi (Putin state visit); 16 pacts; Programme 2030; US$100 bn trade by 2030; 25 yrs of 2000 Strategic Partnership; Russia joined International Big Cat Alliance framework, backed India's UNSC bid",
+   "sources": "Drishti IAS 6 Dec 2025; Hitavada",
+   "tests": []
+  },
+  {
+   "id": "ca-20261103-4",
+   "logged": "2026-11-03",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "DPDP journalism-exemption plea",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Act: DPDP Act 2023"
+   ],
+   "fact": "27 Oct 2026: SC (CJI Surya Kant, Bagchi, V. Mohana JJ) issued notice on Digital News Publishers Association plea that DPDP Act 2023 lacks a journalism exemption; no interim stay; next hearing 17 Nov",
+   "sources": "ANI 27 Oct 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261103-5",
+   "logged": "2026-11-03",
+   "kind": "brief",
+   "category": "polity/judgments",
+   "label": "Karnataka validation Act struck down",
+   "topics": [
+    "GK-POL",
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Doctrine: separation of powers"
+   ],
+   "fact": "29 Oct 2026: SC (Pardiwala, K. Vinod Chandran JJ), Srinivasa T v State of Karnataka (2026 INSC 1173) — struck down Karnataka Civil Services (Validation of Selection and Appointment of 2011 Batch Gazetted Probationers) Act, 2022 (362 KPSC posts); legislature cannot annul a final judgment",
+   "sources": "Verdictum 30 Oct 2026; LiveLaw",
+   "tests": []
+  },
+  {
+   "id": "ca-20261103-6",
+   "logged": "2026-11-03",
+   "kind": "brief",
+   "category": "appointments",
+   "label": "Ashutosh Dixit 29th Chief of Air Staff",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [],
+   "fact": "31 Oct 2026: Air Chief Marshal Ashutosh Dixit took over as 29th Chief of the Air Staff, succeeding A. P. Singh (was CISC); Air Marshal Inderpal Singh Walia Vice Chief from 1 Nov",
+   "sources": "newsonair 6 Oct 2026; AffairsCloud 1–2 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261104-1",
+   "logged": "2026-11-04",
+   "kind": "brief",
+   "category": "legislation",
+   "label": "SHANTI Act 2025 (nuclear)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Act: SHANTI Act 2025",
+    "Act: Atomic Energy Act 1962",
+    "Act: CLND Act 2010"
+   ],
+   "fact": "Dec 2025: SHANTI (Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India) Act, 2025 — private cos/JVs may build, own, operate, decommission nuclear plants under licence; repeals Atomic Energy Act 1962 and Civil Liability for Nuclear Damage Act 2010; President's assent reported 22 Dec 2025",
+   "sources": "newsonair 22 Dec 2025; Business Today",
+   "tests": [
+    {
+     "date": "2026-11-08",
+     "q": "Q9",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261104-2",
+   "logged": "2026-11-04",
+   "kind": "brief",
+   "category": "economy",
+   "label": "RBI repo 5.25% (Dec 2025)",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Body: RBI MPC",
+    "Act: RBI Act 1934"
+   ],
+   "fact": "5 Dec 2025: RBI MPC (58th meeting, 3–5 Dec; Gov. Sanjay Malhotra) cut repo 25 bp to 5.25%, unanimous; SDF 5.00%, MSF/Bank Rate 5.50%; neutral stance",
+   "sources": "SCC Online 6 Dec 2025",
+   "tests": [
+    {
+     "date": "2026-11-07",
+     "q": "Q9",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261104-3",
+   "logged": "2026-11-04",
+   "kind": "brief",
+   "category": "appointments/polity",
+   "label": "Raj Kumar Goyal CIC",
+   "topics": [
+    "GK-POL",
+    "GK-CA"
+   ],
+   "hooks": [
+    "Act: RTI Act 2005",
+    "Body: Central Information Commission"
+   ],
+   "fact": "15 Dec 2025: Raj Kumar Goyal (IAS 1990, ex-Secretary Dept of Justice) sworn in as Chief Information Commissioner by President Murmu; CIC back to full strength; selection: PM, LoP (LS), Union Cabinet Minister nominated by PM; RTI Act 2005",
+   "sources": "Drishti IAS 15 Dec 2025; The Week",
+   "tests": [
+    {
+     "date": "2026-11-08",
+     "q": "Q12",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261104-4",
+   "logged": "2026-11-04",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Foreign divorce no shield to bigamy",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "CPC 13",
+    "IPC 494",
+    "BNS 82",
+    "Act: Hindu Marriage Act 1955"
+   ],
+   "fact": "3 Nov 2026: SC (Prashant Kumar Mishra, Shree Chandrashekhar JJ), N. Sridhar Reddy v State of AP, 2026 LiveLaw (SC) 1125 — UK divorce on irretrievable breakdown (not an HMA ground) fails s. 13 CPC; later change of citizenship no defence; IPC s. 494 bigamy prosecution continues",
+   "sources": "LiveLaw 3 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261104-5",
+   "logged": "2026-11-04",
+   "kind": "brief",
+   "category": "reports & indices",
+   "label": "World Bank: extreme poverty 2.6%",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Body: World Bank"
+   ],
+   "fact": "Oct 2026: World Bank Poverty & Equity Brief — India extreme poverty 27.1% (2011) → 2.6% (2023); ~496 mn above $4.20/day LMIC line; share below it 57.7% → 16.1%, proj. 12.1% by 2028",
+   "sources": "DD India 30 Oct 2026; AffairsCloud 1–2 Nov 2026",
+   "tests": [
+    {
+     "date": "2026-11-08",
+     "q": "Q13",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261104-6",
+   "logged": "2026-11-04",
+   "kind": "brief",
+   "category": "science",
+   "label": "NVS-03 / NavIC",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: ISRO"
+   ],
+   "fact": "30 Oct 2026: ISRO GSLV-F18 launched NVS-03 (indigenous atomic clock, L1 signal) from second launch pad, Sriharikota; NavIC back to minimum 4-satellite operational set (full: 3 GEO + 4 IGSO)",
+   "sources": "GKToday; newsonair 30 Oct 2026",
+   "tests": [
+    {
+     "date": "2026-11-07",
+     "q": "Q10",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261104-7",
+   "logged": "2026-11-04",
+   "kind": "lesson",
+   "category": "legal/judgments",
+   "label": "Jodhpur Discoms — s. 197 sanction test",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "CrPC 197",
+    "BNSS 218",
+    "Art 12"
+   ],
+   "fact": "SC, Jodhpur Discoms v Lalit Soni, 2026 LiveLaw (SC) 1123 (Mishra, Chandrashekhar JJ; reported 3 Nov 2026) — employees of govt company/'State' under Art 12 not automatically entitled to s. 197 CrPC (now BNSS s. 218) sanction protection; test = removable only by/with govt sanction; HC orders set aside, revisions remitted",
+   "sources": "LiveLaw 3 Nov 2026",
+   "tests": [
+    {
+     "date": "2026-11-04",
+     "q": "Q1-Q5",
+     "result": "right"
+    },
+    {
+     "date": "2026-11-04",
+     "q": "Q6 Art 12",
+     "result": "wrong",
+     "chose": "Art 12 'State' makes employees government servants"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261105-1",
+   "logged": "2026-11-05",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "UGC Equity Regulations 2026 stayed",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 142",
+    "Art 14",
+    "Body: UGC"
+   ],
+   "fact": "29 Jan 2026: SC (CJI Surya Kant, Joymalya Bagchi J; Mritunjay Tiwari v UoI, WP(C) 101/2026 & connected) kept UGC (Promotion of Equity in HEIs) Regulations, 2026 in abeyance — Reg 3(1)(c) caste-discrimination definition limited to SC/ST/OBC; \"vague, capable of misuse\"; Art 142: 2012 Regulations continue; notice returnable 19 Mar",
+   "sources": "LiveLaw 29 Jan 2026; Drishti IAS 31 Jan 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261105-2",
+   "logged": "2026-11-05",
+   "kind": "brief",
+   "category": "international",
+   "label": "India–EU FTA concluded",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Treaty: India–EU FTA",
+    "Event: Republic Day 2026"
+   ],
+   "fact": "27 Jan 2026: India–EU FTA concluded at India–EU summit, Hyderabad House, New Delhi (Modi; von der Leyen, Costa — Republic Day 2026 chief guests); talks 2007, stalled 2013, relaunched 2022; EU: tariffs cut/removed on ~97% of EU exports; legal vetting, signing, ratification pending",
+   "sources": "Wikipedia; Vision IAS 27 Jan 2026",
+   "tests": [
+    {
+     "date": "2026-11-08",
+     "q": "Q11",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261105-3",
+   "logged": "2026-11-05",
+   "kind": "brief",
+   "category": "awards",
+   "label": "Padma Awards 2026 (131)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Art 18"
+   ],
+   "fact": "25 Jan 2026: Padma Awards 2026 — 131 (5 Vibhushan, 13 Bhushan, 113 Shri); Vibhushan: Dharmendra (posth.), V. S. Achuthanandan (posth.), K. T. Thomas, N. Rajam, P. Narayanan; Bhushan incl. Mammootty, Alka Yagnik, Uday Kotak, Vijay Amritraj, Shibu Soren (posth.); Padma Shri incl. Rohit Sharma, Harmanpreet Kaur",
+   "sources": "newsonair 25 Jan 2026; The News Minute",
+   "tests": []
+  },
+  {
+   "id": "ca-20261105-4",
+   "logged": "2026-11-05",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "No rotation of SC/ST seats (Delimitation Act)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 330",
+    "Art 332",
+    "Art 243D",
+    "Art 243T",
+    "Act: Delimitation Act 2002"
+   ],
+   "fact": "4 Nov 2026: SC (CJI Surya Kant, Bagchi, V. Mohana JJ) refused to interfere with Allahabad HC upholding s. 9(1)(c) Delimitation Act 2002 (reserved seats where SC/ST proportion comparatively higher); rotation for LS/Assembly seats is for Parliament, not courts; petitioner Jagdish Singh (Kadipur, Sultanpur); cf. Arts 243D/243T rotation for local bodies",
+   "sources": "PTI via Telangana Today, Nagaland Post 4–5 Nov 2026; LiveLaw",
+   "tests": []
+  },
+  {
+   "id": "ca-20261105-5",
+   "logged": "2026-11-05",
+   "kind": "brief",
+   "category": "polity",
+   "label": "Legislative Council polls; Art 169",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 169",
+    "Art 171",
+    "Art 368"
+   ],
+   "fact": "Nov 2026: biennial polls for 28 Legislative Council seats (UP, Bihar, Maharashtra, Karnataka); 6 States have Councils; Art 169 creation/abolition by Parliament on Assembly resolution (majority of total + 2/3 present & voting), not Art 368; Art 171 ≤ 1/3 of Assembly, ≥ 40",
+   "sources": "Legacy IAS 3 Nov 2026",
+   "tests": [
+    {
+     "date": "2026-11-08",
+     "q": "Q10",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261105-6",
+   "logged": "2026-11-05",
+   "kind": "brief",
+   "category": "economy",
+   "label": "Exports H1 FY27 ~US$480 bn",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [],
+   "fact": "3 Nov 2026: Piyush Goyal — exports grew ~14% in Apr–Sep FY27 to ~US$ 480 bn; FY target US$ 1 trillion",
+   "sources": "CrackTarget 3 Nov 2026 (single source)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261106-1",
+   "logged": "2026-11-06",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "s. 17A PC Act split verdict",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 14",
+    "Art 21",
+    "Act: Prevention of Corruption Act 1988",
+    "Act: DSPE Act 1946",
+    "Case: Vineet Narain (1998)",
+    "Case: Subramanian Swamy v Director CBI (2014)",
+    "Body: Lokpal"
+   ],
+   "fact": "13 Jan 2026: SC split verdict on s. 17A PC Act (prior approval before enquiry/investigation; inserted Jul 2018) — Nagarathna J struck down (Arts 14, 21; third attempt after Vineet Narain 1998 and Subramanian Swamy 2014/s. 6A DSPE), Viswanathan J upheld (approval via Lokpal/Lokayukta); placed before CJI Surya Kant for larger bench; CPIL v UoI, 2026 LiveLaw (SC) 43",
+   "sources": "LiveLaw; newsonair 14 Jan 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261106-2",
+   "logged": "2026-11-06",
+   "kind": "brief",
+   "category": "polity",
+   "label": "Governors walk out of address (TN, Karnataka)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 176",
+    "Art 163",
+    "Art 87"
+   ],
+   "fact": "20 Jan 2026 TN Governor R. N. Ravi left without reading address (Speaker Appavu read it; editorji, single); 22 Jan 2026 Karnataka Governor Thaawarchand Gehlot read only opening/closing lines (objected to paras on MGNREGA replacement, devolution); Art 176(1), Art 163",
+   "sources": "Free Press Journal; Republic World",
+   "tests": []
+  },
+  {
+   "id": "ca-20261106-3",
+   "logged": "2026-11-06",
+   "kind": "brief",
+   "category": "economy",
+   "label": "Economic Survey 2025-26",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Art 112",
+    "Person: V. Anantha Nageswaran"
+   ],
+   "fact": "29 Jan 2026: Economic Survey 2025-26 tabled by FM Sitharaman (DEA; CEA V. Anantha Nageswaran) — FY26 GDP 7.4% (NSO FAE), FY27 6.8–7.2%, potential growth ~7%; Budget 1 Feb (Art 112)",
+   "sources": "Deccan Herald; The Week 29 Jan 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261106-4",
+   "logged": "2026-11-06",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Piyush — insults not cruelty; FIR quashed",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "IPC 498A",
+    "BNS 85",
+    "IPC 304B",
+    "BNS 80",
+    "CrPC 482",
+    "BNSS 528",
+    "Case: Bhajan Lal (1992)"
+   ],
+   "fact": "~2 Nov 2026 (reported 3 Nov): SC (Nagarathna, Manmohan JJ), Piyush v State of Maharashtra, 2026 LiveLaw (SC) 1119 — quashed 304B/498A FIR against husband (wife's 2023 death in Toronto; note named no one); \"stupid/useless\" = temperament not cruelty; gold = gift not dowry; Bhajan Lal; Bombay HC (Aurangabad) had quashed only vs in-laws; IPC 498A→BNS 85, 304B→BNS 80",
+   "sources": "LiveLaw; Bar & Bench",
+   "tests": []
+  },
+  {
+   "id": "ca-20261106-5",
+   "logged": "2026-11-06",
+   "kind": "brief",
+   "category": "international",
+   "label": "WMO GHG Bulletin No. 22 — CO2 426.8 ppm",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: WMO",
+    "Event: COP31"
+   ],
+   "fact": "27 Oct 2026: WMO Greenhouse Gas Bulletin No. 22 — CO2 426.8 ppm in 2025 (153% of 1750), +2.8 ppm (2011–20 avg 2.4); CH4, N2O records; ahead of COP31 Antalya",
+   "sources": "wmo.int; UNB",
+   "tests": []
+  },
+  {
+   "id": "ca-20261106-6",
+   "logged": "2026-11-06",
+   "kind": "brief",
+   "category": "appointments",
+   "label": "Dinesh Ganvir 55th DG, GSI",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: Geological Survey of India"
+   ],
+   "fact": "1 Nov 2026: Dinesh V. Ganvir took charge as 55th DG, Geological Survey of India (Min. of Mines; HQ Kolkata; est. 1851); critical minerals focus",
+   "sources": "The Week (PTI) 2 Nov 2026; The Hans India",
+   "tests": []
+  },
+  {
+   "id": "ca-20261106-7",
+   "logged": "2026-11-06",
+   "kind": "lesson",
+   "category": "legal/judgments",
+   "label": "Sujit Das — Art 22(2) clock from detention",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 22",
+    "Art 21",
+    "BNSS 58",
+    "CrPC 57",
+    "Act: NDPS Act 1985",
+    "Case: D. K. Basu (1997)"
+   ],
+   "fact": "reported 5 Nov 2026: SC (Bhuyan, Chandurkar JJ), Sujit Das v UoI, 2026 INSC 1195 — Art 22(2) 24 h runs from actual detention, not formal arrest; no \"buffer zone\"; 18-h gap also breached s. 58 BNSS (s. 57 CrPC); s. 37 NDPS yields to Art 21 violation; bail; Magistrates to record actual detention time",
+   "sources": "Verdictum; Bar & Bench",
+   "tests": [
+    {
+     "date": "2026-11-06",
+     "q": "Q1-Q6",
+     "result": "right"
+    },
+    {
+     "date": "2026-11-07",
+     "q": "Q7",
+     "result": "pending"
+    },
+    {
+     "date": "2026-11-08",
+     "q": "Q6",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261107-1",
+   "logged": "2026-11-07",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Honorarium ₹7,000 is begar (Art 23)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 23",
+    "Act: RTE Act 2009"
+   ],
+   "fact": "4 Feb 2026: SC (Pankaj Mithal, P. B. Varale JJ), UP Junior High School Council Instructor Welfare Assn v State of UP, 2026 INSC 117 — fixed ₹7,000 honorarium for part-time Samagra Shiksha instructors (since 2013) is begar (Art 23); ₹17,000/month from 1 Apr 2026, revision every 3 yrs, State pays and recovers Centre's share (RTE s. 7(5))",
+   "sources": "SC Observer; LiveLaw Feb 2026 roundup",
+   "tests": []
+  },
+  {
+   "id": "ca-20261107-2",
+   "logged": "2026-11-07",
+   "kind": "brief",
+   "category": "economy",
+   "label": "Union Budget 2026-27 (FD 4.3%)",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Art 112",
+    "Act: Income-tax Act 2025"
+   ],
+   "fact": "1 Feb 2026: Union Budget 2026-27 (FM Sitharaman) — FD 4.3% of GDP FY27; total exp ₹53.47 lakh cr; capex ₹12.2 lakh cr; debt-GDP 55.6%; no slab change; Income-tax Act 2025 in force 1 Apr 2026; devolution 41%",
+   "sources": "Outlook Money; Scroll",
+   "tests": []
+  },
+  {
+   "id": "ca-20261107-3",
+   "logged": "2026-11-07",
+   "kind": "brief",
+   "category": "international",
+   "label": "New START expired 5 Feb 2026",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Treaty: New START"
+   ],
+   "fact": "5 Feb 2026: New START (US–Russia; signed 2010, in force 2011, extended 2021) expired; Russia suspended 2023; limits 1,550 deployed warheads, 700 deployed ICBM/SLBM/bombers, 800 launchers",
+   "sources": "Drishti IAS",
+   "tests": []
+  },
+  {
+   "id": "ca-20261107-4",
+   "logged": "2026-11-07",
+   "kind": "brief",
+   "category": "legal/polity",
+   "label": "National Book Trust is 'State' (Art 12)",
+   "topics": [
+    "LEG-NEW",
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 12"
+   ],
+   "fact": "6 Nov 2026: SC (P. K. Mishra, A. G. Masih JJ) held National Book Trust is 'State' under Art 12 (deep and pervasive control; upheld 2012 Delhi HC full bench)",
+   "sources": "Telangana Today (PTI)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261107-5",
+   "logged": "2026-11-07",
+   "kind": "brief",
+   "category": "economy",
+   "label": "GST Oct 2026 ₹2.31 lakh cr",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Art 279A",
+    "Body: GST Council"
+   ],
+   "fact": "1 Nov 2026: Oct 2026 gross GST > ₹2.31 lakh cr (+23% y-o-y); domestic ₹1.59 lakh cr (+15.8%); GST Council Art 279A",
+   "sources": "newsonair",
+   "tests": []
+  },
+  {
+   "id": "ca-20261107-6",
+   "logged": "2026-11-07",
+   "kind": "brief",
+   "category": "sports",
+   "label": "Manisha Bhanwala world wrestling champion",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: United World Wrestling"
+   ],
+   "fact": "30 Oct 2026: Manisha Bhanwala won women's 59 kg gold at World Wrestling Championships, Astana (beat Abigail Nette, USA, 8-6 from 0-6) — first Indian woman wrestling world champion; 2nd Indian after Sushil Kumar 2010; silver Neelam Sirohi 50 kg, Kajal Dhochak 76 kg",
+   "sources": "newsonair",
+   "tests": []
+  },
+  {
+   "id": "ca-20261107-7",
+   "logged": "2026-11-07",
+   "kind": "lesson",
+   "category": "polity",
+   "label": "Telangana BRS defection petitions",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Tenth Schedule",
+    "Case: Kihoto Hollohan (1992)"
+   ],
+   "fact": "Telangana BRS defections: SC 31 Jul 2025 (Padi Kaushik Reddy) 3-month direction; contempt notice 17 Nov 2025; Speaker Gaddam Prasad Kumar dismissed all 10 petitions Dec 2025–11 Mar 2026; SC (Karol, Masih JJ) closed contempt 12 Mar 2026; challenges in Telangana HC (heard Aug 2026)",
+   "sources": "Bar & Bench; LiveLaw; The South First; Telangana Today",
+   "tests": [
+    {
+     "date": "2026-11-07",
+     "q": "Q1-Q5",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261108-1",
+   "logged": "2026-11-08",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Harish Rana passive euthanasia",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 21",
+    "Case: Common Cause (2018)"
+   ],
+   "fact": "11 Mar 2026: SC (J. B. Pardiwala J; K. V. Viswanathan J concurring), Harish Rana v UoI, 2026 LiveLaw (SC) 229 — first court-applied passive euthanasia; clinically administered nutrition is medical treatment, withdrawable on Primary/Secondary Medical Board opinion; 30-day wait waived; AIIMS palliative care; he died 24 Mar 2026; Art 21, Common Cause 2018 (mod. Jan 2023)",
+   "sources": "LiveLaw; Onmanorama",
+   "tests": []
+  },
+  {
+   "id": "ca-20261108-2",
+   "logged": "2026-11-08",
+   "kind": "brief",
+   "category": "polity",
+   "label": "Assembly polls 2026 schedule (5 States/UT)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 324",
+    "Body: Election Commission of India"
+   ],
+   "fact": "15 Mar 2026: ECI (CEC Gyanesh Kumar; ECs S. S. Sandhu, Vivek Joshi) announced Assembly polls — Assam 126, Kerala 140, Puducherry 30 (9 Apr); TN 234 (23 Apr); WB 294 in two phases (23 & 29 Apr); counting 4 May; Art 324",
+   "sources": "The Week; Business Today (Puducherry date & phase split: The Week only)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261108-3",
+   "logged": "2026-11-08",
+   "kind": "brief",
+   "category": "reports & indices",
+   "label": "World Happiness Report 2026 — India 116",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Report: World Happiness Report",
+    "Body: UN SDSN"
+   ],
+   "fact": "~20 Mar 2026: World Happiness Report 2026 (\"Happiness and Social Media\") — Finland 1st (9th year), India 116th (from 118th), Afghanistan last (147th); Oxford Wellbeing Research Centre, Gallup, UN SDSN; Int'l Day of Happiness 20 Mar",
+   "sources": "Telangana Today; India TV",
+   "tests": []
+  },
+  {
+   "id": "ca-20261108-4",
+   "logged": "2026-11-08",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Commercial cultivation not a forest right (FRA)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Act: Forest Rights Act 2006",
+    "Person: B. R. Gavai"
+   ],
+   "fact": "6 Nov 2026: SC (Vikram Nath, Sandeep Mehta JJ), A. John Kennedy v State of TN, 2026 INSC 1204 — commercial cultivation not a forest right (Srivilliputhur–Megamalai Tiger Reserve); FRA 2006 s. 6 process; OTFD needs 3 generations (75 yrs) residence & dependence before 13 Dec 2005; committee headed by ex-CJI B. R. Gavai; interim report 1 Feb 2027",
+   "sources": "LawChakra; BareLaw",
+   "tests": []
+  },
+  {
+   "id": "ca-20261108-5",
+   "logged": "2026-11-08",
+   "kind": "brief",
+   "category": "economy",
+   "label": "PMI Oct 2026 54.7",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Report: HSBC India Manufacturing PMI"
+   ],
+   "fact": "2 Nov 2026: HSBC India Manufacturing PMI Oct 2026 54.7 (Sept 55.1); export orders 6-month high; input-cost inflation lowest since Feb; S&P Global; >50 = expansion",
+   "sources": "DD India; UNI",
+   "tests": []
+  },
+  {
+   "id": "ca-20261108-6",
+   "logged": "2026-11-08",
+   "kind": "brief",
+   "category": "sports",
+   "label": "India win 6th men's Asian Champions Trophy (hockey)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: Asian Hockey Federation"
+   ],
+   "fact": "5 Nov 2026: India beat Japan 4-1 at Mohali (Olympian Balbir Singh Sr. stadium) to win record 6th men's Asian Champions Trophy (hockey); capt. Harmanpreet Singh; earlier 2011, 2016, 2018 (shared), 2023, 2024; Asian Hockey Federation",
+   "sources": "Tribune; The Bridge",
+   "tests": []
+  },
+  {
+   "id": "ca-20261108-7",
+   "logged": "2026-11-08",
+   "kind": "lesson",
+   "category": "legislation",
+   "label": "BNSS 173 zero FIR & preliminary enquiry",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "BNSS 173",
+    "BNSS 175",
+    "CrPC 154",
+    "Case: Lalita Kumari (2013)",
+    "Case: Imran Pratapgadhi (2025)"
+   ],
+   "fact": "BNSS s. 173: zero FIR (any station irrespective of area), e-FIR signed within 3 days, s. 173(3) preliminary enquiry for offences ≥3 & <7 yrs with DSP permission within 14 days (\"may\"); Lalita Kumari (2013) partly displaced; Imran Pratapgadhi v State of Gujarat, 2025 INSC 410 (28 Mar 2025) — speech offences in band: ordinarily enquire first; refusal → SP s. 173(4), Magistrate s. 175(3) with affidavit",
+   "sources": "SCC Times 18 Aug 2026; LiveLaw",
+   "tests": [
+    {
+     "date": "2026-11-08",
+     "q": "Q1-Q5",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-art131",
+   "logged": "2026-11-03",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 131 — Union–State original suit",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 131",
+    "Art 32",
+    "Art 143"
+   ],
+   "fact": "Art 131: SC's original, exclusive jurisdiction in disputes between the Union and States (or States inter se) on legal rights.",
+   "sources": "standard reference (Constitution of India / official site)",
+   "tests": [
+    {
+     "date": "2026-11-03",
+     "q": "Q4",
+     "result": "wrong",
+     "chose": "Art 143"
+    },
+    {
+     "date": "2026-11-04",
+     "q": "Q7",
+     "result": "right"
+    },
+    {
+     "date": "2026-11-05",
+     "q": "surprise Q5",
+     "result": "right"
+    }
+   ]
+  },
+  {
+   "id": "static-art145-3",
+   "logged": "2026-11-03",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 143 reference — bench of ≥5 (Art 145(3)); Court may decline",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 143",
+    "Art 145"
+   ],
+   "fact": "Art 145(3): an Art 143 reference is heard by at least five judges; the Court may decline to answer (Ismail Faruqui, 1994).",
+   "sources": "standard reference (Constitution of India / official site)",
+   "tests": [
+    {
+     "date": "2026-11-03",
+     "q": "Q5",
+     "result": "wrong",
+     "chose": "Court bound to answer"
+    },
+    {
+     "date": "2026-11-04",
+     "q": "Q8",
+     "result": "right"
+    }
+   ]
+  },
+  {
+   "id": "static-art200-money",
+   "logged": "2026-10-26",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 200 proviso — Money Bill cannot be returned",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 200",
+    "Art 199"
+   ],
+   "fact": "Proviso to Art 200: the Governor may return a Bill other than a Money Bill for reconsideration.",
+   "sources": "standard reference (Constitution of India / official site)",
+   "tests": [
+    {
+     "date": "2026-10-26",
+     "q": "surprise Q6",
+     "result": "wrong",
+     "chose": "withholding assent as the odd one out"
+    },
+    {
+     "date": "2026-11-03",
+     "q": "Q6",
+     "result": "wrong"
+    }
+   ]
+  },
+  {
+   "id": "static-art356",
+   "logged": "2026-11-03",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 356 — Parliament approval within 2 months",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 356"
+   ],
+   "fact": "Art 356(3): proclamation approved by both Houses within two months; then six months at a time; outer limit three years (with conditions after one year).",
+   "sources": "standard reference (Constitution of India / official site)",
+   "tests": [
+    {
+     "date": "2026-11-03",
+     "q": "Q7",
+     "result": "wrong",
+     "chose": "six months"
+    }
+   ]
+  },
+  {
+   "id": "static-art12",
+   "logged": "2026-11-04",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 12 'State' ≠ government servant",
+   "topics": [
+    "GK-POL",
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 12",
+    "CrPC 197",
+    "BNSS 218"
+   ],
+   "fact": "'State' under Art 12 means bound by Part III and amenable to writs; it does not make employees government servants.",
+   "sources": "standard reference (Constitution of India / official site)",
+   "tests": [
+    {
+     "date": "2026-11-04",
+     "q": "Q6",
+     "result": "wrong"
+    },
+    {
+     "date": "2026-11-05",
+     "q": "surprise Q6",
+     "result": "right"
+    }
+   ]
+  },
+  {
+   "id": "static-art22-3",
+   "logged": "2026-11-06",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 22(3) exceptions — enemy alien, preventive detention",
+   "topics": [
+    "GK-POL",
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 22"
+   ],
+   "fact": "Art 22(3): clauses (1) and (2) do not apply to an enemy alien or a person arrested/detained under a preventive-detention law; 22(4) Advisory Board beyond 3 months.",
+   "sources": "standard reference (Constitution of India / official site)",
+   "tests": [
+    {
+     "date": "2026-11-06",
+     "q": "Q6",
+     "result": "right"
+    }
+   ]
+  },
+  {
+   "id": "static-tenth-schedule",
+   "logged": "2026-11-07",
+   "kind": "static",
+   "category": "polity",
+   "label": "Tenth Schedule — merger ≥ 2/3; 91st Amdt deleted split",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Tenth Schedule"
+   ],
+   "fact": "Para 4 merger needs ≥ 2/3 of the legislature party; para 3 (one-third split) deleted by the 91st Amendment, 2003; Speaker's decision reviewable (Kihoto Hollohan, 1992).",
+   "sources": "standard reference (Constitution of India / official site)",
+   "tests": [
+    {
+     "date": "2026-11-07",
+     "q": "Q3",
+     "result": "pending"
+    },
+    {
+     "date": "2026-11-08",
+     "q": "Q7",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-isa",
+   "logged": "2026-11-05",
+   "kind": "static",
+   "category": "static GK",
+   "label": "International Solar Alliance HQ Gurugram",
+   "topics": [
+    "GK-STA"
+   ],
+   "hooks": [
+    "Body: International Solar Alliance",
+    "Body: IRENA"
+   ],
+   "fact": "ISA HQ Gwal Pahari, Gurugram; launched at COP21 Paris (2015). IRENA HQ is Abu Dhabi.",
+   "sources": "standard reference (Constitution of India / official site)",
+   "tests": [
+    {
+     "date": "2026-11-05",
+     "q": "surprise Q8",
+     "result": "wrong",
+     "chose": "Abu Dhabi (IRENA)"
+    }
+   ]
+  }
+ ]
+}
