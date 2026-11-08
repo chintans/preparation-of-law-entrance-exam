@@ -1,45 +1,65 @@
 # Readiness report
 
-Headline table updated 2026-11-08 (**Day-16 NLSAT legal-current-affairs set graded late: 9/10, net 8.75 in 8 min — LEG-NEW 6/7 now gives Current Affairs full coverage; CA 11/30 weighted (37%, projected 21%) — still Red, up from 18%**; earlier the same day: **Day-15 AILET polity set graded late: 4/10, net 3.0 in 7 min — GK-POL now 7 attempts, so Current Affairs has enough coverage in CLAT (2/3), AILET (2/4) and NLSAT (2/3) and is formally Red: 4/22 weighted, 18%, projected −2%**; Day-12 AILET critical-reasoning set graded late: 5/8, net 4.25 in 7 min — no RAG change; reasoning sections still Green but slipping; then Day-11 CLAT RC set graded late: 7/8, net 6.75 in 10 min — English now has enough data in all three exams and is **Green**; earlier: 2026-11-03 — Day-14 AILET vocabulary set graded late: 9/10, net 8.75; Day-10 AILET legal set graded late: 6/8, net 5.5; Day-13 CLAT current-affairs set graded late: 4/8, net 3.0 in 3 min; Day-8 NLSAT set graded late: 6/8, net 5.5; Day-9 CLAT set graded late: 7/8, net 6.75 in 7 min). Full report: 2026-11-01 (after Day-7 CLAT surprise test, graded late — 68 graded questions in all; surprise items count
-double in section accuracy. Days 10–12 missed (Days 8–9 answered late on 2 Nov); 1 Nov set graded 2 Nov.)
+Full report: **2026-11-08**, after the Day-17 CUET surprise test (set 5 Nov, answered 8 Nov): **15/20, net 55/80 (68.75%) in
+11 min** against a 24-min budget. The figures below are the last 40 graded questions per section, with surprise items counted twice.
+Earlier full report: 2026-11-01 (Day-7 CLAT surprise test, 12.5/20).
 
-**CLAT readiness: Not ready** (Current Affairs **Red** — 37%, projected 21%) — surprise test 12.5/20 net (62.5%) in 40 min against a 22-min budget.
+**CUET readiness: Not ready** (GK Red, 31%, projected 13%). Language and Computer are Green; Aptitude and Reasoning don't have enough data yet.
+Today's surprise test: 68.75%.
 
 | Exam | Date | Days left | Level | Projection | Note |
 |---|---|---|---|---|---|
-| CLAT 2027 | 6 Dec 2026 | 28 | Not ready (Current Affairs Red) | — (surprise test: 62.5%) | **English 19/22 weighted (86%, proj. 83%, Green, coverage 1/1)**; Logical Green; Legal ≈84% but coverage 2/5; **Current Affairs 11/30 weighted (37%, proj. 21%, Red — coverage 3/3)**; Quant thin |
-| AILET 2027 | 13 Dec 2026 | 35 | Not ready (CA & GK Red) | — | **English 86% (proj. 83%, Green, coverage 2/3 — ENG-GRM still 0)**; Reasoning ≈82% (proj. ≈78%) but coverage 3/7; **CA & GK Red (37%, proj. 21%, coverage 3/4; GK-POL 0/7, LEG-NEW 6/9)** |
-| CUET PG LLB | Mar 2027 | ~113 | Not ready (insufficient data) | — | Computer 5/7 → 64% (Amber); GK 0/5; others untested |
-| NLSAT-LLB | 25 Apr 2027 | 168 | Not ready (CA/GK Red) | — | Part A Reasoning Green; **English 12/13 weighted (92%, proj. 90%, Green)**; **CA/GK Red (37%, proj. 21%, coverage 3/3)**; Part B untested |
+| CLAT 2027 | 6 Dec 2026 | 28 | Not ready (Current Affairs Red) | — (Day-7 surprise: 62.5%) | English 90% (proj. 88%, Green); Logical 81% (Green); Legal 83% but coverage 2/5; **Current Affairs 11/34 weighted (32%, proj. 15%, Red)**; Quant 80% on 5 Q, coverage 0/2 |
+| AILET 2027 | 13 Dec 2026 | 35 | Not ready (CA & GK Red) | — | English 91% (Green, coverage 2/3, first ENG-GRM 2/2); Reasoning 77% (proj. 71%) but coverage 3/7; **CA & GK 31% (proj. 13%, Red)** |
+| CUET PG LLB | Mar 2027 | ~113 | **Not ready (GK Red)** | — (Day-17 surprise: 68.75%) | Language 91% (proj. 89%, **Green**); Computer 87% (proj. 83%, **Green**, up from Amber); **GK 31% (proj. 13%, Red)**; Aptitude 83% / Reasoning 75%, both insufficient data (coverage 0/2) |
+| NLSAT-LLB | 25 Apr 2027 | 168 | Not ready (CA/GK Red) | — | English 94% (Green); Reasoning 83% (proj. 79%, Green); **CA/GK 32% (proj. 15%, Red)**; Part B untested |
 
-## CLAT section detail (last 40 per section, surprise ×2)
+## CUET section detail (last 40 per section, surprise ×2; projected = acc − 0.25 × (1 − acc))
 
 | Section | Graded | Accuracy | Projected | Coverage (topics wt ≥ 2 with ≥ 5 attempts) | RAG |
 |---|---|---|---|---|---|
-| English | 13 (surprise ×2 → 22) | 86% | 83% | 1/1 (ENG-RC 10 attempts) | **Green** |
-| Current Affairs | 23 (surprise ×2 → 30) | 37% | 21% | 3/3 (GK-CA 9, GK-POL 7, LEG-NEW 9) | **Red** |
-| Legal | 39 | 86% | 83% | 2/5 (PRIN, CONT; TORT 2, CRIM 0, CONST 0) | Insufficient data |
-| Logical | 17 | 81% | 76% | 1/2 (LR-CR) | **Green** |
-| Quant | 2 | 100% | 100% | 0/2 | Insufficient data |
+| Language | 26 (→ 34) | 91% | 89% | 2/3 (ENG-RC 13, ENG-VOC 11; ENG-GRM 2) | **Green** |
+| GK | 28 (→ 36) | 31% | 13% | 2/3 (GK-POL 7, GK-CA 10; GK-STA 1) | **Red** |
+| Computer | 11 (→ 15) | 87% | 83% | 1/1 (COMP 11) | **Green** |
+| Aptitude | 6 (→ 12) | 83% | 79% | 0/2 (QT-ARITH 4, QT-GEO 1) | Insufficient data |
+| Reasoning | 4 (→ 8) | 75% | 69% | 0/2 (LR-ANA 3, LR-ARG 1) | Insufficient data |
+
+## CLAT section detail
+
+| Section | Graded | Accuracy | Projected | Coverage | RAG |
+|---|---|---|---|---|---|
+| English | 24 (→ 30) | 90% | 88% | 1/1 | **Green** |
+| Current Affairs | 27 (→ 34) | 32% | 15% | 3/3 (GK-CA 10, LEG-NEW 10, GK-POL 7) | **Red** |
+| Legal | 43 (→ 48) | 83% | 79% | 2/5 (TORT 2, CRIM 0, CONST 0) | Insufficient data |
+| Logical | 17 (→ 21) | 81% | 76% | 1/2 (LR-CR 16) | **Green** |
+| Quant | 5 (→ 10) | 80% | 75% | 0/2 | Insufficient data |
 
 ## Against the cut-offs (provisional — aggregator figures)
 
-Top-5 NLUs needed roughly **90+/120 net (≈75%)** in CLAT 2026. Scaled up, today's 62.5% is about **75/120 — roughly 15 marks short** —
-and it took twice the allowed time: at 2 min/question you would reach only about 60 of 120 questions in the real paper.
-Both gaps are fixable in five weeks, but only with daily practice on the day it is set.
+- **CUET / DU LLB:** Careers360 *expected* UR cut-offs for 2026 were CLC 213, LC-I 188, LC-II 193 out of 300. Scaled up,
+  68.75% is about **206/300**: roughly **7 marks short of CLC**, and clear of LC-I and LC-II. That rests on a 20-question sample,
+  and the GK section, which is where you are weakest, is likely a larger share of the real paper.
+- **CLAT:** top-5 NLUs needed about 90+/120 net (≈75%) in CLAT 2026. The last CLAT-pattern surprise was 62.5% (≈75/120,
+  about 15 short). Current Affairs, about a quarter of the paper, is still projecting 15%.
 
-## Action list (from the Day-7 surprise test)
+## Reading speed
 
-1. **Current affairs, daily, from tomorrow.** Nov 2025–Nov 2026 legal and national news: CJIs, landmark judgments,
-   constitutional articles behind them (Arts. 32, 131, 143, 200, 201, 356). This section is ~25% of CLAT and is at zero.
-2. **Speed.** Do every set against the clock: 60 s per CLAT question, 7 minutes per passage-set; skip and return.
-3. **Answer the day's set on the day.** Ten of the last twelve sessions were answered late or not at all; the
-   readiness model cannot move off "insufficient data" without volume in English, CA and Quant.
+The first timed read was 227 words in 1:25, which is **160 wpm** against the 180 target (Level 1). You were 12% over target with full accuracy, so the level holds.
+
+## Action list (Day-17 surprise)
+
+1. **GK is the only thing between you and a CUET/CLAT pass.** Every section except GK/CA projects 69–89%; GK/CA projects
+   13–15%. All 3 new GK items today were look-alike confusions (ISA vs IRENA, Tribunals Reforms Act 2021 vs Administrative Tribunals Act 1985,
+   29 vs the old "44" labour laws). From the daily brief, write one "not to confuse with" line per item and say it aloud.
+2. **Use the time you have to spare.** 11 minutes for 20 questions against 24 allowed. Both non-GK misses were last-step slips
+   (7.5 for 36/5; "father" for father's son). On +4/−1, a 10-second re-check of the final step pays for itself.
+3. **Answer on the day.** This set came back 3 days late, and 6 of the last 8 sessions were answered late or not at all. Late
+   answers still teach you something, but they leave the spaced-repetition schedule out of date.
 
 ## Plain verdict
 
-You reason well: Legal, Logical and Quant were 11/11 today, and contract offer/acceptance is now solid (LEG-CONT mastery 90).
-What will sink a CLAT score is current affairs, where you know the reasoning but not the facts, and pace. Neither shows up
-on a 5-question set answered days later.
+On everything except GK you are at or above the level you need: language, computer, arithmetic and reasoning are fast and
+mostly accurate. GK and current affairs are scoring about a third, and that alone keeps every exam at "Not ready". With 28 days
+to CLAT, the daily brief and the Constitution Capsule are where the marks are. Answering each set the same day is what turns them into retained facts.
 
 Bands are provisional until `research/cutoffs.md` holds official figures.

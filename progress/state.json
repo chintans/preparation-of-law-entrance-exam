@@ -36,7 +36,7 @@
     }
   },
   "calendar_last_verified": "2026-11-08",
-  "sessions_completed": 16,
+  "sessions_completed": 17,
   "streak": 0,
   "last_session": "2026-11-02",
   "pending_session": "2026-11-08",
@@ -49,9 +49,9 @@
   ],
   "topics": {
     "ENG-RC": {
-      "mastery": 85,
-      "attempts": 11,
-      "correct": 10,
+      "mastery": 89,
+      "attempts": 13,
+      "correct": 12,
       "recent": [
         1,
         1,
@@ -63,11 +63,13 @@
         1,
         1,
         0,
+        1,
+        1,
         1
       ],
       "last_seen": "2026-11-08",
-      "interval_days": 12,
-      "next_review": "2026-11-20"
+      "interval_days": 24,
+      "next_review": "2026-12-02"
     },
     "ENG-VOC": {
       "mastery": 98,
@@ -91,13 +93,16 @@
       "next_review": "2026-11-14"
     },
     "ENG-GRM": {
-      "mastery": 0,
-      "attempts": 0,
-      "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
+      "mastery": 100,
+      "attempts": 2,
+      "correct": 2,
+      "recent": [
+        1,
+        1
+      ],
+      "last_seen": "2026-11-08",
+      "interval_days": 3,
+      "next_review": "2026-11-11"
     },
     "HIN": {
       "mastery": 0,
@@ -109,8 +114,8 @@
       "next_review": null
     },
     "GK-CA": {
-      "mastery": 62,
-      "attempts": 9,
+      "mastery": 51,
+      "attempts": 10,
       "correct": 5,
       "recent": [
         0,
@@ -121,15 +126,16 @@
         1,
         0,
         1,
-        1
+        1,
+        0
       ],
       "last_seen": "2026-11-08",
-      "interval_days": 6,
-      "next_review": "2026-11-14"
+      "interval_days": 1,
+      "next_review": "2026-11-09"
     },
     "LEG-NEW": {
-      "mastery": 76,
-      "attempts": 9,
+      "mastery": 62,
+      "attempts": 10,
       "correct": 6,
       "recent": [
         0,
@@ -140,11 +146,12 @@
         1,
         1,
         0,
-        1
+        1,
+        0
       ],
       "last_seen": "2026-11-08",
-      "interval_days": 3,
-      "next_review": "2026-11-11"
+      "interval_days": 1,
+      "next_review": "2026-11-09"
     },
     "GK-POL": {
       "mastery": 0,
@@ -174,12 +181,14 @@
     },
     "GK-STA": {
       "mastery": 0,
-      "attempts": 0,
+      "attempts": 1,
       "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
+      "recent": [
+        0
+      ],
+      "last_seen": "2026-11-08",
+      "interval_days": 1,
+      "next_review": "2026-11-09"
     },
     "LEG-PRIN": {
       "mastery": 74,
@@ -327,24 +336,31 @@
       "next_review": "2026-11-04"
     },
     "LR-ANA": {
-      "mastery": 0,
-      "attempts": 0,
-      "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
-    },
-    "QT-ARITH": {
-      "mastery": 100,
-      "attempts": 1,
-      "correct": 1,
+      "mastery": 83,
+      "attempts": 3,
+      "correct": 2,
       "recent": [
+        0,
+        1,
         1
       ],
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-08",
       "interval_days": 3,
-      "next_review": "2026-11-04"
+      "next_review": "2026-11-11"
+    },
+    "QT-ARITH": {
+      "mastery": 85,
+      "attempts": 4,
+      "correct": 3,
+      "recent": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "last_seen": "2026-11-08",
+      "interval_days": 3,
+      "next_review": "2026-11-11"
     },
     "QT-DI": {
       "mastery": 100,
@@ -358,18 +374,20 @@
       "next_review": "2026-11-04"
     },
     "QT-GEO": {
-      "mastery": 0,
-      "attempts": 0,
-      "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
+      "mastery": 100,
+      "attempts": 1,
+      "correct": 1,
+      "recent": [
+        1
+      ],
+      "last_seen": "2026-11-08",
+      "interval_days": 3,
+      "next_review": "2026-11-11"
     },
     "COMP": {
-      "mastery": 64,
-      "attempts": 7,
-      "correct": 5,
+      "mastery": 85,
+      "attempts": 11,
+      "correct": 9,
       "recent": [
         1,
         1,
@@ -377,11 +395,15 @@
         1,
         1,
         1,
-        0
+        0,
+        1,
+        1,
+        1,
+        1
       ],
-      "last_seen": "2026-11-01",
-      "interval_days": 3,
-      "next_review": "2026-11-04"
+      "last_seen": "2026-11-08",
+      "interval_days": 6,
+      "next_review": "2026-11-14"
     },
     "WRIT-LEGAL": {
       "mastery": 0,
@@ -404,10 +426,6 @@
   },
   "review_queue": [
     {
-      "topic": "COMP",
-      "due": "2026-11-04"
-    },
-    {
       "topic": "LEG-TORT",
       "due": "2026-11-04"
     },
@@ -420,10 +438,6 @@
       "due": "2026-11-04"
     },
     {
-      "topic": "QT-ARITH",
-      "due": "2026-11-04"
-    },
-    {
       "topic": "LEG-PRIN",
       "due": "2026-11-09"
     },
@@ -433,7 +447,35 @@
     },
     {
       "topic": "LEG-NEW",
+      "due": "2026-11-09"
+    },
+    {
+      "topic": "GK-CA",
+      "due": "2026-11-09"
+    },
+    {
+      "topic": "GK-STA",
+      "due": "2026-11-09"
+    },
+    {
+      "topic": "QT-ARITH",
       "due": "2026-11-11"
+    },
+    {
+      "topic": "ENG-GRM",
+      "due": "2026-11-11"
+    },
+    {
+      "topic": "QT-GEO",
+      "due": "2026-11-11"
+    },
+    {
+      "topic": "LR-ANA",
+      "due": "2026-11-11"
+    },
+    {
+      "topic": "COMP",
+      "due": "2026-11-14"
     },
     {
       "topic": "LR-CR",
@@ -444,16 +486,12 @@
       "due": "2026-11-14"
     },
     {
-      "topic": "GK-CA",
-      "due": "2026-11-14"
-    },
-    {
       "topic": "LEG-CONT",
       "due": "2026-11-16"
     },
     {
       "topic": "ENG-RC",
-      "due": "2026-11-20"
+      "due": "2026-12-02"
     }
   ],
   "tests": [
@@ -940,6 +978,71 @@
       },
       "graded_on": "2026-11-08",
       "note": "Day-16 NLSAT judgment-report set answered 8 Nov (4 days late), 8 min for 10 (48 s/Q vs 60 s budget); no reading time sent. Passage Q1-5 5/5 (holding, purpose, result, BNSS 218, application). Missed Q6: picked 'employees become government servants' for Art 12 'State' - the exact error the passage corrected. Q7-8 (Art 131, Art 145(3)) right but are repeats of 3 Nov Q4-5 graded earlier the same day - counted in score, not mastery. Recall: DPDP Rules MeitY right; AI-summit sutras right (missed 1 Nov)."
+    },
+    {
+      "date": "2026-11-05",
+      "type": "surprise",
+      "exam": "CUET",
+      "topic": "MIXED",
+      "questions": 20,
+      "correct": 15,
+      "wrong": 5,
+      "unanswered": 0,
+      "raw": 60,
+      "net": 55,
+      "max": 80,
+      "minutes": 11,
+      "surprise": true,
+      "per_topic": {
+        "ENG-RC": [
+          2,
+          2
+        ],
+        "ENG-GRM": [
+          2,
+          2
+        ],
+        "GK-CA": [
+          0,
+          1
+        ],
+        "GK-STA": [
+          0,
+          1
+        ],
+        "LEG-NEW": [
+          0,
+          1
+        ],
+        "COMP": [
+          4,
+          4
+        ],
+        "QT-ARITH": [
+          2,
+          3
+        ],
+        "QT-GEO": [
+          1,
+          1
+        ],
+        "LR-ANA": [
+          2,
+          3
+        ]
+      },
+      "not_in_mastery": {
+        "GK-POL": [
+          1,
+          1
+        ],
+        "LEG-NEW": [
+          1,
+          1
+        ]
+      },
+      "graded_on": "2026-11-08",
+      "note": "Day-17 CUET surprise answered 8 Nov (3 days late), 11 min for 20 (33 s/Q vs 72 s budget); R 1:25 on 227 words = 160 wpm vs 180 target. Language 4/4 (RC 2/2, first grammar items 2/2), Computer 4/4 (nibble now right), GK 2/5 scored (missed Labour Codes 29 - took old '44'; ISA HQ - took Abu Dhabi (IRENA); Tribunals Reforms Act - took 1985 Act); Aptitude 3/4 (Q15 7.5 vs 7.2 - arithmetic slip); Reasoning 2/3 (Q18 stopped one generation short: 'father'). Q5 (Art 131) and Q6 (Art 12) are repeats graded earlier today - in score, not mastery."
     }
   ],
   "readiness": {
@@ -954,9 +1057,10 @@
       "updated": "2026-11-08"
     },
     "CUET": {
-      "level": "Not ready (insufficient data)",
+      "level": "Not ready (GK Red: 31%, proj. 13%; Language 91% & Computer 87% Green; Aptitude/Reasoning insufficient data)",
       "projection_pct": null,
-      "updated": "2026-11-01"
+      "surprise_pct": 68.75,
+      "updated": "2026-11-08"
     },
     "NLSAT": {
       "level": "Not ready (Part A CA/GK Red: 37%, proj. 21%, coverage 3/3)",
@@ -1049,7 +1153,8 @@
     {
       "date": "2026-11-05",
       "exam": "CUET",
-      "topic": "MIXED (surprise)"
+      "topic": "MIXED (surprise)",
+      "answered_late": "2026-11-08"
     },
     {
       "date": "2026-11-06",
@@ -1073,7 +1178,16 @@
     "level": 1,
     "technique_week": 2,
     "technique_started": "2026-11-02",
-    "log": [],
+    "log": [
+      {
+        "date": "2026-11-05",
+        "words": 227,
+        "seconds": 85,
+        "wpm": 160,
+        "target_wpm": 180,
+        "accuracy_on_passage": 1.0
+      }
+    ],
     "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min ≈ 120 s/Q vs 60 s budget; reading time not measured.",
     "technique_note": "Week 2 (paragraph map) named from 8 Nov session (one day early; no drills returned yet)"
   },
