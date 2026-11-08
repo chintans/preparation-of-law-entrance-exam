@@ -36,10 +36,10 @@
     }
   },
   "calendar_last_verified": "2026-11-08",
-  "sessions_completed": 19,
-  "streak": 0,
-  "last_session": "2026-11-02",
-  "pending_session": "2026-11-08",
+  "sessions_completed": 20,
+  "streak": 1,
+  "last_session": "2026-11-08",
+  "pending_session": null,
   "sessions_since_surprise": 3,
   "last_session_type": "normal",
   "recent_topics": [
@@ -114,9 +114,9 @@
       "next_review": null
     },
     "GK-CA": {
-      "mastery": 65,
-      "attempts": 12,
-      "correct": 7,
+      "mastery": 74,
+      "attempts": 14,
+      "correct": 9,
       "recent": [
         0,
         1,
@@ -128,21 +128,20 @@
         1,
         1,
         0,
+        1,
+        1,
         1,
         1
       ],
       "last_seen": "2026-11-08",
-      "interval_days": 6,
-      "next_review": "2026-11-14"
+      "interval_days": 12,
+      "next_review": "2026-11-20"
     },
     "LEG-NEW": {
-      "mastery": 86,
-      "attempts": 17,
-      "correct": 13,
+      "mastery": 79,
+      "attempts": 23,
+      "correct": 17,
       "recent": [
-        0,
-        0,
-        1,
         1,
         1,
         1,
@@ -155,6 +154,12 @@
         1,
         1,
         1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
         1,
         1
       ],
@@ -163,9 +168,9 @@
       "next_review": "2026-11-11"
     },
     "GK-POL": {
-      "mastery": 73,
-      "attempts": 14,
-      "correct": 7,
+      "mastery": 77,
+      "attempts": 15,
+      "correct": 8,
       "recent": [
         0,
         0,
@@ -174,6 +179,7 @@
         0,
         0,
         0,
+        1,
         1,
         1,
         1,
@@ -183,19 +189,20 @@
         1
       ],
       "last_seen": "2026-11-08",
-      "interval_days": 6,
-      "next_review": "2026-11-14"
+      "interval_days": 12,
+      "next_review": "2026-11-20"
     },
     "GK-ECO": {
-      "mastery": 0,
-      "attempts": 1,
-      "correct": 0,
+      "mastery": 67,
+      "attempts": 2,
+      "correct": 1,
       "recent": [
-        0
+        0,
+        1
       ],
       "last_seen": "2026-11-08",
-      "interval_days": 1,
-      "next_review": "2026-11-09"
+      "interval_days": 3,
+      "next_review": "2026-11-11"
     },
     "GK-STA": {
       "mastery": 0,
@@ -465,7 +472,7 @@
     },
     {
       "topic": "GK-ECO",
-      "due": "2026-11-09"
+      "due": "2026-11-11"
     },
     {
       "topic": "QT-ARITH",
@@ -488,14 +495,6 @@
       "due": "2026-11-11"
     },
     {
-      "topic": "GK-POL",
-      "due": "2026-11-14"
-    },
-    {
-      "topic": "GK-CA",
-      "due": "2026-11-14"
-    },
-    {
       "topic": "COMP",
       "due": "2026-11-14"
     },
@@ -506,6 +505,14 @@
     {
       "topic": "ENG-VOC",
       "due": "2026-11-14"
+    },
+    {
+      "topic": "GK-POL",
+      "due": "2026-11-20"
+    },
+    {
+      "topic": "GK-CA",
+      "due": "2026-11-20"
     },
     {
       "topic": "ENG-RC",
@@ -1141,28 +1148,77 @@
       },
       "graded_on": "2026-11-08",
       "note": "Day-19 Tenth Schedule set answered 8 Nov (1 day late), 10:31-10:37 = 6 min incl. 2:17 read (≈3:43 for 10 Q, ≈22 s/Q vs 60). Passage 5/5 (tribunal + judicial review, 15-day condonation, 2/3 merger 7 of 12, inference, 91st Amendment); Art 143 route right 2nd time running (recast item); proposer-revocation clock right; missed Q9 RBI repo (chose 5.50%, the pre-cut rate; answer 5.25%). Q7 (Art 22 clock) is a verbatim repeat of 6 Nov Q4, graded earlier today - in score, not mastery. R 2:17 on 388 words = 170 wpm vs 180."
+    },
+    {
+      "date": "2026-11-08",
+      "type": "normal",
+      "exam": "CLAT",
+      "topic": "LEG-NEW",
+      "questions": 13,
+      "correct": 11,
+      "wrong": 2,
+      "unanswered": 0,
+      "raw": 11,
+      "net": 10.5,
+      "max": 13,
+      "minutes": 12,
+      "surprise": false,
+      "per_topic": {
+        "LEG-NEW": [
+          4,
+          6
+        ],
+        "GK-POL": [
+          1,
+          1
+        ],
+        "GK-CA": [
+          2,
+          2
+        ],
+        "GK-ECO": [
+          1,
+          1
+        ]
+      },
+      "not_in_mastery": {
+        "LEG-NEW": [
+          1,
+          1
+        ],
+        "GK-POL": [
+          1,
+          1
+        ],
+        "LEG-CONT": [
+          1,
+          1
+        ]
+      },
+      "graded_on": "2026-11-08",
+      "note": "Day-20 BNSS s.173 set answered on the day, 11:00-11:12 incl. R 2:35 (430 words = 166 wpm vs 180); ~43 s/Q vs 60. Passage 3/5: missed Q1 NOT-stem (chose C, a real change, over D, the reversed affidavit rule) and Q4 (chose C, absolute 'can never be an offence', over A, the Pratapgadhi enquiry-first reading). Q6-8 verbatim repeats right (score only). CA recall 5/5."
     }
   ],
   "readiness": {
     "CLAT": {
-      "level": "Not ready (Legal & Quant coverage insufficient; Current Affairs now Amber: 62.8% weighted, proj. 53.5%)",
+      "level": "Not ready (Legal 2/5 & Quant 0/2 coverage; Current Affairs now Green: 73.8%, proj. 67.3%)",
       "projection_pct": null,
-      "indicative_pct": 74,
+      "indicative_pct": 77,
       "updated": "2026-11-08"
     },
     "AILET": {
-      "level": "Not ready (Reasoning coverage 3/7; CA & GK now Amber: 61%, proj. 52%; English Green)",
+      "level": "Not ready (Reasoning coverage 3/7; CA & GK Amber 70%, proj. 62%; English Green)",
       "projection_pct": null,
       "updated": "2026-11-08"
     },
     "CUET": {
-      "level": "Not ready (Aptitude/Reasoning insufficient data; GK now Amber: 63%, proj. 53.5%; Language & Computer Green)",
+      "level": "Not ready (Aptitude/Reasoning insufficient data; GK now Green 72%, proj. 65%; Language & Computer Green)",
       "projection_pct": null,
       "surprise_pct": 68.75,
       "updated": "2026-11-08"
     },
     "NLSAT": {
-      "level": "Not ready (Part B untested; Part A all Amber/Green — CA/GK Amber 61%, proj. 52%)",
+      "level": "Not ready (Part B untested; Part A all Green — CA/GK 74%, proj. 67%)",
       "projection_pct": null,
       "updated": "2026-11-08"
     }
@@ -1303,6 +1359,14 @@
         "wpm": 170,
         "target_wpm": 180,
         "accuracy_on_passage": 1.0
+      },
+      {
+        "date": "2026-11-08",
+        "words": 430,
+        "seconds": 155,
+        "wpm": 166,
+        "target_wpm": 180,
+        "accuracy_on_passage": 0.6
       }
     ],
     "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min ≈ 120 s/Q vs 60 s budget; reading time not measured.",

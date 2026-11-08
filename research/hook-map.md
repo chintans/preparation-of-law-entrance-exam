@@ -41,6 +41,8 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 - 2026-11-05 · Four Labour Codes in force (29 laws): chose **44 laws (old count)**
 - 2026-11-05 · International Solar Alliance HQ Gurugram: chose **Abu Dhabi (IRENA)**
 - 2026-11-07 · RBI repo 5.25% (Dec 2025): chose **5.50% (pre-cut rate; MSF/Bank Rate after the cut)**
+- 2026-11-08 · BNSS 173 zero FIR & preliminary enquiry: chose **C**
+- 2026-11-08 · BNSS 173 zero FIR & preliminary enquiry: chose **C**
 
 ## Constitution
 
@@ -49,8 +51,8 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 12 | Jodhpur Discoms — s. 197 sanction test `ca-20261104-7` ✓✗; National Book Trust is 'State' (Art 12) `ca-20261107-4` ·; Art 12 'State' ≠ government servant `static-art12` ✗✓ |
 | Art 14 | UGC Equity Regulations 2026 stayed `ca-20261105-1` ·; s. 17A PC Act split verdict `ca-20261106-1` · |
 | Art 18 | Padma Awards 2026 (131) `ca-20261105-3` · |
-| Art 21 | s. 17A PC Act split verdict `ca-20261106-1` ·; Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓…; Harish Rana passive euthanasia `ca-20261108-1` · |
-| Art 22 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓…; Art 22(3) exceptions — enemy alien, preventive detention `static-art22-3` ✓ |
+| Art 21 | s. 17A PC Act split verdict `ca-20261106-1` ·; Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; Harish Rana passive euthanasia `ca-20261108-1` · |
+| Art 22 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; Art 22(3) exceptions — enemy alien, preventive detention `static-art22-3` ✓ |
 | Art 23 | Honorarium ₹7,000 is begar (Art 23) `ca-20261107-1` · |
 | Art 32 | Art 131 — Union–State original suit `static-art131` ✗✓✓ |
 | Art 87 | Governors walk out of address (TN, Karnataka) `ca-20261106-2` · |
@@ -61,8 +63,8 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 143 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓; Art 131 — Union–State original suit `static-art131` ✗✓✓; Art 143 reference — bench of ≥5 (Art 145(3)); Court may decline `static-art145-3` ✗✓ |
 | Art 145 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓; Art 143 reference — bench of ≥5 (Art 145(3)); Court may decline `static-art145-3` ✗✓ |
 | Art 163 | Governors walk out of address (TN, Karnataka) `ca-20261106-2` · |
-| Art 169 | Legislative Council polls; Art 169 `ca-20261105-5` … |
-| Art 171 | Legislative Council polls; Art 169 `ca-20261105-5` … |
+| Art 169 | Legislative Council polls; Art 169 `ca-20261105-5` ✓ |
+| Art 171 | Legislative Council polls; Art 169 `ca-20261105-5` ✓ |
 | Art 176 | Governors walk out of address (TN, Karnataka) `ca-20261106-2` · |
 | Art 199 | Art 200 proviso — Money Bill cannot be returned `static-art200-money` ✗✗ |
 | Art 200 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓; Art 200 proviso — Money Bill cannot be returned `static-art200-money` ✗✗ |
@@ -74,8 +76,8 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 330 | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` · |
 | Art 332 | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` · |
 | Art 356 | Art 356 — Parliament approval within 2 months `static-art356` ✗ |
-| Art 368 | Legislative Council polls; Art 169 `ca-20261105-5` … |
-| Tenth Schedule | Shiv Sena (UBT) LS merger challenge `ca-20261102-5` ·; Telangana BRS defection petitions `ca-20261107-7` ✓; Tenth Schedule — merger ≥ 2/3; 91st Amdt deleted split `static-tenth-schedule` ✓… |
+| Art 368 | Legislative Council polls; Art 169 `ca-20261105-5` ✓ |
+| Tenth Schedule | Shiv Sena (UBT) LS merger challenge `ca-20261102-5` ·; Telangana BRS defection petitions `ca-20261107-7` ✓; Tenth Schedule — merger ≥ 2/3; 91st Amdt deleted split `static-tenth-schedule` ✓✓ |
 
 ## Code sections (old ↔ new)
 
@@ -85,16 +87,16 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | BNS 80 | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` · |
 | BNS 82 | Foreign divorce no shield to bigamy `ca-20261104-4` · |
 | BNS 85 | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` · |
-| BNSS 173 | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` … |
-| BNSS 175 | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` … |
+| BNSS 173 | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` ✗✓✓✗✓ |
+| BNSS 175 | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` ✗✓✓✗✓ |
 | BNSS 218 | Jodhpur Discoms — s. 197 sanction test `ca-20261104-7` ✓✗; Art 12 'State' ≠ government servant `static-art12` ✗✓ |
 | BNSS 528 | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` · |
-| BNSS 58 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓… |
+| BNSS 58 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓ |
 | CPC 13 | Foreign divorce no shield to bigamy `ca-20261104-4` · |
-| CrPC 154 | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` … |
+| CrPC 154 | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` ✗✓✓✗✓ |
 | CrPC 197 | Jodhpur Discoms — s. 197 sanction test `ca-20261104-7` ✓✗; Art 12 'State' ≠ government servant `static-art12` ✗✓ |
 | CrPC 482 | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` · |
-| CrPC 57 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓… |
+| CrPC 57 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓ |
 | IPC 304B | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` · |
 | IPC 494 | Foreign divorce no shield to bigamy `ca-20261104-4` · |
 | IPC 498A | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` · |
@@ -104,9 +106,9 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Hook | Items (record) |
 |---|---|
 | Administrative Tribunals Act 1985 | Tribunals Reforms Act 2021 struck down in part `ca-20261102-1` ✗ |
-| Atomic Energy Act 1962 | SHANTI Act 2025 (nuclear) `ca-20261104-1` … |
+| Atomic Energy Act 1962 | SHANTI Act 2025 (nuclear) `ca-20261104-1` ✓ |
 | BNS 2023 | BNS replaced IPC (1 Jul 2024) `ca-20261020-1` · |
-| CLND Act 2010 | SHANTI Act 2025 (nuclear) `ca-20261104-1` … |
+| CLND Act 2010 | SHANTI Act 2025 (nuclear) `ca-20261104-1` ✓ |
 | DPDP Act 2023 | DPDP Rules 2025 (MeitY) `ca-20261027-1` ✓; DPDP journalism-exemption plea `ca-20261103-4` · |
 | DSPE Act 1946 | s. 17A PC Act split verdict `ca-20261106-1` · |
 | Delimitation Act 2002 | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` · |
@@ -115,12 +117,12 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Income-tax Act 2025 | Union Budget 2026-27 (FD 4.3%) `ca-20261107-2` · |
 | Labour Codes | Four Labour Codes in force (29 laws) `ca-20261102-2` ✗ |
 | MGNREGA 2005 | VB-G RAM G Act replaced MGNREGA (125 days) `ca-20261103-2` ✓ |
-| NDPS Act 1985 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓… |
+| NDPS Act 1985 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓ |
 | Prevention of Corruption Act 1988 | s. 17A PC Act split verdict `ca-20261106-1` · |
 | RBI Act 1934 | RBI repo 5.25% (Dec 2025) `ca-20261104-2` ✗ |
 | RTE Act 2009 | Honorarium ₹7,000 is begar (Art 23) `ca-20261107-1` · |
-| RTI Act 2005 | Raj Kumar Goyal CIC `ca-20261104-3` … |
-| SHANTI Act 2025 | SHANTI Act 2025 (nuclear) `ca-20261104-1` … |
+| RTI Act 2005 | Raj Kumar Goyal CIC `ca-20261104-3` ✓ |
+| SHANTI Act 2025 | SHANTI Act 2025 (nuclear) `ca-20261104-1` ✓ |
 | Tribunals Reforms Act 2021 | Tribunals Reforms Act 2021 struck down in part `ca-20261102-1` ✗ |
 | VB-G RAM G Act 2025 | VB-G RAM G Act replaced MGNREGA (125 days) `ca-20261103-2` ✓ |
 
@@ -130,10 +132,10 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 |---|---|
 | Bhajan Lal (1992) | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` · |
 | Common Cause (2018) | Harish Rana passive euthanasia `ca-20261108-1` · |
-| D. K. Basu (1997) | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓… |
-| Imran Pratapgadhi (2025) | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` … |
+| D. K. Basu (1997) | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓ |
+| Imran Pratapgadhi (2025) | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` ✗✓✓✗✓ |
 | Kihoto Hollohan (1992) | Telangana BRS defection petitions `ca-20261107-7` ✓ |
-| Lalita Kumari (2013) | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` … |
+| Lalita Kumari (2013) | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` ✗✓✓✗✓ |
 | Madras Bar Association | Tribunals Reforms Act 2021 struck down in part `ca-20261102-1` ✗ |
 | Subramanian Swamy v Director CBI (2014) | s. 17A PC Act split verdict `ca-20261106-1` · |
 | Vineet Narain (1998) | s. 17A PC Act split verdict `ca-20261106-1` · |
@@ -144,7 +146,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 |---|---|
 | Asian Hockey Federation | India win 6th men's Asian Champions Trophy (hockey) `ca-20261108-6` · |
 | BRICS | 12th BRICS Parliamentary Forum `ca-20261102-6` · |
-| Central Information Commission | Raj Kumar Goyal CIC `ca-20261104-3` … |
+| Central Information Commission | Raj Kumar Goyal CIC `ca-20261104-3` ✓ |
 | Data Protection Board | DPDP Rules 2025 (MeitY) `ca-20261027-1` ✓ |
 | Election Commission of India | CEC acting without full Commission plea `ca-20261102-4` ·; Assembly polls 2026 schedule (5 States/UT) `ca-20261108-2` · |
 | GST Council | GST Oct 2026 ₹2.31 lakh cr `ca-20261107-5` · |
@@ -162,7 +164,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | UN SDSN | World Happiness Report 2026 — India 116 `ca-20261108-3` · |
 | United World Wrestling | Manisha Bhanwala world wrestling champion `ca-20261107-6` · |
 | WMO | WMO GHG Bulletin No. 22 — CO2 426.8 ppm `ca-20261106-5` · |
-| World Bank | World Bank: extreme poverty 2.6% `ca-20261104-5` … |
+| World Bank | World Bank: extreme poverty 2.6% `ca-20261104-5` ✓ |
 
 ## Persons
 
@@ -183,7 +185,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 
 | Hook | Items (record) |
 |---|---|
-| India–EU FTA | India–EU FTA concluded `ca-20261105-2` … |
+| India–EU FTA | India–EU FTA concluded `ca-20261105-2` ✓ |
 | New START | New START expired 5 Feb 2026 `ca-20261107-3` · |
 
 ## Events
@@ -192,7 +194,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 |---|---|
 | AI Impact Summit | India AI Impact Summit 2026 `ca-20261101-1` ✗✓–✓ |
 | COP31 | WMO GHG Bulletin No. 22 — CO2 426.8 ppm `ca-20261106-5` · |
-| Republic Day 2026 | India–EU FTA concluded `ca-20261105-2` … |
+| Republic Day 2026 | India–EU FTA concluded `ca-20261105-2` ✓ |
 
 ## Doctrines
 
@@ -202,8 +204,8 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 
 ## Item-level record by topic (first topic only; blank counts as a miss)
 
-- GK-CA: 4/9
-- GK-ECO: 0/2
-- GK-POL: 7/13
+- GK-CA: 5/10
+- GK-ECO: 1/3
+- GK-POL: 10/16
 - GK-STA: 0/1
-- LEG-NEW: 7/13
+- LEG-NEW: 12/20
