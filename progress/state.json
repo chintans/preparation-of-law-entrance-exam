@@ -36,7 +36,7 @@
     }
   },
   "calendar_last_verified": "2026-11-08",
-  "sessions_completed": 18,
+  "sessions_completed": 19,
   "streak": 0,
   "last_session": "2026-11-02",
   "pending_session": "2026-11-08",
@@ -114,9 +114,9 @@
       "next_review": null
     },
     "GK-CA": {
-      "mastery": 59,
-      "attempts": 11,
-      "correct": 6,
+      "mastery": 65,
+      "attempts": 12,
+      "correct": 7,
       "recent": [
         0,
         1,
@@ -128,11 +128,12 @@
         1,
         1,
         0,
+        1,
         1
       ],
       "last_seen": "2026-11-08",
-      "interval_days": 3,
-      "next_review": "2026-11-11"
+      "interval_days": 6,
+      "next_review": "2026-11-14"
     },
     "LEG-NEW": {
       "mastery": 86,
@@ -162,9 +163,9 @@
       "next_review": "2026-11-11"
     },
     "GK-POL": {
-      "mastery": 22,
-      "attempts": 8,
-      "correct": 1,
+      "mastery": 73,
+      "attempts": 14,
+      "correct": 7,
       "recent": [
         0,
         0,
@@ -173,20 +174,28 @@
         0,
         0,
         0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         1
       ],
       "last_seen": "2026-11-08",
-      "interval_days": 3,
-      "next_review": "2026-11-11"
+      "interval_days": 6,
+      "next_review": "2026-11-14"
     },
     "GK-ECO": {
       "mastery": 0,
-      "attempts": 0,
+      "attempts": 1,
       "correct": 0,
-      "recent": [],
-      "last_seen": null,
-      "interval_days": null,
-      "next_review": null
+      "recent": [
+        0
+      ],
+      "last_seen": "2026-11-08",
+      "interval_days": 1,
+      "next_review": "2026-11-09"
     },
     "GK-STA": {
       "mastery": 0,
@@ -242,16 +251,15 @@
       "next_review": "2026-11-04"
     },
     "LEG-CONT": {
-      "mastery": 83,
-      "attempts": 42,
-      "correct": 33,
+      "mastery": 84,
+      "attempts": 43,
+      "correct": 34,
       "recent": [
         1,
         1,
         1,
         1,
         1,
-        1,
         0,
         1,
         1,
@@ -262,14 +270,15 @@
         1,
         1,
         0,
+        1,
         1,
         1,
         1,
         1
       ],
       "last_seen": "2026-11-08",
-      "interval_days": 16,
-      "next_review": "2026-11-24"
+      "interval_days": 30,
+      "next_review": "2026-12-08"
     },
     "LEG-CRIM": {
       "mastery": 0,
@@ -455,6 +464,10 @@
       "due": "2026-11-09"
     },
     {
+      "topic": "GK-ECO",
+      "due": "2026-11-09"
+    },
+    {
       "topic": "QT-ARITH",
       "due": "2026-11-11"
     },
@@ -476,11 +489,11 @@
     },
     {
       "topic": "GK-POL",
-      "due": "2026-11-11"
+      "due": "2026-11-14"
     },
     {
       "topic": "GK-CA",
-      "due": "2026-11-11"
+      "due": "2026-11-14"
     },
     {
       "topic": "COMP",
@@ -495,12 +508,12 @@
       "due": "2026-11-14"
     },
     {
-      "topic": "LEG-CONT",
-      "due": "2026-11-24"
-    },
-    {
       "topic": "ENG-RC",
       "due": "2026-12-02"
+    },
+    {
+      "topic": "LEG-CONT",
+      "due": "2026-12-08"
     }
   ],
   "tests": [
@@ -1087,28 +1100,69 @@
       },
       "graded_on": "2026-11-08",
       "note": "Day-18 CLAT legal-CA set answered 8 Nov (2 days late), 9:52-10:02 = 10 min incl. 4:14 read -> 5:46 for 10 Q (35 s/Q vs 60). Perfect: Art 22(2) holding, lower-court ground, result (bail not acquittal), 24-h application with journey time, inference, Art 22(3) neighbour; Art 143 route-vs-subject right (first time, recast item); proposer-revocation clock right; recall VB-G RAM G 125 days and Aravalli 100 m right. R 4:14 on 443 words = 105 wpm vs 180 target."
+    },
+    {
+      "date": "2026-11-07",
+      "type": "normal",
+      "exam": "CLAT",
+      "topic": "GK-POL",
+      "questions": 10,
+      "correct": 9,
+      "wrong": 1,
+      "unanswered": 0,
+      "raw": 9,
+      "net": 8.75,
+      "max": 10,
+      "minutes": 6,
+      "surprise": false,
+      "per_topic": {
+        "GK-POL": [
+          6,
+          6
+        ],
+        "LEG-CONT": [
+          1,
+          1
+        ],
+        "GK-ECO": [
+          0,
+          1
+        ],
+        "GK-CA": [
+          1,
+          1
+        ]
+      },
+      "not_in_mastery": {
+        "LEG-NEW": [
+          1,
+          1
+        ]
+      },
+      "graded_on": "2026-11-08",
+      "note": "Day-19 Tenth Schedule set answered 8 Nov (1 day late), 10:31-10:37 = 6 min incl. 2:17 read (≈3:43 for 10 Q, ≈22 s/Q vs 60). Passage 5/5 (tribunal + judicial review, 15-day condonation, 2/3 merger 7 of 12, inference, 91st Amendment); Art 143 route right 2nd time running (recast item); proposer-revocation clock right; missed Q9 RBI repo (chose 5.50%, the pre-cut rate; answer 5.25%). Q7 (Art 22 clock) is a verbatim repeat of 6 Nov Q4, graded earlier today - in score, not mastery. R 2:17 on 388 words = 170 wpm vs 180."
     }
   ],
   "readiness": {
     "CLAT": {
-      "level": "Not ready (Current Affairs Red: 20/43 weighted, 47%, proj. 33%; Legal/Quant coverage insufficient)",
+      "level": "Not ready (Legal & Quant coverage insufficient; Current Affairs now Amber: 62.8% weighted, proj. 53.5%)",
       "projection_pct": null,
-      "indicative_pct": 69,
+      "indicative_pct": 74,
       "updated": "2026-11-08"
     },
     "AILET": {
-      "level": "Not ready (CA & GK Red: 37%, proj. 21%, coverage 3/4; English Green)",
+      "level": "Not ready (Reasoning coverage 3/7; CA & GK now Amber: 61%, proj. 52%; English Green)",
       "projection_pct": null,
       "updated": "2026-11-08"
     },
     "CUET": {
-      "level": "Not ready (GK Red: 31%, proj. 13%; Language 91% & Computer 87% Green; Aptitude/Reasoning insufficient data)",
+      "level": "Not ready (Aptitude/Reasoning insufficient data; GK now Amber: 63%, proj. 53.5%; Language & Computer Green)",
       "projection_pct": null,
       "surprise_pct": 68.75,
       "updated": "2026-11-08"
     },
     "NLSAT": {
-      "level": "Not ready (Part A CA/GK Red: 37%, proj. 21%, coverage 3/3)",
+      "level": "Not ready (Part B untested; Part A all Amber/Green — CA/GK Amber 61%, proj. 52%)",
       "projection_pct": null,
       "updated": "2026-11-08"
     }
@@ -1210,7 +1264,8 @@
     {
       "date": "2026-11-07",
       "exam": "CLAT",
-      "topic": "GK-POL"
+      "topic": "GK-POL",
+      "answered_late": "2026-11-08"
     }
   ],
   "ca": {
@@ -1238,6 +1293,14 @@
         "words": 443,
         "seconds": 254,
         "wpm": 105,
+        "target_wpm": 180,
+        "accuracy_on_passage": 1.0
+      },
+      {
+        "date": "2026-11-07",
+        "words": 388,
+        "seconds": 137,
+        "wpm": 170,
         "target_wpm": 180,
         "accuracy_on_passage": 1.0
       }

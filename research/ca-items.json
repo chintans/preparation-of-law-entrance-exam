@@ -70,7 +70,7 @@
     {
      "date": "2026-11-07",
      "q": "Q6",
-     "result": "pending"
+     "result": "right"
     }
    ]
   },
@@ -454,7 +454,8 @@
     {
      "date": "2026-11-07",
      "q": "Q9",
-     "result": "pending"
+     "result": "wrong",
+     "chose": "5.50% (pre-cut rate; MSF/Bank Rate after the cut)"
     }
    ]
   },
@@ -541,7 +542,7 @@
     {
      "date": "2026-11-07",
      "q": "Q10",
-     "result": "pending"
+     "result": "right"
     }
    ]
   },
@@ -830,7 +831,7 @@
     {
      "date": "2026-11-07",
      "q": "Q7",
-     "result": "pending"
+     "result": "right"
     },
     {
      "date": "2026-11-08",
@@ -958,7 +959,7 @@
     {
      "date": "2026-11-07",
      "q": "Q1-Q5",
-     "result": "pending"
+     "result": "right"
     }
    ]
   },
@@ -1275,7 +1276,7 @@
     {
      "date": "2026-11-07",
      "q": "Q3",
-     "result": "pending"
+     "result": "right"
     },
     {
      "date": "2026-11-08",

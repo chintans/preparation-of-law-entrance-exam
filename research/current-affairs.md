@@ -20,9 +20,9 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-08 (brief) · legal/judgments · 11 Mar 2026: SC (J. B. Pardiwala J; K. V. Viswanathan J concurring), Harish Rana v UoI, 2026 LiveLaw (SC) 229 — first court-applied passive euthanasia; clinically administered nutrition is medical treatment, withdrawable on Primary/Secondary Medical Board opinion; 30-day wait waived; AIIMS palliative care; he died 24 Mar 2026; Art 21, Common Cause 2018 (mod. Jan 2023) · LiveLaw; Onmanorama  
   `ca-20261108-1` · LEG-NEW · hooks: Art 21, Case: Common Cause (2018) · not yet tested
 2026-11-07 (static) · polity · Para 4 merger needs ≥ 2/3 of the legislature party; para 3 (one-third split) deleted by the 91st Amendment, 2003; Speaker's decision reviewable (Kihoto Hollohan, 1992). · standard reference (Constitution of India / official site)  
-  `static-tenth-schedule` · GK-POL · hooks: Tenth Schedule · tested: 2026-11-07 Q3 …, 2026-11-08 Q7 …
+  `static-tenth-schedule` · GK-POL · hooks: Tenth Schedule · tested: 2026-11-07 Q3 ✓, 2026-11-08 Q7 …
 2026-11-07 (lesson) · polity · Telangana BRS defections: SC 31 Jul 2025 (Padi Kaushik Reddy) 3-month direction; contempt notice 17 Nov 2025; Speaker Gaddam Prasad Kumar dismissed all 10 petitions Dec 2025–11 Mar 2026; SC (Karol, Masih JJ) closed contempt 12 Mar 2026; challenges in Telangana HC (heard Aug 2026) · Bar & Bench; LiveLaw; The South First; Telangana Today  
-  `ca-20261107-7` · GK-POL · hooks: Tenth Schedule, Case: Kihoto Hollohan (1992) · tested: 2026-11-07 Q1-Q5 …
+  `ca-20261107-7` · GK-POL · hooks: Tenth Schedule, Case: Kihoto Hollohan (1992) · tested: 2026-11-07 Q1-Q5 ✓
 2026-11-07 (brief) · sports · 30 Oct 2026: Manisha Bhanwala won women's 59 kg gold at World Wrestling Championships, Astana (beat Abigail Nette, USA, 8-6 from 0-6) — first Indian woman wrestling world champion; 2nd Indian after Sushil Kumar 2010; silver Neelam Sirohi 50 kg, Kajal Dhochak 76 kg · newsonair  
   `ca-20261107-6` · GK-CA · hooks: Body: United World Wrestling · not yet tested
 2026-11-07 (brief) · economy · 1 Nov 2026: Oct 2026 gross GST > ₹2.31 lakh cr (+23% y-o-y); domestic ₹1.59 lakh cr (+15.8%); GST Council Art 279A · newsonair  
@@ -38,7 +38,7 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-06 (static) · polity · Art 22(3): clauses (1) and (2) do not apply to an enemy alien or a person arrested/detained under a preventive-detention law; 22(4) Advisory Board beyond 3 months. · standard reference (Constitution of India / official site)  
   `static-art22-3` · GK-POL, LEG-NEW · hooks: Art 22 · tested: 2026-11-06 Q6 ✓
 2026-11-06 (lesson) · legal/judgments · reported 5 Nov 2026: SC (Bhuyan, Chandurkar JJ), Sujit Das v UoI, 2026 INSC 1195 — Art 22(2) 24 h runs from actual detention, not formal arrest; no "buffer zone"; 18-h gap also breached s. 58 BNSS (s. 57 CrPC); s. 37 NDPS yields to Art 21 violation; bail; Magistrates to record actual detention time · Verdictum; Bar & Bench  
-  `ca-20261106-7` · LEG-NEW · hooks: Art 22, Art 21, BNSS 58, CrPC 57, Act: NDPS Act 1985, Case: D. K. Basu (1997) · tested: 2026-11-06 Q1-Q6 ✓, 2026-11-07 Q7 …, 2026-11-08 Q6 …
+  `ca-20261106-7` · LEG-NEW · hooks: Art 22, Art 21, BNSS 58, CrPC 57, Act: NDPS Act 1985, Case: D. K. Basu (1997) · tested: 2026-11-06 Q1-Q6 ✓, 2026-11-07 Q7 ✓, 2026-11-08 Q6 …
 2026-11-06 (brief) · appointments · 1 Nov 2026: Dinesh V. Ganvir took charge as 55th DG, Geological Survey of India (Min. of Mines; HQ Kolkata; est. 1851); critical minerals focus · The Week (PTI) 2 Nov 2026; The Hans India  
   `ca-20261106-6` · GK-CA · hooks: Body: Geological Survey of India · not yet tested
 2026-11-06 (brief) · international · 27 Oct 2026: WMO Greenhouse Gas Bulletin No. 22 — CO2 426.8 ppm in 2025 (153% of 1750), +2.8 ppm (2011–20 avg 2.4); CH4, N2O records; ahead of COP31 Antalya · wmo.int; UNB  
@@ -70,7 +70,7 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-04 (lesson) · legal/judgments · SC, Jodhpur Discoms v Lalit Soni, 2026 LiveLaw (SC) 1123 (Mishra, Chandrashekhar JJ; reported 3 Nov 2026) — employees of govt company/'State' under Art 12 not automatically entitled to s. 197 CrPC (now BNSS s. 218) sanction protection; test = removable only by/with govt sanction; HC orders set aside, revisions remitted · LiveLaw 3 Nov 2026  
   `ca-20261104-7` · LEG-NEW · hooks: CrPC 197, BNSS 218, Art 12 · tested: 2026-11-04 Q1-Q5 ✓, 2026-11-04 Q6 Art 12 ✗ (chose Art 12 'State' makes employees government servants)
 2026-11-04 (brief) · science · 30 Oct 2026: ISRO GSLV-F18 launched NVS-03 (indigenous atomic clock, L1 signal) from second launch pad, Sriharikota; NavIC back to minimum 4-satellite operational set (full: 3 GEO + 4 IGSO) · GKToday; newsonair 30 Oct 2026  
-  `ca-20261104-6` · GK-CA · hooks: Body: ISRO · tested: 2026-11-07 Q10 …
+  `ca-20261104-6` · GK-CA · hooks: Body: ISRO · tested: 2026-11-07 Q10 ✓
 2026-11-04 (brief) · reports & indices · Oct 2026: World Bank Poverty & Equity Brief — India extreme poverty 27.1% (2011) → 2.6% (2023); ~496 mn above $4.20/day LMIC line; share below it 57.7% → 16.1%, proj. 12.1% by 2028 · DD India 30 Oct 2026; AffairsCloud 1–2 Nov 2026  
   `ca-20261104-5` · GK-ECO · hooks: Body: World Bank · tested: 2026-11-08 Q13 …
 2026-11-04 (brief) · legal/judgments · 3 Nov 2026: SC (Prashant Kumar Mishra, Shree Chandrashekhar JJ), N. Sridhar Reddy v State of AP, 2026 LiveLaw (SC) 1125 — UK divorce on irretrievable breakdown (not an HMA ground) fails s. 13 CPC; later change of citizenship no defence; IPC s. 494 bigamy prosecution continues · LiveLaw 3 Nov 2026  
@@ -78,7 +78,7 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-04 (brief) · appointments/polity · 15 Dec 2025: Raj Kumar Goyal (IAS 1990, ex-Secretary Dept of Justice) sworn in as Chief Information Commissioner by President Murmu; CIC back to full strength; selection: PM, LoP (LS), Union Cabinet Minister nominated by PM; RTI Act 2005 · Drishti IAS 15 Dec 2025; The Week  
   `ca-20261104-3` · GK-POL, GK-CA · hooks: Act: RTI Act 2005, Body: Central Information Commission · tested: 2026-11-08 Q12 …
 2026-11-04 (brief) · economy · 5 Dec 2025: RBI MPC (58th meeting, 3–5 Dec; Gov. Sanjay Malhotra) cut repo 25 bp to 5.25%, unanimous; SDF 5.00%, MSF/Bank Rate 5.50%; neutral stance · SCC Online 6 Dec 2025  
-  `ca-20261104-2` · GK-ECO · hooks: Body: RBI MPC, Act: RBI Act 1934 · tested: 2026-11-07 Q9 …
+  `ca-20261104-2` · GK-ECO · hooks: Body: RBI MPC, Act: RBI Act 1934 · tested: 2026-11-07 Q9 ✗ (chose 5.50% (pre-cut rate; MSF/Bank Rate after the cut))
 2026-11-04 (brief) · legislation · Dec 2025: SHANTI (Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India) Act, 2025 — private cos/JVs may build, own, operate, decommission nuclear plants under licence; repeals Atomic Energy Act 1962 and Civil Liability for Nuclear Damage Act 2010; President's assent reported 22 Dec 2025 · newsonair 22 Dec 2025; Business Today  
   `ca-20261104-1` · LEG-NEW · hooks: Act: SHANTI Act 2025, Act: Atomic Energy Act 1962, Act: CLND Act 2010 · tested: 2026-11-08 Q9 …
 2026-11-03 (static) · polity · Art 356(3): proclamation approved by both Houses within two months; then six months at a time; outer limit three years (with conditions after one year). · standard reference (Constitution of India / official site)  
@@ -122,6 +122,6 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-10-26 (brief) · appointments · Justice Surya Kant sworn in as 53rd CJI on 24 Nov 2025 (first from Haryana; tenure ~15 months); B. R. Gavai was 52nd · Scroll; The Week  
   `ca-20261026-2` · GK-CA, LEG-NEW · hooks: Art 124, Person: Surya Kant · tested: 2026-10-26 surprise Q8 ✗ (chose Gavai (52nd)), 2026-11-03 Q10 –
 2026-10-26 (brief) · legal/judgments · 20 Nov 2025: 5-judge Constitution Bench (CJI B. R. Gavai; Surya Kant, Vikram Nath, P. S. Narasimha, A. S. Chandurkar JJ) answered the 16th Presidential Reference (Art. 143, 14 questions) — no court-fixed timelines under Arts 200/201, no 'deemed assent', limited review of prolonged unexplained inaction (direction to decide, no merits review); followed State of TN v Governor of TN (Apr 2025, 2 judges; 10 Bills deemed assented) · Wikipedia case page; Drishti IAS 25 Nov 2025  
-  `ca-20261026-1` · LEG-NEW, GK-POL · hooks: Art 143, Art 200, Art 201, Art 145 · tested: 2026-10-26 surprise Q5 ✗ (chose Art 32), 2026-10-26 surprise Q7 ✗ (chose Chandrachud as presiding CJI (it was Gavai)), 2026-10-26 surprise Q9 ✗ (chose deemed assent (April 2025 two-judge ruling)), 2026-11-02 Q10 ✗ (chose Art 200 (subject, not route)), 2026-11-06 Q7 ✓, 2026-11-07 Q6 …
+  `ca-20261026-1` · LEG-NEW, GK-POL · hooks: Art 143, Art 200, Art 201, Art 145 · tested: 2026-10-26 surprise Q5 ✗ (chose Art 32), 2026-10-26 surprise Q7 ✗ (chose Chandrachud as presiding CJI (it was Gavai)), 2026-10-26 surprise Q9 ✗ (chose deemed assent (April 2025 two-judge ruling)), 2026-11-02 Q10 ✗ (chose Art 200 (subject, not route)), 2026-11-06 Q7 ✓, 2026-11-07 Q6 ✓
 2026-10-20 (lesson) · legislation · Bharatiya Nyaya Sanhita, 2023 replaced the IPC w.e.f. 1 July 2024; theft is BNS s. 303 · MHA notification / India Code  
   `ca-20261020-1` · LEG-NEW · hooks: BNS 303, Act: BNS 2023 · not yet tested
