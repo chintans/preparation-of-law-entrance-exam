@@ -1,6 +1,6 @@
 # Readiness report
 
-Headline table updated 2026-11-08 (Day-11 CLAT RC set graded late: 7/8, net 6.75 in 10 min — English now has enough data in all three exams and is **Green**; earlier: 2026-11-03 — Day-14 AILET vocabulary set graded late: 9/10, net 8.75; Day-10 AILET legal set graded late: 6/8, net 5.5; Day-13 CLAT current-affairs set graded late: 4/8, net 3.0 in 3 min; Day-8 NLSAT set graded late: 6/8, net 5.5; Day-9 CLAT set graded late: 7/8, net 6.75 in 7 min). Full report: 2026-11-01 (after Day-7 CLAT surprise test, graded late — 68 graded questions in all; surprise items count
+Headline table updated 2026-11-08 (Day-12 AILET critical-reasoning set graded late: 5/8, net 4.25 in 7 min — no RAG change; reasoning sections still Green but slipping; then Day-11 CLAT RC set graded late: 7/8, net 6.75 in 10 min — English now has enough data in all three exams and is **Green**; earlier: 2026-11-03 — Day-14 AILET vocabulary set graded late: 9/10, net 8.75; Day-10 AILET legal set graded late: 6/8, net 5.5; Day-13 CLAT current-affairs set graded late: 4/8, net 3.0 in 3 min; Day-8 NLSAT set graded late: 6/8, net 5.5; Day-9 CLAT set graded late: 7/8, net 6.75 in 7 min). Full report: 2026-11-01 (after Day-7 CLAT surprise test, graded late — 68 graded questions in all; surprise items count
 double in section accuracy. Days 10–12 missed (Days 8–9 answered late on 2 Nov); 1 Nov set graded 2 Nov.)
 
 **CLAT readiness: Not ready** (insufficient data; Current Affairs Red) — surprise test 12.5/20 net (62.5%) in 40 min against a 22-min budget.
@@ -8,7 +8,7 @@ double in section accuracy. Days 10–12 missed (Days 8–9 answered late on 2 N
 | Exam | Date | Days left | Level | Projection | Note |
 |---|---|---|---|---|---|
 | CLAT 2027 | 6 Dec 2026 | 28 | Not ready (insufficient data) | — (surprise test: 62.5%) | **English 19/22 weighted (86%, proj. 83%, Green, coverage 1/1)**; Logical Green; Legal ≈84% but coverage 2/5; **Current Affairs 3/16 weighted (19%, Red)**; Quant thin |
-| AILET 2027 | 13 Dec 2026 | 35 | Not ready (insufficient data) | — | **English 86% (proj. 83%, Green, coverage 2/3 — ENG-GRM still 0)**; Reasoning ≈84% but coverage 3/7; CA & GK weak (GK-POL 0/3) |
+| AILET 2027 | 13 Dec 2026 | 35 | Not ready (insufficient data) | — | **English 86% (proj. 83%, Green, coverage 2/3 — ENG-GRM still 0)**; Reasoning ≈82% (proj. ≈78%) but coverage 3/7; CA & GK weak (GK-POL 0/3) |
 | CUET PG LLB | Mar 2027 | ~113 | Not ready (insufficient data) | — | Computer 5/7 → 64% (Amber); GK 0/5; others untested |
 | NLSAT-LLB | 25 Apr 2027 | 168 | Not ready (insufficient data) | — | Part A Reasoning Green; **English 12/13 weighted (92%, proj. 90%, Green)**; CA/GK 0/5; Part B untested |
 
@@ -19,7 +19,7 @@ double in section accuracy. Days 10–12 missed (Days 8–9 answered late on 2 N
 | English | 13 (surprise ×2 → 22) | 86% | 83% | 1/1 (ENG-RC 10 attempts) | **Green** |
 | Current Affairs | 11 (surprise ×2 → 16) | 19% | −2% | 1/3 (GK-CA 7; LEG-NEW 2, GK-POL 2) | Insufficient data — **Red on what exists** |
 | Legal | 39 | 86% | 83% | 2/5 (PRIN, CONT; TORT 2, CRIM 0, CONST 0) | Insufficient data |
-| Logical | 11 | 87% | 83% | 1/2 (LR-CR) | **Green** |
+| Logical | 17 | 81% | 76% | 1/2 (LR-CR) | **Green** |
 | Quant | 2 | 100% | 100% | 0/2 | Insufficient data |
 
 ## Against the cut-offs (provisional — aggregator figures)

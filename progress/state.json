@@ -36,7 +36,7 @@
     }
   },
   "calendar_last_verified": "2026-11-08",
-  "sessions_completed": 13,
+  "sessions_completed": 14,
   "streak": 0,
   "last_session": "2026-11-02",
   "pending_session": "2026-11-08",
@@ -166,15 +166,14 @@
       "next_review": null
     },
     "LEG-PRIN": {
-      "mastery": 82,
-      "attempts": 25,
+      "mastery": 74,
+      "attempts": 26,
       "correct": 22,
       "recent": [
         1,
         1,
         1,
         1,
-        1,
         0,
         1,
         1,
@@ -189,11 +188,12 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
       "last_seen": "2026-11-08",
-      "interval_days": 30,
-      "next_review": "2026-12-08"
+      "interval_days": 1,
+      "next_review": "2026-11-09"
     },
     "LEG-TORT": {
       "mastery": 100,
@@ -208,9 +208,9 @@
       "next_review": "2026-11-04"
     },
     "LEG-CONT": {
-      "mastery": 80,
-      "attempts": 40,
-      "correct": 31,
+      "mastery": 81,
+      "attempts": 41,
+      "correct": 32,
       "recent": [
         1,
         1,
@@ -219,7 +219,6 @@
         1,
         1,
         1,
-        1,
         0,
         1,
         1,
@@ -230,12 +229,13 @@
         1,
         1,
         0,
+        1,
         1,
         1
       ],
       "last_seen": "2026-11-08",
-      "interval_days": 4,
-      "next_review": "2026-11-12"
+      "interval_days": 8,
+      "next_review": "2026-11-16"
     },
     "LEG-CRIM": {
       "mastery": 0,
@@ -274,9 +274,9 @@
       "next_review": null
     },
     "LR-CR": {
-      "mastery": 84,
-      "attempts": 10,
-      "correct": 8,
+      "mastery": 76,
+      "attempts": 16,
+      "correct": 12,
       "recent": [
         1,
         1,
@@ -287,11 +287,17 @@
         1,
         1,
         1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
         1
       ],
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-08",
       "interval_days": 6,
-      "next_review": "2026-11-07"
+      "next_review": "2026-11-14"
     },
     "LR-ARG": {
       "mastery": 100,
@@ -418,20 +424,20 @@
       "due": "2026-11-06"
     },
     {
+      "topic": "LEG-PRIN",
+      "due": "2026-11-09"
+    },
+    {
       "topic": "LR-CR",
-      "due": "2026-11-07"
+      "due": "2026-11-14"
     },
     {
       "topic": "LEG-CONT",
-      "due": "2026-11-12"
+      "due": "2026-11-16"
     },
     {
       "topic": "ENG-RC",
       "due": "2026-11-20"
-    },
-    {
-      "topic": "LEG-PRIN",
-      "due": "2026-12-08"
     }
   ],
   "tests": [
@@ -823,6 +829,37 @@
       },
       "graded_on": "2026-11-08",
       "note": "Day-11 CLAT RC set answered late (8 Nov), 10 min vs 8-min budget. RC 5/6: main idea, inference, assumption, tone, weaken all right; missed Q6 - chose D 'no worthwhile employment' (extreme, contradicted by P4 'created work') over C. Q7 revocation-after-posting clock right; Q8 mistake of fact (product identity + due care) right - first clean mistake-of-fact item after two misses on 29 Oct."
+    },
+    {
+      "date": "2026-10-31",
+      "type": "normal",
+      "exam": "AILET",
+      "topic": "LR-CR",
+      "questions": 8,
+      "correct": 5,
+      "wrong": 3,
+      "unanswered": 0,
+      "raw": 5,
+      "net": 4.25,
+      "max": 8,
+      "minutes": 7,
+      "surprise": false,
+      "per_topic": {
+        "LR-CR": [
+          4,
+          6
+        ],
+        "LEG-CONT": [
+          1,
+          1
+        ],
+        "LEG-PRIN": [
+          0,
+          1
+        ]
+      },
+      "graded_on": "2026-11-08",
+      "note": "Day-12 AILET CR set answered late (8 Nov), 7 min vs ~6.4-min budget (48 s/q). CR 4/6: weaken, strengthen, flaw, paradox right; missed Q1 main conclusion (picked premise A) and Q2 assumption (picked over-strong 'every customer' B). Q7 revocation of acceptance right; Q8 picked D - right result (no defence), wrong reason (invented lack of care) - 3rd law-vs-fact classification miss."
     }
   ],
   "readiness": {
