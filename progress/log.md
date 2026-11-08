@@ -31,3 +31,4 @@
 | 2026-11-04 | 16 | normal | NLSAT | LEG-NEW | missed | — | No answers by 5 Nov run; streak 0; Q6 (Art 12) and Q7 (Art 131) carried to 5 Nov surprise test as Q6 and Q5 |
 | 2026-11-05 | 17 | surprise | CUET | MIXED | missed | — | No answers by 6 Nov run; streak 0; GK-POL slot recast as Art 143 route item on 6 Nov |
 | 2026-11-06 | 18 | normal | CLAT | LEG-NEW | missed | — | No answers by 7 Nov run; streak 0; Q4 (Art 22 clock) carried to 7 Nov as Q7, Art 143 item recast as Q6 |
+| 2026-11-07 | 19 | normal | CLAT | GK-POL | missed | — | No answers by 8 Nov run; streak 0; Q3 (2/3 merger), Q7 (Art 22 clock), Q8 (revocation) carried to 8 Nov as Q7, Q6, Q8 |

@@ -10,7 +10,7 @@
       "priority": 1.0,
       "status": "confirmed",
       "marking": "+1/-0.25",
-      "registration": "closes 2026-11-07 (extended); correction window open, test-city edits till 2026-11-10 (Careers360 4 Nov notice)",
+      "registration": "closed 2026-11-07 (extended; no further extension found 8 Nov); correction window open, test-city edits till 2026-11-10",
       "admit_card": "third (Careers360) or fourth (matchtocollege) week of Nov 2026 - sources differ"
     },
     "AILET": {
@@ -35,17 +35,17 @@
       "application": "OPEN (nlsatadmissions.nls.ac.in, seen 6 Nov 2026); closes 2027-03-23 (Careers360)"
     }
   },
-  "calendar_last_verified": "2026-11-07",
+  "calendar_last_verified": "2026-11-08",
   "sessions_completed": 12,
   "streak": 0,
   "last_session": "2026-11-02",
-  "pending_session": "2026-11-07",
-  "sessions_since_surprise": 2,
+  "pending_session": "2026-11-08",
+  "sessions_since_surprise": 3,
   "last_session_type": "normal",
   "recent_topics": [
-    "MIXED",
     "LEG-NEW",
-    "GK-POL"
+    "GK-POL",
+    "LEG-NEW"
   ],
   "topics": {
     "ENG-RC": {
@@ -899,20 +899,26 @@
       "date": "2026-11-06",
       "exam": "CLAT",
       "topic": "LEG-NEW"
+    },
+    {
+      "date": "2026-11-07",
+      "exam": "CLAT",
+      "topic": "GK-POL"
     }
   ],
   "ca": {
-    "backfill_cursor": "2026-03",
+    "backfill_cursor": "2026-04",
     "window": "2025-11 to 2026-11 (Phase 1)",
-    "briefs": 6,
-    "last_brief": "2026-11-07",
+    "briefs": 7,
+    "last_brief": "2026-11-08",
     "pace_note": "From 6 Nov: advance cursor every brief (3 items/month) so it reaches 2026-11 by ~30 Nov."
   },
   "reading": {
     "level": 1,
-    "technique_week": 1,
+    "technique_week": 2,
     "technique_started": "2026-11-02",
     "log": [],
-    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min ≈ 120 s/Q vs 60 s budget; reading time not measured."
+    "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min ≈ 120 s/Q vs 60 s budget; reading time not measured.",
+    "technique_note": "Week 2 (paragraph map) named from 8 Nov session (one day early; no drills returned yet)"
   }
 }
