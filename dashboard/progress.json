@@ -1,19 +1,19 @@
 {
  "summary": [
   {
-   "as_of": "2026-11-08",
-   "day": 20,
+   "as_of": "2026-11-09",
+   "day": 21,
    "streak": 1,
    "sessions_graded": 20,
    "reading_level": 1,
    "target_wpm": 180,
-   "days_clat": 28,
+   "days_clat": 27,
    "level_clat": "Not ready",
-   "days_ailet": 35,
+   "days_ailet": 34,
    "level_ailet": "Not ready",
-   "days_cuet": 114,
+   "days_cuet": 113,
    "level_cuet": "Not ready",
-   "days_nlsat": 168,
+   "days_nlsat": 167,
    "level_nlsat": "Not ready",
    "clat_indicative": 0.7693
   }
@@ -389,7 +389,7 @@
    "attempts": 1,
    "correct": 0,
    "next_review": "2026-11-09",
-   "due": false
+   "due": true
   },
   {
    "topic": "LEG-PRIN",
@@ -399,7 +399,7 @@
    "attempts": 26,
    "correct": 22,
    "next_review": "2026-11-09",
-   "due": false
+   "due": true
   },
   {
    "topic": "LEG-TORT",

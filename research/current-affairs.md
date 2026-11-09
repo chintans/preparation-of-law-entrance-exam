@@ -5,6 +5,22 @@ Newest first. Format: `logged (kind) · category · fact · sources` then the te
 
 CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly Apr 2026 – Mar 2027.
 
+2026-11-09 (static) · polity · Art 32: SC writs for FRs only (itself an FR). Art 226: HC writs for FRs and "any other purpose" (wider). L. Chandra Kumar (1997, 7 judges): judicial review under 32/226 is basic structure. · standard reference (Constitution of India)  
+  `static-art226-wider` · GK-POL · hooks: Art 226, Art 32, Art 131, Case: L. Chandra Kumar v Union of India · tested: 2026-11-09 Q11 …
+2026-11-09 (brief) · international · COP31, Antalya, Turkiye, 9-20 Nov 2026; COP President Murat Kurum (Turkiye environment minister); Australia's Chris Bowen "President for Negotiations" under COP30 Belem deal; UNFCCC HQ Bonn. · UNRIC; Hurriyet Daily News  
+  `ca-20261109-7` · GK-CA · hooks: Event: COP31, Body: UNFCCC, Person: Murat Kurum, Person: Chris Bowen · not yet tested
+2026-11-09 (brief) · appointments/international · Vote 3 Nov 2026 (Bass conceded 5 Nov): Kerala-born Nithya Raman beat incumbent Karen Bass (~52-48) — LA's first South Asian / Indian-American mayor; Council District 4 member since 2020. · Siasat; Fox LA (Nov 2026)  
+  `ca-20261109-6` · GK-CA · hooks: Person: Nithya Raman, Event: US mid-term elections 2026 · not yet tested
+2026-11-09 (brief) · polity · 6 Nov 2026: ECI gives electors marked ASDD in SIR draft rolls a fresh chance in 7 States/UTs (Delhi, Maharashtra, Haryana, AP, Jharkhand, Telangana, Nagaland); lists re-displayed, forms via ECINET. · Outlook; The Week (6 Nov 2026)  
+  `ca-20261109-5` · GK-POL · hooks: Art 324, Art 326, Act: RP Act 1950, Body: Election Commission of India, Person: Gyanesh Kumar · not yet tested
+2026-11-09 (brief) · legal/judgments · 6 Nov 2026 (2026 INSC 1200; CJI Surya Kant, Bagchi, V. Mohana JJ): ends HP's 1996 suit; Punjab and Haryana to give HP 11,973 MU of power arrears, cashless over 20 lean seasons; 2011 ruling fixed HP share 7.19%. Art 131 hook is inference (State-v-State original suit). · ThePrint; Bar & Bench (6-7 Nov 2026)  
+  `ca-20261109-4` · LEG-NEW · hooks: Art 131, Act: Punjab Reorganisation Act 1966 s 78, Body: BBMB, Case: State of Himachal Pradesh v Union of India · not yet tested
+2026-11-09 (brief) · reports & indices · RSF index (reported 30 Apr 2026): India 157/180 (151 in 2025); Norway 1st for 10th year; World Press Freedom Day 3 May; RSF HQ Paris. · The News Minute (30 Apr 2026)  
+  `ca-20261109-3` · GK-CA · hooks: Report: World Press Freedom Index, Body: RSF · not yet tested
+2026-11-09 (brief) · economy · 8 Apr 2026: first FY27 policy; MPC under Governor Sanjay Malhotra kept repo 5.25%, neutral stance; FY27 GDP 6.9%, CPI 4.6%. MPC s. 45ZB RBI Act, 6 members, target 4% +/- 2%. · Business Standard; ThePrint (8 Apr 2026)  
+  `ca-20261109-2` · GK-ECO · hooks: Body: RBI, Body: MPC, Act: RBI Act 1934 s 45ZB, Person: Sanjay Malhotra · not yet tested
+2026-11-09 (brief) · legal/judgments · 6 Apr 2026: SC (Vikram Nath, Sandeep Mehta, N. V. Anjaria JJ) ordered CBI preliminary inquiry into contracts to firms linked to CM Pema Khandu's relatives (2015-2025; report in 16 weeks); tainted public contracting breaks Art 14 even once. · LiveLaw (Apr 2026); Scroll  
+  `ca-20261109-1` · LEG-NEW · hooks: Art 14, Art 32, Body: CBI, Act: DSPE Act 1946, Case: Save Mon Region Federation v State of Arunachal Pradesh, Person: Pema Khandu · not yet tested
 2026-11-08 (lesson) · legislation · BNSS s. 173: zero FIR (any station irrespective of area), e-FIR signed within 3 days, s. 173(3) preliminary enquiry for offences ≥3 & <7 yrs with DSP permission within 14 days ("may"); Lalita Kumari (2013) partly displaced; Imran Pratapgadhi v State of Gujarat, 2025 INSC 410 (28 Mar 2025) — speech offences in band: ordinarily enquire first; refusal → SP s. 173(4), Magistrate s. 175(3) with affidavit · SCC Times 18 Aug 2026; LiveLaw  
   `ca-20261108-7` · LEG-NEW · hooks: BNSS 173, BNSS 175, CrPC 154, Case: Lalita Kumari (2013), Case: Imran Pratapgadhi (2025) · tested: 2026-11-08 Q1 ✗ (chose C), 2026-11-08 Q2 ✓, 2026-11-08 Q3 ✓, 2026-11-08 Q4 ✗ (chose C), 2026-11-08 Q5 ✓
 2026-11-08 (brief) · sports · 5 Nov 2026: India beat Japan 4-1 at Mohali (Olympian Balbir Singh Sr. stadium) to win record 6th men's Asian Champions Trophy (hockey); capt. Harmanpreet Singh; earlier 2011, 2016, 2018 (shared), 2023, 2024; Asian Hockey Federation · Tribune; The Bridge  
@@ -84,7 +100,7 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-03 (static) · polity · Art 356(3): proclamation approved by both Houses within two months; then six months at a time; outer limit three years (with conditions after one year). · standard reference (Constitution of India / official site)  
   `static-art356` · GK-POL · hooks: Art 356 · tested: 2026-11-03 Q7 ✗ (chose six months)
 2026-11-03 (static) · polity · Art 145(3): an Art 143 reference is heard by at least five judges; the Court may decline to answer (Ismail Faruqui, 1994). · standard reference (Constitution of India / official site)  
-  `static-art145-3` · GK-POL · hooks: Art 143, Art 145 · tested: 2026-11-03 Q5 ✗ (chose Court bound to answer), 2026-11-04 Q8 ✓
+  `static-art145-3` · GK-POL · hooks: Art 143, Art 145 · tested: 2026-11-03 Q5 ✗ (chose Court bound to answer), 2026-11-04 Q8 ✓, 2026-11-09 Q12 …
 2026-11-03 (static) · polity · Art 131: SC's original, exclusive jurisdiction in disputes between the Union and States (or States inter se) on legal rights. · standard reference (Constitution of India / official site)  
   `static-art131` · GK-POL · hooks: Art 131, Art 32, Art 143 · tested: 2026-11-03 Q4 ✗ (chose Art 143), 2026-11-04 Q7 ✓, 2026-11-05 surprise Q5 ✓
 2026-11-03 (brief) · appointments · 31 Oct 2026: Air Chief Marshal Ashutosh Dixit took over as 29th Chief of the Air Staff, succeeding A. P. Singh (was CISC); Air Marshal Inderpal Singh Walia Vice Chief from 1 Nov · newsonair 6 Oct 2026; AffairsCloud 1–2 Nov 2026  
@@ -104,9 +120,9 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-02 (brief) · polity · 27 Oct 2026: SC (Narasimha, Aradhe JJ) listed Shiv Sena (UBT) challenge to Speaker Om Birla accepting the merger of 6 of its 9 LS MPs with the Shinde-led Shiv Sena for final disposal on 8 Dec (Speaker did not appear); Tenth Schedule para 4 — merger needs ≥ 2/3 of legislature party · LawChakra  
   `ca-20261102-5` · GK-POL · hooks: Tenth Schedule · not yet tested
 2026-11-02 (brief) · legal/polity · Oct 2026: SC (CJI Surya Kant, Bagchi, V. Mohana JJ) hearing Rakesh Kumar Singh v UoI (WP(C) 1246/2026) — whether CEC Gyanesh Kumar acted without the full Commission (SIR orders, Form 6); notice 5 Oct, suspension declined; ECI affidavit 26 Oct says SIR orders unanimous; Art 324(5) CEC removable only like an SC judge · SC Observer 27 Oct 2026  
-  `ca-20261102-4` · GK-POL · hooks: Art 324, Body: Election Commission of India · not yet tested
+  `ca-20261102-4` · GK-POL · hooks: Art 324, Body: Election Commission of India · tested: 2026-11-09 Q10 …
 2026-11-02 (brief) · sports · 2 Nov 2025: India won its first Women's ODI World Cup, beating South Africa by 52 runs at DY Patil Stadium, Navi Mumbai (298/7 v 246); capt. Harmanpreet Kaur; PoM Shafali Verma (87 + 2 wkts); PoT Deepti Sharma (22 wkts, 215 runs); 13th edition, co-hosted with Sri Lanka · The Star (Reuters) 3 Nov 2025; Wikipedia  
-  `ca-20261102-3` · GK-CA · hooks: Body: ICC · not yet tested
+  `ca-20261102-3` · GK-CA · hooks: Body: ICC · tested: 2026-11-09 Q9 …
 2026-11-02 (brief) · legislation/economy · 21 Nov 2025: all four Labour Codes in force (Wages 2019; IR 2020; Social Security 2020; OSH & WC 2020), subsuming 29 central labour laws; appointment letters, universal minimum wage, gig/platform social security · PIB via labour.gov.in  
   `ca-20261102-2` · GK-ECO · hooks: Act: Labour Codes · tested: 2026-11-05 surprise Q7 ✗ (chose 44 laws (old count))
 2026-11-02 (brief) · legal/judgments · 19 Nov 2025: SC (CJI B. R. Gavai, K. Vinod Chandran J) struck down parts of the Tribunals Reforms Act, 2021 — 50-yr minimum age, 4-yr tenure (min. 5 required), two-names-per-post panel, civil-service-linked conditions — as re-enactments of provisions invalidated in Madras Bar Assn (2020, 2021); Centre to set up a National Tribunals Commission within 4 months · SC Observer; Vision IAS  

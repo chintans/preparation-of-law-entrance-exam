@@ -252,7 +252,13 @@
    ],
    "fact": "2 Nov 2025: India won its first Women's ODI World Cup, beating South Africa by 52 runs at DY Patil Stadium, Navi Mumbai (298/7 v 246); capt. Harmanpreet Kaur; PoM Shafali Verma (87 + 2 wkts); PoT Deepti Sharma (22 wkts, 215 runs); 13th edition, co-hosted with Sri Lanka",
    "sources": "The Star (Reuters) 3 Nov 2025; Wikipedia",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-09",
+     "q": "Q9",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261102-4",
@@ -269,7 +275,13 @@
    ],
    "fact": "Oct 2026: SC (CJI Surya Kant, Bagchi, V. Mohana JJ) hearing Rakesh Kumar Singh v UoI (WP(C) 1246/2026) — whether CEC Gyanesh Kumar acted without the full Commission (SIR orders, Form 6); notice 5 Oct, suspension declined; ECI affidavit 26 Oct says SIR orders unanimous; Art 324(5) CEC removable only like an SC judge",
    "sources": "SC Observer 27 Oct 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-09",
+     "q": "Q10",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261102-5",
@@ -1172,6 +1184,11 @@
      "date": "2026-11-04",
      "q": "Q8",
      "result": "right"
+    },
+    {
+     "date": "2026-11-09",
+     "q": "Q12",
+     "result": "pending"
     }
    ]
   },
@@ -1328,6 +1345,163 @@
      "q": "surprise Q8",
      "result": "wrong",
      "chose": "Abu Dhabi (IRENA)"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261109-1",
+   "logged": "2026-11-09",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "CBI inquiry into Arunachal contracts (Art 14)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 14",
+    "Art 32",
+    "Body: CBI",
+    "Act: DSPE Act 1946",
+    "Case: Save Mon Region Federation v State of Arunachal Pradesh",
+    "Person: Pema Khandu"
+   ],
+   "fact": "6 Apr 2026: SC (Vikram Nath, Sandeep Mehta, N. V. Anjaria JJ) ordered CBI preliminary inquiry into contracts to firms linked to CM Pema Khandu's relatives (2015-2025; report in 16 weeks); tainted public contracting breaks Art 14 even once.",
+   "sources": "LiveLaw (Apr 2026); Scroll",
+   "tests": []
+  },
+  {
+   "id": "ca-20261109-2",
+   "logged": "2026-11-09",
+   "kind": "brief",
+   "category": "economy",
+   "label": "RBI holds repo 5.25% (8 Apr 2026)",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Body: RBI",
+    "Body: MPC",
+    "Act: RBI Act 1934 s 45ZB",
+    "Person: Sanjay Malhotra"
+   ],
+   "fact": "8 Apr 2026: first FY27 policy; MPC under Governor Sanjay Malhotra kept repo 5.25%, neutral stance; FY27 GDP 6.9%, CPI 4.6%. MPC s. 45ZB RBI Act, 6 members, target 4% +/- 2%.",
+   "sources": "Business Standard; ThePrint (8 Apr 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261109-3",
+   "logged": "2026-11-09",
+   "kind": "brief",
+   "category": "reports & indices",
+   "label": "World Press Freedom Index 2026 — India 157",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Report: World Press Freedom Index",
+    "Body: RSF"
+   ],
+   "fact": "RSF index (reported 30 Apr 2026): India 157/180 (151 in 2025); Norway 1st for 10th year; World Press Freedom Day 3 May; RSF HQ Paris.",
+   "sources": "The News Minute (30 Apr 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261109-4",
+   "logged": "2026-11-09",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Bhakra-Beas power arrears to Himachal (SC, 6 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 131",
+    "Act: Punjab Reorganisation Act 1966 s 78",
+    "Body: BBMB",
+    "Case: State of Himachal Pradesh v Union of India"
+   ],
+   "fact": "6 Nov 2026 (2026 INSC 1200; CJI Surya Kant, Bagchi, V. Mohana JJ): ends HP's 1996 suit; Punjab and Haryana to give HP 11,973 MU of power arrears, cashless over 20 lean seasons; 2011 ruling fixed HP share 7.19%. Art 131 hook is inference (State-v-State original suit).",
+   "sources": "ThePrint; Bar & Bench (6-7 Nov 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261109-5",
+   "logged": "2026-11-09",
+   "kind": "brief",
+   "category": "polity",
+   "label": "SIR: fresh window for excluded voters (ECI, 6 Nov 2026)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 324",
+    "Art 326",
+    "Act: RP Act 1950",
+    "Body: Election Commission of India",
+    "Person: Gyanesh Kumar"
+   ],
+   "fact": "6 Nov 2026: ECI gives electors marked ASDD in SIR draft rolls a fresh chance in 7 States/UTs (Delhi, Maharashtra, Haryana, AP, Jharkhand, Telangana, Nagaland); lists re-displayed, forms via ECINET.",
+   "sources": "Outlook; The Week (6 Nov 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261109-6",
+   "logged": "2026-11-09",
+   "kind": "brief",
+   "category": "appointments/international",
+   "label": "Nithya Raman elected Mayor of Los Angeles",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Person: Nithya Raman",
+    "Event: US mid-term elections 2026"
+   ],
+   "fact": "Vote 3 Nov 2026 (Bass conceded 5 Nov): Kerala-born Nithya Raman beat incumbent Karen Bass (~52-48) — LA's first South Asian / Indian-American mayor; Council District 4 member since 2020.",
+   "sources": "Siasat; Fox LA (Nov 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261109-7",
+   "logged": "2026-11-09",
+   "kind": "brief",
+   "category": "international",
+   "label": "COP31 opens in Antalya (9-20 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Event: COP31",
+    "Body: UNFCCC",
+    "Person: Murat Kurum",
+    "Person: Chris Bowen"
+   ],
+   "fact": "COP31, Antalya, Turkiye, 9-20 Nov 2026; COP President Murat Kurum (Turkiye environment minister); Australia's Chris Bowen \"President for Negotiations\" under COP30 Belem deal; UNFCCC HQ Bonn.",
+   "sources": "UNRIC; Hurriyet Daily News",
+   "tests": []
+  },
+  {
+   "id": "static-art226-wider",
+   "logged": "2026-11-09",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 226 wider than Art 32 (\"any other purpose\")",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 226",
+    "Art 32",
+    "Art 131",
+    "Case: L. Chandra Kumar v Union of India"
+   ],
+   "fact": "Art 32: SC writs for FRs only (itself an FR). Art 226: HC writs for FRs and \"any other purpose\" (wider). L. Chandra Kumar (1997, 7 judges): judicial review under 32/226 is basic structure.",
+   "sources": "standard reference (Constitution of India)",
+   "tests": [
+    {
+     "date": "2026-11-09",
+     "q": "Q11",
+     "result": "pending"
     }
    ]
   }
