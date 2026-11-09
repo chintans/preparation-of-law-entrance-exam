@@ -6,7 +6,7 @@ Newest first. Format: `logged (kind) · category · fact · sources` then the te
 CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly Apr 2026 – Mar 2027.
 
 2026-11-09 (static) · polity · Art 32: SC writs for FRs only (itself an FR). Art 226: HC writs for FRs and "any other purpose" (wider). L. Chandra Kumar (1997, 7 judges): judicial review under 32/226 is basic structure. · standard reference (Constitution of India)  
-  `static-art226-wider` · GK-POL · hooks: Art 226, Art 32, Art 131, Case: L. Chandra Kumar v Union of India · tested: 2026-11-09 Q11 …
+  `static-art226-wider` · GK-POL · hooks: Art 226, Art 32, Art 131, Case: L. Chandra Kumar v Union of India · tested: 2026-11-09 Q11 ✓
 2026-11-09 (brief) · international · COP31, Antalya, Turkiye, 9-20 Nov 2026; COP President Murat Kurum (Turkiye environment minister); Australia's Chris Bowen "President for Negotiations" under COP30 Belem deal; UNFCCC HQ Bonn. · UNRIC; Hurriyet Daily News  
   `ca-20261109-7` · GK-CA · hooks: Event: COP31, Body: UNFCCC, Person: Murat Kurum, Person: Chris Bowen · not yet tested
 2026-11-09 (brief) · appointments/international · Vote 3 Nov 2026 (Bass conceded 5 Nov): Kerala-born Nithya Raman beat incumbent Karen Bass (~52-48) — LA's first South Asian / Indian-American mayor; Council District 4 member since 2020. · Siasat; Fox LA (Nov 2026)  
@@ -100,7 +100,7 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-03 (static) · polity · Art 356(3): proclamation approved by both Houses within two months; then six months at a time; outer limit three years (with conditions after one year). · standard reference (Constitution of India / official site)  
   `static-art356` · GK-POL · hooks: Art 356 · tested: 2026-11-03 Q7 ✗ (chose six months)
 2026-11-03 (static) · polity · Art 145(3): an Art 143 reference is heard by at least five judges; the Court may decline to answer (Ismail Faruqui, 1994). · standard reference (Constitution of India / official site)  
-  `static-art145-3` · GK-POL · hooks: Art 143, Art 145 · tested: 2026-11-03 Q5 ✗ (chose Court bound to answer), 2026-11-04 Q8 ✓, 2026-11-09 Q12 …
+  `static-art145-3` · GK-POL · hooks: Art 143, Art 145 · tested: 2026-11-03 Q5 ✗ (chose Court bound to answer), 2026-11-04 Q8 ✓, 2026-11-09 Q12 ✓
 2026-11-03 (static) · polity · Art 131: SC's original, exclusive jurisdiction in disputes between the Union and States (or States inter se) on legal rights. · standard reference (Constitution of India / official site)  
   `static-art131` · GK-POL · hooks: Art 131, Art 32, Art 143 · tested: 2026-11-03 Q4 ✗ (chose Art 143), 2026-11-04 Q7 ✓, 2026-11-05 surprise Q5 ✓
 2026-11-03 (brief) · appointments · 31 Oct 2026: Air Chief Marshal Ashutosh Dixit took over as 29th Chief of the Air Staff, succeeding A. P. Singh (was CISC); Air Marshal Inderpal Singh Walia Vice Chief from 1 Nov · newsonair 6 Oct 2026; AffairsCloud 1–2 Nov 2026  
@@ -120,9 +120,9 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-02 (brief) · polity · 27 Oct 2026: SC (Narasimha, Aradhe JJ) listed Shiv Sena (UBT) challenge to Speaker Om Birla accepting the merger of 6 of its 9 LS MPs with the Shinde-led Shiv Sena for final disposal on 8 Dec (Speaker did not appear); Tenth Schedule para 4 — merger needs ≥ 2/3 of legislature party · LawChakra  
   `ca-20261102-5` · GK-POL · hooks: Tenth Schedule · not yet tested
 2026-11-02 (brief) · legal/polity · Oct 2026: SC (CJI Surya Kant, Bagchi, V. Mohana JJ) hearing Rakesh Kumar Singh v UoI (WP(C) 1246/2026) — whether CEC Gyanesh Kumar acted without the full Commission (SIR orders, Form 6); notice 5 Oct, suspension declined; ECI affidavit 26 Oct says SIR orders unanimous; Art 324(5) CEC removable only like an SC judge · SC Observer 27 Oct 2026  
-  `ca-20261102-4` · GK-POL · hooks: Art 324, Body: Election Commission of India · tested: 2026-11-09 Q10 …
+  `ca-20261102-4` · GK-POL · hooks: Art 324, Body: Election Commission of India · tested: 2026-11-09 Q10 ✓
 2026-11-02 (brief) · sports · 2 Nov 2025: India won its first Women's ODI World Cup, beating South Africa by 52 runs at DY Patil Stadium, Navi Mumbai (298/7 v 246); capt. Harmanpreet Kaur; PoM Shafali Verma (87 + 2 wkts); PoT Deepti Sharma (22 wkts, 215 runs); 13th edition, co-hosted with Sri Lanka · The Star (Reuters) 3 Nov 2025; Wikipedia  
-  `ca-20261102-3` · GK-CA · hooks: Body: ICC · tested: 2026-11-09 Q9 …
+  `ca-20261102-3` · GK-CA · hooks: Body: ICC · tested: 2026-11-09 Q9 ✓
 2026-11-02 (brief) · legislation/economy · 21 Nov 2025: all four Labour Codes in force (Wages 2019; IR 2020; Social Security 2020; OSH & WC 2020), subsuming 29 central labour laws; appointment letters, universal minimum wage, gig/platform social security · PIB via labour.gov.in  
   `ca-20261102-2` · GK-ECO · hooks: Act: Labour Codes · tested: 2026-11-05 surprise Q7 ✗ (chose 44 laws (old count))
 2026-11-02 (brief) · legal/judgments · 19 Nov 2025: SC (CJI B. R. Gavai, K. Vinod Chandran J) struck down parts of the Tribunals Reforms Act, 2021 — 50-yr minimum age, 4-yr tenure (min. 5 required), two-names-per-post panel, civil-service-linked conditions — as re-enactments of provisions invalidated in Madras Bar Assn (2020, 2021); Centre to set up a National Tribunals Commission within 4 months · SC Observer; Vision IAS  

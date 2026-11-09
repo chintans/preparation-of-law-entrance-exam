@@ -54,14 +54,14 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 21 | s. 17A PC Act split verdict `ca-20261106-1` ·; Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; Harish Rana passive euthanasia `ca-20261108-1` · |
 | Art 22 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; Art 22(3) exceptions — enemy alien, preventive detention `static-art22-3` ✓ |
 | Art 23 | Honorarium ₹7,000 is begar (Art 23) `ca-20261107-1` · |
-| Art 32 | Art 131 — Union–State original suit `static-art131` ✗✓✓; CBI inquiry into Arunachal contracts (Art 14) `ca-20261109-1` ·; Art 226 wider than Art 32 ("any other purpose") `static-art226-wider` … |
+| Art 32 | Art 131 — Union–State original suit `static-art131` ✗✓✓; CBI inquiry into Arunachal contracts (Art 14) `ca-20261109-1` ·; Art 226 wider than Art 32 ("any other purpose") `static-art226-wider` ✓ |
 | Art 87 | Governors walk out of address (TN, Karnataka) `ca-20261106-2` · |
 | Art 112 | Economic Survey 2025-26 `ca-20261106-3` ·; Union Budget 2026-27 (FD 4.3%) `ca-20261107-2` · |
 | Art 124 | Surya Kant 53rd CJI `ca-20261026-2` ✗– |
-| Art 131 | Art 131 — Union–State original suit `static-art131` ✗✓✓; Bhakra-Beas power arrears to Himachal (SC, 6 Nov 2026) `ca-20261109-4` ·; Art 226 wider than Art 32 ("any other purpose") `static-art226-wider` … |
+| Art 131 | Art 131 — Union–State original suit `static-art131` ✗✓✓; Bhakra-Beas power arrears to Himachal (SC, 6 Nov 2026) `ca-20261109-4` ·; Art 226 wider than Art 32 ("any other purpose") `static-art226-wider` ✓ |
 | Art 142 | UGC Equity Regulations 2026 stayed `ca-20261105-1` · |
-| Art 143 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓; Art 131 — Union–State original suit `static-art131` ✗✓✓; Art 143 reference — bench of ≥5 (Art 145(3)); Court may decline `static-art145-3` ✗✓… |
-| Art 145 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓; Art 143 reference — bench of ≥5 (Art 145(3)); Court may decline `static-art145-3` ✗✓… |
+| Art 143 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓; Art 131 — Union–State original suit `static-art131` ✗✓✓; Art 143 reference — bench of ≥5 (Art 145(3)); Court may decline `static-art145-3` ✗✓✓ |
+| Art 145 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓; Art 143 reference — bench of ≥5 (Art 145(3)); Court may decline `static-art145-3` ✗✓✓ |
 | Art 163 | Governors walk out of address (TN, Karnataka) `ca-20261106-2` · |
 | Art 169 | Legislative Council polls; Art 169 `ca-20261105-5` ✓ |
 | Art 171 | Legislative Council polls; Art 169 `ca-20261105-5` ✓ |
@@ -69,11 +69,11 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 199 | Art 200 proviso — Money Bill cannot be returned `static-art200-money` ✗✗ |
 | Art 200 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓; Art 200 proviso — Money Bill cannot be returned `static-art200-money` ✗✗ |
 | Art 201 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓ |
-| Art 226 | Art 226 wider than Art 32 ("any other purpose") `static-art226-wider` … |
+| Art 226 | Art 226 wider than Art 32 ("any other purpose") `static-art226-wider` ✓ |
 | Art 243D | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` · |
 | Art 243T | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` · |
 | Art 279A | GST Oct 2026 ₹2.31 lakh cr `ca-20261107-5` · |
-| Art 324 | CEC acting without full Commission plea `ca-20261102-4` …; Assembly polls 2026 schedule (5 States/UT) `ca-20261108-2` ·; SIR: fresh window for excluded voters (ECI, 6 Nov 2026) `ca-20261109-5` · |
+| Art 324 | CEC acting without full Commission plea `ca-20261102-4` ✓; Assembly polls 2026 schedule (5 States/UT) `ca-20261108-2` ·; SIR: fresh window for excluded voters (ECI, 6 Nov 2026) `ca-20261109-5` · |
 | Art 326 | SIR: fresh window for excluded voters (ECI, 6 Nov 2026) `ca-20261109-5` · |
 | Art 330 | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` · |
 | Art 332 | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` · |
@@ -140,7 +140,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | D. K. Basu (1997) | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓ |
 | Imran Pratapgadhi (2025) | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` ✗✓✓✗✓ |
 | Kihoto Hollohan (1992) | Telangana BRS defection petitions `ca-20261107-7` ✓ |
-| L. Chandra Kumar v Union of India | Art 226 wider than Art 32 ("any other purpose") `static-art226-wider` … |
+| L. Chandra Kumar v Union of India | Art 226 wider than Art 32 ("any other purpose") `static-art226-wider` ✓ |
 | Lalita Kumari (2013) | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` ✗✓✓✗✓ |
 | Madras Bar Association | Tribunals Reforms Act 2021 struck down in part `ca-20261102-1` ✗ |
 | Save Mon Region Federation v State of Arunachal Pradesh | CBI inquiry into Arunachal contracts (Art 14) `ca-20261109-1` · |
@@ -158,10 +158,10 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | CBI | CBI inquiry into Arunachal contracts (Art 14) `ca-20261109-1` · |
 | Central Information Commission | Raj Kumar Goyal CIC `ca-20261104-3` ✓ |
 | Data Protection Board | DPDP Rules 2025 (MeitY) `ca-20261027-1` ✓ |
-| Election Commission of India | CEC acting without full Commission plea `ca-20261102-4` …; Assembly polls 2026 schedule (5 States/UT) `ca-20261108-2` ·; SIR: fresh window for excluded voters (ECI, 6 Nov 2026) `ca-20261109-5` · |
+| Election Commission of India | CEC acting without full Commission plea `ca-20261102-4` ✓; Assembly polls 2026 schedule (5 States/UT) `ca-20261108-2` ·; SIR: fresh window for excluded voters (ECI, 6 Nov 2026) `ca-20261109-5` · |
 | GST Council | GST Oct 2026 ₹2.31 lakh cr `ca-20261107-5` · |
 | Geological Survey of India | Dinesh Ganvir 55th DG, GSI `ca-20261106-6` · |
-| ICC | India win Women's ODI World Cup 2025 `ca-20261102-3` … |
+| ICC | India win Women's ODI World Cup 2025 `ca-20261102-3` ✓ |
 | IRENA | International Solar Alliance HQ Gurugram `static-isa` ✗ |
 | ISRO | NVS-03 / NavIC `ca-20261104-6` ✓ |
 | International Big Cat Alliance | 23rd India–Russia summit `ca-20261103-3` · |
@@ -226,8 +226,8 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 
 ## Item-level record by topic (first topic only; blank counts as a miss)
 
-- GK-CA: 5/10
+- GK-CA: 6/11
 - GK-ECO: 1/3
-- GK-POL: 10/16
+- GK-POL: 13/19
 - GK-STA: 0/1
 - LEG-NEW: 12/20

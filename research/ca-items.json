@@ -256,7 +256,7 @@
     {
      "date": "2026-11-09",
      "q": "Q9",
-     "result": "pending"
+     "result": "right"
     }
    ]
   },
@@ -279,7 +279,7 @@
     {
      "date": "2026-11-09",
      "q": "Q10",
-     "result": "pending"
+     "result": "right"
     }
    ]
   },
@@ -1188,7 +1188,7 @@
     {
      "date": "2026-11-09",
      "q": "Q12",
-     "result": "pending"
+     "result": "right"
     }
    ]
   },
@@ -1501,7 +1501,7 @@
     {
      "date": "2026-11-09",
      "q": "Q11",
-     "result": "pending"
+     "result": "right"
     }
    ]
   }
