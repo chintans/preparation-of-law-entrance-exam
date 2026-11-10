@@ -36,10 +36,10 @@
     }
   },
   "calendar_last_verified": "2026-11-10",
-  "sessions_completed": 21,
-  "streak": 2,
-  "last_session": "2026-11-09",
-  "pending_session": "2026-11-10",
+  "sessions_completed": 22,
+  "streak": 3,
+  "last_session": "2026-11-10",
+  "pending_session": null,
   "sessions_since_surprise": 5,
   "last_session_type": "normal",
   "recent_topics": [
@@ -49,9 +49,9 @@
   ],
   "topics": {
     "ENG-RC": {
-      "mastery": 89,
-      "attempts": 13,
-      "correct": 12,
+      "mastery": 81,
+      "attempts": 16,
+      "correct": 14,
       "recent": [
         1,
         1,
@@ -65,11 +65,14 @@
         0,
         1,
         1,
-        1
+        1,
+        1,
+        1,
+        0
       ],
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-10",
       "interval_days": 24,
-      "next_review": "2026-12-02"
+      "next_review": "2026-12-04"
     },
     "ENG-VOC": {
       "mastery": 98,
@@ -114,8 +117,8 @@
       "next_review": null
     },
     "GK-CA": {
-      "mastery": 78,
-      "attempts": 15,
+      "mastery": 68,
+      "attempts": 16,
       "correct": 10,
       "recent": [
         0,
@@ -132,46 +135,47 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
-      "last_seen": "2026-11-09",
-      "interval_days": 24,
-      "next_review": "2026-12-03"
-    },
-    "LEG-NEW": {
-      "mastery": 79,
-      "attempts": 23,
-      "correct": 17,
-      "recent": [
-        1,
-        1,
-        1,
-        1,
-        0,
-        1,
-        0,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        0,
-        1,
-        1,
-        0,
-        1,
-        1
-      ],
-      "last_seen": "2026-11-08",
-      "interval_days": 3,
+      "last_seen": "2026-11-10",
+      "interval_days": 1,
       "next_review": "2026-11-11"
     },
+    "LEG-NEW": {
+      "mastery": 80,
+      "attempts": 24,
+      "correct": 18,
+      "recent": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "last_seen": "2026-11-10",
+      "interval_days": 6,
+      "next_review": "2026-11-16"
+    },
     "GK-POL": {
-      "mastery": 84,
-      "attempts": 18,
-      "correct": 11,
+      "mastery": 77,
+      "attempts": 20,
+      "correct": 12,
       "recent": [
         0,
         0,
@@ -190,11 +194,13 @@
         1,
         1,
         1,
-        1
+        1,
+        1,
+        0
       ],
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "interval_days": 24,
-      "next_review": "2026-12-03"
+      "next_review": "2026-12-04"
     },
     "GK-ECO": {
       "mastery": 67,
@@ -209,15 +215,19 @@
       "next_review": "2026-11-11"
     },
     "GK-STA": {
-      "mastery": 0,
-      "attempts": 1,
-      "correct": 0,
+      "mastery": 73,
+      "attempts": 5,
+      "correct": 3,
       "recent": [
-        0
+        0,
+        1,
+        0,
+        1,
+        1
       ],
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-10",
       "interval_days": 1,
-      "next_review": "2026-11-09"
+      "next_review": "2026-11-11"
     },
     "LEG-PRIN": {
       "mastery": 85,
@@ -367,16 +377,17 @@
       "next_review": "2026-11-15"
     },
     "LR-ANA": {
-      "mastery": 83,
-      "attempts": 3,
+      "mastery": 50,
+      "attempts": 4,
       "correct": 2,
       "recent": [
         0,
         1,
-        1
+        1,
+        0
       ],
-      "last_seen": "2026-11-08",
-      "interval_days": 3,
+      "last_seen": "2026-11-10",
+      "interval_days": 1,
       "next_review": "2026-11-11"
     },
     "QT-ARITH": {
@@ -461,23 +472,19 @@
       "due": "2026-11-04"
     },
     {
-      "topic": "GK-STA",
-      "due": "2026-11-09"
+      "topic": "ENG-GRM",
+      "due": "2026-11-11"
+    },
+    {
+      "topic": "GK-CA",
+      "due": "2026-11-11"
     },
     {
       "topic": "GK-ECO",
       "due": "2026-11-11"
     },
     {
-      "topic": "QT-ARITH",
-      "due": "2026-11-11"
-    },
-    {
-      "topic": "ENG-GRM",
-      "due": "2026-11-11"
-    },
-    {
-      "topic": "QT-GEO",
+      "topic": "GK-STA",
       "due": "2026-11-11"
     },
     {
@@ -485,7 +492,11 @@
       "due": "2026-11-11"
     },
     {
-      "topic": "LEG-NEW",
+      "topic": "QT-ARITH",
+      "due": "2026-11-11"
+    },
+    {
+      "topic": "QT-GEO",
       "due": "2026-11-11"
     },
     {
@@ -497,11 +508,11 @@
       "due": "2026-11-14"
     },
     {
-      "topic": "LR-CR",
+      "topic": "ENG-VOC",
       "due": "2026-11-14"
     },
     {
-      "topic": "ENG-VOC",
+      "topic": "LR-CR",
       "due": "2026-11-14"
     },
     {
@@ -513,16 +524,16 @@
       "due": "2026-11-15"
     },
     {
-      "topic": "ENG-RC",
-      "due": "2026-12-02"
+      "topic": "LEG-NEW",
+      "due": "2026-11-16"
     },
     {
-      "topic": "GK-CA",
-      "due": "2026-12-03"
+      "topic": "ENG-RC",
+      "due": "2026-12-04"
     },
     {
       "topic": "GK-POL",
-      "due": "2026-12-03"
+      "due": "2026-12-04"
     },
     {
       "topic": "LEG-CONT",
@@ -1242,30 +1253,73 @@
       },
       "graded_on": "2026-11-09",
       "note": "Day-21 mistake of fact vs law set answered on the day, 9:48-9:59 incl. R 2:19 (397 words = 171 wpm vs 180); ~43 s/Q vs 60. Perfect 12/12: passage 5/5 incl. NOT-stem and absolute-option items; mistake-of-fact weak spot (Day 10) now right 6/6; tort vicarious liability, LR-ARG, CA recall 1/1 + polity recall, Constitution 2/2."
+    },
+    {
+      "date": "2026-11-10",
+      "type": "normal",
+      "exam": "AILET",
+      "topic": "GK-STA",
+      "questions": 12,
+      "correct": 7,
+      "wrong": 5,
+      "unanswered": 0,
+      "raw": 7,
+      "net": 5.75,
+      "max": 12,
+      "minutes": 8,
+      "surprise": false,
+      "per_topic": {
+        "ENG-RC": [
+          2,
+          3
+        ],
+        "GK-STA": [
+          3,
+          4
+        ],
+        "LR-ANA": [
+          0,
+          1
+        ],
+        "LEG-NEW": [
+          1,
+          1
+        ],
+        "GK-CA": [
+          0,
+          1
+        ],
+        "GK-POL": [
+          1,
+          2
+        ]
+      },
+      "graded_on": "2026-11-10",
+      "note": "Day-22 AILET static-GK set answered on the day (evening), 18:30-18:38 incl. R 2:09 (376 words = 175 wpm vs 180); ~29 s/Q vs 60 - rushed. Misses: Q3 NOT-stem (picked a stated fact), Q5 'INCORRECTLY matched' (picked a correct pair; IEA Vienna was the mismatch), Q8 direction (added legs, 14 km), Q10 Air Chief ordinal (28th/Chaudhari = A. P. Singh's entry), Q12 Art 356 six months (same confusion as 3 Nov)."
     }
   ],
   "readiness": {
     "CLAT": {
-      "level": "Not ready (Legal 2/5 & Quant 0/2 coverage; CA Green 81%, proj. 76%)",
+      "level": "Not ready (Legal 2/5 & Quant 0/2 coverage; CA Green 78%, proj. 72%)",
       "projection_pct": null,
-      "indicative_pct": 79,
-      "updated": "2026-11-09"
+      "indicative_pct": 78,
+      "updated": "2026-11-10"
     },
     "AILET": {
-      "level": "Not ready (Reasoning coverage 3/7; CA & GK now Green 79%, proj. 74%; English Green)",
+      "level": "Not ready (Reasoning coverage 3/7; CA & GK Green 74%, proj. 68%; English Green)",
       "projection_pct": null,
-      "updated": "2026-11-09"
+      "updated": "2026-11-10"
     },
     "CUET": {
       "level": "Not ready (Aptitude/Reasoning insufficient data; GK Green 77%, Language & Computer Green)",
       "projection_pct": null,
       "surprise_pct": 68.75,
-      "updated": "2026-11-09"
+      "updated": "2026-11-10"
     },
     "NLSAT": {
       "level": "Not ready (Part B untested; Part A all Green)",
       "projection_pct": null,
-      "updated": "2026-11-09"
+      "updated": "2026-11-10"
     }
   },
   "missed_sessions": [
@@ -1420,6 +1474,14 @@
         "wpm": 171,
         "target_wpm": 180,
         "accuracy_on_passage": 1.0
+      },
+      {
+        "date": "2026-11-10",
+        "words": 376,
+        "seconds": 129,
+        "wpm": 175,
+        "target_wpm": 180,
+        "accuracy_on_passage": 0.67
       }
     ],
     "baseline_note": "Day-7 surprise (26 Oct, graded 1 Nov): 20 Q in 40 min ≈ 120 s/Q vs 60 s budget; reading time not measured.",
@@ -1437,7 +1499,7 @@
     ],
     "last_capsule": "2026-11-10",
     "repeat_pending": false,
-    "note": "Started 8 Nov 2026 at Chintan's request. Units 1 (Art 131/143) and 3 (Art 356 numbers) seeded as weak from Day-15 misses; unit 2 (Art 200) also missed — taught on day 2 of the track. 9 Nov: unit 1 capsule taught; Q11 (Art 226 wider) and Q12 (Art 145(3)) both right → unit 1 removed from weak_units. 10 Nov: unit 2 capsule (Governor & assent) taught; Q11 Art 200 proviso, Q12 Art 356(3) recall (weak unit 3)."
+    "note": "Started 8 Nov 2026 at Chintan's request. Units 1 (Art 131/143) and 3 (Art 356 numbers) seeded as weak from Day-15 misses; unit 2 (Art 200) also missed — taught on day 2 of the track. 9 Nov: unit 1 capsule taught; Q11 (Art 226 wider) and Q12 (Art 145(3)) both right → unit 1 removed from weak_units. 10 Nov: unit 2 capsule (Governor & assent) taught; Q11 Art 200 proviso, Q12 Art 356(3) recall (weak unit 3). Graded 10 Nov: Q11 Art 200 proviso right (first time); Q12 Art 356(3) wrong again (six months) — unit 3 stays weak."
   },
   "dashboard": {
     "url": "https://claude.ai/artifact/7QP98w9CGCsG5QrdtasF8W",

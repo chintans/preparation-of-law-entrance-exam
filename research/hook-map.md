@@ -43,6 +43,9 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 - 2026-11-07 · RBI repo 5.25% (Dec 2025): chose **5.50% (pre-cut rate; MSF/Bank Rate after the cut)**
 - 2026-11-08 · BNSS 173 zero FIR & preliminary enquiry: chose **C**
 - 2026-11-08 · BNSS 173 zero FIR & preliminary enquiry: chose **C**
+- 2026-11-10 · Ashutosh Dixit 29th Chief of Air Staff: chose **28th, succeeding V. R. Chaudhari (A. P. Singh's entry)**
+- 2026-11-10 · Art 356 — Parliament approval within 2 months: chose **six months**
+- 2026-11-10 · IEA Paris vs IAEA Vienna: chose **UNEP–Nairobi (a correct pair) as the mismatch; IEA–Vienna was wrong**
 
 ## Constitution
 
@@ -70,8 +73,8 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 169 | Legislative Council polls; Art 169 `ca-20261105-5` ✓ |
 | Art 171 | Legislative Council polls; Art 169 `ca-20261105-5` ✓ |
 | Art 176 | Governors walk out of address (TN, Karnataka) `ca-20261106-2` · |
-| Art 199 | Art 200 proviso — Money Bill cannot be returned `static-art200-money` ✗✗… |
-| Art 200 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓; Art 200 proviso — Money Bill cannot be returned `static-art200-money` ✗✗… |
+| Art 199 | Art 200 proviso — Money Bill cannot be returned `static-art200-money` ✗✗✓ |
+| Art 200 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓; Art 200 proviso — Money Bill cannot be returned `static-art200-money` ✗✗✓ |
 | Art 201 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓ |
 | Art 215 | SC contempt notice to Kerala Congress (Art 129) `ca-20261110-4` · |
 | Art 226 | Art 226 wider than Art 32 ("any other purpose") `static-art226-wider` ✓ |
@@ -83,7 +86,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 326 | SIR: fresh window for excluded voters (ECI, 6 Nov 2026) `ca-20261109-5` · |
 | Art 330 | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` · |
 | Art 332 | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` · |
-| Art 356 | Art 356 — Parliament approval within 2 months `static-art356` ✗… |
+| Art 356 | Art 356 — Parliament approval within 2 months `static-art356` ✗✗ |
 | Art 368 | Legislative Council polls; Art 169 `ca-20261105-5` ✓ |
 | Tenth Schedule | Shiv Sena (UBT) LS merger challenge `ca-20261102-5` ·; Telangana BRS defection petitions `ca-20261107-7` ✓; Tenth Schedule — merger ≥ 2/3; 91st Amdt deleted split `static-tenth-schedule` ✓✓ |
 
@@ -91,7 +94,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 
 | Hook | Items (record) |
 |---|---|
-| BNS 303 | BNS replaced IPC (1 Jul 2024) `ca-20261020-1` … |
+| BNS 303 | BNS replaced IPC (1 Jul 2024) `ca-20261020-1` ✓ |
 | BNS 80 | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` · |
 | BNS 82 | Foreign divorce no shield to bigamy `ca-20261104-4` · |
 | BNS 85 | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` · |
@@ -115,7 +118,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 |---|---|
 | Administrative Tribunals Act 1985 | Tribunals Reforms Act 2021 struck down in part `ca-20261102-1` ✗ |
 | Atomic Energy Act 1962 | SHANTI Act 2025 (nuclear) `ca-20261104-1` ✓ |
-| BNS 2023 | BNS replaced IPC (1 Jul 2024) `ca-20261020-1` … |
+| BNS 2023 | BNS replaced IPC (1 Jul 2024) `ca-20261020-1` ✓ |
 | CEC and Other ECs Act 2023 | SC notice on CEC/EC lifelong immunity (s. 16, 2023 Act) `ca-20261110-5` · |
 | CLND Act 2010 | SHANTI Act 2025 (nuclear) `ca-20261104-1` ✓ |
 | Contempt of Courts Act 1971 | SC contempt notice to Kerala Congress (Art 129) `ca-20261110-4` · |
@@ -161,28 +164,28 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 
 | Hook | Items (record) |
 |---|---|
-| AIIB | NDB Shanghai vs AIIB Beijing `static-ndb` … |
+| AIIB | NDB Shanghai vs AIIB Beijing `static-ndb` ✓ |
 | Asian Hockey Federation | India win 6th men's Asian Champions Trophy (hockey) `ca-20261108-6` · |
 | BBMB | Bhakra-Beas power arrears to Himachal (SC, 6 Nov 2026) `ca-20261109-4` · |
-| BRICS | 12th BRICS Parliamentary Forum `ca-20261102-6` ·; NDB Shanghai vs AIIB Beijing `static-ndb` … |
+| BRICS | 12th BRICS Parliamentary Forum `ca-20261102-6` ·; NDB Shanghai vs AIIB Beijing `static-ndb` ✓ |
 | CBI | CBI inquiry into Arunachal contracts (Art 14) `ca-20261109-1` · |
 | Central Information Commission | Raj Kumar Goyal CIC `ca-20261104-3` ✓ |
 | Data Protection Board | DPDP Rules 2025 (MeitY) `ca-20261027-1` ✓ |
 | Election Commission of India | CEC acting without full Commission plea `ca-20261102-4` ✓; Assembly polls 2026 schedule (5 States/UT) `ca-20261108-2` ·; SIR: fresh window for excluded voters (ECI, 6 Nov 2026) `ca-20261109-5` · |
 | GST Council | GST Oct 2026 ₹2.31 lakh cr `ca-20261107-5` ·; Record GST April 2026 ₹2.43 lakh cr `ca-20261110-2` · |
 | Geological Survey of India | Dinesh Ganvir 55th DG, GSI `ca-20261106-6` · |
-| IAEA | IEA Paris vs IAEA Vienna `static-iea-iaea` … |
-| ICC | India win Women's ODI World Cup 2025 `ca-20261102-3` ✓; International Criminal Court sits at The Hague `static-icc-hague` … |
-| IEA | IEA Paris vs IAEA Vienna `static-iea-iaea` … |
-| IRENA | International Solar Alliance HQ Gurugram `static-isa` ✗… |
+| IAEA | IEA Paris vs IAEA Vienna `static-iea-iaea` ✗ |
+| ICC | India win Women's ODI World Cup 2025 `ca-20261102-3` ✓; International Criminal Court sits at The Hague `static-icc-hague` ✓ |
+| IEA | IEA Paris vs IAEA Vienna `static-iea-iaea` ✗ |
+| IRENA | International Solar Alliance HQ Gurugram `static-isa` ✗✓ |
 | ISRO | NVS-03 / NavIC `ca-20261104-6` ✓ |
 | International Big Cat Alliance | 23rd India–Russia summit `ca-20261103-3` · |
-| International Solar Alliance | International Solar Alliance HQ Gurugram `static-isa` ✗… |
+| International Solar Alliance | International Solar Alliance HQ Gurugram `static-isa` ✗✓ |
 | Lokpal | s. 17A PC Act split verdict `ca-20261106-1` · |
 | MPC | RBI holds repo 5.25% (8 Apr 2026) `ca-20261109-2` · |
 | MeitY | DPDP Rules 2025 (MeitY) `ca-20261027-1` ✓; India AI Impact Summit 2026 `ca-20261101-1` ✗✓–✓; IndiaAI Mission outlay ₹10,372 cr `ca-20261101-2` ✗ |
 | MoEFCC | Aravalli definition kept in abeyance `ca-20261103-1` ✓ |
-| NDB | NDB Shanghai vs AIIB Beijing `static-ndb` … |
+| NDB | NDB Shanghai vs AIIB Beijing `static-ndb` ✓ |
 | RBI | RBI holds repo 5.25% (8 Apr 2026) `ca-20261109-2` · |
 | RBI MPC | RBI repo 5.25% (Dec 2025) `ca-20261104-2` ✗ |
 | RSF | World Press Freedom Index 2026 — India 157 `ca-20261109-3` · |
@@ -223,7 +226,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 |---|---|
 | India–EU FTA | India–EU FTA concluded `ca-20261105-2` ✓ |
 | New START | New START expired 5 Feb 2026 `ca-20261107-3` · |
-| Rome Statute | International Criminal Court sits at The Hague `static-icc-hague` … |
+| Rome Statute | International Criminal Court sits at The Hague `static-icc-hague` ✓ |
 
 ## Events
 
@@ -244,8 +247,8 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 
 ## Item-level record by topic (first topic only; blank counts as a miss)
 
-- GK-CA: 6/11
+- GK-CA: 6/12
 - GK-ECO: 1/3
-- GK-POL: 13/19
-- GK-STA: 0/1
-- LEG-NEW: 12/20
+- GK-POL: 14/21
+- GK-STA: 3/5
+- LEG-NEW: 13/21

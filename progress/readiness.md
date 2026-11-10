@@ -4,14 +4,16 @@ Full report: **2026-11-09** (rewritten because AILET CA & GK moved Amber → Gre
 answered on the day: **12/12, net 12.00, 11 min including the read**. Figures are the last 40 graded questions per section, surprise items
 counted twice; projected = accuracy − 0.25 × (1 − accuracy); verbatim repeat items count in the score but not here.
 
-**CLAT readiness: Not ready** (Legal 2/5 and Quant 0/2 coverage) — indicative projection ≈ **79%** if every section holds.
+**CLAT readiness: Not ready** (Legal 2/5 and Quant 0/2 coverage) — indicative projection ≈ **78%** if every section holds.
+
+*Headline table updated 2026-11-10 after Day 22 (AILET static GK, 7/12, net 5.75): no RAG change; detail tables below are from 9 Nov.*
 
 | Exam | Date | Days left | Level | Projection | Note |
 |---|---|---|---|---|---|
-| CLAT 2027 | 6 Dec 2026 | 27 | Not ready (Legal 2/5 & Quant 0/2 coverage) | indicative ≈ 79% (Day-7 surprise: 62.5%) | English 90% (proj. 88%, Green) · Current Affairs 81% (proj. 76%, Green) · Legal 83% (proj. 79%) but TORT 3, CRIM 0, CONST 0 attempts · Logical 82% (proj. 77%, Green; LR-ARG 2) · Quant 80% on 5 Q |
-| AILET 2027 | 13 Dec 2026 | 34 | Not ready (Reasoning coverage 3/7) | — | English 91% (Green) · **CA & GK 79% (proj. 74%, Green — was Amber)** · Reasoning 79% (proj. 74%) but coverage 3/7 (LR-ARG, LR-ANA, LEG-TORT, LEG-CRIM thin) |
-| CUET PG LLB | Mar 2027 | ~113 | Not ready (Aptitude, Reasoning insufficient data) | — (Day-17 surprise: 68.75%) | Language 91% · Computer 87% · GK 77% (proj. 71%) — all Green · Aptitude 6 Q, Reasoning 5 Q (coverage 0/2 each) |
-| NLSAT-LLB | 25 Apr 2027 | 167 | Not ready (Part B untested) | — | English 94% · CA/GK 81% (proj. 76%) · Reasoning 82% (proj. 78%) — all Green · Part B: no writing yet (Sundays from 1 Dec) |
+| CLAT 2027 | 6 Dec 2026 | 26 | Not ready (Legal 2/5 & Quant 0/2 coverage) | indicative ≈ 78% (Day-7 surprise: 62.5%) | English 88% (proj. 85%, Green) · Current Affairs 78% (proj. 72%, Green) · Legal 83% (proj. 79%) but TORT 3, CRIM 0, CONST 0 attempts · Logical 82% (proj. 77%, Green; LR-ARG 2) · Quant 80% on 5 Q |
+| AILET 2027 | 13 Dec 2026 | 33 | Not ready (Reasoning coverage 3/7) | — | English 89% (Green) · CA & GK 74% (proj. 68%, Green — 3 points above Amber) · Reasoning 77% (proj. 71%) but coverage 3/7 (LR-ARG, LR-ANA, LEG-TORT, LEG-CRIM thin) |
+| CUET PG LLB | Mar 2027 | ~112 | Not ready (Aptitude, Reasoning insufficient data) | — (Day-17 surprise: 68.75%) | Language 89% · Computer 87% · GK 80% (proj. 76%) — all Green · Aptitude 6 Q, Reasoning 6 Q (coverage 0/2 each) |
+| NLSAT-LLB | 25 Apr 2027 | 166 | Not ready (Part B untested) | — | English 90% · CA/GK 79% (proj. 74%) · Reasoning 82% (proj. 78%) — all Green · Part B: no writing yet (Sundays from 1 Dec) |
 
 ## CLAT section detail
 

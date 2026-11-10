@@ -21,7 +21,7 @@
     {
      "date": "2026-11-10",
      "q": "Q9",
-     "result": "pending"
+     "result": "right"
     }
    ]
   },
@@ -431,7 +431,8 @@
     {
      "date": "2026-11-10",
      "q": "Q10",
-     "result": "pending"
+     "result": "wrong",
+     "chose": "28th, succeeding V. R. Chaudhari (A. P. Singh's entry)"
     }
    ]
   },
@@ -1234,7 +1235,7 @@
     {
      "date": "2026-11-10",
      "q": "Q11",
-     "result": "pending"
+     "result": "right"
     }
    ]
   },
@@ -1262,7 +1263,8 @@
     {
      "date": "2026-11-10",
      "q": "Q12",
-     "result": "pending"
+     "result": "wrong",
+     "chose": "six months"
     }
    ]
   },
@@ -1371,7 +1373,7 @@
     {
      "date": "2026-11-10",
      "q": "Q4",
-     "result": "pending"
+     "result": "right"
     }
    ]
   },
@@ -1551,7 +1553,8 @@
     {
      "date": "2026-11-10",
      "q": "Q5",
-     "result": "pending"
+     "result": "wrong",
+     "chose": "UNEP–Nairobi (a correct pair) as the mismatch; IEA–Vienna was wrong"
     }
    ]
   },
@@ -1574,7 +1577,7 @@
     {
      "date": "2026-11-10",
      "q": "Q6",
-     "result": "pending"
+     "result": "right"
     }
    ]
   },
@@ -1598,7 +1601,7 @@
     {
      "date": "2026-11-10",
      "q": "Q7",
-     "result": "pending"
+     "result": "right"
     }
    ]
   },

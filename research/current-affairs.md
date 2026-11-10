@@ -6,11 +6,11 @@ Newest first. Format: `logged (kind) · category · fact · sources` then the te
 CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly Apr 2026 – Mar 2027.
 
 2026-11-10 (static) · static GK · New Development Bank (BRICS) HQ Shanghai; AIIB HQ Beijing. · standard reference (organisation's official site)  
-  `static-ndb` · GK-STA · hooks: Body: NDB, Body: AIIB, Body: BRICS · tested: 2026-11-10 Q7 …
+  `static-ndb` · GK-STA · hooks: Body: NDB, Body: AIIB, Body: BRICS · tested: 2026-11-10 Q7 ✓
 2026-11-10 (static) · static GK · International Energy Agency HQ Paris; International Atomic Energy Agency HQ Vienna. · standard reference (organisation's official site)  
-  `static-iea-iaea` · GK-STA · hooks: Body: IEA, Body: IAEA · tested: 2026-11-10 Q5 …
+  `static-iea-iaea` · GK-STA · hooks: Body: IEA, Body: IAEA · tested: 2026-11-10 Q5 ✗ (chose UNEP–Nairobi (a correct pair) as the mismatch; IEA–Vienna was wrong)
 2026-11-10 (static) · static GK · ICC (individuals; Rome Statute 1998, in force 2002) sits at The Hague; ICJ (States) also The Hague; ICC cricket HQ Dubai. · standard reference (organisation's official site)  
-  `static-icc-hague` · GK-STA · hooks: Body: ICC, Treaty: Rome Statute · tested: 2026-11-10 Q6 …
+  `static-icc-hague` · GK-STA · hooks: Body: ICC, Treaty: Rome Statute · tested: 2026-11-10 Q6 ✓
 2026-11-10 (brief) · culture · Reported 5 Nov 2026: 11th MOWCAP session (Jakarta) inscribed birch-bark Mahabharata (BORI Pune), palm-leaf Arthashastra (ORI Mysuru), Kalhana's Rajatarangini (Srinagar); India now 6 entries on the Asia-Pacific regional register; IGNCA prepared nominations. · The Week 5 Nov 2026; AffairsCloud 7-9 Nov 2026  
   `ca-20261110-6` · GK-CA · hooks: Body: UNESCO, Event: Memory of the World · not yet tested
 2026-11-10 (brief) · polity · 4 Nov 2026: CJI Surya Kant, Joymalya Bagchi, V. Mohana JJ issued notice on pleas (incl. Manoj Kumar Jha) against s. 16 of the CEC and Other ECs (Appointment, Conditions of Service and Term of Office) Act 2023 — immunity from civil/criminal proceedings for official acts; no stay; tagged with Lok Prahari/ADR pleas; next hearing 18 Dec 2026. · Indian Masterminds; LiveLaw (4 Nov 2026)  
@@ -86,7 +86,7 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-06 (brief) · legal/judgments · 13 Jan 2026: SC split verdict on s. 17A PC Act (prior approval before enquiry/investigation; inserted Jul 2018) — Nagarathna J struck down (Arts 14, 21; third attempt after Vineet Narain 1998 and Subramanian Swamy 2014/s. 6A DSPE), Viswanathan J upheld (approval via Lokpal/Lokayukta); placed before CJI Surya Kant for larger bench; CPIL v UoI, 2026 LiveLaw (SC) 43 · LiveLaw; newsonair 14 Jan 2026  
   `ca-20261106-1` · LEG-NEW · hooks: Art 14, Art 21, Act: Prevention of Corruption Act 1988, Act: DSPE Act 1946, Case: Vineet Narain (1998), Case: Subramanian Swamy v Director CBI (2014), Body: Lokpal · not yet tested
 2026-11-05 (static) · static GK · ISA HQ Gwal Pahari, Gurugram; launched at COP21 Paris (2015). IRENA HQ is Abu Dhabi. · standard reference (Constitution of India / official site)  
-  `static-isa` · GK-STA · hooks: Body: International Solar Alliance, Body: IRENA · tested: 2026-11-05 surprise Q8 ✗ (chose Abu Dhabi (IRENA)), 2026-11-10 Q4 …
+  `static-isa` · GK-STA · hooks: Body: International Solar Alliance, Body: IRENA · tested: 2026-11-05 surprise Q8 ✗ (chose Abu Dhabi (IRENA)), 2026-11-10 Q4 ✓
 2026-11-05 (brief) · economy · 3 Nov 2026: Piyush Goyal — exports grew ~14% in Apr–Sep FY27 to ~US$ 480 bn; FY target US$ 1 trillion · CrackTarget 3 Nov 2026 (single source)  
   `ca-20261105-6` · GK-ECO · hooks: — · not yet tested
 2026-11-05 (brief) · polity · Nov 2026: biennial polls for 28 Legislative Council seats (UP, Bihar, Maharashtra, Karnataka); 6 States have Councils; Art 169 creation/abolition by Parliament on Assembly resolution (majority of total + 2/3 present & voting), not Art 368; Art 171 ≤ 1/3 of Assembly, ≥ 40 · Legacy IAS 3 Nov 2026  
@@ -116,13 +116,13 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-04 (brief) · legislation · Dec 2025: SHANTI (Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India) Act, 2025 — private cos/JVs may build, own, operate, decommission nuclear plants under licence; repeals Atomic Energy Act 1962 and Civil Liability for Nuclear Damage Act 2010; President's assent reported 22 Dec 2025 · newsonair 22 Dec 2025; Business Today  
   `ca-20261104-1` · LEG-NEW · hooks: Act: SHANTI Act 2025, Act: Atomic Energy Act 1962, Act: CLND Act 2010 · tested: 2026-11-08 Q9 ✓
 2026-11-03 (static) · polity · Art 356(3): proclamation approved by both Houses within two months; then six months at a time; outer limit three years (with conditions after one year). · standard reference (Constitution of India / official site)  
-  `static-art356` · GK-POL · hooks: Art 356 · tested: 2026-11-03 Q7 ✗ (chose six months), 2026-11-10 Q12 …
+  `static-art356` · GK-POL · hooks: Art 356 · tested: 2026-11-03 Q7 ✗ (chose six months), 2026-11-10 Q12 ✗ (chose six months)
 2026-11-03 (static) · polity · Art 145(3): an Art 143 reference is heard by at least five judges; the Court may decline to answer (Ismail Faruqui, 1994). · standard reference (Constitution of India / official site)  
   `static-art145-3` · GK-POL · hooks: Art 143, Art 145 · tested: 2026-11-03 Q5 ✗ (chose Court bound to answer), 2026-11-04 Q8 ✓, 2026-11-09 Q12 ✓
 2026-11-03 (static) · polity · Art 131: SC's original, exclusive jurisdiction in disputes between the Union and States (or States inter se) on legal rights. · standard reference (Constitution of India / official site)  
   `static-art131` · GK-POL · hooks: Art 131, Art 32, Art 143 · tested: 2026-11-03 Q4 ✗ (chose Art 143), 2026-11-04 Q7 ✓, 2026-11-05 surprise Q5 ✓
 2026-11-03 (brief) · appointments · 31 Oct 2026: Air Chief Marshal Ashutosh Dixit took over as 29th Chief of the Air Staff, succeeding A. P. Singh (was CISC); Air Marshal Inderpal Singh Walia Vice Chief from 1 Nov · newsonair 6 Oct 2026; AffairsCloud 1–2 Nov 2026  
-  `ca-20261103-6` · GK-CA · hooks: — · tested: 2026-11-10 Q10 …
+  `ca-20261103-6` · GK-CA · hooks: — · tested: 2026-11-10 Q10 ✗ (chose 28th, succeeding V. R. Chaudhari (A. P. Singh's entry))
 2026-11-03 (brief) · polity/judgments · 29 Oct 2026: SC (Pardiwala, K. Vinod Chandran JJ), Srinivasa T v State of Karnataka (2026 INSC 1173) — struck down Karnataka Civil Services (Validation of Selection and Appointment of 2011 Batch Gazetted Probationers) Act, 2022 (362 KPSC posts); legislature cannot annul a final judgment · Verdictum 30 Oct 2026; LiveLaw  
   `ca-20261103-5` · GK-POL, LEG-NEW · hooks: Doctrine: separation of powers · not yet tested
 2026-11-03 (brief) · legal/judgments · 27 Oct 2026: SC (CJI Surya Kant, Bagchi, V. Mohana JJ) issued notice on Digital News Publishers Association plea that DPDP Act 2023 lacks a journalism exemption; no interim stay; next hearing 17 Nov · ANI 27 Oct 2026  
@@ -152,10 +152,10 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-10-27 (lesson) · legislation · DPDP Rules, 2025 notified by MeitY on 14 Nov 2025 under the DPDP Act, 2023; phased 12–18 months (consent managers, notices, core processing norms); Data Protection Board to levy penalties, up to ₹250 crore per breach under the Act; breach intimation to affected persons 'without delay' · Deccan Herald 14 Nov 2025; PIB 17 Nov 2025  
   `ca-20261027-1` · LEG-NEW · hooks: Act: DPDP Act 2023, Body: MeitY, Body: Data Protection Board · tested: 2026-11-04 Q9 ✓
 2026-10-26 (static) · polity · Proviso to Art 200: the Governor may return a Bill other than a Money Bill for reconsideration. · standard reference (Constitution of India / official site)  
-  `static-art200-money` · GK-POL · hooks: Art 200, Art 199 · tested: 2026-10-26 surprise Q6 ✗ (chose withholding assent as the odd one out), 2026-11-03 Q6 ✗, 2026-11-10 Q11 …
+  `static-art200-money` · GK-POL · hooks: Art 200, Art 199 · tested: 2026-10-26 surprise Q6 ✗ (chose withholding assent as the odd one out), 2026-11-03 Q6 ✗, 2026-11-10 Q11 ✓
 2026-10-26 (brief) · appointments · Justice Surya Kant sworn in as 53rd CJI on 24 Nov 2025 (first from Haryana; tenure ~15 months); B. R. Gavai was 52nd · Scroll; The Week  
   `ca-20261026-2` · GK-CA, LEG-NEW · hooks: Art 124, Person: Surya Kant · tested: 2026-10-26 surprise Q8 ✗ (chose Gavai (52nd)), 2026-11-03 Q10 –
 2026-10-26 (brief) · legal/judgments · 20 Nov 2025: 5-judge Constitution Bench (CJI B. R. Gavai; Surya Kant, Vikram Nath, P. S. Narasimha, A. S. Chandurkar JJ) answered the 16th Presidential Reference (Art. 143, 14 questions) — no court-fixed timelines under Arts 200/201, no 'deemed assent', limited review of prolonged unexplained inaction (direction to decide, no merits review); followed State of TN v Governor of TN (Apr 2025, 2 judges; 10 Bills deemed assented) · Wikipedia case page; Drishti IAS 25 Nov 2025  
   `ca-20261026-1` · LEG-NEW, GK-POL · hooks: Art 143, Art 200, Art 201, Art 145 · tested: 2026-10-26 surprise Q5 ✗ (chose Art 32), 2026-10-26 surprise Q7 ✗ (chose Chandrachud as presiding CJI (it was Gavai)), 2026-10-26 surprise Q9 ✗ (chose deemed assent (April 2025 two-judge ruling)), 2026-11-02 Q10 ✗ (chose Art 200 (subject, not route)), 2026-11-06 Q7 ✓, 2026-11-07 Q6 ✓
 2026-10-20 (lesson) · legislation · Bharatiya Nyaya Sanhita, 2023 replaced the IPC w.e.f. 1 July 2024; theft is BNS s. 303 · MHA notification / India Code  
-  `ca-20261020-1` · LEG-NEW · hooks: BNS 303, Act: BNS 2023 · tested: 2026-11-10 Q9 …
+  `ca-20261020-1` · LEG-NEW · hooks: BNS 303, Act: BNS 2023 · tested: 2026-11-10 Q9 ✓
