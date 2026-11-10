@@ -17,7 +17,13 @@
    ],
    "fact": "Bharatiya Nyaya Sanhita, 2023 replaced the IPC w.e.f. 1 July 2024; theft is BNS s. 303",
    "sources": "MHA notification / India Code",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-10",
+     "q": "Q9",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261026-1",
@@ -421,7 +427,13 @@
    "hooks": [],
    "fact": "31 Oct 2026: Air Chief Marshal Ashutosh Dixit took over as 29th Chief of the Air Staff, succeeding A. P. Singh (was CISC); Air Marshal Inderpal Singh Walia Vice Chief from 1 Nov",
    "sources": "newsonair 6 Oct 2026; AffairsCloud 1–2 Nov 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-10",
+     "q": "Q10",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261104-1",
@@ -1218,6 +1230,11 @@
      "date": "2026-11-03",
      "q": "Q6",
      "result": "wrong"
+    },
+    {
+     "date": "2026-11-10",
+     "q": "Q11",
+     "result": "pending"
     }
    ]
   },
@@ -1241,6 +1258,11 @@
      "q": "Q7",
      "result": "wrong",
      "chose": "six months"
+    },
+    {
+     "date": "2026-11-10",
+     "q": "Q12",
+     "result": "pending"
     }
    ]
   },
@@ -1345,6 +1367,11 @@
      "q": "surprise Q8",
      "result": "wrong",
      "chose": "Abu Dhabi (IRENA)"
+    },
+    {
+     "date": "2026-11-10",
+     "q": "Q4",
+     "result": "pending"
     }
    ]
   },
@@ -1504,6 +1531,184 @@
      "result": "right"
     }
    ]
+  },
+  {
+   "id": "static-iea-iaea",
+   "logged": "2026-11-10",
+   "kind": "static",
+   "category": "static GK",
+   "label": "IEA Paris vs IAEA Vienna",
+   "topics": [
+    "GK-STA"
+   ],
+   "hooks": [
+    "Body: IEA",
+    "Body: IAEA"
+   ],
+   "fact": "International Energy Agency HQ Paris; International Atomic Energy Agency HQ Vienna.",
+   "sources": "standard reference (organisation's official site)",
+   "tests": [
+    {
+     "date": "2026-11-10",
+     "q": "Q5",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-icc-hague",
+   "logged": "2026-11-10",
+   "kind": "static",
+   "category": "static GK",
+   "label": "International Criminal Court sits at The Hague",
+   "topics": [
+    "GK-STA"
+   ],
+   "hooks": [
+    "Body: ICC",
+    "Treaty: Rome Statute"
+   ],
+   "fact": "ICC (individuals; Rome Statute 1998, in force 2002) sits at The Hague; ICJ (States) also The Hague; ICC cricket HQ Dubai.",
+   "sources": "standard reference (organisation's official site)",
+   "tests": [
+    {
+     "date": "2026-11-10",
+     "q": "Q6",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-ndb",
+   "logged": "2026-11-10",
+   "kind": "static",
+   "category": "static GK",
+   "label": "NDB Shanghai vs AIIB Beijing",
+   "topics": [
+    "GK-STA"
+   ],
+   "hooks": [
+    "Body: NDB",
+    "Body: AIIB",
+    "Body: BRICS"
+   ],
+   "fact": "New Development Bank (BRICS) HQ Shanghai; AIIB HQ Beijing.",
+   "sources": "standard reference (organisation's official site)",
+   "tests": [
+    {
+     "date": "2026-11-10",
+     "q": "Q7",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261110-1",
+   "logged": "2026-11-10",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "SC voids caste-coded \"cleaning\" bail conditions (4 May 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 17",
+    "Art 14",
+    "Art 15",
+    "Art 16",
+    "Case: In Re Condition Being Imposed While Granting Bail"
+   ],
+   "fact": "4 May 2026: CJI Surya Kant & Joymalya Bagchi J (suo motu) voided Odisha bail conditions making accused (mostly Dalit/Adivasi; 8 Tijimali protesters to clean Kashipur PS 6-9 am for 2 months) clean police stations, hospitals, temples — 'abhorrent, degrading and unknown to law'; all such conditions void; HCs to circulate. Anchor Art 17 with 14-16.",
+   "sources": "SC Observer; LiveLaw weekly digest May 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261110-2",
+   "logged": "2026-11-10",
+   "kind": "brief",
+   "category": "economy",
+   "label": "Record GST April 2026 ₹2.43 lakh cr",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Art 246A",
+    "Art 279A",
+    "Body: GST Council"
+   ],
+   "fact": "1 May 2026: gross GST for April 2026 ~₹2.43 lakh cr (+8.7% YoY), highest ever (prev. Apr 2025 ~₹2.23 lakh cr); net ~₹2.11 lakh cr. GST: 101st Am. 2016, Art 246A, 279A Council chaired by Union FM, in force 1 Jul 2017.",
+   "sources": "Business Today 1 May 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261110-3",
+   "logged": "2026-11-10",
+   "kind": "brief",
+   "category": "international",
+   "label": "3rd India–Nordic Summit, Oslo (19 May 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Event: India-Nordic Summit",
+    "Person: Jonas Gahr Store"
+   ],
+   "fact": "19 May 2026, Oslo: host PM Jonas Gahr Støre; India + Denmark, Finland, Iceland, Norway, Sweden; ties raised to 'Green Technology and Innovation Strategic Partnership'; ISRO–Norwegian Space Agency framework; UNSC support. 1st Stockholm 2018, 2nd Copenhagen 2022; Finland hosts 4th.",
+   "sources": "Tribune India; VisionIAS 20 May 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261110-4",
+   "logged": "2026-11-10",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "SC contempt notice to Kerala Congress (Art 129)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 129",
+    "Art 215",
+    "Act: Contempt of Courts Act 1971"
+   ],
+   "fact": "6 Nov 2026: bench headed by Justice Aravind Kumar issued notice to KPCC office-bearers over 12 Oct @inckerala post 'Dear Surya Kant, if law and order is not your domain, resign now' (deleted; apology); amicus to be appointed, AG's assistance sought; Art 129 court of record.",
+   "sources": "Bar and Bench 6 Nov 2026; The News Minute 7 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261110-5",
+   "logged": "2026-11-10",
+   "kind": "brief",
+   "category": "polity",
+   "label": "SC notice on CEC/EC lifelong immunity (s. 16, 2023 Act)",
+   "topics": [
+    "GK-POL",
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 324",
+    "Act: CEC and Other ECs Act 2023"
+   ],
+   "fact": "4 Nov 2026: CJI Surya Kant, Joymalya Bagchi, V. Mohana JJ issued notice on pleas (incl. Manoj Kumar Jha) against s. 16 of the CEC and Other ECs (Appointment, Conditions of Service and Term of Office) Act 2023 — immunity from civil/criminal proceedings for official acts; no stay; tagged with Lok Prahari/ADR pleas; next hearing 18 Dec 2026.",
+   "sources": "Indian Masterminds; LiveLaw (4 Nov 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261110-6",
+   "logged": "2026-11-10",
+   "kind": "brief",
+   "category": "culture",
+   "label": "Mahabharata, Arthashastra, Rajatarangini on UNESCO MOWCAP register",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: UNESCO",
+    "Event: Memory of the World"
+   ],
+   "fact": "Reported 5 Nov 2026: 11th MOWCAP session (Jakarta) inscribed birch-bark Mahabharata (BORI Pune), palm-leaf Arthashastra (ORI Mysuru), Kalhana's Rajatarangini (Srinagar); India now 6 entries on the Asia-Pacific regional register; IGNCA prepared nominations.",
+   "sources": "The Week 5 Nov 2026; AffairsCloud 7-9 Nov 2026",
+   "tests": []
   }
  ]
 }
