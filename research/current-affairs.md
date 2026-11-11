@@ -5,6 +5,22 @@ Newest first. Format: `logged (kind) · category · fact · sources` then the te
 
 CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly Apr 2026 – Mar 2027.
 
+2026-11-11 (static) · polity · B. P. Singhal v UoI (2010, 5 judges): President's pleasure under Art 156 not unfettered; Governor cannot be removed arbitrarily or for disagreeing with Union policy; limited judicial review · (2010) 6 SCC 331  
+  `static-bp-singhal` · GK-POL · hooks: Art 156, Case: B. P. Singhal (2010) · tested: 2026-11-11 Q12 …
+2026-11-11 (static) · polity · Parliamentary approval: Art 352 within 1 month (special majority), Art 356 within 2 months, Art 360 within 2 months; each extension 6 months; Art 356 max 3 years; beyond 1 yr needs emergency + ECI certificate · Constitution of India  
+  `static-art352-356` · GK-POL · hooks: Art 352, Art 356, Art 360 · tested: 2026-11-11 Q11 …
+2026-11-11 (brief) · international · APEC Economic Leaders' Meeting 18–19 Nov 2026, Shenzhen, China (host Xi Jinping; China's 3rd time after 2001, 2014); theme "Building an Asia-Pacific Community to Prosper Together"; APEC founded 1989 Canberra, 21 member economies, secretariat Singapore; India not a member · Wikipedia APEC China 2026; PR Newswire 5 Nov 2026  
+  `ca-20261111-6` · GK-CA · hooks: Body: APEC, Event: APEC 2026 · not yet tested
+2026-11-11 (brief) · economy · RBI weekly data (released 6 Nov 2026): reserves fell $2.691 bn to $717.056 bn in week ended 30 Oct 2026 (FCA $591.118 bn); record $785.706 bn (week ended 4 Sept 2026). CPI (base 2024) Sept 2026 5.54% (Aug 4.83%), food 7.74%; RBI target 4% ±2 (RBI Act s. 45ZA) · Business Standard weekly policy watch 9 Nov 2026  
+  `ca-20261111-5` · GK-ECO · hooks: Body: RBI, Body: NSO, Report: CPI · not yet tested
+2026-11-11 (brief) · legal/judgments · 2 Nov 2026: SC (Vikram Nath, Aparesh Kumar Singh JJ), Surendra Manjhi v UoI, 2026 INSC 1185 — uniform revised SOP for identification, release and rehabilitation of bonded labourers: release certificate ordinarily within 24 h, immediate aid within 7 days, rehabilitation plan within 90 days; writs kept pending · Verdictum weekly overview 2–6 Nov 2026 (10 Nov)  
+  `ca-20261111-4` · LEG-NEW · hooks: Art 23, Act: Bonded Labour System (Abolition) Act 1976, Case: Surendra Manjhi v UoI (2026) · not yet tested
+2026-11-11 (brief) · appointments · 1 Jun 2026 appointed, 2 Jun 2026 sworn in: Justices Sheel Nagu, Shree Chandrashekhar, Sanjeev Sachdeva, Arun Palli, V. Mohana (from the Bar; second woman directly from the Bar); sanctioned strength raised from 34 to 38; Art 124(1) Parliament fixes number by law · SCC Online blog June 2026 roundup (3 Jul 2026)  
+  `ca-20261111-3` · GK-CA · hooks: Art 124, Body: Supreme Court, Person: V. Mohana · not yet tested
+2026-11-11 (brief) · polity/judgments · June 2026: SC (P. K. Mishra, Atul S. Chandurkar JJ), Meenakshi Natarajan v ECI, 2026 SCC OnLine SC 1133 — refused Art 32 writ against RO order (9 Jun 2026) rejecting a Rajya Sabha (MP) nomination; rejection of nomination is part of election process; Art 329(b) bars interference except by election petition (RPA 1951) · SCC Online blog June 2026 roundup (3 Jul 2026)  
+  `ca-20261111-2` · GK-POL · hooks: Art 329, Art 32, Act: RPA 1951, Case: Meenakshi Natarajan v ECI (2026) · not yet tested
+2026-11-11 (brief) · legal/judgments · June 2026: SC (P. S. Narasimha, Atul S. Chandurkar JJ), Maniyar Iliyaz v P. Ayyappan, 2026 SCC OnLine SC 1162 — right to walk on safe, well-demarcated footpaths is a fundamental right (primary right of movement under Art 19(1)(d), with Art 21); pedestrians have priority over motorised traffic; municipalities/UDAs/panchayats have enforceable duty; remedy independent of MV Act 1988; case of 5-yr-old killed by tanker · SCC Online blog June 2026 roundup (3 Jul 2026)  
+  `ca-20261111-1` · LEG-NEW · hooks: Art 19, Art 21, Act: Motor Vehicles Act 1988, Case: Maniyar Iliyaz v P. Ayyappan (2026) · not yet tested
 2026-11-10 (static) · static GK · New Development Bank (BRICS) HQ Shanghai; AIIB HQ Beijing. · standard reference (organisation's official site)  
   `static-ndb` · GK-STA · hooks: Body: NDB, Body: AIIB, Body: BRICS · tested: 2026-11-10 Q7 ✓
 2026-11-10 (static) · static GK · International Energy Agency HQ Paris; International Atomic Energy Agency HQ Vienna. · standard reference (organisation's official site)  
@@ -134,9 +150,9 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-03 (brief) · legal/environment · 29 Dec 2025: SC (CJI Surya Kant, J. K. Maheshwari, A. G. Masih JJ; suo motu) kept in abeyance its Nov 2025 directions accepting the MoEFCC committee's Aravalli definition (hill ≥ 100 m above local relief; range = 2+ hills within 500 m; only 1,048 of 12,081 hills qualify); new high-powered expert committee; no new mining meanwhile; notice returnable 21 Jan · LiveLaw 29 Dec 2025; newsonair  
   `ca-20261103-1` · LEG-NEW · hooks: Body: MoEFCC · tested: 2026-11-06 Q10 ✓
 2026-11-02 (brief) · international · 26–27 Oct 2026: 12th BRICS Parliamentary Forum, New Delhi, hosted by Parliament of India (Speaker Om Birla) in India's 2026 BRICS chairship; theme "Fostering Parliaments for People-Centric Development"; unanimous joint declaration (terrorism incl. Pahalgam 22 Apr 2025, global-governance reform, West Asia restraint); 10 members · newsonair 27 Oct 2026  
-  `ca-20261102-6` · GK-CA · hooks: Body: BRICS · not yet tested
+  `ca-20261102-6` · GK-CA · hooks: Body: BRICS · tested: 2026-11-11 Q10 …
 2026-11-02 (brief) · polity · 27 Oct 2026: SC (Narasimha, Aradhe JJ) listed Shiv Sena (UBT) challenge to Speaker Om Birla accepting the merger of 6 of its 9 LS MPs with the Shinde-led Shiv Sena for final disposal on 8 Dec (Speaker did not appear); Tenth Schedule para 4 — merger needs ≥ 2/3 of legislature party · LawChakra  
-  `ca-20261102-5` · GK-POL · hooks: Tenth Schedule · not yet tested
+  `ca-20261102-5` · GK-POL · hooks: Tenth Schedule · tested: 2026-11-11 Q9 …
 2026-11-02 (brief) · legal/polity · Oct 2026: SC (CJI Surya Kant, Bagchi, V. Mohana JJ) hearing Rakesh Kumar Singh v UoI (WP(C) 1246/2026) — whether CEC Gyanesh Kumar acted without the full Commission (SIR orders, Form 6); notice 5 Oct, suspension declined; ECI affidavit 26 Oct says SIR orders unanimous; Art 324(5) CEC removable only like an SC judge · SC Observer 27 Oct 2026  
   `ca-20261102-4` · GK-POL · hooks: Art 324, Body: Election Commission of India · tested: 2026-11-09 Q10 ✓
 2026-11-02 (brief) · sports · 2 Nov 2025: India won its first Women's ODI World Cup, beating South Africa by 52 runs at DY Patil Stadium, Navi Mumbai (298/7 v 246); capt. Harmanpreet Kaur; PoM Shafali Verma (87 + 2 wkts); PoT Deepti Sharma (22 wkts, 215 runs); 13th edition, co-hosted with Sri Lanka · The Star (Reuters) 3 Nov 2025; Wikipedia  

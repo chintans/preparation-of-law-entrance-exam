@@ -1,19 +1,19 @@
 {
  "summary": [
   {
-   "as_of": "2026-11-10",
-   "day": 22,
+   "as_of": "2026-11-11",
+   "day": 23,
    "streak": 3,
    "sessions_graded": 22,
    "reading_level": 1,
    "target_wpm": 180,
-   "days_clat": 26,
+   "days_clat": 25,
    "level_clat": "Not ready",
-   "days_ailet": 33,
+   "days_ailet": 32,
    "level_ailet": "Not ready",
-   "days_cuet": 112,
+   "days_cuet": 111,
    "level_cuet": "Not ready",
-   "days_nlsat": 166,
+   "days_nlsat": 165,
    "level_nlsat": "Not ready",
    "clat_indicative": 0.7757
   }
@@ -357,7 +357,7 @@
    "attempts": 2,
    "correct": 2,
    "next_review": "2026-11-11",
-   "due": false
+   "due": true
   },
   {
    "topic": "HIN",
@@ -377,7 +377,7 @@
    "attempts": 16,
    "correct": 10,
    "next_review": "2026-11-11",
-   "due": false
+   "due": true
   },
   {
    "topic": "LEG-NEW",
@@ -407,7 +407,7 @@
    "attempts": 2,
    "correct": 1,
    "next_review": "2026-11-11",
-   "due": false
+   "due": true
   },
   {
    "topic": "GK-STA",
@@ -417,7 +417,7 @@
    "attempts": 5,
    "correct": 3,
    "next_review": "2026-11-11",
-   "due": false
+   "due": true
   },
   {
    "topic": "LEG-PRIN",
@@ -517,7 +517,7 @@
    "attempts": 4,
    "correct": 2,
    "next_review": "2026-11-11",
-   "due": false
+   "due": true
   },
   {
    "topic": "QT-ARITH",
@@ -527,7 +527,7 @@
    "attempts": 4,
    "correct": 3,
    "next_review": "2026-11-11",
-   "due": false
+   "due": true
   },
   {
    "topic": "QT-DI",
@@ -547,7 +547,7 @@
    "attempts": 1,
    "correct": 1,
    "next_review": "2026-11-11",
-   "due": false
+   "due": true
   },
   {
    "topic": "COMP",

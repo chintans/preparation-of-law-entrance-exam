@@ -303,7 +303,13 @@
    ],
    "fact": "27 Oct 2026: SC (Narasimha, Aradhe JJ) listed Shiv Sena (UBT) challenge to Speaker Om Birla accepting the merger of 6 of its 9 LS MPs with the Shinde-led Shiv Sena for final disposal on 8 Dec (Speaker did not appear); Tenth Schedule para 4 — merger needs ≥ 2/3 of legislature party",
    "sources": "LawChakra",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-11",
+     "q": "Q9",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261102-6",
@@ -319,7 +325,13 @@
    ],
    "fact": "26–27 Oct 2026: 12th BRICS Parliamentary Forum, New Delhi, hosted by Parliament of India (Speaker Om Birla) in India's 2026 BRICS chairship; theme \"Fostering Parliaments for People-Centric Development\"; unanimous joint declaration (terrorism incl. Pahalgam 22 Apr 2025, global-governance reform, West Asia restraint); 10 members",
    "sources": "newsonair 27 Oct 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-11",
+     "q": "Q10",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261103-1",
@@ -1712,6 +1724,162 @@
    "fact": "Reported 5 Nov 2026: 11th MOWCAP session (Jakarta) inscribed birch-bark Mahabharata (BORI Pune), palm-leaf Arthashastra (ORI Mysuru), Kalhana's Rajatarangini (Srinagar); India now 6 entries on the Asia-Pacific regional register; IGNCA prepared nominations.",
    "sources": "The Week 5 Nov 2026; AffairsCloud 7-9 Nov 2026",
    "tests": []
+  },
+  {
+   "id": "ca-20261111-1",
+   "logged": "2026-11-11",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Right to walk on footpaths is a fundamental right",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 19",
+    "Art 21",
+    "Act: Motor Vehicles Act 1988",
+    "Case: Maniyar Iliyaz v P. Ayyappan (2026)"
+   ],
+   "fact": "June 2026: SC (P. S. Narasimha, Atul S. Chandurkar JJ), Maniyar Iliyaz v P. Ayyappan, 2026 SCC OnLine SC 1162 — right to walk on safe, well-demarcated footpaths is a fundamental right (primary right of movement under Art 19(1)(d), with Art 21); pedestrians have priority over motorised traffic; municipalities/UDAs/panchayats have enforceable duty; remedy independent of MV Act 1988; case of 5-yr-old killed by tanker",
+   "sources": "SCC Online blog June 2026 roundup (3 Jul 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261111-2",
+   "logged": "2026-11-11",
+   "kind": "brief",
+   "category": "polity/judgments",
+   "label": "Art 329(b): rejected RS nomination only by election petition",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 329",
+    "Art 32",
+    "Act: RPA 1951",
+    "Case: Meenakshi Natarajan v ECI (2026)"
+   ],
+   "fact": "June 2026: SC (P. K. Mishra, Atul S. Chandurkar JJ), Meenakshi Natarajan v ECI, 2026 SCC OnLine SC 1133 — refused Art 32 writ against RO order (9 Jun 2026) rejecting a Rajya Sabha (MP) nomination; rejection of nomination is part of election process; Art 329(b) bars interference except by election petition (RPA 1951)",
+   "sources": "SCC Online blog June 2026 roundup (3 Jul 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261111-3",
+   "logged": "2026-11-11",
+   "kind": "brief",
+   "category": "appointments",
+   "label": "Five new SC judges (2 Jun 2026); strength 34→38",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Art 124",
+    "Body: Supreme Court",
+    "Person: V. Mohana"
+   ],
+   "fact": "1 Jun 2026 appointed, 2 Jun 2026 sworn in: Justices Sheel Nagu, Shree Chandrashekhar, Sanjeev Sachdeva, Arun Palli, V. Mohana (from the Bar; second woman directly from the Bar); sanctioned strength raised from 34 to 38; Art 124(1) Parliament fixes number by law",
+   "sources": "SCC Online blog June 2026 roundup (3 Jul 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261111-4",
+   "logged": "2026-11-11",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Bonded labour SOP (Surendra Manjhi, 2 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 23",
+    "Act: Bonded Labour System (Abolition) Act 1976",
+    "Case: Surendra Manjhi v UoI (2026)"
+   ],
+   "fact": "2 Nov 2026: SC (Vikram Nath, Aparesh Kumar Singh JJ), Surendra Manjhi v UoI, 2026 INSC 1185 — uniform revised SOP for identification, release and rehabilitation of bonded labourers: release certificate ordinarily within 24 h, immediate aid within 7 days, rehabilitation plan within 90 days; writs kept pending",
+   "sources": "Verdictum weekly overview 2–6 Nov 2026 (10 Nov)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261111-5",
+   "logged": "2026-11-11",
+   "kind": "brief",
+   "category": "economy",
+   "label": "Forex reserves $717.06 bn (wk to 30 Oct 2026); CPI Sept 5.54%",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Body: RBI",
+    "Body: NSO",
+    "Report: CPI"
+   ],
+   "fact": "RBI weekly data (released 6 Nov 2026): reserves fell $2.691 bn to $717.056 bn in week ended 30 Oct 2026 (FCA $591.118 bn); record $785.706 bn (week ended 4 Sept 2026). CPI (base 2024) Sept 2026 5.54% (Aug 4.83%), food 7.74%; RBI target 4% ±2 (RBI Act s. 45ZA)",
+   "sources": "Business Standard weekly policy watch 9 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261111-6",
+   "logged": "2026-11-11",
+   "kind": "brief",
+   "category": "international",
+   "label": "APEC 2026 leaders meeting, Shenzhen (18–19 Nov)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: APEC",
+    "Event: APEC 2026"
+   ],
+   "fact": "APEC Economic Leaders' Meeting 18–19 Nov 2026, Shenzhen, China (host Xi Jinping; China's 3rd time after 2001, 2014); theme \"Building an Asia-Pacific Community to Prosper Together\"; APEC founded 1989 Canberra, 21 member economies, secretariat Singapore; India not a member",
+   "sources": "Wikipedia APEC China 2026; PR Newswire 5 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "static-art352-356",
+   "logged": "2026-11-11",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 352 one month vs Art 356 two months (approval)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 352",
+    "Art 356",
+    "Art 360"
+   ],
+   "fact": "Parliamentary approval: Art 352 within 1 month (special majority), Art 356 within 2 months, Art 360 within 2 months; each extension 6 months; Art 356 max 3 years; beyond 1 yr needs emergency + ECI certificate",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-11",
+     "q": "Q11",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-bp-singhal",
+   "logged": "2026-11-11",
+   "kind": "static",
+   "category": "polity",
+   "label": "B. P. Singhal (2010) — Governor removal not arbitrary",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 156",
+    "Case: B. P. Singhal (2010)"
+   ],
+   "fact": "B. P. Singhal v UoI (2010, 5 judges): President's pleasure under Art 156 not unfettered; Governor cannot be removed arbitrarily or for disagreeing with Union policy; limited judicial review",
+   "sources": "(2010) 6 SCC 331",
+   "tests": [
+    {
+     "date": "2026-11-11",
+     "q": "Q12",
+     "result": "pending"
+    }
+   ]
   }
  ]
 }

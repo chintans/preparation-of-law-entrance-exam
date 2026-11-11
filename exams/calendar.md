@@ -1,6 +1,6 @@
 # Exam calendar
 
-Last verified: **2026-11-10** (web search; official sites to be re-checked each Monday)
+Last verified: **2026-11-11** (web search; official sites to be re-checked each Monday)
 
 Status key: **Confirmed** = stated in official notice or consistently reported from it · **Announced** =
 exam date published, other dates pending · **Tentative** = expected from past cycles.
@@ -9,11 +9,11 @@ exam date published, other dates pending · **Tentative** = expected from past c
 |---|---|---|---|---|
 | CLAT 2027 | Registration opened | 2026-08-03 | Confirmed | consortiumofnlus.ac.in (via Careers360, Free Press Journal) |
 | CLAT 2027 | Registration closes | ~~2026-10-31~~ **2026-11-07, 11:59 PM (extended) — now closed; no further extension found 8 Nov** | Reported | findmycollege & ummid.com (1 Nov 2026), Toprankers; Shiksha (1 Nov) — confirm on consortiumofnlus.ac.in |
-| CLAT 2027 | Application correction window | **Open; test-city preferences editable till 2026-11-10** | Reported | Careers360 (4 Nov notice; consortium site not fetched) |
+| CLAT 2027 | Application correction window | **Closed 2026-11-10** (no extension reported) | Reported | Careers360 (4 Nov notice; consortium site not fetched) |
 | CLAT 2027 | Admit card | third week of Nov 2026 (~15 days before exam); matchtocollege says fourth week | Tentative | Careers360; matchtocollege (2 Nov 2026) |
 | CLAT 2027 | **Exam** | **2026-12-06 (Sun), 2–4 PM, offline** | Confirmed | Careers360, FPJ (one Careers360 headline says 7 Dec; body and FPJ say 6 Dec — re-check on official site) |
 | AILET 2027 | Registration opened | 2026-08-07 | Confirmed | nationallawuniversitydelhi.in (via PW, Careers360) |
-| AILET 2027 | Registration closes | **2026-11-10** | Confirmed | Careers360 |
+| AILET 2027 | Registration closes | **2026-11-10 — now closed; no extension reported (11 Nov)** | Confirmed | Careers360 |
 | AILET 2027 | Admit card | 2026-11-30 | Reported | Careers360 (8 Oct) |
 | AILET 2027 | **Exam** | **2026-12-13 (Sun), 2–4 PM, offline** | Confirmed | PW, Careers360 |
 | CUET PG 2027 | Registration opens | Dec 2026 (some sources: Jan 2027) | Tentative | Careers360, PW |
@@ -24,9 +24,9 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | NLSAT-LLB 2027 | Offers | end May 2027 | Reported | Careers360 |
 | LSAT India | — | Discontinued after May 2024 | Confirmed | LSAC notice (via AglaSem) |
 
-## Days to exam (as of 2026-11-10)
+## Days to exam (as of 2026-11-11)
 
-CLAT 26 · AILET 33 · CUET PG ~112 (to 2 Mar) · NLSAT 166
+CLAT 25 · AILET 32 · CUET PG ~111 (to 2 Mar) · NLSAT 165
 
 ## Change log
 
@@ -53,3 +53,4 @@ CLAT 26 · AILET 33 · CUET PG ~112 (to 2 Mar) · NLSAT 166
 - 2026-11-08 (Day 20 run) — searched CLAT admit card, CLAT further extension (careerindia, Careers360, PW, lawbhoomi), AILET last date (Careers360, KollegeApply, findmycollege). No changes: CLAT registration closed 7 Nov (no further extension found), city edits till 10 Nov, admit card still third/fourth week Nov (no date); AILET closes 10 Nov. Alert: AILET closes in 2 days.
 - 2026-11-09 (Day 21 run, Monday) — Consortium press release (22 Jul: CLAT 6 Dec, 2–4 PM, offline), Careers360 CLAT extension page (1 Nov), CareerIndia correction window (4 Nov: city, name, DOB, category editable till 10 Nov), Careers360 AILET last date, PW/findmycollege CUET PG revised schedule (26–27 Oct), Careers360 NLSAT 2027 notification (NLU Delhi site returned no text). No date changes. Added CUET PG exam days (17 days in Mar 2027). CLAT admit card still undated. Alert: AILET registration and CLAT corrections close tomorrow (10 Nov).
 - 2026-11-10 (Day 22 run) — Careers360 AILET last-date page (sidebar to 9 Nov), KollegeApply (2 Nov), PW (19 Oct): AILET closes today 10 Nov, no extension (NLU Delhi site returned no text). Careers360 CLAT exam-date page (9 Nov): correction window 3–10 Nov, no extension; admit card ~2 weeks before exam (3rd week Nov, tentative). Careers360 CUET PG (26 Oct): registration expected Dec 2026. No date changes. Alert: AILET registration and CLAT corrections close today.
+- 2026-11-11 (Day 23 run) — Careers360 CLAT exam-date page (updated 9 Nov): exam 6 Dec 2–4 PM; admit card ~2 weeks before, "tentatively third week of November"; corrections closed 10 Nov. Careers360 AILET last-date page (8 Oct): closes 10 Nov, admit card 30 Nov, exam 13 Dec; no extension found. clatnlti guide: admit card third week Nov. No date changes; CLAT corrections and AILET registration now closed.
