@@ -392,7 +392,18 @@
    ],
    "fact": "4–5 Dec 2025: 23rd India–Russia Annual Summit, New Delhi (Putin state visit); 16 pacts; Programme 2030; US$100 bn trade by 2030; 25 yrs of 2000 Strategic Partnership; Russia joined International Big Cat Alliance framework, backed India's UNSC bid",
    "sources": "Drishti IAS 6 Dec 2025; Hitavada",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-12",
+     "q": "Q8",
+     "result": "pending"
+    },
+    {
+     "date": "2026-11-12",
+     "q": "Q9",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261103-4",
@@ -425,7 +436,13 @@
    ],
    "fact": "29 Oct 2026: SC (Pardiwala, K. Vinod Chandran JJ), Srinivasa T v State of Karnataka (2026 INSC 1173) — struck down Karnataka Civil Services (Validation of Selection and Appointment of 2011 Batch Gazetted Probationers) Act, 2022 (362 KPSC posts); legislature cannot annul a final judgment",
    "sources": "Verdictum 30 Oct 2026; LiveLaw",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-12",
+     "q": "Q5",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261103-6",
@@ -537,7 +554,13 @@
    ],
    "fact": "3 Nov 2026: SC (Prashant Kumar Mishra, Shree Chandrashekhar JJ), N. Sridhar Reddy v State of AP, 2026 LiveLaw (SC) 1125 — UK divorce on irretrievable breakdown (not an HMA ground) fails s. 13 CPC; later change of citizenship no defence; IPC s. 494 bigamy prosecution continues",
    "sources": "LiveLaw 3 Nov 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-12",
+     "q": "Q7",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261104-5",
@@ -629,7 +652,13 @@
    ],
    "fact": "29 Jan 2026: SC (CJI Surya Kant, Joymalya Bagchi J; Mritunjay Tiwari v UoI, WP(C) 101/2026 & connected) kept UGC (Promotion of Equity in HEIs) Regulations, 2026 in abeyance — Reg 3(1)(c) caste-discrimination definition limited to SC/ST/OBC; \"vague, capable of misuse\"; Art 142: 2012 Regulations continue; notice returnable 19 Mar",
    "sources": "LiveLaw 29 Jan 2026; Drishti IAS 31 Jan 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-12",
+     "q": "Q6",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261105-2",
@@ -1277,6 +1306,11 @@
      "q": "Q12",
      "result": "wrong",
      "chose": "six months"
+    },
+    {
+     "date": "2026-11-12",
+     "q": "Q21",
+     "result": "pending"
     }
    ]
   },
@@ -1880,6 +1914,142 @@
      "result": "right"
     }
    ]
+  },
+  {
+   "id": "ca-20261112-1",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Fake AI precedents void NCLT/NCLAT orders (Pooja Ramesh Singh, Jul 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "IBC 7",
+    "IBC 61",
+    "IBC 62",
+    "Act: Insolvency and Bankruptcy Code 2016",
+    "Body: NCLT",
+    "Body: NCLAT",
+    "Case: Pooja Ramesh Singh v J&K Bank (2026)"
+   ],
+   "fact": "Early Jul 2026: SC (P. S. Narasimha, Alok Aradhe JJ), Pooja Ramesh Singh v Jammu and Kashmir Bank Ltd — NCLT/NCLAT orders admitting a s. 7 IBC application set aside for relying on non-existent AI-generated precedents; \"no decision in law\"; AI only an aid under human control; s. 7 application restored",
+   "sources": "SCC Online blog, Supreme Court July 2026 (5 Aug 2026)",
+   "tests": [],
+   "logged": "2026-11-12"
+  },
+  {
+   "id": "ca-20261112-2",
+   "kind": "brief",
+   "category": "polity",
+   "label": "Art 136 not a regular appeal — Chaitanya Baghel bail upheld (Jul 2026)",
+   "topics": [
+    "GK-POL",
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 136",
+    "Case: Bihar Legal Support Society v CJI (1986)"
+   ],
+   "fact": "Late Jul 2026: SC (CJI Surya Kant, Joymalya Bagchi, V. Mohana JJ) refused to interfere with Chhattisgarh HC bail to Chaitanya Baghel (liquor scam); SC not a regular appellate court (Bihar Legal Support Society 1986); Art 136 for exceptional cases of grave injustice; Art 136(2) excludes armed-forces tribunals",
+   "sources": "Supreme Court Observer, Monthly Review July 2026",
+   "tests": [],
+   "logged": "2026-11-12"
+  },
+  {
+   "id": "ca-20261112-3",
+   "kind": "brief",
+   "category": "sports",
+   "label": "Sinner retains Wimbledon (12 Jul 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Event: Wimbledon 2026",
+    "Person: Jannik Sinner"
+   ],
+   "fact": "12 Jul 2026: Jannik Sinner (Italy) beat Alexander Zverev (Germany) in the Wimbledon men's final — second straight Wimbledon title; Wimbledon oldest Grand Slam (1877), only one on grass, All England Club",
+   "sources": "Al Jazeera 12 Jul 2026; ATP Tour",
+   "tests": [],
+   "logged": "2026-11-12"
+  },
+  {
+   "id": "ca-20261112-4",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "24-hour production clock runs from detention (SC, 5 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 22",
+    "BNSS 58",
+    "CrPC 57",
+    "Act: NDPS Act 1985"
+   ],
+   "fact": "5 Nov 2026: SC (Ujjal Bhuyan, Atul S. Chandurkar JJ), appeals from Tripura HC (NDPS bail) — 24 h for production before magistrate under Art 22(2) runs from actual detention (29 Sep 2025, 2 PM), not formal arrest; distinction \"constitutionally unsustainable\"; detention beyond 24 h without production → immediate release; magistrates to record time of detention; BNSS 58 (= CrPC 57)",
+   "sources": "The South First 5 Nov 2026 (citing LiveLaw, Bar & Bench); LiveLaw headline 5 Nov 2026",
+   "tests": [],
+   "logged": "2026-11-12"
+  },
+  {
+   "id": "ca-20261112-5",
+   "kind": "brief",
+   "category": "international",
+   "label": "COP31 opens in Antalya, Türkiye (9 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Event: COP31",
+    "Body: UNFCCC",
+    "Person: Murat Kurum",
+    "Person: Chris Bowen"
+   ],
+   "fact": "9 Nov 2026: COP31 opened at Antalya Expo Center, Türkiye; COP31 President Murat Kurum (\"Implementation COP\"); Australia's Chris Bowen \"president of negotiations\" under a bilateral hosting deal; UNFCCC 1992, secretariat Bonn; COP30 Belém 2025",
+   "sources": "Daily Sabah 9 Nov 2026",
+   "tests": [],
+   "logged": "2026-11-12"
+  },
+  {
+   "id": "ca-20261112-6",
+   "kind": "brief",
+   "category": "economy/schemes",
+   "label": "Startup India: ~2.62 lakh DPIIT-recognised startups (Nov 2026)",
+   "topics": [
+    "GK-ECO",
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: DPIIT",
+    "Body: SIDBI",
+    "Event: Startup India (2016)"
+   ],
+   "fact": "PIB 9–10 Nov 2026 (National Entrepreneurship Day): ~2.62 lakh DPIIT-recognised startups; 25.36 lakh jobs; Fund of Funds for Startups ~₹28,254 cr to 1,475 startups; Startup India launched 16 Jan 2016 (National Startup Day); FFS run by SIDBI",
+   "sources": "Legacy IAS PIB summary 10 Nov 2026 (PIB release 2334411) — approximate",
+   "tests": [],
+   "logged": "2026-11-12"
+  },
+  {
+   "id": "static-art141",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 141 — law declared by SC binds all courts",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 141"
+   ],
+   "fact": "Art 141: law declared by the Supreme Court is binding on all courts within India (cf. 142 complete justice, 144 authorities act in aid, 137 review)",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-12",
+     "q": "Q22",
+     "result": "pending"
+    }
+   ],
+   "logged": "2026-11-12"
   }
  ]
 }

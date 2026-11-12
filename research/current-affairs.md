@@ -5,6 +5,20 @@ Newest first. Format: `logged (kind) · category · fact · sources` then the te
 
 CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly Apr 2026 – Mar 2027.
 
+2026-11-12 (static) · polity · Art 141: law declared by the Supreme Court is binding on all courts within India (cf. 142 complete justice, 144 authorities act in aid, 137 review) · Constitution of India  
+  `static-art141` · GK-POL · hooks: Art 141 · tested: 2026-11-12 Q22 …
+2026-11-12 (brief) · economy/schemes · PIB 9–10 Nov 2026 (National Entrepreneurship Day): ~2.62 lakh DPIIT-recognised startups; 25.36 lakh jobs; Fund of Funds for Startups ~₹28,254 cr to 1,475 startups; Startup India launched 16 Jan 2016 (National Startup Day); FFS run by SIDBI · Legacy IAS PIB summary 10 Nov 2026 (PIB release 2334411) — approximate  
+  `ca-20261112-6` · GK-ECO, GK-CA · hooks: Body: DPIIT, Body: SIDBI, Event: Startup India (2016) · not yet tested
+2026-11-12 (brief) · international · 9 Nov 2026: COP31 opened at Antalya Expo Center, Türkiye; COP31 President Murat Kurum ("Implementation COP"); Australia's Chris Bowen "president of negotiations" under a bilateral hosting deal; UNFCCC 1992, secretariat Bonn; COP30 Belém 2025 · Daily Sabah 9 Nov 2026  
+  `ca-20261112-5` · GK-CA · hooks: Event: COP31, Body: UNFCCC, Person: Murat Kurum, Person: Chris Bowen · not yet tested
+2026-11-12 (brief) · legal/judgments · 5 Nov 2026: SC (Ujjal Bhuyan, Atul S. Chandurkar JJ), appeals from Tripura HC (NDPS bail) — 24 h for production before magistrate under Art 22(2) runs from actual detention (29 Sep 2025, 2 PM), not formal arrest; distinction "constitutionally unsustainable"; detention beyond 24 h without production → immediate release; magistrates to record time of detention; BNSS 58 (= CrPC 57) · The South First 5 Nov 2026 (citing LiveLaw, Bar & Bench); LiveLaw headline 5 Nov 2026  
+  `ca-20261112-4` · LEG-NEW · hooks: Art 22, BNSS 58, CrPC 57, Act: NDPS Act 1985 · not yet tested
+2026-11-12 (brief) · sports · 12 Jul 2026: Jannik Sinner (Italy) beat Alexander Zverev (Germany) in the Wimbledon men's final — second straight Wimbledon title; Wimbledon oldest Grand Slam (1877), only one on grass, All England Club · Al Jazeera 12 Jul 2026; ATP Tour  
+  `ca-20261112-3` · GK-CA · hooks: Event: Wimbledon 2026, Person: Jannik Sinner · not yet tested
+2026-11-12 (brief) · polity · Late Jul 2026: SC (CJI Surya Kant, Joymalya Bagchi, V. Mohana JJ) refused to interfere with Chhattisgarh HC bail to Chaitanya Baghel (liquor scam); SC not a regular appellate court (Bihar Legal Support Society 1986); Art 136 for exceptional cases of grave injustice; Art 136(2) excludes armed-forces tribunals · Supreme Court Observer, Monthly Review July 2026  
+  `ca-20261112-2` · GK-POL, LEG-NEW · hooks: Art 136, Case: Bihar Legal Support Society v CJI (1986) · not yet tested
+2026-11-12 (brief) · legal/judgments · Early Jul 2026: SC (P. S. Narasimha, Alok Aradhe JJ), Pooja Ramesh Singh v Jammu and Kashmir Bank Ltd — NCLT/NCLAT orders admitting a s. 7 IBC application set aside for relying on non-existent AI-generated precedents; "no decision in law"; AI only an aid under human control; s. 7 application restored · SCC Online blog, Supreme Court July 2026 (5 Aug 2026)  
+  `ca-20261112-1` · LEG-NEW · hooks: IBC 7, IBC 61, IBC 62, Act: Insolvency and Bankruptcy Code 2016, Body: NCLT, Body: NCLAT, Case: Pooja Ramesh Singh v J&K Bank (2026) · not yet tested
 2026-11-11 (static) · polity · B. P. Singhal v UoI (2010, 5 judges): President's pleasure under Art 156 not unfettered; Governor cannot be removed arbitrarily or for disagreeing with Union policy; limited judicial review · (2010) 6 SCC 331  
   `static-bp-singhal` · GK-POL · hooks: Art 156, Case: B. P. Singhal (2010) · tested: 2026-11-11 Q12 ✓
 2026-11-11 (static) · polity · Parliamentary approval: Art 352 within 1 month (special majority), Art 356 within 2 months, Art 360 within 2 months; each extension 6 months; Art 356 max 3 years; beyond 1 yr needs emergency + ECI certificate · Constitution of India  
@@ -114,7 +128,7 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-05 (brief) · international · 27 Jan 2026: India–EU FTA concluded at India–EU summit, Hyderabad House, New Delhi (Modi; von der Leyen, Costa — Republic Day 2026 chief guests); talks 2007, stalled 2013, relaunched 2022; EU: tariffs cut/removed on ~97% of EU exports; legal vetting, signing, ratification pending · Wikipedia; Vision IAS 27 Jan 2026  
   `ca-20261105-2` · GK-CA · hooks: Treaty: India–EU FTA, Event: Republic Day 2026 · tested: 2026-11-08 Q11 ✓
 2026-11-05 (brief) · legal/judgments · 29 Jan 2026: SC (CJI Surya Kant, Joymalya Bagchi J; Mritunjay Tiwari v UoI, WP(C) 101/2026 & connected) kept UGC (Promotion of Equity in HEIs) Regulations, 2026 in abeyance — Reg 3(1)(c) caste-discrimination definition limited to SC/ST/OBC; "vague, capable of misuse"; Art 142: 2012 Regulations continue; notice returnable 19 Mar · LiveLaw 29 Jan 2026; Drishti IAS 31 Jan 2026  
-  `ca-20261105-1` · LEG-NEW · hooks: Art 142, Art 14, Body: UGC · not yet tested
+  `ca-20261105-1` · LEG-NEW · hooks: Art 142, Art 14, Body: UGC · tested: 2026-11-12 Q6 …
 2026-11-04 (static) · polity · 'State' under Art 12 means bound by Part III and amenable to writs; it does not make employees government servants. · standard reference (Constitution of India / official site)  
   `static-art12` · GK-POL, LEG-NEW · hooks: Art 12, CrPC 197, BNSS 218 · tested: 2026-11-04 Q6 ✗, 2026-11-05 surprise Q6 ✓
 2026-11-04 (lesson) · legal/judgments · SC, Jodhpur Discoms v Lalit Soni, 2026 LiveLaw (SC) 1123 (Mishra, Chandrashekhar JJ; reported 3 Nov 2026) — employees of govt company/'State' under Art 12 not automatically entitled to s. 197 CrPC (now BNSS s. 218) sanction protection; test = removable only by/with govt sanction; HC orders set aside, revisions remitted · LiveLaw 3 Nov 2026  
@@ -124,7 +138,7 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-04 (brief) · reports & indices · Oct 2026: World Bank Poverty & Equity Brief — India extreme poverty 27.1% (2011) → 2.6% (2023); ~496 mn above $4.20/day LMIC line; share below it 57.7% → 16.1%, proj. 12.1% by 2028 · DD India 30 Oct 2026; AffairsCloud 1–2 Nov 2026  
   `ca-20261104-5` · GK-ECO · hooks: Body: World Bank · tested: 2026-11-08 Q13 ✓
 2026-11-04 (brief) · legal/judgments · 3 Nov 2026: SC (Prashant Kumar Mishra, Shree Chandrashekhar JJ), N. Sridhar Reddy v State of AP, 2026 LiveLaw (SC) 1125 — UK divorce on irretrievable breakdown (not an HMA ground) fails s. 13 CPC; later change of citizenship no defence; IPC s. 494 bigamy prosecution continues · LiveLaw 3 Nov 2026  
-  `ca-20261104-4` · LEG-NEW · hooks: CPC 13, IPC 494, BNS 82, Act: Hindu Marriage Act 1955 · not yet tested
+  `ca-20261104-4` · LEG-NEW · hooks: CPC 13, IPC 494, BNS 82, Act: Hindu Marriage Act 1955 · tested: 2026-11-12 Q7 …
 2026-11-04 (brief) · appointments/polity · 15 Dec 2025: Raj Kumar Goyal (IAS 1990, ex-Secretary Dept of Justice) sworn in as Chief Information Commissioner by President Murmu; CIC back to full strength; selection: PM, LoP (LS), Union Cabinet Minister nominated by PM; RTI Act 2005 · Drishti IAS 15 Dec 2025; The Week  
   `ca-20261104-3` · GK-POL, GK-CA · hooks: Act: RTI Act 2005, Body: Central Information Commission · tested: 2026-11-08 Q12 ✓
 2026-11-04 (brief) · economy · 5 Dec 2025: RBI MPC (58th meeting, 3–5 Dec; Gov. Sanjay Malhotra) cut repo 25 bp to 5.25%, unanimous; SDF 5.00%, MSF/Bank Rate 5.50%; neutral stance · SCC Online 6 Dec 2025  
@@ -132,7 +146,7 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-04 (brief) · legislation · Dec 2025: SHANTI (Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India) Act, 2025 — private cos/JVs may build, own, operate, decommission nuclear plants under licence; repeals Atomic Energy Act 1962 and Civil Liability for Nuclear Damage Act 2010; President's assent reported 22 Dec 2025 · newsonair 22 Dec 2025; Business Today  
   `ca-20261104-1` · LEG-NEW · hooks: Act: SHANTI Act 2025, Act: Atomic Energy Act 1962, Act: CLND Act 2010 · tested: 2026-11-08 Q9 ✓
 2026-11-03 (static) · polity · Art 356(3): proclamation approved by both Houses within two months; then six months at a time; outer limit three years (with conditions after one year). · standard reference (Constitution of India / official site)  
-  `static-art356` · GK-POL · hooks: Art 356 · tested: 2026-11-03 Q7 ✗ (chose six months), 2026-11-10 Q12 ✗ (chose six months)
+  `static-art356` · GK-POL · hooks: Art 356 · tested: 2026-11-03 Q7 ✗ (chose six months), 2026-11-10 Q12 ✗ (chose six months), 2026-11-12 Q21 …
 2026-11-03 (static) · polity · Art 145(3): an Art 143 reference is heard by at least five judges; the Court may decline to answer (Ismail Faruqui, 1994). · standard reference (Constitution of India / official site)  
   `static-art145-3` · GK-POL · hooks: Art 143, Art 145 · tested: 2026-11-03 Q5 ✗ (chose Court bound to answer), 2026-11-04 Q8 ✓, 2026-11-09 Q12 ✓
 2026-11-03 (static) · polity · Art 131: SC's original, exclusive jurisdiction in disputes between the Union and States (or States inter se) on legal rights. · standard reference (Constitution of India / official site)  
@@ -140,11 +154,11 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-03 (brief) · appointments · 31 Oct 2026: Air Chief Marshal Ashutosh Dixit took over as 29th Chief of the Air Staff, succeeding A. P. Singh (was CISC); Air Marshal Inderpal Singh Walia Vice Chief from 1 Nov · newsonair 6 Oct 2026; AffairsCloud 1–2 Nov 2026  
   `ca-20261103-6` · GK-CA · hooks: — · tested: 2026-11-10 Q10 ✗ (chose 28th, succeeding V. R. Chaudhari (A. P. Singh's entry))
 2026-11-03 (brief) · polity/judgments · 29 Oct 2026: SC (Pardiwala, K. Vinod Chandran JJ), Srinivasa T v State of Karnataka (2026 INSC 1173) — struck down Karnataka Civil Services (Validation of Selection and Appointment of 2011 Batch Gazetted Probationers) Act, 2022 (362 KPSC posts); legislature cannot annul a final judgment · Verdictum 30 Oct 2026; LiveLaw  
-  `ca-20261103-5` · GK-POL, LEG-NEW · hooks: Doctrine: separation of powers · not yet tested
+  `ca-20261103-5` · GK-POL, LEG-NEW · hooks: Doctrine: separation of powers · tested: 2026-11-12 Q5 …
 2026-11-03 (brief) · legal/judgments · 27 Oct 2026: SC (CJI Surya Kant, Bagchi, V. Mohana JJ) issued notice on Digital News Publishers Association plea that DPDP Act 2023 lacks a journalism exemption; no interim stay; next hearing 17 Nov · ANI 27 Oct 2026  
   `ca-20261103-4` · LEG-NEW · hooks: Act: DPDP Act 2023 · not yet tested
 2026-11-03 (brief) · international · 4–5 Dec 2025: 23rd India–Russia Annual Summit, New Delhi (Putin state visit); 16 pacts; Programme 2030; US$100 bn trade by 2030; 25 yrs of 2000 Strategic Partnership; Russia joined International Big Cat Alliance framework, backed India's UNSC bid · Drishti IAS 6 Dec 2025; Hitavada  
-  `ca-20261103-3` · GK-CA · hooks: Body: International Big Cat Alliance · not yet tested
+  `ca-20261103-3` · GK-CA · hooks: Body: International Big Cat Alliance · tested: 2026-11-12 Q8 …, 2026-11-12 Q9 …
 2026-11-03 (brief) · legislation/schemes · Dec 2025: Viksit Bharat – Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G RAM G) Act, 2025 replaced MGNREGA 2005 — 125 days (was 100), up to 60-day pause in peak farm season, Centre:State 60:40 (90:10 NE/Himalayan; 100% UTs without legislature), unemployment allowance after 15 days; RS passed 18 Dec; assent announced 21 Dec · Onmanorama 21 Dec 2025; India TV  
   `ca-20261103-2` · GK-CA · hooks: Act: VB-G RAM G Act 2025, Act: MGNREGA 2005 · tested: 2026-11-06 Q9 ✓
 2026-11-03 (brief) · legal/environment · 29 Dec 2025: SC (CJI Surya Kant, J. K. Maheshwari, A. G. Masih JJ; suo motu) kept in abeyance its Nov 2025 directions accepting the MoEFCC committee's Aravalli definition (hill ≥ 100 m above local relief; range = 2+ hills within 500 m; only 1,048 of 12,081 hills qualify); new high-powered expert committee; no new mining meanwhile; notice returnable 21 Jan · LiveLaw 29 Dec 2025; newsonair  
