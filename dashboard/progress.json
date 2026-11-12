@@ -1,21 +1,21 @@
 {
  "summary": [
   {
-   "as_of": "2026-11-11",
-   "day": 23,
-   "streak": 3,
-   "sessions_graded": 22,
+   "as_of": "2026-11-12",
+   "day": 24,
+   "streak": 4,
+   "sessions_graded": 23,
    "reading_level": 1,
    "target_wpm": 180,
-   "days_clat": 25,
+   "days_clat": 24,
    "level_clat": "Not ready",
-   "days_ailet": 32,
-   "level_ailet": "Not ready",
-   "days_cuet": 111,
+   "days_ailet": 31,
+   "level_ailet": "Strong",
+   "days_cuet": 110,
    "level_cuet": "Not ready",
-   "days_nlsat": 165,
+   "days_nlsat": 164,
    "level_nlsat": "Not ready",
-   "clat_indicative": 0.7757
+   "clat_indicative": 0.7943
   }
  ],
  "tests": [
@@ -326,6 +326,20 @@
    "minutes": 8,
    "sec_per_q": 40,
    "on_time": true
+  },
+  {
+   "date": "2026-11-11",
+   "day": 23,
+   "exam": "AILET",
+   "topic": "LR-ANA",
+   "type": "normal",
+   "net": 9.5,
+   "max": 12,
+   "net_pct": 0.7917,
+   "questions": 12,
+   "minutes": 14,
+   "sec_per_q": 70,
+   "on_time": false
   }
  ],
  "topics": [
@@ -333,10 +347,10 @@
    "topic": "ENG-RC",
    "name": "Reading comprehension",
    "clat_weight": "3",
-   "mastery": 81,
-   "attempts": 16,
-   "correct": 14,
-   "next_review": "2026-12-04",
+   "mastery": 85,
+   "attempts": 18,
+   "correct": 16,
+   "next_review": "2026-12-12",
    "due": false
   },
   {
@@ -354,10 +368,10 @@
    "name": "Grammar",
    "clat_weight": "–",
    "mastery": 100,
-   "attempts": 2,
-   "correct": 2,
-   "next_review": "2026-11-11",
-   "due": true
+   "attempts": 3,
+   "correct": 3,
+   "next_review": "2026-11-18",
+   "due": false
   },
   {
    "topic": "HIN",
@@ -373,11 +387,11 @@
    "topic": "GK-CA",
    "name": "Current affairs",
    "clat_weight": "3",
-   "mastery": 68,
-   "attempts": 16,
-   "correct": 10,
-   "next_review": "2026-11-11",
-   "due": true
+   "mastery": 72,
+   "attempts": 17,
+   "correct": 11,
+   "next_review": "2026-11-15",
+   "due": false
   },
   {
    "topic": "LEG-NEW",
@@ -393,10 +407,10 @@
    "topic": "GK-POL",
    "name": "Polity & Constitution",
    "clat_weight": "2",
-   "mastery": 77,
-   "attempts": 20,
-   "correct": 12,
-   "next_review": "2026-12-04",
+   "mastery": 87,
+   "attempts": 23,
+   "correct": 15,
+   "next_review": "2026-12-12",
    "due": false
   },
   {
@@ -427,7 +441,7 @@
    "attempts": 32,
    "correct": 28,
    "next_review": "2026-11-12",
-   "due": false
+   "due": true
   },
   {
    "topic": "LEG-TORT",
@@ -513,11 +527,11 @@
    "topic": "LR-ANA",
    "name": "Analytical reasoning",
    "clat_weight": "1",
-   "mastery": 50,
-   "attempts": 4,
-   "correct": 2,
-   "next_review": "2026-11-11",
-   "due": true
+   "mastery": 56,
+   "attempts": 9,
+   "correct": 5,
+   "next_review": "2026-11-13",
+   "due": false
   },
   {
    "topic": "QT-ARITH",
@@ -584,9 +598,9 @@
   {
    "exam": "CLAT",
    "section": "English",
-   "graded": 27,
-   "accuracy": 0.8788,
-   "projected": 0.8485,
+   "graded": 29,
+   "accuracy": 0.8857,
+   "projected": 0.8571,
    "coverage": "1/1",
    "coverage_pct": 1.0,
    "status": "Green",
@@ -596,8 +610,8 @@
    "exam": "CLAT",
    "section": "Current Affairs",
    "graded": 40,
-   "accuracy": 0.7755,
-   "projected": 0.7194,
+   "accuracy": 0.8293,
+   "projected": 0.7866,
    "coverage": "3/3",
    "coverage_pct": 1.0,
    "status": "Green",
@@ -639,9 +653,9 @@
   {
    "exam": "AILET",
    "section": "English",
-   "graded": 29,
-   "accuracy": 0.8919,
-   "projected": 0.8649,
+   "graded": 32,
+   "accuracy": 0.9,
+   "projected": 0.875,
    "coverage": "2/3",
    "coverage_pct": 0.6667,
    "status": "Green",
@@ -651,8 +665,8 @@
    "exam": "AILET",
    "section": "CA & GK",
    "graded": 40,
-   "accuracy": 0.7442,
-   "projected": 0.6802,
+   "accuracy": 0.875,
+   "projected": 0.8438,
    "coverage": "4/4",
    "coverage_pct": 1.0,
    "status": "Green",
@@ -662,19 +676,19 @@
    "exam": "AILET",
    "section": "Reasoning",
    "graded": 40,
-   "accuracy": 0.7708,
-   "projected": 0.7135,
-   "coverage": "3/7",
-   "coverage_pct": 0.4286,
-   "status": "Insufficient data",
+   "accuracy": 0.7409,
+   "projected": 0.6761,
+   "coverage": "4/7",
+   "coverage_pct": 0.5714,
+   "status": "Green",
    "share": null
   },
   {
    "exam": "CUET",
    "section": "Language",
-   "graded": 29,
-   "accuracy": 0.8919,
-   "projected": 0.8649,
+   "graded": 32,
+   "accuracy": 0.9,
+   "projected": 0.875,
    "coverage": "2/3",
    "coverage_pct": 0.6667,
    "status": "Green",
@@ -684,8 +698,8 @@
    "exam": "CUET",
    "section": "GK",
    "graded": 40,
-   "accuracy": 0.8049,
-   "projected": 0.7561,
+   "accuracy": 0.85,
+   "projected": 0.8125,
    "coverage": "3/3",
    "coverage_pct": 1.0,
    "status": "Green",
@@ -716,20 +730,20 @@
   {
    "exam": "CUET",
    "section": "Reasoning",
-   "graded": 6,
-   "accuracy": 0.7,
-   "projected": 0.625,
-   "coverage": "0/2",
-   "coverage_pct": 0.0,
-   "status": "Insufficient data",
+   "graded": 11,
+   "accuracy": 0.6667,
+   "projected": 0.5833,
+   "coverage": "1/2",
+   "coverage_pct": 0.5,
+   "status": "Amber",
    "share": null
   },
   {
    "exam": "NLSAT",
    "section": "English",
-   "graded": 16,
-   "accuracy": 0.9048,
-   "projected": 0.881,
+   "graded": 18,
+   "accuracy": 0.913,
+   "projected": 0.8913,
    "coverage": "1/1",
    "coverage_pct": 1.0,
    "status": "Green",
@@ -739,8 +753,8 @@
    "exam": "NLSAT",
    "section": "CA/GK",
    "graded": 40,
-   "accuracy": 0.7925,
-   "projected": 0.7406,
+   "accuracy": 0.8061,
+   "projected": 0.7577,
    "coverage": "3/3",
    "coverage_pct": 1.0,
    "status": "Green",
@@ -823,6 +837,15 @@
    "target_wpm": 180,
    "accuracy_on_passage": 0.67,
    "over_target_pct": 0.0293
+  },
+  {
+   "date": "2026-11-11",
+   "words": 374,
+   "seconds": 195,
+   "wpm": 115,
+   "target_wpm": 180,
+   "accuracy_on_passage": 1.0,
+   "over_target_pct": 0.5642
   }
  ]
 }

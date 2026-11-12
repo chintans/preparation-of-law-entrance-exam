@@ -1,6 +1,6 @@
 # Hook map
 
-Generated 2026-11-11 by `tools/hookmap.py` from `research/ca-items.json` — do not edit by hand.
+Generated 2026-11-12 by `tools/hookmap.py` from `research/ca-items.json` — do not edit by hand.
 Record: ✓ right · ✗ wrong · – left blank · … awaiting answers · · never tested.
 
 Use: before writing a CA or polity question, look up its hook here — test a **neighbour** of a hook he has
@@ -70,7 +70,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 142 | UGC Equity Regulations 2026 stayed `ca-20261105-1` · |
 | Art 143 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓; Art 131 — Union–State original suit `static-art131` ✗✓✓; Art 143 reference — bench of ≥5 (Art 145(3)); Court may decline `static-art145-3` ✗✓✓ |
 | Art 145 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓; Art 143 reference — bench of ≥5 (Art 145(3)); Court may decline `static-art145-3` ✗✓✓ |
-| Art 156 | B. P. Singhal (2010) — Governor removal not arbitrary `static-bp-singhal` … |
+| Art 156 | B. P. Singhal (2010) — Governor removal not arbitrary `static-bp-singhal` ✓ |
 | Art 163 | Governors walk out of address (TN, Karnataka) `ca-20261106-2` · |
 | Art 169 | Legislative Council polls; Art 169 `ca-20261105-5` ✓ |
 | Art 171 | Legislative Council polls; Art 169 `ca-20261105-5` ✓ |
@@ -89,11 +89,11 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 329 | Art 329(b): rejected RS nomination only by election petition `ca-20261111-2` · |
 | Art 330 | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` · |
 | Art 332 | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` · |
-| Art 352 | Art 352 one month vs Art 356 two months (approval) `static-art352-356` … |
-| Art 356 | Art 356 — Parliament approval within 2 months `static-art356` ✗✗; Art 352 one month vs Art 356 two months (approval) `static-art352-356` … |
-| Art 360 | Art 352 one month vs Art 356 two months (approval) `static-art352-356` … |
+| Art 352 | Art 352 one month vs Art 356 two months (approval) `static-art352-356` ✓ |
+| Art 356 | Art 356 — Parliament approval within 2 months `static-art356` ✗✗; Art 352 one month vs Art 356 two months (approval) `static-art352-356` ✓ |
+| Art 360 | Art 352 one month vs Art 356 two months (approval) `static-art352-356` ✓ |
 | Art 368 | Legislative Council polls; Art 169 `ca-20261105-5` ✓ |
-| Tenth Schedule | Shiv Sena (UBT) LS merger challenge `ca-20261102-5` …; Telangana BRS defection petitions `ca-20261107-7` ✓; Tenth Schedule — merger ≥ 2/3; 91st Amdt deleted split `static-tenth-schedule` ✓✓ |
+| Tenth Schedule | Shiv Sena (UBT) LS merger challenge `ca-20261102-5` ✓; Telangana BRS defection petitions `ca-20261107-7` ✓; Tenth Schedule — merger ≥ 2/3; 91st Amdt deleted split `static-tenth-schedule` ✓✓ |
 
 ## Code sections (old ↔ new)
 
@@ -154,7 +154,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 
 | Hook | Items (record) |
 |---|---|
-| B. P. Singhal (2010) | B. P. Singhal (2010) — Governor removal not arbitrary `static-bp-singhal` … |
+| B. P. Singhal (2010) | B. P. Singhal (2010) — Governor removal not arbitrary `static-bp-singhal` ✓ |
 | Bhajan Lal (1992) | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` · |
 | Common Cause (2018) | Harish Rana passive euthanasia `ca-20261108-1` · |
 | D. K. Basu (1997) | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓ |
@@ -180,7 +180,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | APEC | APEC 2026 leaders meeting, Shenzhen (18–19 Nov) `ca-20261111-6` · |
 | Asian Hockey Federation | India win 6th men's Asian Champions Trophy (hockey) `ca-20261108-6` · |
 | BBMB | Bhakra-Beas power arrears to Himachal (SC, 6 Nov 2026) `ca-20261109-4` · |
-| BRICS | 12th BRICS Parliamentary Forum `ca-20261102-6` …; NDB Shanghai vs AIIB Beijing `static-ndb` ✓ |
+| BRICS | 12th BRICS Parliamentary Forum `ca-20261102-6` ✓; NDB Shanghai vs AIIB Beijing `static-ndb` ✓ |
 | CBI | CBI inquiry into Arunachal contracts (Art 14) `ca-20261109-1` · |
 | Central Information Commission | Raj Kumar Goyal CIC `ca-20261104-3` ✓ |
 | Data Protection Board | DPDP Rules 2025 (MeitY) `ca-20261027-1` ✓ |
@@ -265,8 +265,8 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 
 ## Item-level record by topic (first topic only; blank counts as a miss)
 
-- GK-CA: 6/12
+- GK-CA: 7/13
 - GK-ECO: 1/3
-- GK-POL: 14/21
+- GK-POL: 17/24
 - GK-STA: 3/5
 - LEG-NEW: 13/21
