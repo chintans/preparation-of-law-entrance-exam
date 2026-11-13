@@ -419,7 +419,13 @@
    ],
    "fact": "27 Oct 2026: SC (CJI Surya Kant, Bagchi, V. Mohana JJ) issued notice on Digital News Publishers Association plea that DPDP Act 2023 lacks a journalism exemption; no interim stay; next hearing 17 Nov",
    "sources": "ANI 27 Oct 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-13",
+     "q": "Q9",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261103-5",
@@ -697,7 +703,13 @@
    ],
    "fact": "25 Jan 2026: Padma Awards 2026 — 131 (5 Vibhushan, 13 Bhushan, 113 Shri); Vibhushan: Dharmendra (posth.), V. S. Achuthanandan (posth.), K. T. Thomas, N. Rajam, P. Narayanan; Bhushan incl. Mammootty, Alka Yagnik, Uday Kotak, Vijay Amritraj, Shibu Soren (posth.); Padma Shri incl. Rohit Sharma, Harmanpreet Kaur",
    "sources": "newsonair 25 Jan 2026; The News Minute",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-13",
+     "q": "Q10",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261105-4",
@@ -1310,6 +1322,11 @@
     {
      "date": "2026-11-12",
      "q": "Q21",
+     "result": "pending"
+    },
+    {
+     "date": "2026-11-13",
+     "q": "Q12",
      "result": "pending"
     }
    ]
@@ -2050,6 +2067,141 @@
     }
    ],
    "logged": "2026-11-12"
+  },
+  {
+   "id": "ca-20261113-1",
+   "logged": "2026-11-13",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "s. 498-A covers live-in 'relationship in the nature of marriage' (Lokesh B. H., Aug 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "IPC 498A",
+    "BNS 85",
+    "BNS 86",
+    "Act: Protection of Women from Domestic Violence Act 2005",
+    "Case: Arnesh Kumar v. State of Bihar",
+    "Case: Lokesh B. H. v. State of Karnataka"
+   ],
+   "fact": "Early Aug 2026 (SCC blog 4 Aug): SC (Sanjay Karol, N. Kotiswar Singh JJ) — IPC 498-A (= BNS 85) applies to a man in a live-in relationship in the nature of marriage (intent to marry intrinsic), consenting adults only; extended reading limited to 498-A; Arnesh Kumar (2014) arrest safeguards apply strictly",
+   "sources": "SCC Online blog 4 Aug & 9 Sep 2026 (2026 SCC OnLine SC 1470)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261113-2",
+   "logged": "2026-11-13",
+   "kind": "brief",
+   "category": "economy",
+   "label": "RBI holds repo 5.25%, FY27 GDP 6.7% (MPC, 5 Aug 2026)",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Body: RBI",
+    "Body: Monetary Policy Committee",
+    "RBI Act 45ZB",
+    "Person: Sanjay Malhotra"
+   ],
+   "fact": "5 Aug 2026: RBI MPC (Governor Sanjay Malhotra) kept repo at 5.25%, neutral stance; FY27 GDP projection raised to 6.7%. MPC: 6 members (3 RBI incl. Governor, 3 Centre-appointed), Governor casting vote; RBI Act s. 45ZB; target 4% CPI ±2%",
+   "sources": "SCC Online blog 10 Aug 2026; IIFL 5 Aug 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261113-3",
+   "logged": "2026-11-13",
+   "kind": "brief",
+   "category": "sports",
+   "label": "India 4th at Glasgow CWG 2026 — 39 medals (13 gold)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Event: Commonwealth Games 2026"
+   ],
+   "fact": "Glasgow Commonwealth Games closed 2 Aug 2026: India 4th with 39 medals (13 gold); Australia top; no wrestling or shooting on the programme; 2030 centenary Games — Ahmedabad",
+   "sources": "The Week 2 Aug 2026; Business Today 3 Aug 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261113-4",
+   "logged": "2026-11-13",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "No birthright in father's HSA s. 8 share (J. Rajesh, 6 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Act: Hindu Succession Act 1956",
+    "HSA 8",
+    "HSA 6",
+    "Case: CWT v. Chander Sen"
+   ],
+   "fact": "6 Nov 2026: SC (Augustine George Masih, Sunita Agarwal JJ), J. Rajesh v. M. Kumaran (2026 INSC 1208) — share a son gets when father's estate devolves under s. 8 HSA is his separate property, not coparcenary; grandson has no birthright; followed Chander Sen (1986); s. 6 and TN s. 29-A (1989) inapplicable",
+   "sources": "Verdictum weekly overview 2–6 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261113-5",
+   "logged": "2026-11-13",
+   "kind": "brief",
+   "category": "polity",
+   "label": "Two-child norm 'lost relevance' — referred to larger bench (Mangala Ingle, 4 Nov 2026)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 243F",
+    "Act: Maharashtra Village Panchayats Act 1959",
+    "Case: Javed v. State of Haryana",
+    "Amendment: 73rd"
+   ],
+   "fact": "4 Nov 2026: SC (P. S. Narasimha, Alok Aradhe JJ), Mangala Bhimrao Ingle (2026 INSC 1193) — Sarpanch disqualified under s. 14(1)(j-1) MVP Act for >2 children; Court said such laws have lost relevance and referred the precedent upholding them to a larger bench (validity not challenged). Hook Art 243F (State law disqualifications); Javed (2003) leading earlier ruling",
+   "sources": "Verdictum weekly overview 2–6 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261113-6",
+   "logged": "2026-11-13",
+   "kind": "brief",
+   "category": "international",
+   "label": "G20 Miami summit 14–15 Dec 2026; South Africa not invited",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: G20",
+    "Event: G20 Summit 2026",
+    "Body: African Union"
+   ],
+   "fact": "21st G20 leaders' summit at Trump National Doral, Miami, 14–15 Dec 2026 (US presidency); South Africa not invited (Trump, 27 Nov 2025); Poland invited guest; Modi expected. G20 from 1999, leaders' summits from 2008; AU permanent member since New Delhi 2023",
+   "sources": "Wikipedia '2026 G20 Miami summit'; Business Today 23 Sep 2026",
+   "tests": []
+  },
+  {
+   "id": "static-preamble-42",
+   "logged": "2026-11-13",
+   "kind": "static",
+   "category": "polity",
+   "label": "Preamble — 42nd Am. added socialist, secular, integrity",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Preamble",
+    "Amendment: 42nd"
+   ],
+   "fact": "42nd Amendment 1976 added 'Socialist', 'Secular' and 'and integrity' (unity was there from 1950) — only amendment to the Preamble; Berubari (1960) not part → Kesavananda (1973) part",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-13",
+     "q": "Q11",
+     "result": "pending"
+    }
+   ]
   }
  ]
 }
