@@ -1,6 +1,6 @@
 # Exam calendar
 
-Last verified: **2026-11-13** (web search; official sites to be re-checked each Monday)
+Last verified: **2026-11-14** (web search; official sites to be re-checked each Monday)
 
 Status key: **Confirmed** = stated in official notice or consistently reported from it · **Announced** =
 exam date published, other dates pending · **Tentative** = expected from past cycles.
@@ -24,9 +24,9 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | NLSAT-LLB 2027 | Offers | end May 2027 | Reported | Careers360 |
 | LSAT India | — | Discontinued after May 2024 | Confirmed | LSAC notice (via AglaSem) |
 
-## Days to exam (as of 2026-11-13)
+## Days to exam (as of 2026-11-14)
 
-CLAT 23 · AILET 30 · CUET PG ~109 (to 2 Mar) · NLSAT 163
+CLAT 22 · AILET 29 · CUET PG ~108 (to 2 Mar) · NLSAT 162
 
 ## Change log
 
@@ -56,3 +56,4 @@ CLAT 23 · AILET 30 · CUET PG ~109 (to 2 Mar) · NLSAT 163
 - 2026-11-11 (Day 23 run) — Careers360 CLAT exam-date page (updated 9 Nov): exam 6 Dec 2–4 PM; admit card ~2 weeks before, "tentatively third week of November"; corrections closed 10 Nov. Careers360 AILET last-date page (8 Oct): closes 10 Nov, admit card 30 Nov, exam 13 Dec; no extension found. clatnlti guide: admit card third week Nov. No date changes; CLAT corrections and AILET registration now closed.
 - 2026-11-12 (Day 24 run) — Careers360 CLAT 2027 exam-date page (updated 9 Nov): exam Sun 6 Dec 2–4 PM offline; admit card ~2 weeks before, "tentatively third week of November" — not yet released; clatnlti guide: expected third week Nov (CLAT 2026 card came 22 Nov 2025). consortiumofnlus.ac.in not reachable. No AILET/CUET PG news. No date changes.
 - 2026-11-13 (Day 25 run) — Careers360 CLAT 2027 exam-date page (updated 9 Nov): exam Sun 6 Dec 2–4 PM offline; admit card "tentatively in the third week of November 2026" — not yet released; clatnlti guide: release expected 3rd week Nov. No AILET/CUET PG/NLSAT news. No date changes.
+- 2026-11-14 (Day 26 run) — Careers360 CLAT 2027 exam-date page (updated 9 Nov): exam Sun 6 Dec 2–4 PM offline, no pattern change; admit card "tentatively in the third week of November 2026" — not yet released. Web search for a CLAT admit-card release notice found none. No AILET/CUET PG/NLSAT news. No date changes.

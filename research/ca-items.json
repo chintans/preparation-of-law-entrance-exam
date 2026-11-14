@@ -729,7 +729,13 @@
    ],
    "fact": "4 Nov 2026: SC (CJI Surya Kant, Bagchi, V. Mohana JJ) refused to interfere with Allahabad HC upholding s. 9(1)(c) Delimitation Act 2002 (reserved seats where SC/ST proportion comparatively higher); rotation for LS/Assembly seats is for Parliament, not courts; petitioner Jagdish Singh (Kadipur, Sultanpur); cf. Arts 243D/243T rotation for local bodies",
    "sources": "PTI via Telangana Today, Nagaland Post 4–5 Nov 2026; LiveLaw",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-14",
+     "q": "Q9",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261105-5",
@@ -789,7 +795,13 @@
    ],
    "fact": "13 Jan 2026: SC split verdict on s. 17A PC Act (prior approval before enquiry/investigation; inserted Jul 2018) — Nagarathna J struck down (Arts 14, 21; third attempt after Vineet Narain 1998 and Subramanian Swamy 2014/s. 6A DSPE), Viswanathan J upheld (approval via Lokpal/Lokayukta); placed before CJI Surya Kant for larger bench; CPIL v UoI, 2026 LiveLaw (SC) 43",
    "sources": "LiveLaw; newsonair 14 Jan 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-14",
+     "q": "Q10",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261106-2",
@@ -2199,6 +2211,172 @@
     {
      "date": "2026-11-13",
      "q": "Q11",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261114-1",
+   "logged": "2026-11-14",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Maharashtra Poisons Rules 18A/18B (methanol) struck down — Arts 14, 19(1)(g) (Balaji Formalin, 18 Sep 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 14",
+    "Art 19(1)(g)",
+    "Art 19(6)",
+    "Case: Balaji Formalin (2026)"
+   ],
+   "fact": "18 Sep 2026: SC (J. B. Pardiwala, K. Vinod Chandran JJ), M/s Balaji Formalin Pvt Ltd v. UoI, 2026 INSC 1009 — Rules 18A and 18B of the Maharashtra Poisons Rules 1972 (methanol denaturation) struck down as violating Arts 14 and 19(1)(g); fail proportionality",
+   "sources": "Verdictum weekly overview 14–18 Sep 2026 (21 Sep 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261114-2",
+   "logged": "2026-11-14",
+   "kind": "brief",
+   "category": "economy",
+   "label": "GST Sept 2026 ₹2.04 lakh cr (+14.7%)",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Art 279A",
+    "Amendment: 101st",
+    "Body: GST Council"
+   ],
+   "fact": "Gross GST collections Sept 2026 ≈ ₹2.04 lakh crore, +14.7% YoY (released 1 Oct 2026), import-linked growth; net revenue ~+18%. GST from 1 Jul 2017 (101st Am. 2016); GST Council Art 279A chaired by Union FM",
+   "sources": "Business Today 1 Oct 2026; A2Z Taxcorp",
+   "tests": []
+  },
+  {
+   "id": "ca-20261114-3",
+   "logged": "2026-11-14",
+   "kind": "brief",
+   "category": "sports",
+   "label": "India 4th at Aichi-Nagoya Asian Games 2026 — 85 medals (21 gold)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Event: Asian Games 2026",
+    "Body: Olympic Council of Asia"
+   ],
+   "fact": "Asian Games 2026, Aichi-Nagoya, Japan (closed early Oct 2026): India 85 medals (21 G, 27 S, 37 B), 4th, passing Uzbekistan via 5-1 men's hockey final win over Malaysia; China top (169 gold), Japan 2nd, S Korea 3rd; second-best after Hangzhou 2023 (106, 28 gold); hockey & cricket golds → LA 2028 places. OCA HQ Kuwait City; next Doha 2030, Riyadh 2034; first Asian Games New Delhi 1951",
+   "sources": "The Week 3 Oct 2026; Business Today 3 Oct 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261114-4",
+   "logged": "2026-11-14",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Cultivation alone ≠ forest dweller under FRA (A. John Kennedy, 6 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Act: Forest Rights Act 2006",
+    "FRA 2(c)",
+    "FRA 2(o)",
+    "Person: B. R. Gavai",
+    "Case: A. John Kennedy v State of TN (2026)"
+   ],
+   "fact": "6 Nov 2026: SC (Vikram Nath, Sandeep Mehta JJ), A. John Kennedy v. State of TN, 2026 INSC 1204 — those who only cultivate forest land (temporary residence or living outside) are not FDST/OTFD under ss. 2(c), 2(o) FRA 2006; commercial silk-cotton cropping prima facie not a forest right; special committee headed by former CJI B. R. Gavai; 30 days to form Gram Sabhas, 5 months to adjudicate. OTFD = resided 3 generations (75 yrs) before 13 Dec 2005",
+   "sources": "Verdictum weekly overview 2–6 Nov 2026 (10 Nov 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261114-5",
+   "logged": "2026-11-14",
+   "kind": "brief",
+   "category": "polity",
+   "label": "7-judge bench closes sales-tax surcharge reference (Arjun Flour Mills, 4 Nov 2026); royalty not a tax (MADA 2024)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Seventh Schedule",
+    "List II Entry 54",
+    "Art 246",
+    "Amendment: 101st",
+    "Case: Mineral Area Development Authority v SAIL (2024)",
+    "Case: India Cement (1990)",
+    "Case: S. Kodar (1974)",
+    "Person: Surya Kant"
+   ],
+   "fact": "4 Nov 2026: 7-judge SC bench (CJI Surya Kant, Bhatti, Bagchi, Anjaria, Palli, V. Mohana, Viswanathan JJ), Arjun Flour Mills v. State of Odisha, 2026 INSC 1192 — reference on surcharge on sales tax closed as infructuous: MADA v SAIL (2024, 9 judges) held royalty not a tax, overruling India Cement (1990) to that extent; S. Kodar v State of Kerala (1974) holds the field; Entry 54 List II substituted by 101st Am. 2016",
+   "sources": "Verdictum weekly overview 2–6 Nov 2026 (10 Nov 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261114-6",
+   "logged": "2026-11-14",
+   "kind": "brief",
+   "category": "international",
+   "label": "PM Modi to visit Canada 11–12 Dec 2026; CEPA talks with Mark Carney",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Person: Mark Carney",
+    "Treaty: India–Canada CEPA",
+    "Event: G20 Miami 2026"
+   ],
+   "fact": "PM Modi to visit Canada 11–12 Dec 2026 (announced 16 Oct, re-reported Nov) for talks with PM Mark Carney; Comprehensive Economic Partnership Agreement on agenda; just before G20 Miami (14–15 Dec). India CEPAs: UAE 2022, South Korea 2010",
+   "sources": "Business Today 16 Oct 2026; NewKerala/IANS 7 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "static-art300a",
+   "logged": "2026-11-14",
+   "kind": "static",
+   "category": "polity",
+   "label": "Right to property — Art 300A (44th Am. 1978 deleted 19(1)(f), 31)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 300A",
+    "Art 19(1)(f)",
+    "Art 31",
+    "Amendment: 44th"
+   ],
+   "fact": "44th Amendment 1978 deleted Art 19(1)(f) and Art 31; property now a constitutional right under Art 300A (Part XII), not a Fundamental Right; six FR groups remain",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-14",
+     "q": "Q11",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-art359",
+   "logged": "2026-11-14",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 359 — Arts 20 and 21 cannot be suspended in emergency (44th Am.)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 359",
+    "Art 352",
+    "Art 20",
+    "Art 21",
+    "Amendment: 44th"
+   ],
+   "fact": "Art 359(1A)/(1): since the 44th Amendment 1978 a Presidential order suspending enforcement of FRs during a National Emergency cannot extend to Arts 20 and 21; Art 358 suspends Art 19 automatically only for war/external aggression",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-14",
+     "q": "Q12",
      "result": "pending"
     }
    ]

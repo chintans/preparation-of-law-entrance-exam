@@ -11,7 +11,7 @@
       "status": "confirmed",
       "marking": "+1/-0.25",
       "registration": "closed 2026-11-07 (extended); correction window closed 2026-11-10",
-      "admit_card": "not out as of 13 Nov; expected third week of Nov 2026 (Careers360 9 Nov; CLAT 2026 card came 22 Nov 2025)"
+      "admit_card": "not out as of 14 Nov; expected third week of Nov 2026 (Careers360 9 Nov; CLAT 2026 card came 22 Nov 2025)"
     },
     "AILET": {
       "date": "2026-12-13",
@@ -35,17 +35,17 @@
       "application": "OPEN (nlsatadmissions.nls.ac.in, seen 6 Nov 2026); closes 2027-03-23 (Careers360)"
     }
   },
-  "calendar_last_verified": "2026-11-13",
+  "calendar_last_verified": "2026-11-14",
   "sessions_completed": 23,
   "streak": 0,
   "last_session": "2026-11-11",
-  "pending_session": "2026-11-13",
-  "sessions_since_surprise": 1,
+  "pending_session": "2026-11-14",
+  "sessions_since_surprise": 2,
   "last_session_type": "normal",
   "recent_topics": [
-    "LR-ANA",
     "MIXED",
-    "LEG-PRIN"
+    "LEG-PRIN",
+    "LR-CR"
   ],
   "topics": {
     "ENG-RC": {
@@ -1481,13 +1481,18 @@
       "date": "2026-11-12",
       "exam": "CLAT",
       "topic": "MIXED (surprise)"
+    },
+    {
+      "date": "2026-11-13",
+      "exam": "CLAT",
+      "topic": "LEG-PRIN"
     }
   ],
   "ca": {
-    "backfill_cursor": "2026-09",
+    "backfill_cursor": "2026-10",
     "window": "2025-11 to 2026-11 (Phase 1)",
-    "briefs": 12,
-    "last_brief": "2026-11-13",
+    "briefs": 13,
+    "last_brief": "2026-11-14",
     "pace_note": "From 6 Nov: advance cursor every brief (3 items/month) so it reaches 2026-11 by ~30 Nov."
   },
   "reading": {
@@ -1556,20 +1561,21 @@
     "technique_note": "Week 2 (paragraph map) named from 8 Nov session (one day early; no drills returned yet)"
   },
   "constitution": {
-    "cursor": 5,
+    "cursor": 6,
     "track": "syllabus/constitution-track.md",
     "units_done": [
       1,
       2,
       3,
-      4
+      4,
+      5
     ],
     "weak_units": [
       3
     ],
-    "last_capsule": "2026-11-13",
+    "last_capsule": "2026-11-14",
     "repeat_pending": false,
-    "note": "Started 8 Nov 2026 at Chintan's request. Units 1 (Art 131/143) and 3 (Art 356 numbers) seeded as weak from Day-15 misses; unit 2 (Art 200) also missed — taught on day 2 of the track. 9 Nov: unit 1 capsule taught; Q11 (Art 226 wider) and Q12 (Art 145(3)) both right → unit 1 removed from weak_units. 10 Nov: unit 2 capsule (Governor & assent) taught; Q11 Art 200 proviso, Q12 Art 356(3) recall (weak unit 3). Graded 10 Nov: Q11 Art 200 proviso right (first time); Q12 Art 356(3) wrong again (six months) — unit 3 stays weak. 11 Nov: unit 3 capsule (Emergency numbers, ladder 1-2-6-3) taught; Q11 Art 352 vs 356 approval windows, Q12 B. P. Singhal recall (unit 2). Graded 12 Nov: Q11 Art 352 one month vs 356 two months right (1 of 2 needed to clear unit 3 from weak_units); Q12 B. P. Singhal right. 12 Nov: unit 4 capsule (Preamble) taught before a CLAT surprise test; Q21 Art 356(3) two months (weak unit 3), Q22 Art 141 (unit 1). 13 Nov: 12 Nov session missed → unit 4 (Preamble) repeated once (cursor stays 5, repeat done); Q11 42nd Am. words (static-preamble-42), Q12 Art 356 two-month approval / six-month extensions recast (weak unit 3)."
+    "note": "Started 8 Nov 2026 at Chintan's request. Units 1 (Art 131/143) and 3 (Art 356 numbers) seeded as weak from Day-15 misses; unit 2 (Art 200) also missed — taught on day 2 of the track. 9 Nov: unit 1 capsule taught; Q11 (Art 226 wider) and Q12 (Art 145(3)) both right → unit 1 removed from weak_units. 10 Nov: unit 2 capsule (Governor & assent) taught; Q11 Art 200 proviso, Q12 Art 356(3) recall (weak unit 3). Graded 10 Nov: Q11 Art 200 proviso right (first time); Q12 Art 356(3) wrong again (six months) — unit 3 stays weak. 11 Nov: unit 3 capsule (Emergency numbers, ladder 1-2-6-3) taught; Q11 Art 352 vs 356 approval windows, Q12 B. P. Singhal recall (unit 2). Graded 12 Nov: Q11 Art 352 one month vs 356 two months right (1 of 2 needed to clear unit 3 from weak_units); Q12 B. P. Singhal right. 12 Nov: unit 4 capsule (Preamble) taught before a CLAT surprise test; Q21 Art 356(3) two months (weak unit 3), Q22 Art 141 (unit 1). 13 Nov: 12 Nov session missed → unit 4 (Preamble) repeated once (cursor stays 5, repeat done); Q11 42nd Am. words (static-preamble-42), Q12 Art 356 two-month approval / six-month extensions recast (weak unit 3). 14 Nov: 13 Nov session (unit 4 repeat) also missed — unit 4 had already had its one repeat, so moved on: unit 5 (FR map) taught; Q11 Art 300A (static-art300a), Q12 Art 359 — Arts 20 & 21 not suspendable (weak unit 3, static-art359)."
   },
   "dashboard": {
     "url": "https://claude.ai/artifact/7QP98w9CGCsG5QrdtasF8W",
