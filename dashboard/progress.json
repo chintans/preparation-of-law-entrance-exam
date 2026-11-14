@@ -1,19 +1,19 @@
 {
  "summary": [
   {
-   "as_of": "2026-11-13",
-   "day": 25,
+   "as_of": "2026-11-14",
+   "day": 26,
    "streak": 0,
    "sessions_graded": 23,
    "reading_level": 1,
    "target_wpm": 180,
-   "days_clat": 23,
+   "days_clat": 22,
    "level_clat": "Not ready",
-   "days_ailet": 30,
+   "days_ailet": 29,
    "level_ailet": "Strong",
-   "days_cuet": 109,
+   "days_cuet": 108,
    "level_cuet": "Not ready",
-   "days_nlsat": 163,
+   "days_nlsat": 162,
    "level_nlsat": "Not ready",
    "clat_indicative": 0.7943
   }
@@ -361,7 +361,7 @@
    "attempts": 11,
    "correct": 10,
    "next_review": "2026-11-14",
-   "due": false
+   "due": true
   },
   {
    "topic": "ENG-GRM",
@@ -511,7 +511,7 @@
    "attempts": 16,
    "correct": 12,
    "next_review": "2026-11-14",
-   "due": false
+   "due": true
   },
   {
    "topic": "LR-ARG",
@@ -571,7 +571,7 @@
    "attempts": 11,
    "correct": 9,
    "next_review": "2026-11-14",
-   "due": false
+   "due": true
   },
   {
    "topic": "WRIT-LEGAL",
