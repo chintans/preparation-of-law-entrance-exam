@@ -1,19 +1,19 @@
 {
  "summary": [
   {
-   "as_of": "2026-11-14",
-   "day": 26,
+   "as_of": "2026-11-15",
+   "day": 27,
    "streak": 0,
    "sessions_graded": 23,
    "reading_level": 1,
    "target_wpm": 180,
-   "days_clat": 22,
+   "days_clat": 21,
    "level_clat": "Not ready",
-   "days_ailet": 29,
+   "days_ailet": 28,
    "level_ailet": "Strong",
-   "days_cuet": 108,
+   "days_cuet": 107,
    "level_cuet": "Not ready",
-   "days_nlsat": 162,
+   "days_nlsat": 161,
    "level_nlsat": "Not ready",
    "clat_indicative": 0.7943
   }
@@ -391,7 +391,7 @@
    "attempts": 17,
    "correct": 11,
    "next_review": "2026-11-15",
-   "due": false
+   "due": true
   },
   {
    "topic": "LEG-NEW",
@@ -451,7 +451,7 @@
    "attempts": 3,
    "correct": 3,
    "next_review": "2026-11-15",
-   "due": false
+   "due": true
   },
   {
    "topic": "LEG-CONT",
@@ -521,7 +521,7 @@
    "attempts": 2,
    "correct": 2,
    "next_review": "2026-11-15",
-   "due": false
+   "due": true
   },
   {
    "topic": "LR-ANA",

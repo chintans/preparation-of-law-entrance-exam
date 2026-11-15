@@ -819,7 +819,13 @@
    ],
    "fact": "20 Jan 2026 TN Governor R. N. Ravi left without reading address (Speaker Appavu read it; editorji, single); 22 Jan 2026 Karnataka Governor Thaawarchand Gehlot read only opening/closing lines (objected to paras on MGNREGA replacement, devolution); Art 176(1), Art 163",
    "sources": "Free Press Journal; Republic World",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-15",
+     "q": "Q11",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261106-3",
@@ -836,7 +842,13 @@
    ],
    "fact": "29 Jan 2026: Economic Survey 2025-26 tabled by FM Sitharaman (DEA; CEA V. Anantha Nageswaran) — FY26 GDP 7.4% (NSO FAE), FY27 6.8–7.2%, potential growth ~7%; Budget 1 Feb (Art 112)",
    "sources": "Deccan Herald; The Week 29 Jan 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-15",
+     "q": "Q12",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261106-4",
@@ -858,7 +870,13 @@
    ],
    "fact": "~2 Nov 2026 (reported 3 Nov): SC (Nagarathna, Manmohan JJ), Piyush v State of Maharashtra, 2026 LiveLaw (SC) 1119 — quashed 304B/498A FIR against husband (wife's 2023 death in Toronto; note named no one); \"stupid/useless\" = temperament not cruelty; gold = gift not dowry; Bhajan Lal; Bombay HC (Aurangabad) had quashed only vs in-laws; IPC 498A→BNS 85, 304B→BNS 80",
    "sources": "LiveLaw; Bar & Bench",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-15",
+     "q": "Q13",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261106-5",
@@ -875,7 +893,13 @@
    ],
    "fact": "27 Oct 2026: WMO Greenhouse Gas Bulletin No. 22 — CO2 426.8 ppm in 2025 (153% of 1750), +2.8 ppm (2011–20 avg 2.4); CH4, N2O records; ahead of COP31 Antalya",
    "sources": "wmo.int; UNB",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-15",
+     "q": "Q14",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261106-6",
@@ -891,7 +915,13 @@
    ],
    "fact": "1 Nov 2026: Dinesh V. Ganvir took charge as 55th DG, Geological Survey of India (Min. of Mines; HQ Kolkata; est. 1851); critical minerals focus",
    "sources": "The Week (PTI) 2 Nov 2026; The Hans India",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-15",
+     "q": "Q15",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261106-7",
@@ -1918,6 +1948,11 @@
      "date": "2026-11-11",
      "q": "Q11",
      "result": "right"
+    },
+    {
+     "date": "2026-11-15",
+     "q": "Q17",
+     "result": "pending"
     }
    ]
   },
@@ -2377,6 +2412,200 @@
     {
      "date": "2026-11-14",
      "q": "Q12",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261115-1",
+   "logged": "2026-11-15",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Internet access a fundamental right incl. children (Just Rights for Children Alliance v S. Harish, Oct 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 21",
+    "Art 19(1)(a)",
+    "Case: Anuradha Bhasin (2020)",
+    "Act: POCSO Act 2012",
+    "Case: Just Rights for Children Alliance v S. Harish"
+   ],
+   "fact": "Mid-Oct 2026 (week of 12-16 Oct; SCC report 23 Oct): SC (J. B. Pardiwala, K. Vinod Chandran JJ), 2026 SCC OnLine SC 2205 — right to access and use the internet is a fundamental right under Art 21 r/w 19(1)(a); children too; target harmful material, not access; national hash & URL database, time-bound reporting, intermediary accountability; compliance affidavit, next hearing 10 Dec 2026",
+   "sources": "SCC Online October 2026 roundup (4 Nov 2026); Verdictum weekly overview 12-16 Oct 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261115-2",
+   "logged": "2026-11-15",
+   "kind": "brief",
+   "category": "polity/judgments",
+   "label": "Conversion does not carry backward-class status — TN G.O. 314 quashing upheld (Sameer Ahamed, 15 Oct 2026)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 16(4)",
+    "Art 15(4)",
+    "Case: Indra Sawhney (1992)",
+    "Act: Constitution (SC) Order 1950"
+   ],
+   "fact": "15 Oct 2026: SC (Prashant Kumar Mishra, Shree Chandrashekhar JJ), State of TN v Sameer Ahamed N., SLP(C) 25507/2026 — dismissed State appeal; Madras HC quashing of G.O.(Ms) 314 (9 Mar 2024) stands; converts to Islam cannot claim Backward Class Muslim certificates from pre-conversion community; conversion alone does not confer membership of a notified backward class",
+   "sources": "Verdictum weekly overview 12-16 Oct 2026; SCC Online October 2026 roundup; LiveLaw October 2026 roundup",
+   "tests": []
+  },
+  {
+   "id": "ca-20261115-3",
+   "logged": "2026-11-15",
+   "kind": "brief",
+   "category": "economy",
+   "label": "RBI hikes repo 25 bps to 5.50%, stance \"calibrated tightening\" (9 Oct 2026); Oct CPI 6.09%",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Body: RBI",
+    "Body: MPC",
+    "Act: RBI Act 1934 s. 45ZB",
+    "Person: Sanjay Malhotra"
+   ],
+   "fact": "9 Oct 2026: MPC (Governor Sanjay Malhotra) raised repo 5.25% -> 5.50%; stance to calibrated tightening; FY27 GDP forecast 7.1%, CPI projection ~5.2%; corridor SDF 5.25 / MSF 5.75. 12 Nov 2026: MoSPI Oct CPI 6.09% (base 2024=100), above 6% upper band (Sept 5.54%). MPC s. 45ZB (6 members, Governor casting vote); target 4% +/-2 (s. 45ZA)",
+   "sources": "SCC Online blog 9 Oct 2026; Free Press Journal; Open magazine; Swarajya; EduDose & CrackTarget 12 Nov 2026 (CPI)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261115-4",
+   "logged": "2026-11-15",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Negligence must be proximate cause — school pillar-collapse case quashed (Matin Bhosale, 2 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "IPC 304A",
+    "BNS 106",
+    "IPC 304",
+    "BNS 105",
+    "Case: Jacob Mathew (2005)",
+    "Case: Matin Shankarrao Bhosale (2026)"
+   ],
+   "fact": "2 Nov 2026: SC (J. B. Pardiwala, Manmohan JJ), Matin Shankarrao Bhosale v State of Maharashtra, 2026 INSC 1198 — criminal case vs school management over child killed by pillar collapse quashed; breach of duty of care is not culpable homicide (s. 304) without knowledge death likely; for s. 304A negligence must be direct, proximate and efficient cause (causa causans, not causa sine qua non); contractor's intervening negligence broke the chain. IPC 304A -> BNS 106(1) (up to 5 yrs); IPC 304 -> BNS 105",
+   "sources": "Verdictum weekly overview 2-6 Nov 2026 (10 Nov 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261115-5",
+   "logged": "2026-11-15",
+   "kind": "brief",
+   "category": "international",
+   "label": "28th CHOGM, St John's, Antigua and Barbuda (1-4 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Event: CHOGM 2026",
+    "Body: Commonwealth",
+    "Person: Shirley Ayorkor Botchwey",
+    "Person: Gaston Browne"
+   ],
+   "fact": "1-4 Nov 2026: 28th Commonwealth Heads of Government Meeting, St John's, Antigua and Barbuda (smallest host ever); chair PM Gaston Browne; theme \"Accelerating Partnerships and Investment for a Prosperous Commonwealth\"; first CHOGM of SG Shirley Ayorkor Botchwey (Ghana, from 1 Apr 2025); India led by EAM S. Jaishankar. Static: 56 members (Gabon, Togo 2022); Marlborough House London; head King Charles III; CHOGM 2024 Apia, Samoa",
+   "sources": "Wikipedia (2026 CHOGM); thecommonwealth.org; EduDose 12 Nov; AffairsCloud 10 Nov",
+   "tests": []
+  },
+  {
+   "id": "ca-20261115-6",
+   "logged": "2026-11-15",
+   "kind": "brief",
+   "category": "awards",
+   "label": "Booker Prize 2026 — M. John Harrison, The End of Everything (9 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Event: Booker Prize 2026",
+    "Person: M. John Harrison"
+   ],
+   "fact": "9 Nov 2026 (London): M. John Harrison (British, 81) won the Booker Prize 2026 for The End of Everything — oldest winner, first science-fiction winner; GBP 50,000. Static: Booker 2025 David Szalay (Flesh); International Booker 2025 Banu Mushtaq, Heart Lamp (Kannada; tr. Deepa Bhasthi)",
+   "sources": "thebookerprizes.com press release; NPR 9 Nov 2026; IBTimes",
+   "tests": []
+  },
+  {
+   "id": "ca-20261115-7",
+   "logged": "2026-11-15",
+   "kind": "lesson",
+   "category": "sports",
+   "label": "Anuj Shrivatri India's 100th chess GM (8 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: FIDE",
+    "Person: Anuj Shrivatri",
+    "Person: Viswanathan Anand",
+    "Person: D. Gukesh",
+    "Person: Divya Deshmukh"
+   ],
+   "fact": "8 Nov 2026: Anuj Shrivatri (22, IM, Katni, MP) won 7th ASEAN+ Individual Open, Ozamiz City, Philippines (7/9, half a point ahead of GM Nguyen Duc Hoa) -> direct GM title; India's 100th GM, MP's first; rating ~2450. Usual route: 3 norms over >=27 games + 2500. Static: FIDE HQ Lausanne (founded Paris 1924); Anand first GM 1988, Barua 2nd 1991; Gukesh world champion Dec 2024 (beat Ding Liren, Singapore); India double gold Budapest Olympiad 2024; Divya Deshmukh won 2025 Women's World Cup, Batumi (beat Humpy)",
+   "sources": "The Week 8 Nov 2026; Open magazine 10 Nov 2026",
+   "tests": [
+    {
+     "date": "2026-11-15",
+     "q": "Q1-5",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261115-8",
+   "logged": "2026-11-15",
+   "kind": "lesson",
+   "category": "science",
+   "label": "MATSYA-6000 completes unmanned trials (early Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Event: Samudrayaan",
+    "Body: NIOT",
+    "Body: International Seabed Authority",
+    "Event: Deep Ocean Mission"
+   ],
+   "fact": "Early Nov 2026 (EduDose: 6 Nov, Kattupalli, TN): MATSYA-6000 (Samudrayaan, India's first crewed deep-ocean mission) completed unmanned trials; built by NIOT Chennai (MoES); 3 crew, 6,000 m, titanium-alloy sphere. Deep Ocean Mission approved by Cabinet June 2021, Rs 4,077 cr. Polymetallic nodules, Central Indian Ocean Basin — exploration contract with ISA (Kingston, Jamaica; ITLOS is Hamburg)",
+   "sources": "India Observers / Indian Defence News (Nov 2026); EduDose 12 Nov 2026",
+   "tests": [
+    {
+     "date": "2026-11-15",
+     "q": "Q6-8",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-fr-citizens",
+   "logged": "2026-11-15",
+   "kind": "static",
+   "category": "polity",
+   "label": "Citizens-only FRs: Arts 15, 16, 19, 29, 30",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 15",
+    "Art 16",
+    "Art 19",
+    "Art 29",
+    "Art 30",
+    "Art 14",
+    "Art 21"
+   ],
+   "fact": "Fundamental Rights available only to citizens: Arts 15, 16, 19, 29, 30. Available to all persons incl. foreigners: e.g. 14, 20, 21, 21A, 22, 25.",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-15",
+     "q": "Q16",
      "result": "pending"
     }
    ]

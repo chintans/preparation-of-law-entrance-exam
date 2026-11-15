@@ -1,5 +1,35 @@
 # Readiness report
 
+## Sunday refresh — 2026-11-15 (no new graded data since 12 Nov)
+
+**CLAT readiness: Not ready** (Legal and Quant: insufficient data) — indicative ≈ 79%, last CLAT-pattern surprise 62.5%. **21 days to go.**
+
+Nothing has been graded since the 12 Nov run: the 12 Nov CLAT surprise test, the 13 Nov criminal-law set and the 14 Nov reasoning set are all
+unanswered. So every figure below is unchanged from 12 Nov — and that is the problem. The two gaps that keep CLAT at "Not ready" (criminal and
+constitutional law with zero graded attempts; Quant on 5 questions) were exactly what the 12 and 13 Nov sets were built to test.
+
+| Exam | Date | Days left | Level | Change since 12 Nov |
+|---|---|---|---|---|
+| CLAT 2027 | 6 Dec 2026 | 21 | Not ready (Legal 2/5 & Quant 0/2 coverage) | none — no data |
+| AILET 2027 | 13 Dec 2026 | 28 | Strong (provisional; Reasoning coverage 4/7) | none — no data |
+| CUET PG LLB | Mar 2027 | ~107 | Not ready (Aptitude insufficient data; Reasoning Amber) | none |
+| NLSAT-LLB | 25 Apr 2027 | 161 | Not ready (Part B untested) | none — first Sunday writing task falls on 20 Dec* |
+
+*Writing runs on Sundays from 1 Dec, but 6 Dec (CLAT) and 13 Dec (AILET) are exam days with no session, so the first task lands on 20 Dec.
+
+**Weekly reading check.** No drills returned since 11 Nov (last: 115 wpm on 374 words; best 175 wpm on 10 Nov). Level stays **1 (180 wpm)**.
+Technique moves to week 3, **no regression**, from today.
+
+**This week's action list**
+1. **Send the 12 Nov surprise answers** (even late) — it is the only CLAT full-pattern data point since 26 Oct and has 3 criminal-law, 2 tort and
+   2 DI questions that would move Legal and Quant towards a verdict.
+2. **Answer on the day** — three missed sets in a row is now a bigger risk to CLAT than any single topic.
+3. **Static hooks behind CA**: today's lesson (noun sweep) — CA accuracy is Green, but it has been measured mostly on 3–4-day-old recall.
+
+---
+
+## Full report of 2026-11-12 (still current)
+
 Full report: **2026-11-12** (rewritten: AILET Reasoning now has enough data — 4/7 topics — and is Green, so AILET moves Not ready →
 Strong on the model; CUET Reasoning moves Insufficient data → Amber). Trigger: the Day-23 AILET set (directions & blood relations),
 answered 12 Nov: **10/12, net 9.50, 14 min including the read**. Figures are the last 40 graded questions per section, surprise items
