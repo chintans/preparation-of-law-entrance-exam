@@ -975,7 +975,13 @@
    ],
    "fact": "4 Feb 2026: SC (Pankaj Mithal, P. B. Varale JJ), UP Junior High School Council Instructor Welfare Assn v State of UP, 2026 INSC 117 — fixed ₹7,000 honorarium for part-time Samagra Shiksha instructors (since 2013) is begar (Art 23); ₹17,000/month from 1 Apr 2026, revision every 3 yrs, State pays and recovers Centre's share (RTE s. 7(5))",
    "sources": "SC Observer; LiveLaw Feb 2026 roundup",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-16",
+     "q": "Q11",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261107-2",
@@ -992,7 +998,13 @@
    ],
    "fact": "1 Feb 2026: Union Budget 2026-27 (FM Sitharaman) — FD 4.3% of GDP FY27; total exp ₹53.47 lakh cr; capex ₹12.2 lakh cr; debt-GDP 55.6%; no slab change; Income-tax Act 2025 in force 1 Apr 2026; devolution 41%",
    "sources": "Outlook Money; Scroll",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-16",
+     "q": "Q12",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261107-3",
@@ -1098,7 +1110,13 @@
    ],
    "fact": "11 Mar 2026: SC (J. B. Pardiwala J; K. V. Viswanathan J concurring), Harish Rana v UoI, 2026 LiveLaw (SC) 229 — first court-applied passive euthanasia; clinically administered nutrition is medical treatment, withdrawable on Primary/Secondary Medical Board opinion; 30-day wait waived; AIIMS palliative care; he died 24 Mar 2026; Art 21, Common Cause 2018 (mod. Jan 2023)",
    "sources": "LiveLaw; Onmanorama",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-16",
+     "q": "Q9",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261108-2",
@@ -2579,6 +2597,11 @@
      "date": "2026-11-15",
      "q": "Q6-8",
      "result": "pending"
+    },
+    {
+     "date": "2026-11-16",
+     "q": "Q6-8 (carried)",
+     "result": "pending"
     }
    ]
   },
@@ -2606,6 +2629,196 @@
     {
      "date": "2026-11-15",
      "q": "Q16",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261116-1",
+   "logged": "2026-11-16",
+   "kind": "brief",
+   "category": "legal/statutes",
+   "label": "DPDP consent-manager rules in force (13 Nov 2026); register with Data Protection Board",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Act: DPDP Act 2023",
+    "Act: DPDP Rules 2025",
+    "Body: Data Protection Board of India",
+    "Art 21",
+    "Case: K. S. Puttaswamy (2017)"
+   ],
+   "fact": "13 Nov 2026: Rule 4 DPDP Rules 2025 + ss. 6(9), 27(1)(d) DPDP Act 2023 in force — consent managers must register with the Data Protection Board; Indian company, net worth ≥ ₹2 crore; MeitY Secretary S. Krishnan launched portal; Rules notified 13 Nov 2025 (G.S.R. 846(E)); rights/penalty provisions from 13 May 2027",
+   "sources": "Corpseed (11 Nov 2026); Elets eGov (14 Nov 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261116-2",
+   "logged": "2026-11-16",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Handwriting expert must be examined — not a s. 293 CrPC / s. 329 BNSS report (Goverdhan, 3 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "CrPC 293",
+    "BNSS 329",
+    "IEA 45",
+    "BSA 39",
+    "Case: Goverdhan v State of Rajasthan (2026)"
+   ],
+   "fact": "3 Nov 2026: SC (Sandeep Mehta, Devendra Kumar Upadhyaya JJ), Goverdhan v State of Rajasthan, 2026 INSC 1190 — handwriting expert's report cannot prove authorship unless the expert is examined and cross-examined; not admissible under s. 293 CrPC (now s. 329 BNSS)",
+   "sources": "Verdictum weekly overview Nov 2–6, 2026 (single source)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261116-3",
+   "logged": "2026-11-16",
+   "kind": "brief",
+   "category": "polity",
+   "label": "Manipur violence inquiry commission — 7th extension to 20 May 2027 (Justice B. S. Chauhan)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Act: Commissions of Inquiry Act 1952",
+    "Person: Balbir Singh Chauhan",
+    "Person: Ajai Lamba",
+    "Body: Law Commission"
+   ],
+   "fact": "13 Nov 2026 MHA gazette: 3-member commission on May 2023 Manipur violence (set up 4 Jun 2023) gets 7th six-month extension, report by 20 May 2027; first head Ajai Lamba (ex-CJ Gauhati HC, resigned 28 Feb 2026); chaired since 1 Mar 2026 by ex-SC judge B. S. Chauhan (chaired 21st Law Commission); CoI Act 1952",
+   "sources": "Deccan Chronicle, NorthEast Now, ETV Bharat/PTI (13 Nov 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261116-4",
+   "logged": "2026-11-16",
+   "kind": "brief",
+   "category": "economy",
+   "label": "Record merchandise exports Oct 2026 $49.47 bn; goods deficit $39.88 bn",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Body: Ministry of Commerce & Industry",
+    "Person: Rajesh Agrawal"
+   ],
+   "fact": "13 Nov 2026 Commerce Ministry: Oct 2026 merchandise exports $49.47 bn (all-time monthly high, +45% vs $34.11 bn); imports $89.35 bn; merchandise deficit $39.88 bn (Sept $30.21 bn); petroleum imports $22.82 bn, gold $5.51 bn; services surplus ~$19.8 bn; overall deficit ~$20.1 bn",
+   "sources": "Newsgram (14 Nov 2026); Raisina Post (14 Nov 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261116-5",
+   "logged": "2026-11-16",
+   "kind": "brief",
+   "category": "reports & indices",
+   "label": "WHO Global TB Report 2026 — India 25% of cases, TB deaths −38% since 2015",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: WHO",
+    "Report: Global TB Report",
+    "Event: World TB Day"
+   ],
+   "fact": "12 Nov 2026: WHO Global TB Report 2026 — 10.6 mn fell ill in 2025, 1.13 mn deaths; India 25% of cases (highest burden), 23% of deaths; India TB mortality −38% since 2015 (global −35%); then Indonesia 10%, Philippines 6.8%, China 6.5%, Pakistan 6.4%; WHO HQ Geneva",
+   "sources": "Business Standard (13 Nov 2026); The South First (14 Nov 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261116-6",
+   "logged": "2026-11-16",
+   "kind": "brief",
+   "category": "days/culture",
+   "label": "Janjatiya Gaurav Diwas 15 Nov — Birsa Munda 151st birth anniversary",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Person: Birsa Munda",
+    "Event: Janjatiya Gaurav Diwas",
+    "Event: Ulgulan"
+   ],
+   "fact": "15 Nov 2026: Janjatiya Gaurav Diwas, Birsa Munda's 151st birth anniversary (b. 15 Nov 1875, Ulihatu; Ulgulan 1899–1900; d. Ranchi jail 9 Jun 1900); day declared 2021; Jharkhand formed 15 Nov 2000",
+   "sources": "Topprs (14 Nov 2026); standard reference",
+   "tests": []
+  },
+  {
+   "id": "ca-20261116-7",
+   "logged": "2026-11-16",
+   "kind": "lesson",
+   "category": "judiciary",
+   "label": "Proposal to split the SC — Constitutional Court + regional Courts of Appeal (Art 130; 229th LCI Report)",
+   "topics": [
+    "GK-CA",
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 130",
+    "Art 124",
+    "Art 145(3)",
+    "Art 141",
+    "Report: Law Commission 229th",
+    "Case: V. Vasanthakumar v H. C. Bhatia (2016)",
+    "Person: Surya Kant"
+   ],
+   "fact": "14 Nov 2026 opinion piece (The Hindu, Pradeep S. Mehta): 11-judge Constitutional Court in Delhi + 4–5 regional Courts of Appeal; 229th LCI Report (2009) — Constitution Bench at Delhi + 4 cassation benches; 2016 Vasanthakumar reference unheard; Art 130 lets SC sit elsewhere (CJI + President); strength 38; CJI Surya Kant",
+   "sources": "Careers360 CLAT daily CA (14 Nov 2026); Raman Academy (14 Nov 2026)",
+   "tests": [
+    {
+     "date": "2026-11-16",
+     "q": "Q1-5",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-ews-103",
+   "logged": "2026-11-16",
+   "kind": "static",
+   "category": "polity",
+   "label": "103rd Am. 2019 — EWS in Arts 15(6) and 16(6), up to 10%",
+   "topics": [
+    "LEG-CONST"
+   ],
+   "hooks": [
+    "Art 15",
+    "Art 16",
+    "Amendment: 103rd",
+    "Case: Janhit Abhiyan (2022)"
+   ],
+   "fact": "103rd Amendment 2019 inserted 15(6) and 16(6): EWS reservation up to 10%; upheld in Janhit Abhiyan v UoI (2022, 3:2). 15(5) = 93rd Am. 2005; 16(4A) = 77th Am. 1995",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-16",
+     "q": "Q13",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-art360",
+   "logged": "2026-11-16",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 360 — financial emergency: approval in 2 months, then until revoked",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 360",
+    "Art 352",
+    "Art 356"
+   ],
+   "fact": "Art 360(2): proclamation of Financial Emergency must be approved by both Houses within two months; once approved it continues until revoked — no periodic renewal; never proclaimed so far",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-16",
+     "q": "Q14",
      "result": "pending"
     }
    ]
