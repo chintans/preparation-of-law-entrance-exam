@@ -1,19 +1,19 @@
 {
  "summary": [
   {
-   "as_of": "2026-11-15",
-   "day": 27,
+   "as_of": "2026-11-16",
+   "day": 28,
    "streak": 0,
    "sessions_graded": 23,
    "reading_level": 1,
    "target_wpm": 180,
-   "days_clat": 21,
+   "days_clat": 20,
    "level_clat": "Not ready",
-   "days_ailet": 28,
+   "days_ailet": 27,
    "level_ailet": "Strong",
-   "days_cuet": 107,
+   "days_cuet": 106,
    "level_cuet": "Not ready",
-   "days_nlsat": 161,
+   "days_nlsat": 160,
    "level_nlsat": "Not ready",
    "clat_indicative": 0.7943
   }
@@ -401,7 +401,7 @@
    "attempts": 24,
    "correct": 18,
    "next_review": "2026-11-16",
-   "due": false
+   "due": true
   },
   {
    "topic": "GK-POL",
