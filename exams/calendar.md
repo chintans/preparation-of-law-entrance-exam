@@ -1,6 +1,6 @@
 # Exam calendar
 
-Last verified: **2026-11-15** (web search; official sites to be re-checked each Monday)
+Last verified: **2026-11-17** (web search; official sites to be re-checked each Monday)
 
 Status key: **Confirmed** = stated in official notice or consistently reported from it · **Announced** =
 exam date published, other dates pending · **Tentative** = expected from past cycles.
@@ -24,9 +24,9 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | NLSAT-LLB 2027 | Offers | end May 2027 | Reported | Careers360 |
 | LSAT India | — | Discontinued after May 2024 | Confirmed | LSAC notice (via AglaSem) |
 
-## Days to exam (as of 2026-11-15)
+## Days to exam (as of 2026-11-17)
 
-CLAT 21 · AILET 28 · CUET PG ~107 (to 2 Mar) · NLSAT 161
+CLAT 19 · AILET 26 · CUET PG ~105 (to 2 Mar) · NLSAT 159
 
 ## Change log
 
@@ -58,3 +58,4 @@ CLAT 21 · AILET 28 · CUET PG ~107 (to 2 Mar) · NLSAT 161
 - 2026-11-13 (Day 25 run) — Careers360 CLAT 2027 exam-date page (updated 9 Nov): exam Sun 6 Dec 2–4 PM offline; admit card "tentatively in the third week of November 2026" — not yet released; clatnlti guide: release expected 3rd week Nov. No AILET/CUET PG/NLSAT news. No date changes.
 - 2026-11-14 (Day 26 run) — Careers360 CLAT 2027 exam-date page (updated 9 Nov): exam Sun 6 Dec 2–4 PM offline, no pattern change; admit card "tentatively in the third week of November 2026" — not yet released. Web search for a CLAT admit-card release notice found none. No AILET/CUET PG/NLSAT news. No date changes.
 - 2026-11-15 (Day 27 run) — CLAT now within 21 days. Searched CLAT 2027 admit-card release (Careers360 application page, Toprankers, lawentrance, clatnlti, kccitm admit-card pages): none reports a release; still expected third week of November. No AILET/CUET PG/NLSAT news. No date changes.
+- 2026-11-17 (Day 29 run) — CLAT within 21 days, admit card due. Careers360 CLAT admit-card page (upd. 9 Nov: 'around 15 days before the exam', 'third week of November 2026'; exam 6 Dec 2–4 PM, entry from 1 PM) and Shiksha live page (modified 17 Nov 09:17 IST: 'will be available soon'). Admit card not released. No date changes.

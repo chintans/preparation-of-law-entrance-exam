@@ -5,12 +5,28 @@ Newest first. Format: `logged (kind) · category · fact · sources` then the te
 
 CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly Apr 2026 – Mar 2027.
 
+2026-11-17 (static) · polity · Art 18 abolishes titles except military and academic distinctions; Balaji Raghavan (1996): national awards are not titles but must not be used as prefix/suffix · Constitution of India  
+  `static-art18-titles` · LEG-CONST · hooks: Art 18, Case: Balaji Raghavan v Union of India (1996) · tested: 2026-11-17 Q13 …
+2026-11-17 (lesson) · international · 17 Nov 2026: Manila, Philippines (ASEAN Chair 2026) hosts 23rd ASEAN-India Summit and 21st EAS; 2026 = ASEAN-India Year of Maritime Cooperation; 2027 = 35 years of dialogue relations, 5 years of CSP; Look East 1991, sectoral partner 1992, Act East 2014 (Naypyidaw); EAS est. 2005, consensus, no own secretariat · PMO India (12 Nov 2026); IANS (17 Nov 2026); The Week (16 Nov 2026)  
+  `ca-20261117-7` · GK-CA · hooks: Event: ASEAN-India Summit, Event: East Asia Summit, Body: ASEAN, Policy: Act East, Treaty: AITIGA · tested: 2026-11-17 Q1-3 …
+2026-11-17 (brief) · appointment · Announced 16 Nov 2026 after ICC Board meetings in Bali: Jay Shah re-elected unopposed for a second term (first took office 1 Dec 2024); India hosts 2029 Champions Trophy, co-hosts 2031 ODI WC with Bangladesh; ICC HQ Dubai, founded 1909 · SSBCrack (16 Nov 2026; single source)  
+  `ca-20261117-6` · GK-CA · hooks: Person: Jay Shah, Body: ICC · not yet tested
+2026-11-17 (brief) · international · Mexico-led UN moratorium resolution passed 133–33–16 (as reported); India voted against, as on every such resolution since 2007; rarest-of-rare test — Bachan Singh (1980) · JKAD World (16 Nov 2026); NEXT IAS headline list (vote count single source)  
+  `ca-20261117-5` · GK-CA, LEG-NEW · hooks: Body: UNGA, Case: Bachan Singh v State of Punjab (1980), Art 72, Art 161 · not yet tested
+2026-11-17 (brief) · economy · 16 Nov 2026: WPI inflation Oct 12.29% (Sept 11.39%); fuel & power 32.84%, food index 8.58%; PLFS Oct unemployment (CWS, 15+) 4.9% (Sept 5.0%), female LFPR 35.0%; RBI targets CPI 4% ± 2 · CrackTarget (16 Nov 2026); Moneylife (Sept WPI)  
+  `ca-20261117-4` · GK-ECO · hooks: Body: Office of the Economic Adviser (DPIIT), Body: NSO, Report: PLFS, Report: WPI · not yet tested
+2026-11-17 (brief) · polity · 16 Nov 2026: SC (Joymalya Bagchi, V. Mohana JJ) upheld Maharashtra 2025 rotation rules for SC/ST-reserved ZP/PS seats — no vested right to a reserved constituency; Art 243D reservation by rotation (1/3 women); LS/Assembly seats (330/332) not rotated · Verdictum (16 Nov 2026)  
+  `ca-20261117-3` · GK-POL, LEG-NEW · hooks: Art 243D, Art 243T, Art 330, Art 332, Act: Maharashtra Zilla Parishads and Panchayat Samitis Act 1961 · not yet tested
+2026-11-17 (brief) · legal · 12 Nov 2026: NCDRC dismissed Weblink.In (ExportersIndia.com) appeals vs CCPA orders — ₹10 lakh each (₹20 lakh) for listing ammonium nitrate, PETN, picric acid without PESO licences (misleading ad/unfair trade practice); IT Act s. 79 safe harbour rejected; Dial4Trade, Just Dial also penalised · CrackTarget (16 Nov 2026; single source)  
+  `ca-20261117-2` · LEG-NEW · hooks: Body: CCPA, Body: NCDRC, Act: Consumer Protection Act 2019, CPA 2019 s 10, IT Act 79, Act: Explosives Act 1884, Body: PESO · not yet tested
+2026-11-17 (brief) · legal · 11 Nov 2026: SC (J. B. Pardiwala, Manmohan JJ) — public servant in judicial custody > 48 hours is under deemed suspension, no order needed; restored bail in PC Act s. 7 case (bribe amount alone no ground to cancel bail) · Verdictum (11 Nov 2026)  
+  `ca-20261117-1` · LEG-NEW · hooks: Rule: CCS (CCA) Rules 10(2), Act: Prevention of Corruption Act 1988, PC Act 7, Art 311, Case: Vishwajeet Singh v State of Bihar (2026) · not yet tested
 2026-11-16 (static) · polity · 103rd Amendment 2019 inserted 15(6) and 16(6): EWS reservation up to 10%; upheld in Janhit Abhiyan v UoI (2022, 3:2). 15(5) = 93rd Am. 2005; 16(4A) = 77th Am. 1995 · Constitution of India  
   `static-ews-103` · LEG-CONST · hooks: Art 15, Art 16, Amendment: 103rd, Case: Janhit Abhiyan (2022) · tested: 2026-11-16 Q13 …
 2026-11-16 (static) · polity · Art 360(2): proclamation of Financial Emergency must be approved by both Houses within two months; once approved it continues until revoked — no periodic renewal; never proclaimed so far · Constitution of India  
   `static-art360` · GK-POL · hooks: Art 360, Art 352, Art 356 · tested: 2026-11-16 Q14 …
 2026-11-16 (lesson) · judiciary · 14 Nov 2026 opinion piece (The Hindu, Pradeep S. Mehta): 11-judge Constitutional Court in Delhi + 4–5 regional Courts of Appeal; 229th LCI Report (2009) — Constitution Bench at Delhi + 4 cassation benches; 2016 Vasanthakumar reference unheard; Art 130 lets SC sit elsewhere (CJI + President); strength 38; CJI Surya Kant · Careers360 CLAT daily CA (14 Nov 2026); Raman Academy (14 Nov 2026)  
-  `ca-20261116-7` · GK-CA, GK-POL · hooks: Art 130, Art 124, Art 145(3), Art 141, Report: Law Commission 229th, Case: V. Vasanthakumar v H. C. Bhatia (2016), Person: Surya Kant · tested: 2026-11-16 Q1-5 …
+  `ca-20261116-7` · GK-CA, GK-POL · hooks: Art 130, Art 124, Art 145(3), Art 141, Report: Law Commission 229th, Case: V. Vasanthakumar v H. C. Bhatia (2016), Person: Surya Kant · tested: 2026-11-16 Q1-5 …, 2026-11-17 Q4-8 (carried) …
 2026-11-16 (brief) · days/culture · 15 Nov 2026: Janjatiya Gaurav Diwas, Birsa Munda's 151st birth anniversary (b. 15 Nov 1875, Ulihatu; Ulgulan 1899–1900; d. Ranchi jail 9 Jun 1900); day declared 2021; Jharkhand formed 15 Nov 2000 · Topprs (14 Nov 2026); standard reference  
   `ca-20261116-6` · GK-CA · hooks: Person: Birsa Munda, Event: Janjatiya Gaurav Diwas, Event: Ulgulan · not yet tested
 2026-11-16 (brief) · reports & indices · 12 Nov 2026: WHO Global TB Report 2026 — 10.6 mn fell ill in 2025, 1.13 mn deaths; India 25% of cases (highest burden), 23% of deaths; India TB mortality −38% since 2015 (global −35%); then Indonesia 10%, Philippines 6.8%, China 6.5%, Pakistan 6.4%; WHO HQ Geneva · Business Standard (13 Nov 2026); The South First (14 Nov 2026)  
@@ -158,9 +174,9 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-07 (brief) · economy · 1 Nov 2026: Oct 2026 gross GST > ₹2.31 lakh cr (+23% y-o-y); domestic ₹1.59 lakh cr (+15.8%); GST Council Art 279A · newsonair  
   `ca-20261107-5` · GK-ECO · hooks: Art 279A, Body: GST Council · not yet tested
 2026-11-07 (brief) · legal/polity · 6 Nov 2026: SC (P. K. Mishra, A. G. Masih JJ) held National Book Trust is 'State' under Art 12 (deep and pervasive control; upheld 2012 Delhi HC full bench) · Telangana Today (PTI)  
-  `ca-20261107-4` · LEG-NEW, GK-POL · hooks: Art 12 · not yet tested
+  `ca-20261107-4` · LEG-NEW, GK-POL · hooks: Art 12 · tested: 2026-11-17 Q12 …
 2026-11-07 (brief) · international · 5 Feb 2026: New START (US–Russia; signed 2010, in force 2011, extended 2021) expired; Russia suspended 2023; limits 1,550 deployed warheads, 700 deployed ICBM/SLBM/bombers, 800 launchers · Drishti IAS  
-  `ca-20261107-3` · GK-CA · hooks: Treaty: New START · not yet tested
+  `ca-20261107-3` · GK-CA · hooks: Treaty: New START · tested: 2026-11-17 Q11 …
 2026-11-07 (brief) · economy · 1 Feb 2026: Union Budget 2026-27 (FM Sitharaman) — FD 4.3% of GDP FY27; total exp ₹53.47 lakh cr; capex ₹12.2 lakh cr; debt-GDP 55.6%; no slab change; Income-tax Act 2025 in force 1 Apr 2026; devolution 41% · Outlook Money; Scroll  
   `ca-20261107-2` · GK-ECO · hooks: Art 112, Act: Income-tax Act 2025 · tested: 2026-11-16 Q12 …
 2026-11-07 (brief) · legal/judgments · 4 Feb 2026: SC (Pankaj Mithal, P. B. Varale JJ), UP Junior High School Council Instructor Welfare Assn v State of UP, 2026 INSC 117 — fixed ₹7,000 honorarium for part-time Samagra Shiksha instructors (since 2013) is begar (Art 23); ₹17,000/month from 1 Apr 2026, revision every 3 yrs, State pays and recovers Centre's share (RTE s. 7(5)) · SC Observer; LiveLaw Feb 2026 roundup  

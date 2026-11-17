@@ -1020,7 +1020,13 @@
    ],
    "fact": "5 Feb 2026: New START (US–Russia; signed 2010, in force 2011, extended 2021) expired; Russia suspended 2023; limits 1,550 deployed warheads, 700 deployed ICBM/SLBM/bombers, 800 launchers",
    "sources": "Drishti IAS",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-17",
+     "q": "Q11",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261107-4",
@@ -1037,7 +1043,13 @@
    ],
    "fact": "6 Nov 2026: SC (P. K. Mishra, A. G. Masih JJ) held National Book Trust is 'State' under Art 12 (deep and pervasive control; upheld 2012 Delhi HC full bench)",
    "sources": "Telangana Today (PTI)",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-17",
+     "q": "Q12",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261107-5",
@@ -2771,6 +2783,11 @@
      "date": "2026-11-16",
      "q": "Q1-5",
      "result": "pending"
+    },
+    {
+     "date": "2026-11-17",
+     "q": "Q4-8 (carried)",
+     "result": "pending"
     }
    ]
   },
@@ -2819,6 +2836,174 @@
     {
      "date": "2026-11-16",
      "q": "Q14",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261117-1",
+   "logged": "2026-11-17",
+   "kind": "brief",
+   "category": "legal",
+   "label": "Custody > 48 hours = deemed suspension (Vishwajeet Singh, 11 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Rule: CCS (CCA) Rules 10(2)",
+    "Act: Prevention of Corruption Act 1988",
+    "PC Act 7",
+    "Art 311",
+    "Case: Vishwajeet Singh v State of Bihar (2026)"
+   ],
+   "fact": "11 Nov 2026: SC (J. B. Pardiwala, Manmohan JJ) — public servant in judicial custody > 48 hours is under deemed suspension, no order needed; restored bail in PC Act s. 7 case (bribe amount alone no ground to cancel bail)",
+   "sources": "Verdictum (11 Nov 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261117-2",
+   "logged": "2026-11-17",
+   "kind": "brief",
+   "category": "legal",
+   "label": "NCDRC upholds CCPA ₹10 lakh × 2 penalty on ExportersIndia for explosives listings (12 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Body: CCPA",
+    "Body: NCDRC",
+    "Act: Consumer Protection Act 2019",
+    "CPA 2019 s 10",
+    "IT Act 79",
+    "Act: Explosives Act 1884",
+    "Body: PESO"
+   ],
+   "fact": "12 Nov 2026: NCDRC dismissed Weblink.In (ExportersIndia.com) appeals vs CCPA orders — ₹10 lakh each (₹20 lakh) for listing ammonium nitrate, PETN, picric acid without PESO licences (misleading ad/unfair trade practice); IT Act s. 79 safe harbour rejected; Dial4Trade, Just Dial also penalised",
+   "sources": "CrackTarget (16 Nov 2026; single source)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261117-3",
+   "logged": "2026-11-17",
+   "kind": "brief",
+   "category": "polity",
+   "label": "No vested right to a reserved panchayat seat — rotation upheld (SC, 16 Nov 2026)",
+   "topics": [
+    "GK-POL",
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 243D",
+    "Art 243T",
+    "Art 330",
+    "Art 332",
+    "Act: Maharashtra Zilla Parishads and Panchayat Samitis Act 1961"
+   ],
+   "fact": "16 Nov 2026: SC (Joymalya Bagchi, V. Mohana JJ) upheld Maharashtra 2025 rotation rules for SC/ST-reserved ZP/PS seats — no vested right to a reserved constituency; Art 243D reservation by rotation (1/3 women); LS/Assembly seats (330/332) not rotated",
+   "sources": "Verdictum (16 Nov 2026)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261117-4",
+   "logged": "2026-11-17",
+   "kind": "brief",
+   "category": "economy",
+   "label": "WPI Oct 2026 12.29% (fuel & power 32.84%); PLFS unemployment 4.9%",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Body: Office of the Economic Adviser (DPIIT)",
+    "Body: NSO",
+    "Report: PLFS",
+    "Report: WPI"
+   ],
+   "fact": "16 Nov 2026: WPI inflation Oct 12.29% (Sept 11.39%); fuel & power 32.84%, food index 8.58%; PLFS Oct unemployment (CWS, 15+) 4.9% (Sept 5.0%), female LFPR 35.0%; RBI targets CPI 4% ± 2",
+   "sources": "CrackTarget (16 Nov 2026); Moneylife (Sept WPI)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261117-5",
+   "logged": "2026-11-17",
+   "kind": "brief",
+   "category": "international",
+   "label": "India votes against UN death-penalty moratorium (reported 16 Nov 2026)",
+   "topics": [
+    "GK-CA",
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Body: UNGA",
+    "Case: Bachan Singh v State of Punjab (1980)",
+    "Art 72",
+    "Art 161"
+   ],
+   "fact": "Mexico-led UN moratorium resolution passed 133–33–16 (as reported); India voted against, as on every such resolution since 2007; rarest-of-rare test — Bachan Singh (1980)",
+   "sources": "JKAD World (16 Nov 2026); NEXT IAS headline list (vote count single source)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261117-6",
+   "logged": "2026-11-17",
+   "kind": "brief",
+   "category": "appointment",
+   "label": "Jay Shah re-elected ICC Chair, second term (Bali, 16 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Person: Jay Shah",
+    "Body: ICC"
+   ],
+   "fact": "Announced 16 Nov 2026 after ICC Board meetings in Bali: Jay Shah re-elected unopposed for a second term (first took office 1 Dec 2024); India hosts 2029 Champions Trophy, co-hosts 2031 ODI WC with Bangladesh; ICC HQ Dubai, founded 1909",
+   "sources": "SSBCrack (16 Nov 2026; single source)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261117-7",
+   "logged": "2026-11-17",
+   "kind": "lesson",
+   "category": "international",
+   "label": "23rd ASEAN-India Summit & 21st EAS, Manila (17 Nov 2026) — Year of Maritime Cooperation",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Event: ASEAN-India Summit",
+    "Event: East Asia Summit",
+    "Body: ASEAN",
+    "Policy: Act East",
+    "Treaty: AITIGA"
+   ],
+   "fact": "17 Nov 2026: Manila, Philippines (ASEAN Chair 2026) hosts 23rd ASEAN-India Summit and 21st EAS; 2026 = ASEAN-India Year of Maritime Cooperation; 2027 = 35 years of dialogue relations, 5 years of CSP; Look East 1991, sectoral partner 1992, Act East 2014 (Naypyidaw); EAS est. 2005, consensus, no own secretariat",
+   "sources": "PMO India (12 Nov 2026); IANS (17 Nov 2026); The Week (16 Nov 2026)",
+   "tests": [
+    {
+     "date": "2026-11-17",
+     "q": "Q1-3",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-art18-titles",
+   "logged": "2026-11-17",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 18 — Bharat Ratna/Padma not titles (Balaji Raghavan 1996)",
+   "topics": [
+    "LEG-CONST"
+   ],
+   "hooks": [
+    "Art 18",
+    "Case: Balaji Raghavan v Union of India (1996)"
+   ],
+   "fact": "Art 18 abolishes titles except military and academic distinctions; Balaji Raghavan (1996): national awards are not titles but must not be used as prefix/suffix",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-17",
+     "q": "Q13",
      "result": "pending"
     }
    ]
