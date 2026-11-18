@@ -5,10 +5,26 @@ Newest first. Format: `logged (kind) · category · fact · sources` then the te
 
 CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly Apr 2026 – Mar 2027.
 
+2026-11-18 (static) · polity · Art 356(5) (44th Am.): President's Rule beyond one year only if National Emergency in operation and EC certifies elections can't be held; max 3 years; each extension 6 months, simple majority · Constitution of India  
+  `static-art356-1yr` · GK-POL · hooks: Art 356 · tested: 2026-11-18 Q14 …
+2026-11-18 (static) · polity · Shreya Singhal (2015): s. 66A IT Act struck down — 'grossly offensive', 'annoyance' vague, not within 19(2) grounds; discussion/advocacy/incitement distinction · Constitution of India; Shreya Singhal (2015)  
+  `static-art19-66a` · LEG-CONST · hooks: Art 19, Case: Shreya Singhal v Union of India (2015), Act: IT Act 2000 · tested: 2026-11-18 Q13 …
+2026-11-18 (brief) · science · 18 Nov 2026: Voyager 1 ~25.9 bn km away, signals take 24 h one way; launched 5 Sep 1977; entered interstellar space 25 Aug 2012; JPL; Golden Record · INSIGHTS 17 Nov 2026  
+  `ca-20261118-6` · GK-CA · hooks: Body: NASA, Event: Voyager 1 · not yet tested
+2026-11-18 (brief) · international · Nov 2026: India re-elected to 48-member ITU Council for 2027–30 at PP-26, Doha; on Council since 1952. ITU HQ Geneva, founded 1865 Paris, 194 member States, UN specialised agency · SSBCrack 17 Nov 2026; INSIGHTS 17 Nov 2026  
+  `ca-20261118-5` · GK-CA · hooks: Body: ITU, Event: ITU Plenipotentiary Conference 2026 · not yet tested
+2026-11-18 (brief) · national · Reported 17 Nov 2026: Cabinet Secretariat consultations with homebuyers' body FPCE on RERA reforms; RERA 2016 (MoHUA): registration > 500 sq m or 8 apartments; 70% of collections in escrow; 5-year structural defect liability · INSIGHTS 17 Nov 2026; NEXT IAS headlines 17 Nov 2026  
+  `ca-20261118-4` · GK-CA · hooks: Act: Real Estate (Regulation and Development) Act 2016, Body: MoHUA · not yet tested
+2026-11-18 (brief) · polity · 16 Nov 2026: SC (Dipankar Datta, Sheel Nagu JJ) — discharge of probationer for 'unsuitability' not punitive/stigmatic; stigma only if foundation is misconduct and it carries civil consequences. Art 311(2) inquiry + reasonable opportunity; Art 310 doctrine of pleasure · LiveLaw 17 Nov 2026, 2026 LiveLaw (SC) 1158  
+  `ca-20261118-3` · GK-POL · hooks: Art 311, Art 310, Case: G. Srinivasan v Union of India (2026) · not yet tested
+2026-11-18 (brief) · legal/judgments · Reported 17 Nov 2026: SC (Sanjay Kumar, Sanjeev Sachdeva JJ) — sale under board resolution not void merely because buyer can't prove other director attended; outsider not expected to know internal proceedings; NCLT/NCLAT (s. 241) reversed. Indoor management (Turquand) vs constructive notice (MoA/AoA) · LiveLaw 17 Nov 2026, 2026 LiveLaw (SC) 1160  
+  `ca-20261118-2` · LEG-NEW · hooks: Case: Royal British Bank v Turquand (1856), Act: Companies Act 2013, Case: Elaine Info Solutions v J & A Avenues (2026) · not yet tested
+2026-11-18 (brief) · legal/judgments · Reported 17 Nov 2026: SC (K. V. Viswanathan, Alok Aradhe JJ) — City Survey Officer accused of conspiring to forge land-mutation records cannot claim prior sanction under s. 197 CrPC; forgery not in discharge of official duty; Bombay HC quashing set aside, cases restored (relied on Om Prakash Yadav 2024) · LiveLaw 17 Nov 2026, 2026 LiveLaw (SC) 1164  
+  `ca-20261118-1` · LEG-NEW · hooks: CrPC 197, BNSS 218, CrPC 156(3), BNSS 175(3), Case: Ashok v Mahesh (2026) · not yet tested
 2026-11-17 (static) · polity · Art 18 abolishes titles except military and academic distinctions; Balaji Raghavan (1996): national awards are not titles but must not be used as prefix/suffix · Constitution of India  
   `static-art18-titles` · LEG-CONST · hooks: Art 18, Case: Balaji Raghavan v Union of India (1996) · tested: 2026-11-17 Q13 …
 2026-11-17 (lesson) · international · 17 Nov 2026: Manila, Philippines (ASEAN Chair 2026) hosts 23rd ASEAN-India Summit and 21st EAS; 2026 = ASEAN-India Year of Maritime Cooperation; 2027 = 35 years of dialogue relations, 5 years of CSP; Look East 1991, sectoral partner 1992, Act East 2014 (Naypyidaw); EAS est. 2005, consensus, no own secretariat · PMO India (12 Nov 2026); IANS (17 Nov 2026); The Week (16 Nov 2026)  
-  `ca-20261117-7` · GK-CA · hooks: Event: ASEAN-India Summit, Event: East Asia Summit, Body: ASEAN, Policy: Act East, Treaty: AITIGA · tested: 2026-11-17 Q1-3 …
+  `ca-20261117-7` · GK-CA · hooks: Event: ASEAN-India Summit, Event: East Asia Summit, Body: ASEAN, Policy: Act East, Treaty: AITIGA · tested: 2026-11-17 Q1-3 …, 2026-11-18 Q6-8 …
 2026-11-17 (brief) · appointment · Announced 16 Nov 2026 after ICC Board meetings in Bali: Jay Shah re-elected unopposed for a second term (first took office 1 Dec 2024); India hosts 2029 Champions Trophy, co-hosts 2031 ODI WC with Bangladesh; ICC HQ Dubai, founded 1909 · SSBCrack (16 Nov 2026; single source)  
   `ca-20261117-6` · GK-CA · hooks: Person: Jay Shah, Body: ICC · not yet tested
 2026-11-17 (brief) · international · Mexico-led UN moratorium resolution passed 133–33–16 (as reported); India voted against, as on every such resolution since 2007; rarest-of-rare test — Bachan Singh (1980) · JKAD World (16 Nov 2026); NEXT IAS headline list (vote count single source)  
@@ -158,7 +174,7 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-08 (brief) · economy · 2 Nov 2026: HSBC India Manufacturing PMI Oct 2026 54.7 (Sept 55.1); export orders 6-month high; input-cost inflation lowest since Feb; S&P Global; >50 = expansion · DD India; UNI  
   `ca-20261108-5` · GK-ECO · hooks: Report: HSBC India Manufacturing PMI · not yet tested
 2026-11-08 (brief) · legal/judgments · 6 Nov 2026: SC (Vikram Nath, Sandeep Mehta JJ), A. John Kennedy v State of TN, 2026 INSC 1204 — commercial cultivation not a forest right (Srivilliputhur–Megamalai Tiger Reserve); FRA 2006 s. 6 process; OTFD needs 3 generations (75 yrs) residence & dependence before 13 Dec 2005; committee headed by ex-CJI B. R. Gavai; interim report 1 Feb 2027 · LawChakra; BareLaw  
-  `ca-20261108-4` · LEG-NEW · hooks: Act: Forest Rights Act 2006, Person: B. R. Gavai · not yet tested
+  `ca-20261108-4` · LEG-NEW · hooks: Act: Forest Rights Act 2006, Person: B. R. Gavai · tested: 2026-11-18 Q9 …
 2026-11-08 (brief) · reports & indices · ~20 Mar 2026: World Happiness Report 2026 ("Happiness and Social Media") — Finland 1st (9th year), India 116th (from 118th), Afghanistan last (147th); Oxford Wellbeing Research Centre, Gallup, UN SDSN; Int'l Day of Happiness 20 Mar · Telangana Today; India TV  
   `ca-20261108-3` · GK-CA · hooks: Report: World Happiness Report, Body: UN SDSN · not yet tested
 2026-11-08 (brief) · polity · 15 Mar 2026: ECI (CEC Gyanesh Kumar; ECs S. S. Sandhu, Vivek Joshi) announced Assembly polls — Assam 126, Kerala 140, Puducherry 30 (9 Apr); TN 234 (23 Apr); WB 294 in two phases (23 & 29 Apr); counting 4 May; Art 324 · The Week; Business Today (Puducherry date & phase split: The Week only)  
@@ -170,9 +186,9 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-07 (lesson) · polity · Telangana BRS defections: SC 31 Jul 2025 (Padi Kaushik Reddy) 3-month direction; contempt notice 17 Nov 2025; Speaker Gaddam Prasad Kumar dismissed all 10 petitions Dec 2025–11 Mar 2026; SC (Karol, Masih JJ) closed contempt 12 Mar 2026; challenges in Telangana HC (heard Aug 2026) · Bar & Bench; LiveLaw; The South First; Telangana Today  
   `ca-20261107-7` · GK-POL · hooks: Tenth Schedule, Case: Kihoto Hollohan (1992) · tested: 2026-11-07 Q1-Q5 ✓
 2026-11-07 (brief) · sports · 30 Oct 2026: Manisha Bhanwala won women's 59 kg gold at World Wrestling Championships, Astana (beat Abigail Nette, USA, 8-6 from 0-6) — first Indian woman wrestling world champion; 2nd Indian after Sushil Kumar 2010; silver Neelam Sirohi 50 kg, Kajal Dhochak 76 kg · newsonair  
-  `ca-20261107-6` · GK-CA · hooks: Body: United World Wrestling · not yet tested
+  `ca-20261107-6` · GK-CA · hooks: Body: United World Wrestling · tested: 2026-11-18 Q12 …
 2026-11-07 (brief) · economy · 1 Nov 2026: Oct 2026 gross GST > ₹2.31 lakh cr (+23% y-o-y); domestic ₹1.59 lakh cr (+15.8%); GST Council Art 279A · newsonair  
-  `ca-20261107-5` · GK-ECO · hooks: Art 279A, Body: GST Council · not yet tested
+  `ca-20261107-5` · GK-ECO · hooks: Art 279A, Body: GST Council · tested: 2026-11-18 Q11 …
 2026-11-07 (brief) · legal/polity · 6 Nov 2026: SC (P. K. Mishra, A. G. Masih JJ) held National Book Trust is 'State' under Art 12 (deep and pervasive control; upheld 2012 Delhi HC full bench) · Telangana Today (PTI)  
   `ca-20261107-4` · LEG-NEW, GK-POL · hooks: Art 12 · tested: 2026-11-17 Q12 …
 2026-11-07 (brief) · international · 5 Feb 2026: New START (US–Russia; signed 2010, in force 2011, extended 2021) expired; Russia suspended 2023; limits 1,550 deployed warheads, 700 deployed ICBM/SLBM/bombers, 800 launchers · Drishti IAS  

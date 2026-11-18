@@ -1066,7 +1066,13 @@
    ],
    "fact": "1 Nov 2026: Oct 2026 gross GST > ₹2.31 lakh cr (+23% y-o-y); domestic ₹1.59 lakh cr (+15.8%); GST Council Art 279A",
    "sources": "newsonair",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-18",
+     "q": "Q11",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261107-6",
@@ -1082,7 +1088,13 @@
    ],
    "fact": "30 Oct 2026: Manisha Bhanwala won women's 59 kg gold at World Wrestling Championships, Astana (beat Abigail Nette, USA, 8-6 from 0-6) — first Indian woman wrestling world champion; 2nd Indian after Sushil Kumar 2010; silver Neelam Sirohi 50 kg, Kajal Dhochak 76 kg",
    "sources": "newsonair",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-18",
+     "q": "Q12",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261107-7",
@@ -1179,7 +1191,13 @@
    ],
    "fact": "6 Nov 2026: SC (Vikram Nath, Sandeep Mehta JJ), A. John Kennedy v State of TN, 2026 INSC 1204 — commercial cultivation not a forest right (Srivilliputhur–Megamalai Tiger Reserve); FRA 2006 s. 6 process; OTFD needs 3 generations (75 yrs) residence & dependence before 13 Dec 2005; committee headed by ex-CJI B. R. Gavai; interim report 1 Feb 2027",
    "sources": "LawChakra; BareLaw",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-18",
+     "q": "Q9",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261108-5",
@@ -2982,6 +3000,11 @@
      "date": "2026-11-17",
      "q": "Q1-3",
      "result": "pending"
+    },
+    {
+     "date": "2026-11-18",
+     "q": "Q6-8",
+     "result": "pending"
     }
    ]
   },
@@ -3004,6 +3027,159 @@
     {
      "date": "2026-11-17",
      "q": "Q13",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261118-1",
+   "logged": "2026-11-18",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Forging records not official duty — no s. 197 sanction (Ashok v Mahesh)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "CrPC 197",
+    "BNSS 218",
+    "CrPC 156(3)",
+    "BNSS 175(3)",
+    "Case: Ashok v Mahesh (2026)"
+   ],
+   "fact": "Reported 17 Nov 2026: SC (K. V. Viswanathan, Alok Aradhe JJ) — City Survey Officer accused of conspiring to forge land-mutation records cannot claim prior sanction under s. 197 CrPC; forgery not in discharge of official duty; Bombay HC quashing set aside, cases restored (relied on Om Prakash Yadav 2024)",
+   "sources": "LiveLaw 17 Nov 2026, 2026 LiveLaw (SC) 1164",
+   "tests": []
+  },
+  {
+   "id": "ca-20261118-2",
+   "logged": "2026-11-18",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Doctrine of indoor management protects bona fide buyer (Elaine Info Solutions)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Case: Royal British Bank v Turquand (1856)",
+    "Act: Companies Act 2013",
+    "Case: Elaine Info Solutions v J & A Avenues (2026)"
+   ],
+   "fact": "Reported 17 Nov 2026: SC (Sanjay Kumar, Sanjeev Sachdeva JJ) — sale under board resolution not void merely because buyer can't prove other director attended; outsider not expected to know internal proceedings; NCLT/NCLAT (s. 241) reversed. Indoor management (Turquand) vs constructive notice (MoA/AoA)",
+   "sources": "LiveLaw 17 Nov 2026, 2026 LiveLaw (SC) 1160",
+   "tests": []
+  },
+  {
+   "id": "ca-20261118-3",
+   "logged": "2026-11-18",
+   "kind": "brief",
+   "category": "polity",
+   "label": "Probationer discharge for unsuitability not stigmatic (G. Srinivasan, Art 311(2))",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 311",
+    "Art 310",
+    "Case: G. Srinivasan v Union of India (2026)"
+   ],
+   "fact": "16 Nov 2026: SC (Dipankar Datta, Sheel Nagu JJ) — discharge of probationer for 'unsuitability' not punitive/stigmatic; stigma only if foundation is misconduct and it carries civil consequences. Art 311(2) inquiry + reasonable opportunity; Art 310 doctrine of pleasure",
+   "sources": "LiveLaw 17 Nov 2026, 2026 LiveLaw (SC) 1158",
+   "tests": []
+  },
+  {
+   "id": "ca-20261118-4",
+   "logged": "2026-11-18",
+   "kind": "brief",
+   "category": "national",
+   "label": "RERA at ten — Centre consults homebuyers on reforms",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Act: Real Estate (Regulation and Development) Act 2016",
+    "Body: MoHUA"
+   ],
+   "fact": "Reported 17 Nov 2026: Cabinet Secretariat consultations with homebuyers' body FPCE on RERA reforms; RERA 2016 (MoHUA): registration > 500 sq m or 8 apartments; 70% of collections in escrow; 5-year structural defect liability",
+   "sources": "INSIGHTS 17 Nov 2026; NEXT IAS headlines 17 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261118-5",
+   "logged": "2026-11-18",
+   "kind": "brief",
+   "category": "international",
+   "label": "India re-elected to ITU Council 2027–30 (PP-26, Doha)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: ITU",
+    "Event: ITU Plenipotentiary Conference 2026"
+   ],
+   "fact": "Nov 2026: India re-elected to 48-member ITU Council for 2027–30 at PP-26, Doha; on Council since 1952. ITU HQ Geneva, founded 1865 Paris, 194 member States, UN specialised agency",
+   "sources": "SSBCrack 17 Nov 2026; INSIGHTS 17 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261118-6",
+   "logged": "2026-11-18",
+   "kind": "brief",
+   "category": "science",
+   "label": "Voyager 1 one light-day from Earth (18 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: NASA",
+    "Event: Voyager 1"
+   ],
+   "fact": "18 Nov 2026: Voyager 1 ~25.9 bn km away, signals take 24 h one way; launched 5 Sep 1977; entered interstellar space 25 Aug 2012; JPL; Golden Record",
+   "sources": "INSIGHTS 17 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "static-art19-66a",
+   "logged": "2026-11-18",
+   "kind": "static",
+   "category": "polity",
+   "label": "Shreya Singhal (2015) — s. 66A IT Act struck: vague, outside Art 19(2)",
+   "topics": [
+    "LEG-CONST"
+   ],
+   "hooks": [
+    "Art 19",
+    "Case: Shreya Singhal v Union of India (2015)",
+    "Act: IT Act 2000"
+   ],
+   "fact": "Shreya Singhal (2015): s. 66A IT Act struck down — 'grossly offensive', 'annoyance' vague, not within 19(2) grounds; discussion/advocacy/incitement distinction",
+   "sources": "Constitution of India; Shreya Singhal (2015)",
+   "tests": [
+    {
+     "date": "2026-11-18",
+     "q": "Q13",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-art356-1yr",
+   "logged": "2026-11-18",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 356(5) — beyond 1 year needs National Emergency + EC certificate",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 356"
+   ],
+   "fact": "Art 356(5) (44th Am.): President's Rule beyond one year only if National Emergency in operation and EC certifies elections can't be held; max 3 years; each extension 6 months, simple majority",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-18",
+     "q": "Q14",
      "result": "pending"
     }
    ]

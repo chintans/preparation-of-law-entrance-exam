@@ -1,19 +1,19 @@
 {
  "summary": [
   {
-   "as_of": "2026-11-17",
-   "day": 29,
+   "as_of": "2026-11-18",
+   "day": 30,
    "streak": 0,
    "sessions_graded": 23,
    "reading_level": 1,
    "target_wpm": 180,
-   "days_clat": 19,
+   "days_clat": 18,
    "level_clat": "Not ready",
-   "days_ailet": 26,
+   "days_ailet": 25,
    "level_ailet": "Strong",
-   "days_cuet": 105,
+   "days_cuet": 104,
    "level_cuet": "Not ready",
-   "days_nlsat": 159,
+   "days_nlsat": 158,
    "level_nlsat": "Not ready",
    "clat_indicative": 0.7943
   }
@@ -371,7 +371,7 @@
    "attempts": 3,
    "correct": 3,
    "next_review": "2026-11-18",
-   "due": false
+   "due": true
   },
   {
    "topic": "HIN",

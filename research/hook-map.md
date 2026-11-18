@@ -1,6 +1,6 @@
 # Hook map
 
-Generated 2026-11-17 by `tools/hookmap.py` from `research/ca-items.json` — do not edit by hand.
+Generated 2026-11-18 by `tools/hookmap.py` from `research/ca-items.json` — do not edit by hand.
 Record: ✓ right · ✗ wrong · – left blank · … awaiting answers · · never tested.
 
 Use: before writing a CA or polity question, look up its hook here — test a **neighbour** of a hook he has
@@ -11,17 +11,17 @@ already got right, re-test hooks with ✗/–, and avoid items already tested tw
 Never tested first (oldest first), then items whose last attempt was wrong or blank.
 
 - `ca-20261105-6` Exports H1 FY27 ~US$480 bn — GK-ECO · ·
-- `ca-20261107-5` GST Oct 2026 ₹2.31 lakh cr — GK-ECO · ·
-- `ca-20261107-6` Manisha Bhanwala world wrestling champion — GK-CA · ·
 - `ca-20261108-2` Assembly polls 2026 schedule (5 States/UT) — GK-POL · ·
 - `ca-20261108-3` World Happiness Report 2026 — India 116 — GK-CA · ·
-- `ca-20261108-4` Commercial cultivation not a forest right (FRA) — LEG-NEW · ·
 - `ca-20261108-5` PMI Oct 2026 54.7 — GK-ECO · ·
 - `ca-20261108-6` India win 6th men's Asian Champions Trophy (hockey) — GK-CA · ·
 - `ca-20261109-1` CBI inquiry into Arunachal contracts (Art 14) — LEG-NEW · ·
 - `ca-20261109-2` RBI holds repo 5.25% (8 Apr 2026) — GK-ECO · ·
 - `ca-20261109-3` World Press Freedom Index 2026 — India 157 — GK-CA · ·
 - `ca-20261109-4` Bhakra-Beas power arrears to Himachal (SC, 6 Nov 2026) — LEG-NEW · ·
+- `ca-20261109-5` SIR: fresh window for excluded voters (ECI, 6 Nov 2026) — GK-POL · ·
+- `ca-20261109-6` Nithya Raman elected Mayor of Los Angeles — GK-CA · ·
+- `ca-20261109-7` COP31 opens in Antalya (9-20 Nov 2026) — GK-CA · ·
 
 ## Confusions he has made (the wrong option he picked)
 
@@ -59,7 +59,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 16(4) | Conversion does not carry backward-class status — TN G.O. 314 quashing upheld (Sameer Ahamed, 15 Oct 2026) `ca-20261115-2` · |
 | Art 17 | SC voids caste-coded "cleaning" bail conditions (4 May 2026) `ca-20261110-1` · |
 | Art 18 | Padma Awards 2026 (131) `ca-20261105-3` …; Art 18 — Bharat Ratna/Padma not titles (Balaji Raghavan 1996) `static-art18-titles` … |
-| Art 19 | Right to walk on footpaths is a fundamental right `ca-20261111-1` ·; Citizens-only FRs: Arts 15, 16, 19, 29, 30 `static-fr-citizens` … |
+| Art 19 | Right to walk on footpaths is a fundamental right `ca-20261111-1` ·; Citizens-only FRs: Arts 15, 16, 19, 29, 30 `static-fr-citizens` …; Shreya Singhal (2015) — s. 66A IT Act struck: vague, outside Art 19(2) `static-art19-66a` … |
 | Art 19(1)(g) | Maharashtra Poisons Rules 18A/18B (methanol) struck down — Arts 14, 19(1)(g) (Balaji Formalin, 18 Sep 2026) `ca-20261114-1` · |
 | Art 19(6) | Maharashtra Poisons Rules 18A/18B (methanol) struck down — Arts 14, 19(1)(g) (Balaji Formalin, 18 Sep 2026) `ca-20261114-1` · |
 | Art 19(1)(f) | Right to property — Art 300A (44th Am. 1978 deleted 19(1)(f), 31) `static-art300a` … |
@@ -101,16 +101,17 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 243T | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` …; No vested right to a reserved panchayat seat — rotation upheld (SC, 16 Nov 2026) `ca-20261117-3` · |
 | Art 246 | 7-judge bench closes sales-tax surcharge reference (Arjun Flour Mills, 4 Nov 2026); royalty not a tax (MADA 2024) `ca-20261114-5` · |
 | Art 246A | Record GST April 2026 ₹2.43 lakh cr `ca-20261110-2` · |
-| Art 279A | GST Oct 2026 ₹2.31 lakh cr `ca-20261107-5` ·; Record GST April 2026 ₹2.43 lakh cr `ca-20261110-2` ·; GST Sept 2026 ₹2.04 lakh cr (+14.7%) `ca-20261114-2` · |
+| Art 279A | GST Oct 2026 ₹2.31 lakh cr `ca-20261107-5` …; Record GST April 2026 ₹2.43 lakh cr `ca-20261110-2` ·; GST Sept 2026 ₹2.04 lakh cr (+14.7%) `ca-20261114-2` · |
 | Art 300A | Right to property — Art 300A (44th Am. 1978 deleted 19(1)(f), 31) `static-art300a` … |
-| Art 311 | Custody > 48 hours = deemed suspension (Vishwajeet Singh, 11 Nov 2026) `ca-20261117-1` · |
+| Art 310 | Probationer discharge for unsuitability not stigmatic (G. Srinivasan, Art 311(2)) `ca-20261118-3` · |
+| Art 311 | Custody > 48 hours = deemed suspension (Vishwajeet Singh, 11 Nov 2026) `ca-20261117-1` ·; Probationer discharge for unsuitability not stigmatic (G. Srinivasan, Art 311(2)) `ca-20261118-3` · |
 | Art 324 | CEC acting without full Commission plea `ca-20261102-4` ✓; Assembly polls 2026 schedule (5 States/UT) `ca-20261108-2` ·; SIR: fresh window for excluded voters (ECI, 6 Nov 2026) `ca-20261109-5` ·; SC notice on CEC/EC lifelong immunity (s. 16, 2023 Act) `ca-20261110-5` · |
 | Art 326 | SIR: fresh window for excluded voters (ECI, 6 Nov 2026) `ca-20261109-5` · |
 | Art 329 | Art 329(b): rejected RS nomination only by election petition `ca-20261111-2` · |
 | Art 330 | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` …; No vested right to a reserved panchayat seat — rotation upheld (SC, 16 Nov 2026) `ca-20261117-3` · |
 | Art 332 | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` …; No vested right to a reserved panchayat seat — rotation upheld (SC, 16 Nov 2026) `ca-20261117-3` · |
 | Art 352 | Art 352 one month vs Art 356 two months (approval) `static-art352-356` ✓…; Art 359 — Arts 20 and 21 cannot be suspended in emergency (44th Am.) `static-art359` …; Art 360 — financial emergency: approval in 2 months, then until revoked `static-art360` … |
-| Art 356 | Art 356 — Parliament approval within 2 months `static-art356` ✗✗……; Art 352 one month vs Art 356 two months (approval) `static-art352-356` ✓…; Art 360 — financial emergency: approval in 2 months, then until revoked `static-art360` … |
+| Art 356 | Art 356 — Parliament approval within 2 months `static-art356` ✗✗……; Art 352 one month vs Art 356 two months (approval) `static-art352-356` ✓…; Art 360 — financial emergency: approval in 2 months, then until revoked `static-art360` …; Art 356(5) — beyond 1 year needs National Emergency + EC certificate `static-art356-1yr` … |
 | Art 359 | Art 359 — Arts 20 and 21 cannot be suspended in emergency (44th Am.) `static-art359` … |
 | Art 360 | Art 352 one month vs Art 356 two months (approval) `static-art352-356` ✓…; Art 360 — financial emergency: approval in 2 months, then until revoked `static-art360` … |
 | Art 368 | Legislative Council polls; Art 169 `ca-20261105-5` ✓ |
@@ -129,14 +130,16 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | BNS 86 | s. 498-A covers live-in 'relationship in the nature of marriage' (Lokesh B. H., Aug 2026) `ca-20261113-1` · |
 | BNSS 173 | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` ✗✓✓✗✓ |
 | BNSS 175 | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` ✗✓✓✗✓ |
-| BNSS 218 | Jodhpur Discoms — s. 197 sanction test `ca-20261104-7` ✓✗; Art 12 'State' ≠ government servant `static-art12` ✗✓ |
+| BNSS 175(3) | Forging records not official duty — no s. 197 sanction (Ashok v Mahesh) `ca-20261118-1` · |
+| BNSS 218 | Jodhpur Discoms — s. 197 sanction test `ca-20261104-7` ✓✗; Art 12 'State' ≠ government servant `static-art12` ✗✓; Forging records not official duty — no s. 197 sanction (Ashok v Mahesh) `ca-20261118-1` · |
 | BNSS 329 | Handwriting expert must be examined — not a s. 293 CrPC / s. 329 BNSS report (Goverdhan, 3 Nov 2026) `ca-20261116-2` · |
 | BNSS 528 | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` … |
 | BNSS 58 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; 24-hour production clock runs from detention (SC, 5 Nov 2026) `ca-20261112-4` · |
 | BSA 39 | Handwriting expert must be examined — not a s. 293 CrPC / s. 329 BNSS report (Goverdhan, 3 Nov 2026) `ca-20261116-2` · |
 | CPC 13 | Foreign divorce no shield to bigamy `ca-20261104-4` … |
 | CrPC 154 | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` ✗✓✓✗✓ |
-| CrPC 197 | Jodhpur Discoms — s. 197 sanction test `ca-20261104-7` ✓✗; Art 12 'State' ≠ government servant `static-art12` ✗✓ |
+| CrPC 156(3) | Forging records not official duty — no s. 197 sanction (Ashok v Mahesh) `ca-20261118-1` · |
+| CrPC 197 | Jodhpur Discoms — s. 197 sanction test `ca-20261104-7` ✓✗; Art 12 'State' ≠ government servant `static-art12` ✗✓; Forging records not official duty — no s. 197 sanction (Ashok v Mahesh) `ca-20261118-1` · |
 | CrPC 293 | Handwriting expert must be examined — not a s. 293 CrPC / s. 329 BNSS report (Goverdhan, 3 Nov 2026) `ca-20261116-2` · |
 | CrPC 482 | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` … |
 | CrPC 57 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; 24-hour production clock runs from detention (SC, 5 Nov 2026) `ca-20261112-4` · |
@@ -157,6 +160,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | CEC and Other ECs Act 2023 | SC notice on CEC/EC lifelong immunity (s. 16, 2023 Act) `ca-20261110-5` · |
 | CLND Act 2010 | SHANTI Act 2025 (nuclear) `ca-20261104-1` ✓ |
 | Commissions of Inquiry Act 1952 | Manipur violence inquiry commission — 7th extension to 20 May 2027 (Justice B. S. Chauhan) `ca-20261116-3` · |
+| Companies Act 2013 | Doctrine of indoor management protects bona fide buyer (Elaine Info Solutions) `ca-20261118-2` · |
 | Constitution (SC) Order 1950 | Conversion does not carry backward-class status — TN G.O. 314 quashing upheld (Sameer Ahamed, 15 Oct 2026) `ca-20261115-2` · |
 | Consumer Protection Act 2019 | NCDRC upholds CCPA ₹10 lakh × 2 penalty on ExportersIndia for explosives listings (12 Nov 2026) `ca-20261117-2` · |
 | Contempt of Courts Act 1971 | SC contempt notice to Kerala Congress (Art 129) `ca-20261110-4` · |
@@ -165,9 +169,10 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | DSPE Act 1946 | s. 17A PC Act split verdict `ca-20261106-1` …; CBI inquiry into Arunachal contracts (Art 14) `ca-20261109-1` · |
 | Delimitation Act 2002 | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` … |
 | Explosives Act 1884 | NCDRC upholds CCPA ₹10 lakh × 2 penalty on ExportersIndia for explosives listings (12 Nov 2026) `ca-20261117-2` · |
-| Forest Rights Act 2006 | Commercial cultivation not a forest right (FRA) `ca-20261108-4` ·; Cultivation alone ≠ forest dweller under FRA (A. John Kennedy, 6 Nov 2026) `ca-20261114-4` · |
+| Forest Rights Act 2006 | Commercial cultivation not a forest right (FRA) `ca-20261108-4` …; Cultivation alone ≠ forest dweller under FRA (A. John Kennedy, 6 Nov 2026) `ca-20261114-4` · |
 | Hindu Marriage Act 1955 | Foreign divorce no shield to bigamy `ca-20261104-4` … |
 | Hindu Succession Act 1956 | No birthright in father's HSA s. 8 share (J. Rajesh, 6 Nov 2026) `ca-20261113-4` · |
+| IT Act 2000 | Shreya Singhal (2015) — s. 66A IT Act struck: vague, outside Art 19(2) `static-art19-66a` … |
 | Income-tax Act 2025 | Union Budget 2026-27 (FD 4.3%) `ca-20261107-2` … |
 | Insolvency and Bankruptcy Code 2016 | Fake AI precedents void NCLT/NCLAT orders (Pooja Ramesh Singh, Jul 2026) `ca-20261112-1` · |
 | Labour Codes | Four Labour Codes in force (29 laws) `ca-20261102-2` ✗ |
@@ -187,6 +192,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | RPA 1951 | Art 329(b): rejected RS nomination only by election petition `ca-20261111-2` · |
 | RTE Act 2009 | Honorarium ₹7,000 is begar (Art 23) `ca-20261107-1` … |
 | RTI Act 2005 | Raj Kumar Goyal CIC `ca-20261104-3` ✓ |
+| Real Estate (Regulation and Development) Act 2016 | RERA at ten — Centre consults homebuyers on reforms `ca-20261118-4` · |
 | SHANTI Act 2025 | SHANTI Act 2025 (nuclear) `ca-20261104-1` ✓ |
 | Tribunals Reforms Act 2021 | Tribunals Reforms Act 2021 struck down in part `ca-20261102-1` ✗ |
 | VB-G RAM G Act 2025 | VB-G RAM G Act replaced MGNREGA (125 days) `ca-20261103-2` ✓ |
@@ -198,6 +204,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | A. John Kennedy v State of TN (2026) | Cultivation alone ≠ forest dweller under FRA (A. John Kennedy, 6 Nov 2026) `ca-20261114-4` · |
 | Anuradha Bhasin (2020) | Internet access a fundamental right incl. children (Just Rights for Children Alliance v S. Harish, Oct 2026) `ca-20261115-1` · |
 | Arnesh Kumar v. State of Bihar | s. 498-A covers live-in 'relationship in the nature of marriage' (Lokesh B. H., Aug 2026) `ca-20261113-1` · |
+| Ashok v Mahesh (2026) | Forging records not official duty — no s. 197 sanction (Ashok v Mahesh) `ca-20261118-1` · |
 | B. P. Singhal (2010) | B. P. Singhal (2010) — Governor removal not arbitrary `static-bp-singhal` ✓ |
 | Bachan Singh v State of Punjab (1980) | India votes against UN death-penalty moratorium (reported 16 Nov 2026) `ca-20261117-5` · |
 | Balaji Formalin (2026) | Maharashtra Poisons Rules 18A/18B (methanol) struck down — Arts 14, 19(1)(g) (Balaji Formalin, 18 Sep 2026) `ca-20261114-1` · |
@@ -207,6 +214,8 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | CWT v. Chander Sen | No birthright in father's HSA s. 8 share (J. Rajesh, 6 Nov 2026) `ca-20261113-4` · |
 | Common Cause (2018) | Harish Rana passive euthanasia `ca-20261108-1` … |
 | D. K. Basu (1997) | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓ |
+| Elaine Info Solutions v J & A Avenues (2026) | Doctrine of indoor management protects bona fide buyer (Elaine Info Solutions) `ca-20261118-2` · |
+| G. Srinivasan v Union of India (2026) | Probationer discharge for unsuitability not stigmatic (G. Srinivasan, Art 311(2)) `ca-20261118-3` · |
 | Goverdhan v State of Rajasthan (2026) | Handwriting expert must be examined — not a s. 293 CrPC / s. 329 BNSS report (Goverdhan, 3 Nov 2026) `ca-20261116-2` · |
 | Imran Pratapgadhi (2025) | BNSS 173 zero FIR & preliminary enquiry `ca-20261108-7` ✗✓✓✗✓ |
 | In Re Condition Being Imposed While Granting Bail | SC voids caste-coded "cleaning" bail conditions (4 May 2026) `ca-20261110-1` · |
@@ -227,8 +236,10 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Meenakshi Natarajan v ECI (2026) | Art 329(b): rejected RS nomination only by election petition `ca-20261111-2` · |
 | Mineral Area Development Authority v SAIL (2024) | 7-judge bench closes sales-tax surcharge reference (Arjun Flour Mills, 4 Nov 2026); royalty not a tax (MADA 2024) `ca-20261114-5` · |
 | Pooja Ramesh Singh v J&K Bank (2026) | Fake AI precedents void NCLT/NCLAT orders (Pooja Ramesh Singh, Jul 2026) `ca-20261112-1` · |
+| Royal British Bank v Turquand (1856) | Doctrine of indoor management protects bona fide buyer (Elaine Info Solutions) `ca-20261118-2` · |
 | S. Kodar (1974) | 7-judge bench closes sales-tax surcharge reference (Arjun Flour Mills, 4 Nov 2026); royalty not a tax (MADA 2024) `ca-20261114-5` · |
 | Save Mon Region Federation v State of Arunachal Pradesh | CBI inquiry into Arunachal contracts (Art 14) `ca-20261109-1` · |
+| Shreya Singhal v Union of India (2015) | Shreya Singhal (2015) — s. 66A IT Act struck: vague, outside Art 19(2) `static-art19-66a` … |
 | State of Himachal Pradesh v Union of India | Bhakra-Beas power arrears to Himachal (SC, 6 Nov 2026) `ca-20261109-4` · |
 | Subramanian Swamy v Director CBI (2014) | s. 17A PC Act split verdict `ca-20261106-1` … |
 | Surendra Manjhi v UoI (2026) | Bonded labour SOP (Surendra Manjhi, 2 Nov 2026) `ca-20261111-4` · |
@@ -242,7 +253,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 |---|---|
 | AIIB | NDB Shanghai vs AIIB Beijing `static-ndb` ✓ |
 | APEC | APEC 2026 leaders meeting, Shenzhen (18–19 Nov) `ca-20261111-6` · |
-| ASEAN | 23rd ASEAN-India Summit & 21st EAS, Manila (17 Nov 2026) — Year of Maritime Cooperation `ca-20261117-7` … |
+| ASEAN | 23rd ASEAN-India Summit & 21st EAS, Manila (17 Nov 2026) — Year of Maritime Cooperation `ca-20261117-7` …… |
 | African Union | G20 Miami summit 14–15 Dec 2026; South Africa not invited `ca-20261113-6` · |
 | Asian Hockey Federation | India win 6th men's Asian Champions Trophy (hockey) `ca-20261108-6` · |
 | BBMB | Bhakra-Beas power arrears to Himachal (SC, 6 Nov 2026) `ca-20261109-4` · |
@@ -257,13 +268,14 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Election Commission of India | CEC acting without full Commission plea `ca-20261102-4` ✓; Assembly polls 2026 schedule (5 States/UT) `ca-20261108-2` ·; SIR: fresh window for excluded voters (ECI, 6 Nov 2026) `ca-20261109-5` · |
 | FIDE | Anuj Shrivatri India's 100th chess GM (8 Nov 2026) `ca-20261115-7` … |
 | G20 | G20 Miami summit 14–15 Dec 2026; South Africa not invited `ca-20261113-6` · |
-| GST Council | GST Oct 2026 ₹2.31 lakh cr `ca-20261107-5` ·; Record GST April 2026 ₹2.43 lakh cr `ca-20261110-2` ·; GST Sept 2026 ₹2.04 lakh cr (+14.7%) `ca-20261114-2` · |
+| GST Council | GST Oct 2026 ₹2.31 lakh cr `ca-20261107-5` …; Record GST April 2026 ₹2.43 lakh cr `ca-20261110-2` ·; GST Sept 2026 ₹2.04 lakh cr (+14.7%) `ca-20261114-2` · |
 | Geological Survey of India | Dinesh Ganvir 55th DG, GSI `ca-20261106-6` … |
 | IAEA | IEA Paris vs IAEA Vienna `static-iea-iaea` ✗ |
 | ICC | India win Women's ODI World Cup 2025 `ca-20261102-3` ✓; International Criminal Court sits at The Hague `static-icc-hague` ✓; Jay Shah re-elected ICC Chair, second term (Bali, 16 Nov 2026) `ca-20261117-6` · |
 | IEA | IEA Paris vs IAEA Vienna `static-iea-iaea` ✗ |
 | IRENA | International Solar Alliance HQ Gurugram `static-isa` ✗✓ |
 | ISRO | NVS-03 / NavIC `ca-20261104-6` ✓ |
+| ITU | India re-elected to ITU Council 2027–30 (PP-26, Doha) `ca-20261118-5` · |
 | International Big Cat Alliance | 23rd India–Russia summit `ca-20261103-3` …… |
 | International Seabed Authority | MATSYA-6000 completes unmanned trials (early Nov 2026) `ca-20261115-8` …… |
 | International Solar Alliance | International Solar Alliance HQ Gurugram `static-isa` ✗✓ |
@@ -273,7 +285,9 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | MeitY | DPDP Rules 2025 (MeitY) `ca-20261027-1` ✓; India AI Impact Summit 2026 `ca-20261101-1` ✗✓–✓; IndiaAI Mission outlay ₹10,372 cr `ca-20261101-2` ✗ |
 | Ministry of Commerce & Industry | Record merchandise exports Oct 2026 $49.47 bn; goods deficit $39.88 bn `ca-20261116-4` · |
 | MoEFCC | Aravalli definition kept in abeyance `ca-20261103-1` ✓ |
+| MoHUA | RERA at ten — Centre consults homebuyers on reforms `ca-20261118-4` · |
 | Monetary Policy Committee | RBI holds repo 5.25%, FY27 GDP 6.7% (MPC, 5 Aug 2026) `ca-20261113-2` · |
+| NASA | Voyager 1 one light-day from Earth (18 Nov 2026) `ca-20261118-6` · |
 | NCDRC | NCDRC upholds CCPA ₹10 lakh × 2 penalty on ExportersIndia for explosives listings (12 Nov 2026) `ca-20261117-2` · |
 | NCLAT | Fake AI precedents void NCLT/NCLAT orders (Pooja Ramesh Singh, Jul 2026) `ca-20261112-1` · |
 | NCLT | Fake AI precedents void NCLT/NCLAT orders (Pooja Ramesh Singh, Jul 2026) `ca-20261112-1` · |
@@ -293,7 +307,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | UNESCO | Mahabharata, Arthashastra, Rajatarangini on UNESCO MOWCAP register `ca-20261110-6` · |
 | UNFCCC | COP31 opens in Antalya (9-20 Nov 2026) `ca-20261109-7` ·; COP31 opens in Antalya, Türkiye (9 Nov 2026) `ca-20261112-5` · |
 | UNGA | India votes against UN death-penalty moratorium (reported 16 Nov 2026) `ca-20261117-5` · |
-| United World Wrestling | Manisha Bhanwala world wrestling champion `ca-20261107-6` · |
+| United World Wrestling | Manisha Bhanwala world wrestling champion `ca-20261107-6` … |
 | WHO | WHO Global TB Report 2026 — India 25% of cases, TB deaths −38% since 2015 `ca-20261116-5` · |
 | WMO | WMO GHG Bulletin No. 22 — CO2 426.8 ppm `ca-20261106-5` … |
 | World Bank | World Bank: extreme poverty 2.6% `ca-20261104-5` ✓ |
@@ -304,7 +318,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 |---|---|
 | Ajai Lamba | Manipur violence inquiry commission — 7th extension to 20 May 2027 (Justice B. S. Chauhan) `ca-20261116-3` · |
 | Anuj Shrivatri | Anuj Shrivatri India's 100th chess GM (8 Nov 2026) `ca-20261115-7` … |
-| B. R. Gavai | Commercial cultivation not a forest right (FRA) `ca-20261108-4` ·; Cultivation alone ≠ forest dweller under FRA (A. John Kennedy, 6 Nov 2026) `ca-20261114-4` · |
+| B. R. Gavai | Commercial cultivation not a forest right (FRA) `ca-20261108-4` …; Cultivation alone ≠ forest dweller under FRA (A. John Kennedy, 6 Nov 2026) `ca-20261114-4` · |
 | Balbir Singh Chauhan | Manipur violence inquiry commission — 7th extension to 20 May 2027 (Justice B. S. Chauhan) `ca-20261116-3` · |
 | Birsa Munda | Janjatiya Gaurav Diwas 15 Nov — Birsa Munda 151st birth anniversary `ca-20261116-6` · |
 | Chris Bowen | COP31 opens in Antalya (9-20 Nov 2026) `ca-20261109-7` ·; COP31 opens in Antalya, Türkiye (9 Nov 2026) `ca-20261112-5` · |
@@ -345,7 +359,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 
 | Hook | Items (record) |
 |---|---|
-| AITIGA | 23rd ASEAN-India Summit & 21st EAS, Manila (17 Nov 2026) — Year of Maritime Cooperation `ca-20261117-7` … |
+| AITIGA | 23rd ASEAN-India Summit & 21st EAS, Manila (17 Nov 2026) — Year of Maritime Cooperation `ca-20261117-7` …… |
 | India–Canada CEPA | PM Modi to visit Canada 11–12 Dec 2026; CEPA talks with Mark Carney `ca-20261114-6` · |
 | India–EU FTA | India–EU FTA concluded `ca-20261105-2` ✓ |
 | New START | New START expired 5 Feb 2026 `ca-20261107-3` … |
@@ -357,16 +371,17 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 |---|---|
 | AI Impact Summit | India AI Impact Summit 2026 `ca-20261101-1` ✗✓–✓ |
 | APEC 2026 | APEC 2026 leaders meeting, Shenzhen (18–19 Nov) `ca-20261111-6` · |
-| ASEAN-India Summit | 23rd ASEAN-India Summit & 21st EAS, Manila (17 Nov 2026) — Year of Maritime Cooperation `ca-20261117-7` … |
+| ASEAN-India Summit | 23rd ASEAN-India Summit & 21st EAS, Manila (17 Nov 2026) — Year of Maritime Cooperation `ca-20261117-7` …… |
 | Asian Games 2026 | India 4th at Aichi-Nagoya Asian Games 2026 — 85 medals (21 gold) `ca-20261114-3` · |
 | Booker Prize 2026 | Booker Prize 2026 — M. John Harrison, The End of Everything (9 Nov 2026) `ca-20261115-6` · |
 | CHOGM 2026 | 28th CHOGM, St John's, Antigua and Barbuda (1-4 Nov 2026) `ca-20261115-5` · |
 | COP31 | WMO GHG Bulletin No. 22 — CO2 426.8 ppm `ca-20261106-5` …; COP31 opens in Antalya (9-20 Nov 2026) `ca-20261109-7` ·; COP31 opens in Antalya, Türkiye (9 Nov 2026) `ca-20261112-5` · |
 | Commonwealth Games 2026 | India 4th at Glasgow CWG 2026 — 39 medals (13 gold) `ca-20261113-3` · |
 | Deep Ocean Mission | MATSYA-6000 completes unmanned trials (early Nov 2026) `ca-20261115-8` …… |
-| East Asia Summit | 23rd ASEAN-India Summit & 21st EAS, Manila (17 Nov 2026) — Year of Maritime Cooperation `ca-20261117-7` … |
+| East Asia Summit | 23rd ASEAN-India Summit & 21st EAS, Manila (17 Nov 2026) — Year of Maritime Cooperation `ca-20261117-7` …… |
 | G20 Miami 2026 | PM Modi to visit Canada 11–12 Dec 2026; CEPA talks with Mark Carney `ca-20261114-6` · |
 | G20 Summit 2026 | G20 Miami summit 14–15 Dec 2026; South Africa not invited `ca-20261113-6` · |
+| ITU Plenipotentiary Conference 2026 | India re-elected to ITU Council 2027–30 (PP-26, Doha) `ca-20261118-5` · |
 | India-Nordic Summit | 3rd India–Nordic Summit, Oslo (19 May 2026) `ca-20261110-3` · |
 | Janjatiya Gaurav Diwas | Janjatiya Gaurav Diwas 15 Nov — Birsa Munda 151st birth anniversary `ca-20261116-6` · |
 | Memory of the World | Mahabharata, Arthashastra, Rajatarangini on UNESCO MOWCAP register `ca-20261110-6` · |
@@ -375,6 +390,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Startup India (2016) | Startup India: ~2.62 lakh DPIIT-recognised startups (Nov 2026) `ca-20261112-6` · |
 | US mid-term elections 2026 | Nithya Raman elected Mayor of Los Angeles `ca-20261109-6` · |
 | Ulgulan | Janjatiya Gaurav Diwas 15 Nov — Birsa Munda 151st birth anniversary `ca-20261116-6` · |
+| Voyager 1 | Voyager 1 one light-day from Earth (18 Nov 2026) `ca-20261118-6` · |
 | Wimbledon 2026 | Sinner retains Wimbledon (12 Jul 2026) `ca-20261112-3` · |
 | World TB Day | WHO Global TB Report 2026 — India 25% of cases, TB deaths −38% since 2015 `ca-20261116-5` · |
 
@@ -424,7 +440,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 
 | Hook | Items (record) |
 |---|---|
-| Act East | 23rd ASEAN-India Summit & 21st EAS, Manila (17 Nov 2026) — Year of Maritime Cooperation `ca-20261117-7` … |
+| Act East | 23rd ASEAN-India Summit & 21st EAS, Manila (17 Nov 2026) — Year of Maritime Cooperation `ca-20261117-7` …… |
 
 ## Item-level record by topic (first topic only; blank counts as a miss)
 
