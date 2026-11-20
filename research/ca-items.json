@@ -1225,7 +1225,13 @@
    ],
    "fact": "2 Nov 2026: HSBC India Manufacturing PMI Oct 2026 54.7 (Sept 55.1); export orders 6-month high; input-cost inflation lowest since Feb; S&P Global; >50 = expansion",
    "sources": "DD India; UNI",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-20",
+     "q": "Q11",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261108-6",
@@ -1241,7 +1247,13 @@
    ],
    "fact": "5 Nov 2026: India beat Japan 4-1 at Mohali (Olympian Balbir Singh Sr. stadium) to win record 6th men's Asian Champions Trophy (hockey); capt. Harmanpreet Singh; earlier 2011, 2016, 2018 (shared), 2023, 2024; Asian Hockey Federation",
    "sources": "Tribune; The Bridge",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-20",
+     "q": "Q12",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261108-7",
@@ -2473,6 +2485,11 @@
      "date": "2026-11-14",
      "q": "Q12",
      "result": "pending"
+    },
+    {
+     "date": "2026-11-20",
+     "q": "Q14",
+     "result": "pending"
     }
    ]
   },
@@ -3377,6 +3394,140 @@
     {
      "date": "2026-11-19",
      "q": "Q14",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261120-1",
+   "logged": "2026-11-20",
+   "kind": "brief",
+   "category": "legal",
+   "label": "Gram Sabha consent mandatory in Scheduled Areas — s. 41(3) RFCTLARR (Bibol Toppo, 19 Nov 2026)",
+   "topics": [
+    "LEG-NEW",
+    "GK-POL"
+   ],
+   "hooks": [
+    "Case: Bibol Toppo v State of Odisha",
+    "Act: RFCTLARR Act 2013",
+    "Fifth Schedule",
+    "Person: Dipankar Datta"
+   ],
+   "fact": "SC (Dipankar Datta, Satish Chandra Sharma JJ; 2026 INSC 1244, reported 19 Nov 2026) quashed acquisition in 3 villages of Sundergarh, Odisha for Dalmia Cement mining: prior Gram Sabha consent under s. 41(3) RFCTLARR Act 2013 mandatory in Scheduled Areas; s. 2(2)(b) private-company acquisition needs 80% affected families' consent (PPP 70%); Orissa HC 6 Sep 2024 set aside; fresh acquisition allowed",
+   "sources": "Verdictum; LiveLaw; Millennium Post",
+   "tests": []
+  },
+  {
+   "id": "ca-20261120-2",
+   "logged": "2026-11-20",
+   "kind": "brief",
+   "category": "legal",
+   "label": "Deemed one-year practice benefit not extended to 2026 law graduates (SC, 19 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 234",
+    "Art 233",
+    "Person: Surya Kant",
+    "Case: Bhumika Trust"
+   ],
+   "fact": "19 Nov 2026: CJI Surya Kant, Joymalya Bagchi, V. Mohana JJ refused to extend to 2026 graduates the one-time deemed one-year practice concession (Bhumika Trust) given to 2025 graduates for Civil Judge (Jr Div); appeal from AP HC; Art 234 recruitment of judicial officers other than district judges, Art 233 district judges",
+   "sources": "ThePrint/PTI; LiveLaw",
+   "tests": []
+  },
+  {
+   "id": "ca-20261120-3",
+   "logged": "2026-11-20",
+   "kind": "brief",
+   "category": "polity",
+   "label": "Delhi SIR — SC asks EC to verify false Form 7 deletion complaint (Mustafabad, 19 Nov 2026)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 324",
+    "Art 326",
+    "Act: Representation of the People Act 1950",
+    "Body: Election Commission of India"
+   ],
+   "fact": "19 Nov 2026: SC asked ECI to verify complaint that false Form 7 (objection/deletion) applications were filed to delete Mustafabad voters in Delhi SIR; Art 324 superintendence of rolls; electoral rolls under RPA 1950, conduct of elections RPA 1951",
+   "sources": "LiveLaw SC round-up 19 Nov 2026 (headline only)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261120-4",
+   "logged": "2026-11-20",
+   "kind": "brief",
+   "category": "science",
+   "label": "First indigenous H5N1 poultry vaccine — ICAR-NIHSAD Bhopal (20 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: ICAR",
+    "Body: ICAR-NIHSAD",
+    "Person: Shivraj Singh Chouhan"
+   ],
+   "fact": "20 Nov 2026: Agriculture Minister Shivraj Singh Chouhan dedicates India's first indigenous inactivated H5N1 (clade 2.3.2.1a) chicken vaccine, developed by ICAR-NIHSAD, Bhopal",
+   "sources": "DD News; Tribune; Dainik Jagran English",
+   "tests": []
+  },
+  {
+   "id": "ca-20261120-5",
+   "logged": "2026-11-20",
+   "kind": "brief",
+   "category": "report",
+   "label": "CCPI 2027 — India 28th (60.85), down from 23rd; top 3 vacant; Denmark 4th",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Report: Climate Change Performance Index",
+    "Body: Germanwatch",
+    "Event: COP31"
+   ],
+   "fact": "CCPI 2027 released at COP31 Antalya (~11 Nov 2026) by Germanwatch and NewClimate Institute: India 28th, score 60.85 (23rd previous edition; 10th in CCPI 2025), rating medium; top three places vacant; Denmark highest-ranked (4th); 64 countries + EU",
+   "sources": "Down To Earth; ThePrint",
+   "tests": []
+  },
+  {
+   "id": "ca-20261120-6",
+   "logged": "2026-11-20",
+   "kind": "brief",
+   "category": "culture",
+   "label": "57th IFFI Goa 20–28 Nov 2026 — opening film Fatherland",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Event: IFFI",
+    "Body: NFDC"
+   ],
+   "fact": "57th IFFI, Goa, 20–28 Nov 2026; theme \"Stories Without Borders\"; opening film Fatherland (Pawel Pawlikowski); ~159 international films from 86 countries; MoI&B/NFDC; Goa permanent venue since 2004; Golden Peacock top award",
+   "sources": "Sentinel Assam; DD India; Dainik Jagran English",
+   "tests": []
+  },
+  {
+   "id": "static-art20-2",
+   "logged": "2026-11-20",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 20(2) double jeopardy — departmental action is not prosecution",
+   "topics": [
+    "LEG-CONST"
+   ],
+   "hooks": [
+    "Art 20",
+    "Case: Maqbool Hussain"
+   ],
+   "fact": "Art 20(2): no person prosecuted and punished for same offence more than once; needs prior prosecution + punishment before court/judicial tribunal; departmental/customs proceedings not prosecution (Maqbool Hussain v State of Bombay 1953)",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-20",
+     "q": "Q13",
      "result": "pending"
     }
    ]
