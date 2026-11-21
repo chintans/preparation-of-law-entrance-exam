@@ -1609,7 +1609,13 @@
    ],
    "fact": "RSF index (reported 30 Apr 2026): India 157/180 (151 in 2025); Norway 1st for 10th year; World Press Freedom Day 3 May; RSF HQ Paris.",
    "sources": "The News Minute (30 Apr 2026)",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-21",
+     "q": "Q8",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261109-4",
@@ -1684,7 +1690,13 @@
    ],
    "fact": "COP31, Antalya, Turkiye, 9-20 Nov 2026; COP President Murat Kurum (Turkiye environment minister); Australia's Chris Bowen \"President for Negotiations\" under COP30 Belem deal; UNFCCC HQ Bonn.",
    "sources": "UNRIC; Hurriyet Daily News",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-21",
+     "q": "Q9",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "static-art226-wider",
@@ -1835,7 +1847,13 @@
    ],
    "fact": "19 May 2026, Oslo: host PM Jonas Gahr Støre; India + Denmark, Finland, Iceland, Norway, Sweden; ties raised to 'Green Technology and Innovation Strategic Partnership'; ISRO–Norwegian Space Agency framework; UNSC support. 1st Stockholm 2018, 2nd Copenhagen 2022; Finland hosts 4th.",
    "sources": "Tribune India; VisionIAS 20 May 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-21",
+     "q": "Q11",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261110-4",
@@ -1853,7 +1871,13 @@
    ],
    "fact": "6 Nov 2026: bench headed by Justice Aravind Kumar issued notice to KPCC office-bearers over 12 Oct @inckerala post 'Dear Surya Kant, if law and order is not your domain, resign now' (deleted; apology); amicus to be appointed, AG's assistance sought; Art 129 court of record.",
    "sources": "Bar and Bench 6 Nov 2026; The News Minute 7 Nov 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-21",
+     "q": "Q10",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261110-5",
@@ -3528,6 +3552,164 @@
     {
      "date": "2026-11-20",
      "q": "Q13",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261121-1",
+   "logged": "2026-11-21",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "SC upholds end of Karnataka bike-taxi ban — \"better to regulate than ban\" (20 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 19",
+    "Art 19(1)(g)",
+    "Act: Motor Vehicles Act 1988",
+    "Body: Supreme Court of India"
+   ],
+   "fact": "Reported 20 Nov 2026: SC (Satish Chandra Sharma & N. Kotiswar Singh JJ) dismissed Karnataka SLP against HC division bench (Ola/Uber/Rapido) setting aside bike-taxi ban; State to consider registering motorcycles as transport vehicles and contract-carriage permits with conditions under s. 74(2) MV Act; bike taxis in 25 States; aggregators relied on Art 19(1)(g).",
+   "sources": "LiveLaw 20 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261121-2",
+   "logged": "2026-11-21",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "UP pension validation Acts 2021 & 2025 struck down (Prem Singh defect not cured)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Case: Prem Singh v State of UP",
+    "Act: UP Entitlement to Pension and Validation Act 2025",
+    "Person: Dipankar Datta"
+   ],
+   "fact": "Reported 20 Nov 2026: SC (Dipankar Datta, Satish Chandra Sharma JJ) declared UP Qualifying Service for Pension and Validation Act 2021 and UP Entitlement to Pension and Validation Act 2025 ultra vires — they excluded work-charged pre-regularisation service from pension without curing the defect in Prem Singh (2019); claims in 6 months, 9% interest. Validation law must remove the basis of the judgment, cannot simply overrule it.",
+   "sources": "LiveLaw 20 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261121-3",
+   "logged": "2026-11-21",
+   "kind": "brief",
+   "category": "polity",
+   "label": "CEC Act 2023 — Constitution Bench reference (23 Sep 2026, 1:1 split); recall plea not listed (20 Nov)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 324",
+    "Art 145(3)",
+    "Act: CEC and Other ECs Act 2023",
+    "Case: Anoop Baranwal v Union of India",
+    "Person: Surya Kant",
+    "Person: Dipankar Datta"
+   ],
+   "fact": "23 Sep 2026: Datta & S. C. Sharma JJ split 1:1 on larger-bench need for challenge to CEC Act 2023 (ss. 6-8); sent to CJI → Constitution Bench. Datta: LoP role may be ornamental; Sharma: Art 145(3) question. 20 Nov 2026: CJI Surya Kant bench declined urgent listing of Prashant Bhushan recall plea; raise before Constitution Bench. Anoop Baranwal (2023, 5 judges): PM+LoP+CJI interim; 2023 Act s. 7: PM + LoP + Cabinet Minister nominated by PM.",
+   "sources": "LiveLaw 20 Nov 2026; The Week 23 Sep 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261121-4",
+   "logged": "2026-11-21",
+   "kind": "brief",
+   "category": "economy/schemes",
+   "label": "CGFMU (Mudra) & Stand-Up India extended to 2030-31 (Cabinet, 11 Nov 2026)",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Body: NCGTC",
+    "Event: PM Mudra Yojana",
+    "Event: Stand-Up India"
+   ],
+   "fact": "Cabinet 11 Nov 2026: CGFMU (corpus Rs 5,000 cr) continued FY27-FY31, guarantee fee cut 1% to 0.75%; Stand-Up India (Rs 10 lakh-1 crore loans to SC/ST/women for greenfield enterprises; launched 2016) to 2031, 85% guarantee. Mudra (2015) Shishu/Kishore/Tarun/Tarun Plus; NCGTC under DFS.",
+   "sources": "Legacy IAS PIB summary 12 Nov 2026 (Cabinet decision 11 Nov)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261121-5",
+   "logged": "2026-11-21",
+   "kind": "brief",
+   "category": "international",
+   "label": "LeadIT 3.0 launched by India & Sweden at COP31 (17 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: LeadIT",
+    "Event: COP31",
+    "Person: Bhupender Yadav"
+   ],
+   "fact": "17 Nov 2026, COP31 Antalya: Bhupender Yadav launched LeadIT phase 3 (2027-2030) with Sweden (State Secretary Helena Dyrssen); 20 countries, 33 companies; Brazil newest member; steel, cement, transport. LeadIT launched 2019 by India and Sweden at UN Climate Action Summit, New York.",
+   "sources": "DD India/PIB 17 Nov 2026; Strive Edge PIB snippets 18 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261121-6",
+   "logged": "2026-11-21",
+   "kind": "brief",
+   "category": "sports",
+   "label": "India win record 10th SAFF Championship — 2-1 v Pakistan, Dhaka (17 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Event: SAFF Championship",
+    "Body: SAFF",
+    "Person: Naushad Moosa"
+   ],
+   "fact": "17 Nov 2026, Dhaka: India 2-1 Pakistan (Suhail Ahmad Bhat 60, Sandip Mandi 88; Alamgir Ghazi 45+1); record 10th title, third in a row; Pakistan first final; coach Naushad Moosa. SAFF HQ Dhaka.",
+   "sources": "Onmanorama 17 Nov 2026; Al Jazeera live 17 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "static-art352-approval",
+   "logged": "2026-11-21",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 352 — approval by each House within 1 month, special majority",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 352"
+   ],
+   "fact": "Art 352(4),(6) (44th Am. 1978): Proclamation approved by each House within one month by special majority (majority of total membership + 2/3 present & voting); continues 6 months per approval; LS can disapprove by simple majority; 1/10 LS members can requisition special sitting (352(8)).",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-21",
+     "q": "Q21",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-art19-press",
+   "logged": "2026-11-21",
+   "kind": "static",
+   "category": "polity",
+   "label": "Romesh Thappar (1950) — press freedom within Art 19(1)(a)",
+   "topics": [
+    "LEG-CONST"
+   ],
+   "hooks": [
+    "Art 19",
+    "Art 19(1)(a)",
+    "Case: Romesh Thappar v State of Madras"
+   ],
+   "fact": "Romesh Thappar v State of Madras (1950): freedom of speech and expression in Art 19(1)(a) includes freedom of the press (circulation); no separate press Article.",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-21",
+     "q": "Q22",
      "result": "pending"
     }
    ]
