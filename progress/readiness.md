@@ -1,5 +1,34 @@
 # Readiness report
 
+## Sunday refresh — 2026-11-22 (no new graded data since 12 Nov)
+
+**CLAT readiness: Not ready** (Legal and Quant: insufficient data). The indicative figure is ≈ 79%; the last CLAT-pattern surprise scored 62.5%. **14 days to go.**
+
+Ten sets in a row (12–21 Nov) are unanswered, so every figure is the same as on 12 Nov. The model can't say more until he sends answers.
+The gaps that keep CLAT at "Not ready" are unchanged:
+- LEG-CRIM and LEG-CONST have 0 graded attempts.
+- LEG-TORT has only 3.
+- Quant has coverage 0/2.
+
+AILET "Strong" is still provisional: its first AILET-pattern surprise test (21 Nov) was never answered.
+
+| Exam | Date | Days left | Level | Change since 15 Nov |
+|---|---|---|---|---|
+| CLAT 2027 | 6 Dec 2026 | 14 | Not ready (Legal 2/5 & Quant 0/2 coverage) | none — no data; admit card out 21 Nov |
+| AILET 2027 | 13 Dec 2026 | 21 | Strong (provisional; Reasoning coverage 4/7) | none — no data |
+| CUET PG LLB | Mar 2027 | ~100 | Not ready (Aptitude insufficient data; Reasoning Amber) | none |
+| NLSAT-LLB | 25 Apr 2027 | 154 | Not ready (Part B untested) | none |
+
+**Weekly reading check.** No drills have come back since 11 Nov. The last was 115 wpm on 374 words; the best was 175 wpm on 10 Nov. Level stays **1 (180 wpm)**.
+Technique moves to week 4, **chunking**, from today.
+
+**This week's action list**
+1. **Download and print the CLAT admit card** (consortiumofnlus.ac.in), then check the centre and route.
+2. **Send any one of the pending sets**, even late. The 21 Nov AILET surprise or today's set would give Legal and Quant their first real verdict.
+3. **Sit the second official CLAT mock** (live since 20 Nov) in one 120-minute sitting and send the five section scores. With 14 days left, it is the best single measure available.
+
+---
+
 ## Sunday refresh — 2026-11-15 (no new graded data since 12 Nov)
 
 **CLAT readiness: Not ready** (Legal and Quant: insufficient data) — indicative ≈ 79%, last CLAT-pattern surprise 62.5%. **21 days to go.**

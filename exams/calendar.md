@@ -1,6 +1,6 @@
 # Exam calendar
 
-Last verified: **2026-11-21** (web search; official sites to be re-checked each Monday)
+Last verified: **2026-11-22** (web search; official sites to be re-checked each Monday)
 
 Status key: **Confirmed** = stated in official notice or consistently reported from it · **Announced** =
 exam date published, other dates pending · **Tentative** = expected from past cycles.
@@ -10,7 +10,7 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | CLAT 2027 | Registration opened | 2026-08-03 | Confirmed | consortiumofnlus.ac.in (via Careers360, Free Press Journal) |
 | CLAT 2027 | Registration closes | ~~2026-10-31~~ **2026-11-07, 11:59 PM (extended) — now closed; no further extension found 8 Nov** | Reported | findmycollege & ummid.com (1 Nov 2026), Toprankers; Shiksha (1 Nov) — confirm on consortiumofnlus.ac.in |
 | CLAT 2027 | Application correction window | **Closed 2026-11-10** (no extension reported) | Reported | Careers360 (4 Nov notice; consortium site not fetched) |
-| CLAT 2027 | Admit card | not out 21 Nov 09:21 IST; trackers expect 21 Nov / this weekend (no official date); download only, no physical copy | Tentative | Shiksha live (21 Nov); Careers360 live (20 Nov) |
+| CLAT 2027 | Admit card | **Released Sat 2026-11-21 (~10 AM IST)** — download at consortiumofnlus.ac.in (registered mobile + password), till exam day; no physical copy. Entry from 1 PM, gate closes 2:15 PM; carry original photo ID | Reported | CareerIndia (21 Nov 2:04 PM), Careers360 (upd. 21 Nov 11:07 AM), Toprankers live (21 Nov) |
 | CLAT 2027 | **Exam** | **2026-12-06 (Sun), 2–4 PM, offline** | Confirmed | Careers360, FPJ (one Careers360 headline says 7 Dec; body and FPJ say 6 Dec — re-check on official site) |
 | AILET 2027 | Registration opened | 2026-08-07 | Confirmed | nationallawuniversitydelhi.in (via PW, Careers360) |
 | AILET 2027 | Registration closes | **2026-11-10 — now closed; no extension reported (11 Nov)** | Confirmed | Careers360 |
@@ -24,9 +24,9 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | NLSAT-LLB 2027 | Offers | end May 2027 | Reported | Careers360 |
 | LSAT India | — | Discontinued after May 2024 | Confirmed | LSAC notice (via AglaSem) |
 
-## Days to exam (as of 2026-11-21)
+## Days to exam (as of 2026-11-22)
 
-CLAT 15 · AILET 22 · CUET PG ~101 (to 2 Mar) · NLSAT 155
+CLAT 14 · AILET 21 · CUET PG ~100 (to 2 Mar) · NLSAT 154
 
 ## Change log
 
@@ -63,3 +63,4 @@ CLAT 15 · AILET 22 · CUET PG ~101 (to 2 Mar) · NLSAT 155
 - 2026-11-19 (Day 31 run) — CLAT within 21 days, admit card due. Careers360 CLAT live page (upd. 19 Nov 03:00 IST: admit card 'not yet released', expected 'by the end of this week'; second and final official mock on 20 Nov), Careers360 release-date article (upd. 17 Nov: estimate 20–22 Nov; no physical copies; ~131 centres in 89 cities; no entry after 2:15 PM), KollegeApply (upd. 19 Nov 07:18: 'around 20 Nov', estimate). Admit card not released. No date changes. Alert: official mock 20 Nov.
 - 2026-11-20 (Day 32 run) — Careers360 news live (19 Nov 05:04 PM) and law live (19 Nov 09:00 AM): admit card expected by 20 Nov / end of week, no official date; second official mock 20 Nov. No date changes.
 - 2026-11-21 (Day 33 run) — CLAT within 21 days, admit card due. Shiksha live (upd. 21 Nov 09:21 IST: 'will release … soon'; headlines predict today), Careers360 news live (modified 20 Nov 11:00 PM: Consortium 'has not announced' a date), Careers360 law live (20 Nov 3:14 PM: 'by the end of this week'; mock 2 conducted 20 Nov). Exam 6 Dec 2–4 PM unchanged. AILET admit card 30 Nov (Careers360, Aug page) unchanged. No date changes.
+- 2026-11-22 (Day 34 run) — CLAT within 21 days. **CLAT 2027 admit card released Sat 21 Nov (~10 AM IST)**: CareerIndia (21 Nov 2:04 PM: hall tickets at consortiumofnlus.ac.in; Consortium says no third party has access to the paper — fake-paper claims), Careers360 admit-card page (upd. 21 Nov 11:07 AM: entry 1 PM, gate closes 2:15 PM, photo ID), Toprankers live (21 Nov). Exam 6 Dec 2–4 PM unchanged. AILET admit card 30 Nov unchanged. Alert: download and print the CLAT admit card.

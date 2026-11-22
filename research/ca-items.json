@@ -1573,7 +1573,13 @@
    ],
    "fact": "6 Apr 2026: SC (Vikram Nath, Sandeep Mehta, N. V. Anjaria JJ) ordered CBI preliminary inquiry into contracts to firms linked to CM Pema Khandu's relatives (2015-2025; report in 16 weeks); tainted public contracting breaks Art 14 even once.",
    "sources": "LiveLaw (Apr 2026); Scroll",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-22",
+     "q": "Q11",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261109-2",
@@ -1592,7 +1598,13 @@
    ],
    "fact": "8 Apr 2026: first FY27 policy; MPC under Governor Sanjay Malhotra kept repo 5.25%, neutral stance; FY27 GDP 6.9%, CPI 4.6%. MPC s. 45ZB RBI Act, 6 members, target 4% +/- 2%.",
    "sources": "Business Standard; ThePrint (8 Apr 2026)",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-22",
+     "q": "Q12",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261109-3",
@@ -1634,7 +1646,13 @@
    ],
    "fact": "6 Nov 2026 (2026 INSC 1200; CJI Surya Kant, Bagchi, V. Mohana JJ): ends HP's 1996 suit; Punjab and Haryana to give HP 11,973 MU of power arrears, cashless over 20 lean seasons; 2011 ruling fixed HP share 7.19%. Art 131 hook is inference (State-v-State original suit).",
    "sources": "ThePrint; Bar & Bench (6-7 Nov 2026)",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-22",
+     "q": "Q13",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261109-5",
@@ -1654,7 +1672,13 @@
    ],
    "fact": "6 Nov 2026: ECI gives electors marked ASDD in SIR draft rolls a fresh chance in 7 States/UTs (Delhi, Maharashtra, Haryana, AP, Jharkhand, Telangana, Nagaland); lists re-displayed, forms via ECINET.",
    "sources": "Outlook; The Week (6 Nov 2026)",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-22",
+     "q": "Q14",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261109-6",
@@ -1671,7 +1695,13 @@
    ],
    "fact": "Vote 3 Nov 2026 (Bass conceded 5 Nov): Kerala-born Nithya Raman beat incumbent Karen Bass (~52-48) — LA's first South Asian / Indian-American mayor; Council District 4 member since 2020.",
    "sources": "Siasat; Fox LA (Nov 2026)",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-22",
+     "q": "Q15",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261109-7",
@@ -3713,6 +3743,163 @@
      "result": "pending"
     }
    ]
+  },
+  {
+   "id": "ca-20261122-1",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Delhi HC: child's right to know biological father can outweigh father's privacy (DNA test upheld)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 21",
+    "Case: K S Puttaswamy v Union of India",
+    "BSA 116",
+    "IEA 112"
+   ],
+   "fact": "Reported 21 Nov 2026: Delhi HC upheld a DNA-test order, holding a child's right to know the biological father can outweigh the alleged father's privacy. Privacy is Art 21 (Puttaswamy 2017, 9 judges), not absolute; presumption of legitimacy BSA s.116 (old IEA s.112).",
+   "sources": "LiveLaw HC highlights 21 Nov 2026 (headline-level)",
+   "tests": [],
+   "logged": "2026-11-22"
+  },
+  {
+   "id": "ca-20261122-2",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Jharkhand HC: PMLA bail conditions cannot override Art 21 (Prayag Group case)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 21",
+    "Act: PMLA 2002 s 45"
+   ],
+   "fact": "Reported 21 Nov 2026: Jharkhand HC granted bail to two accused in the Prayag Group money-laundering case, holding stringent PMLA bail conditions cannot override the constitutional right to personal liberty. Twin conditions: s.45 PMLA.",
+   "sources": "LiveLaw HC highlights 21 Nov 2026 (headline-level)",
+   "tests": [],
+   "logged": "2026-11-22"
+  },
+  {
+   "id": "ca-20261122-3",
+   "kind": "brief",
+   "category": "polity",
+   "label": "Cauvery: SC dismisses Tamil Nadu's pleas for 11 TMC from Karnataka (20 Nov 2026)",
+   "topics": [
+    "GK-POL",
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 262",
+    "Act: Inter-State River Water Disputes Act 1956",
+    "Body: Cauvery Water Management Authority",
+    "Person: Vikram Nath"
+   ],
+   "fact": "20 Nov 2026: SC (Vikram Nath & Aparesh Singh JJ) dismissed TN's applications seeking directions to Karnataka to release 11 TMC (Biligundlu shortfall); third same-day application would also fail. CWMA manages releases under the CWDT award as modified by SC (2018). Art 262 / ISRWD Act 1956.",
+   "sources": "LiveLaw 20 Nov 2026",
+   "tests": [],
+   "logged": "2026-11-22"
+  },
+  {
+   "id": "ca-20261122-4",
+   "kind": "brief",
+   "category": "economy",
+   "label": "EPFO 240th CBT eases withdrawals (19 Nov 2026)",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Body: EPFO",
+    "Act: EPF and MP Act 1952",
+    "Person: Mansukh Mandaviya"
+   ],
+   "fact": "19 Nov 2026: EPFO CBT (240th, chaired by Labour Minister Mansukh Mandaviya) approved a Systematic Withdrawal Plan; minimum balance 25%→10%; final-withdrawal wait 12→2 months; in-principle up to 3% of fresh accruals in AIFs. CBT chaired by Union Labour Minister.",
+   "sources": "AffairsCloud 21 Nov 2026",
+   "tests": [],
+   "logged": "2026-11-22"
+  },
+  {
+   "id": "ca-20261122-5",
+   "kind": "brief",
+   "category": "international",
+   "label": "First SCO Civilisational Dialogue Forum, Purana Qila (20 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: SCO",
+    "Event: SCO 25th anniversary"
+   ],
+   "fact": "20 Nov 2026: PM Modi opened the first SCO Civilisational Dialogue Forum at Purana Qila, New Delhi, marking SCO's 25th anniversary (Silk Route/Buddhist links; Faxian, Xuanzang, Nalanda). SCO founded 15 Jun 2001 Shanghai; Secretariat Beijing; RATS Tashkent; India & Pakistan full members 2017.",
+   "sources": "CrackTarget 21 Nov 2026; SCO static: standard reference",
+   "tests": [],
+   "logged": "2026-11-22"
+  },
+  {
+   "id": "ca-20261122-6",
+   "kind": "brief",
+   "category": "appointments/international",
+   "label": "Karthik Muralidharan named ADB Chief Economist (from 1 Jul 2027)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: ADB",
+    "Person: Karthik Muralidharan",
+    "Person: Masato Kanda"
+   ],
+   "fact": "Nov 2026: ADB appointed Karthik Muralidharan (UC San Diego) Chief Economist and DG, Economic Research, from 1 Jul 2027, succeeding Albert Park. ADB est. 1966, HQ Manila, President Masato Kanda.",
+   "sources": "AffairsCloud 21 Nov 2026",
+   "tests": [],
+   "logged": "2026-11-22"
+  },
+  {
+   "id": "static-art21a",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 21A — education 6–14 by 86th Am. 2002 (also Art 45, 51A(k))",
+   "topics": [
+    "LEG-CONST"
+   ],
+   "hooks": [
+    "Art 21A",
+    "Art 45",
+    "Art 51A",
+    "Event: 86th Amendment 2002"
+   ],
+   "fact": "86th Amendment 2002 inserted Art 21A (free & compulsory education 6-14), substituted Art 45 (early childhood care under 6) and added Art 51A(k) (parents' duty). RTE Act 2009 in force 1 Apr 2010.",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-22",
+     "q": "Q16",
+     "result": "pending"
+    }
+   ],
+   "logged": "2026-11-22"
+  },
+  {
+   "id": "static-bommai",
+   "kind": "static",
+   "category": "polity",
+   "label": "S. R. Bommai (1994, 9 judges) — Art 356 reviewable; floor test",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 356",
+    "Case: S R Bommai v Union of India"
+   ],
+   "fact": "S. R. Bommai v Union of India (1994, 9 judges): an Art 356 Proclamation is open to judicial review; majority is to be tested on the floor of the House; secularism is part of basic structure.",
+   "sources": "Constitution of India; S. R. Bommai (1994)",
+   "tests": [
+    {
+     "date": "2026-11-22",
+     "q": "Q17",
+     "result": "pending"
+    }
+   ],
+   "logged": "2026-11-22"
   }
  ]
 }

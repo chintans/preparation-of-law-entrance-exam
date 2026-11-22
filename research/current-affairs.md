@@ -5,6 +5,22 @@ Newest first. Format: `logged (kind) · category · fact · sources` then the te
 
 CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly Apr 2026 – Mar 2027.
 
+2026-11-22 (static) · polity · S. R. Bommai v Union of India (1994, 9 judges): an Art 356 Proclamation is open to judicial review; majority is to be tested on the floor of the House; secularism is part of basic structure. · Constitution of India; S. R. Bommai (1994)  
+  `static-bommai` · GK-POL · hooks: Art 356, Case: S R Bommai v Union of India · tested: 2026-11-22 Q17 …
+2026-11-22 (static) · polity · 86th Amendment 2002 inserted Art 21A (free & compulsory education 6-14), substituted Art 45 (early childhood care under 6) and added Art 51A(k) (parents' duty). RTE Act 2009 in force 1 Apr 2010. · Constitution of India  
+  `static-art21a` · LEG-CONST · hooks: Art 21A, Art 45, Art 51A, Event: 86th Amendment 2002 · tested: 2026-11-22 Q16 …
+2026-11-22 (brief) · appointments/international · Nov 2026: ADB appointed Karthik Muralidharan (UC San Diego) Chief Economist and DG, Economic Research, from 1 Jul 2027, succeeding Albert Park. ADB est. 1966, HQ Manila, President Masato Kanda. · AffairsCloud 21 Nov 2026  
+  `ca-20261122-6` · GK-CA · hooks: Body: ADB, Person: Karthik Muralidharan, Person: Masato Kanda · not yet tested
+2026-11-22 (brief) · international · 20 Nov 2026: PM Modi opened the first SCO Civilisational Dialogue Forum at Purana Qila, New Delhi, marking SCO's 25th anniversary (Silk Route/Buddhist links; Faxian, Xuanzang, Nalanda). SCO founded 15 Jun 2001 Shanghai; Secretariat Beijing; RATS Tashkent; India & Pakistan full members 2017. · CrackTarget 21 Nov 2026; SCO static: standard reference  
+  `ca-20261122-5` · GK-CA · hooks: Body: SCO, Event: SCO 25th anniversary · not yet tested
+2026-11-22 (brief) · economy · 19 Nov 2026: EPFO CBT (240th, chaired by Labour Minister Mansukh Mandaviya) approved a Systematic Withdrawal Plan; minimum balance 25%→10%; final-withdrawal wait 12→2 months; in-principle up to 3% of fresh accruals in AIFs. CBT chaired by Union Labour Minister. · AffairsCloud 21 Nov 2026  
+  `ca-20261122-4` · GK-ECO · hooks: Body: EPFO, Act: EPF and MP Act 1952, Person: Mansukh Mandaviya · not yet tested
+2026-11-22 (brief) · polity · 20 Nov 2026: SC (Vikram Nath & Aparesh Singh JJ) dismissed TN's applications seeking directions to Karnataka to release 11 TMC (Biligundlu shortfall); third same-day application would also fail. CWMA manages releases under the CWDT award as modified by SC (2018). Art 262 / ISRWD Act 1956. · LiveLaw 20 Nov 2026  
+  `ca-20261122-3` · GK-POL, LEG-NEW · hooks: Art 262, Act: Inter-State River Water Disputes Act 1956, Body: Cauvery Water Management Authority, Person: Vikram Nath · not yet tested
+2026-11-22 (brief) · legal/judgments · Reported 21 Nov 2026: Jharkhand HC granted bail to two accused in the Prayag Group money-laundering case, holding stringent PMLA bail conditions cannot override the constitutional right to personal liberty. Twin conditions: s.45 PMLA. · LiveLaw HC highlights 21 Nov 2026 (headline-level)  
+  `ca-20261122-2` · LEG-NEW · hooks: Art 21, Act: PMLA 2002 s 45 · not yet tested
+2026-11-22 (brief) · legal/judgments · Reported 21 Nov 2026: Delhi HC upheld a DNA-test order, holding a child's right to know the biological father can outweigh the alleged father's privacy. Privacy is Art 21 (Puttaswamy 2017, 9 judges), not absolute; presumption of legitimacy BSA s.116 (old IEA s.112). · LiveLaw HC highlights 21 Nov 2026 (headline-level)  
+  `ca-20261122-1` · LEG-NEW · hooks: Art 21, Case: K S Puttaswamy v Union of India, BSA 116, IEA 112 · not yet tested
 2026-11-21 (static) · polity · Art 352(4),(6) (44th Am. 1978): Proclamation approved by each House within one month by special majority (majority of total membership + 2/3 present & voting); continues 6 months per approval; LS can disapprove by simple majority; 1/10 LS members can requisition special sitting (352(8)). · Constitution of India  
   `static-art352-approval` · GK-POL · hooks: Art 352 · tested: 2026-11-21 Q21 …
 2026-11-21 (static) · polity · Romesh Thappar v State of Madras (1950): freedom of speech and expression in Art 19(1)(a) includes freedom of the press (circulation); no separate press Article. · Constitution of India  
@@ -204,17 +220,17 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-09 (brief) · international · COP31, Antalya, Turkiye, 9-20 Nov 2026; COP President Murat Kurum (Turkiye environment minister); Australia's Chris Bowen "President for Negotiations" under COP30 Belem deal; UNFCCC HQ Bonn. · UNRIC; Hurriyet Daily News  
   `ca-20261109-7` · GK-CA · hooks: Event: COP31, Body: UNFCCC, Person: Murat Kurum, Person: Chris Bowen · tested: 2026-11-21 Q9 …
 2026-11-09 (brief) · appointments/international · Vote 3 Nov 2026 (Bass conceded 5 Nov): Kerala-born Nithya Raman beat incumbent Karen Bass (~52-48) — LA's first South Asian / Indian-American mayor; Council District 4 member since 2020. · Siasat; Fox LA (Nov 2026)  
-  `ca-20261109-6` · GK-CA · hooks: Person: Nithya Raman, Event: US mid-term elections 2026 · not yet tested
+  `ca-20261109-6` · GK-CA · hooks: Person: Nithya Raman, Event: US mid-term elections 2026 · tested: 2026-11-22 Q15 …
 2026-11-09 (brief) · polity · 6 Nov 2026: ECI gives electors marked ASDD in SIR draft rolls a fresh chance in 7 States/UTs (Delhi, Maharashtra, Haryana, AP, Jharkhand, Telangana, Nagaland); lists re-displayed, forms via ECINET. · Outlook; The Week (6 Nov 2026)  
-  `ca-20261109-5` · GK-POL · hooks: Art 324, Art 326, Act: RP Act 1950, Body: Election Commission of India, Person: Gyanesh Kumar · not yet tested
+  `ca-20261109-5` · GK-POL · hooks: Art 324, Art 326, Act: RP Act 1950, Body: Election Commission of India, Person: Gyanesh Kumar · tested: 2026-11-22 Q14 …
 2026-11-09 (brief) · legal/judgments · 6 Nov 2026 (2026 INSC 1200; CJI Surya Kant, Bagchi, V. Mohana JJ): ends HP's 1996 suit; Punjab and Haryana to give HP 11,973 MU of power arrears, cashless over 20 lean seasons; 2011 ruling fixed HP share 7.19%. Art 131 hook is inference (State-v-State original suit). · ThePrint; Bar & Bench (6-7 Nov 2026)  
-  `ca-20261109-4` · LEG-NEW · hooks: Art 131, Act: Punjab Reorganisation Act 1966 s 78, Body: BBMB, Case: State of Himachal Pradesh v Union of India · not yet tested
+  `ca-20261109-4` · LEG-NEW · hooks: Art 131, Act: Punjab Reorganisation Act 1966 s 78, Body: BBMB, Case: State of Himachal Pradesh v Union of India · tested: 2026-11-22 Q13 …
 2026-11-09 (brief) · reports & indices · RSF index (reported 30 Apr 2026): India 157/180 (151 in 2025); Norway 1st for 10th year; World Press Freedom Day 3 May; RSF HQ Paris. · The News Minute (30 Apr 2026)  
   `ca-20261109-3` · GK-CA · hooks: Report: World Press Freedom Index, Body: RSF · tested: 2026-11-21 Q8 …
 2026-11-09 (brief) · economy · 8 Apr 2026: first FY27 policy; MPC under Governor Sanjay Malhotra kept repo 5.25%, neutral stance; FY27 GDP 6.9%, CPI 4.6%. MPC s. 45ZB RBI Act, 6 members, target 4% +/- 2%. · Business Standard; ThePrint (8 Apr 2026)  
-  `ca-20261109-2` · GK-ECO · hooks: Body: RBI, Body: MPC, Act: RBI Act 1934 s 45ZB, Person: Sanjay Malhotra · not yet tested
+  `ca-20261109-2` · GK-ECO · hooks: Body: RBI, Body: MPC, Act: RBI Act 1934 s 45ZB, Person: Sanjay Malhotra · tested: 2026-11-22 Q12 …
 2026-11-09 (brief) · legal/judgments · 6 Apr 2026: SC (Vikram Nath, Sandeep Mehta, N. V. Anjaria JJ) ordered CBI preliminary inquiry into contracts to firms linked to CM Pema Khandu's relatives (2015-2025; report in 16 weeks); tainted public contracting breaks Art 14 even once. · LiveLaw (Apr 2026); Scroll  
-  `ca-20261109-1` · LEG-NEW · hooks: Art 14, Art 32, Body: CBI, Act: DSPE Act 1946, Case: Save Mon Region Federation v State of Arunachal Pradesh, Person: Pema Khandu · not yet tested
+  `ca-20261109-1` · LEG-NEW · hooks: Art 14, Art 32, Body: CBI, Act: DSPE Act 1946, Case: Save Mon Region Federation v State of Arunachal Pradesh, Person: Pema Khandu · tested: 2026-11-22 Q11 …
 2026-11-08 (lesson) · legislation · BNSS s. 173: zero FIR (any station irrespective of area), e-FIR signed within 3 days, s. 173(3) preliminary enquiry for offences ≥3 & <7 yrs with DSP permission within 14 days ("may"); Lalita Kumari (2013) partly displaced; Imran Pratapgadhi v State of Gujarat, 2025 INSC 410 (28 Mar 2025) — speech offences in band: ordinarily enquire first; refusal → SP s. 173(4), Magistrate s. 175(3) with affidavit · SCC Times 18 Aug 2026; LiveLaw  
   `ca-20261108-7` · LEG-NEW · hooks: BNSS 173, BNSS 175, CrPC 154, Case: Lalita Kumari (2013), Case: Imran Pratapgadhi (2025) · tested: 2026-11-08 Q1 ✗ (chose C), 2026-11-08 Q2 ✓, 2026-11-08 Q3 ✓, 2026-11-08 Q4 ✗ (chose C), 2026-11-08 Q5 ✓
 2026-11-08 (brief) · sports · 5 Nov 2026: India beat Japan 4-1 at Mohali (Olympian Balbir Singh Sr. stadium) to win record 6th men's Asian Champions Trophy (hockey); capt. Harmanpreet Singh; earlier 2011, 2016, 2018 (shared), 2023, 2024; Asian Hockey Federation · Tribune; The Bridge  
