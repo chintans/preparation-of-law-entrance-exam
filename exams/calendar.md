@@ -1,6 +1,6 @@
 # Exam calendar
 
-Last verified: **2026-11-22** (web search; official sites to be re-checked each Monday)
+Last verified: **2026-11-23** (web search; official sites to be re-checked each Monday)
 
 Status key: **Confirmed** = stated in official notice or consistently reported from it · **Announced** =
 exam date published, other dates pending · **Tentative** = expected from past cycles.
@@ -24,9 +24,9 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | NLSAT-LLB 2027 | Offers | end May 2027 | Reported | Careers360 |
 | LSAT India | — | Discontinued after May 2024 | Confirmed | LSAC notice (via AglaSem) |
 
-## Days to exam (as of 2026-11-22)
+## Days to exam (as of 2026-11-23)
 
-CLAT 14 · AILET 21 · CUET PG ~100 (to 2 Mar) · NLSAT 154
+CLAT 13 · AILET 20 · CUET PG ~99 (to 2 Mar) · NLSAT 153
 
 ## Change log
 
@@ -64,3 +64,4 @@ CLAT 14 · AILET 21 · CUET PG ~100 (to 2 Mar) · NLSAT 154
 - 2026-11-20 (Day 32 run) — Careers360 news live (19 Nov 05:04 PM) and law live (19 Nov 09:00 AM): admit card expected by 20 Nov / end of week, no official date; second official mock 20 Nov. No date changes.
 - 2026-11-21 (Day 33 run) — CLAT within 21 days, admit card due. Shiksha live (upd. 21 Nov 09:21 IST: 'will release … soon'; headlines predict today), Careers360 news live (modified 20 Nov 11:00 PM: Consortium 'has not announced' a date), Careers360 law live (20 Nov 3:14 PM: 'by the end of this week'; mock 2 conducted 20 Nov). Exam 6 Dec 2–4 PM unchanged. AILET admit card 30 Nov (Careers360, Aug page) unchanged. No date changes.
 - 2026-11-22 (Day 34 run) — CLAT within 21 days. **CLAT 2027 admit card released Sat 21 Nov (~10 AM IST)**: CareerIndia (21 Nov 2:04 PM: hall tickets at consortiumofnlus.ac.in; Consortium says no third party has access to the paper — fake-paper claims), Careers360 admit-card page (upd. 21 Nov 11:07 AM: entry 1 PM, gate closes 2:15 PM, photo ID), Toprankers live (21 Nov). Exam 6 Dec 2–4 PM unchanged. AILET admit card 30 Nov unchanged. Alert: download and print the CLAT admit card.
+- 2026-11-23 (Day 35 run, Monday) — CLAT within 21 days. Careers360, Deccan Herald, Bar & Bench, LiveLaw (CLAT 2027 on Sun 6 Dec, unchanged); Careers360/PW AILET admit-card pages (30 Nov, exam 13 Dec, unchanged). No CUET PG or NLSAT news. No date changes. Alert repeated: CLAT admit card out (gate closes 2:15 PM); AILET admit card in 7 days.

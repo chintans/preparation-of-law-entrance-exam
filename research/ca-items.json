@@ -1842,7 +1842,13 @@
    ],
    "fact": "4 May 2026: CJI Surya Kant & Joymalya Bagchi J (suo motu) voided Odisha bail conditions making accused (mostly Dalit/Adivasi; 8 Tijimali protesters to clean Kashipur PS 6-9 am for 2 months) clean police stations, hospitals, temples — 'abhorrent, degrading and unknown to law'; all such conditions void; HCs to circulate. Anchor Art 17 with 14-16.",
    "sources": "SC Observer; LiveLaw weekly digest May 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-23",
+     "q": "Q11",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261110-2",
@@ -1860,7 +1866,13 @@
    ],
    "fact": "1 May 2026: gross GST for April 2026 ~₹2.43 lakh cr (+8.7% YoY), highest ever (prev. Apr 2025 ~₹2.23 lakh cr); net ~₹2.11 lakh cr. GST: 101st Am. 2016, Art 246A, 279A Council chaired by Union FM, in force 1 Jul 2017.",
    "sources": "Business Today 1 May 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-23",
+     "q": "Q12",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261110-3",
@@ -3900,6 +3912,184 @@
     }
    ],
    "logged": "2026-11-22"
+  },
+  {
+   "id": "ca-20261123-1",
+   "logged": "2026-11-23",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Balance-sheet entry = acknowledgment of debt, s. 18 Limitation Act (Yusuf, 6 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Act: Limitation Act 1963",
+    "Case: Yusuf v Vigyapan Loke Delhi Advertising CGHS"
+   ],
+   "fact": "6 Nov 2026, 2026 INSC 1207, Vikram Nath, A. G. Masih, Sandeep Mehta JJ: debt shown in balance sheet can be acknowledgment of liability under s. 18 Limitation Act 1963 (written, signed, before expiry → fresh period from acknowledgment); suit restored.",
+   "sources": "Verdictum (2026 INSC 1207); SCC Times roundup 9-15 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261123-2",
+   "logged": "2026-11-23",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Delhi HC final decree — Amitabh Bachchan personality rights (Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 21",
+    "Case: K S Puttaswamy v Union of India",
+    "Act: Copyright Act 1957",
+    "Case: Amitabh Bachchan v Rajat Nagi"
+   ],
+   "fact": "Nov 2026: Delhi HC made 2022 interim order final — permanent injunction vs apps, domains, poster sellers using name/image/voice; extends to unidentified infringers. No single statute on personality rights: Art 21 privacy/dignity, passing off, performers' rights s. 38 Copyright Act.",
+   "sources": "Bar & Bench; LawChakra; SCC Times roundup 9-15 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261123-3",
+   "logged": "2026-11-23",
+   "kind": "brief",
+   "category": "polity",
+   "label": "OCI cancelled for preaching without permission (Madras HC, John Daniel, Oct 2026)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 11",
+    "Act: Citizenship Act 1955",
+    "Case: John Daniel v Union of India"
+   ],
+   "fact": "Late Oct 2026, 2026:MHC:4303, D. Bharatha Chakravarthy J: upheld cancellation of US citizen's OCI registration for missionary preaching without special permission, even without conversion. Part II Arts 5-11; Art 11 Parliament; Citizenship Act s. 7A (OCI registration), 7B (rights), 7D (cancellation); OCI is not dual citizenship.",
+   "sources": "LiveLaw; Verdictum; LawBeat",
+   "tests": []
+  },
+  {
+   "id": "ca-20261123-4",
+   "logged": "2026-11-23",
+   "kind": "brief",
+   "category": "economy",
+   "label": "NITI Aayog PLI impact assessment — ₹2.4 lakh cr investment, ₹22.66 lakh cr output (13 Nov 2026)",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Body: NITI Aayog",
+    "Report: Impact Assessment of PLI Schemes"
+   ],
+   "fact": "~13 Nov 2026: NITI Aayog (with IIM Ahmedabad) assessed all 14 PLI sectors: investment ~₹2.4 lakh cr (76% of target), production/sales ~₹22.66 lakh cr (64%), jobs lag. PLI: 14 sectors, outlay ~₹1.97 lakh cr; NITI Aayog 2015, PM chairs.",
+   "sources": "NITI Aayog report PDF; ThePrint; AffairsCloud 14 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261123-5",
+   "logged": "2026-11-23",
+   "kind": "brief",
+   "category": "international",
+   "label": "Quad Leaders' Summit, Manila (mid-Nov 2026) — Business Leaders' Forum 2027",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: Quad",
+    "Event: Quad Leaders Summit 2026"
+   ],
+   "fact": "Mid-Nov 2026 (reported 18 Nov), Manila: Modi, Trump, Albanese, Takaichi; \"partnership of action\"; first Quad Business Leaders' Forum early 2027; concern over economic coercion/export restrictions; 10 yrs of FOIP (Abe 2016). Quad = India, US, Japan, Australia; 2007; revived Manila Nov 2017; first leaders' summit virtual Mar 2021. Philippines hosted but is not a member.",
+   "sources": "News On AIR 18 Nov 2026; White House joint press release",
+   "tests": []
+  },
+  {
+   "id": "ca-20261123-6",
+   "logged": "2026-11-23",
+   "kind": "brief",
+   "category": "science",
+   "label": "ISRO ground-tests upgraded PSLV third stage PS3 (12 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: ISRO"
+   ],
+   "fact": "12 Nov 2026, SDSC SHAR Sriharikota: ground static test of modified PS3 after PSLV-C61 (EOS-09, May 2025) and PSLV-C62 (EOS-N1) failures. PSLV stages solid-liquid-solid-liquid (PS3 solid); SDSC in Andhra Pradesh; ISRO 1969, HQ Bengaluru.",
+   "sources": "ISRO; Republic World 12 Nov 2026",
+   "tests": []
+  },
+  {
+   "id": "static-olga-tellis",
+   "logged": "2026-11-23",
+   "kind": "static",
+   "category": "polity",
+   "label": "Olga Tellis (1985) — right to livelihood in Art 21",
+   "topics": [
+    "LEG-CONST"
+   ],
+   "hooks": [
+    "Art 21",
+    "Case: Olga Tellis v Bombay Municipal Corporation"
+   ],
+   "fact": "Olga Tellis v Bombay Municipal Corporation (1985, 5 judges): right to livelihood is part of Art 21; pavement dwellers may be evicted only after a fair procedure (notice, hearing) — no right to occupy pavements.",
+   "sources": "Constitution of India; Olga Tellis (1985)",
+   "tests": [
+    {
+     "date": "2026-11-23",
+     "q": "Q13",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-art352-armed-rebellion",
+   "logged": "2026-11-23",
+   "kind": "static",
+   "category": "polity",
+   "label": "44th Am. 1978 — \"armed rebellion\" replaced \"internal disturbance\" in Art 352",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 352",
+    "Amendment: 44th"
+   ],
+   "fact": "44th Amendment 1978 substituted \"armed rebellion\" for \"internal disturbance\" as a ground for National Emergency under Art 352 (war, external aggression, armed rebellion).",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-23",
+     "q": "Q14",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261123-L1",
+   "logged": "2026-11-23",
+   "kind": "lesson",
+   "category": "legal/judgments",
+   "label": "Digital-arrest frauds — SC suo motu: banks failing due diligence may compensate (Oct 2026)",
+   "topics": [
+    "GK-CA",
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 22(2)",
+    "BNS 319",
+    "IPC 419",
+    "Act: Information Technology Act 2000",
+    "Body: I4C",
+    "Body: RBI"
+   ],
+   "fact": "Oct 2026 (29 Oct), SC suo motu on digital-arrest frauds: financial institutions failing due diligence may have to compensate victims at least to the extent of loss; urged temporary holds on suspicious transactions. No law permits arrest by video call (BNSS; Art 22(2) 24-hour production). Cheating by personation BNS s. 319 (IPC 419); IT Act s. 66D. RBI customer-liability circular 6 Jul 2017 (zero liability for bank lapse / prompt reporting of third-party breach). Helpline 1930 — I4C, MHA.",
+   "sources": "SCC Times roundup 9-15 Nov 2026; standard references",
+   "tests": [
+    {
+     "date": "2026-11-23",
+     "q": "Q1-5 (passage; Q2 Art 22(2), Q3 s. 66D, Q5 I4C)",
+     "result": "pending"
+    }
+   ]
   }
  ]
 }
