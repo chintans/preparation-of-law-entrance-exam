@@ -1937,7 +1937,13 @@
    ],
    "fact": "4 Nov 2026: CJI Surya Kant, Joymalya Bagchi, V. Mohana JJ issued notice on pleas (incl. Manoj Kumar Jha) against s. 16 of the CEC and Other ECs (Appointment, Conditions of Service and Term of Office) Act 2023 — immunity from civil/criminal proceedings for official acts; no stay; tagged with Lok Prahari/ADR pleas; next hearing 18 Dec 2026.",
    "sources": "Indian Masterminds; LiveLaw (4 Nov 2026)",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-24",
+     "q": "Q7",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261110-6",
@@ -1954,7 +1960,13 @@
    ],
    "fact": "Reported 5 Nov 2026: 11th MOWCAP session (Jakarta) inscribed birch-bark Mahabharata (BORI Pune), palm-leaf Arthashastra (ORI Mysuru), Kalhana's Rajatarangini (Srinagar); India now 6 entries on the Asia-Pacific regional register; IGNCA prepared nominations.",
    "sources": "The Week 5 Nov 2026; AffairsCloud 7-9 Nov 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-24",
+     "q": "Q9",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261111-1",
@@ -1973,7 +1985,13 @@
    ],
    "fact": "June 2026: SC (P. S. Narasimha, Atul S. Chandurkar JJ), Maniyar Iliyaz v P. Ayyappan, 2026 SCC OnLine SC 1162 — right to walk on safe, well-demarcated footpaths is a fundamental right (primary right of movement under Art 19(1)(d), with Art 21); pedestrians have priority over motorised traffic; municipalities/UDAs/panchayats have enforceable duty; remedy independent of MV Act 1988; case of 5-yr-old killed by tanker",
    "sources": "SCC Online blog June 2026 roundup (3 Jul 2026)",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-24",
+     "q": "Q8",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261111-2",
@@ -1992,7 +2010,13 @@
    ],
    "fact": "June 2026: SC (P. K. Mishra, Atul S. Chandurkar JJ), Meenakshi Natarajan v ECI, 2026 SCC OnLine SC 1133 — refused Art 32 writ against RO order (9 Jun 2026) rejecting a Rajya Sabha (MP) nomination; rejection of nomination is part of election process; Art 329(b) bars interference except by election petition (RPA 1951)",
    "sources": "SCC Online blog June 2026 roundup (3 Jul 2026)",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-24",
+     "q": "Q6",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261111-3",
@@ -2010,7 +2034,13 @@
    ],
    "fact": "1 Jun 2026 appointed, 2 Jun 2026 sworn in: Justices Sheel Nagu, Shree Chandrashekhar, Sanjeev Sachdeva, Arun Palli, V. Mohana (from the Bar; second woman directly from the Bar); sanctioned strength raised from 34 to 38; Art 124(1) Parliament fixes number by law",
    "sources": "SCC Online blog June 2026 roundup (3 Jul 2026)",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-24",
+     "q": "Q5",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261111-4",
@@ -4087,6 +4117,166 @@
     {
      "date": "2026-11-23",
      "q": "Q1-5 (passage; Q2 Art 22(2), Q3 s. 66D, Q5 I4C)",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "ca-20261124-1",
+   "logged": "2026-11-24",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Saharanpur mosque demolition contempt plea relegated to Allahabad HC (SC, 23 Nov 2026); 2024 demolition guidelines",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 142",
+    "Art 215",
+    "Case: In re Directions in the matter of demolition of structures (2024)",
+    "Person: Surya Kant"
+   ],
+   "fact": "23 Nov 2026: CJI Surya Kant, Joymalya Bagchi, V. Mohana JJ refused contempt plea (Imran Ahmad) alleging demolition of 100-yr-old Saharanpur mosque in breach of 13 Nov 2024 bulldozer judgment; record sent to Allahabad HC. 2024 judgment: no demolition merely because accused/convicted; show-cause notice, 15 days (or local-law period, whichever later), personal hearing, time to challenge; exceptions public places / court orders; guidelines under Art 142.",
+   "sources": "https://www.livelaw.in/top-stories/supreme-court-saharanpur-mosque-demolition-contempt-bulldozer-judgment-plea-rejected-petitioner-to-approach-high-court-559688",
+   "tests": []
+  },
+  {
+   "id": "ca-20261124-2",
+   "logged": "2026-11-24",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Thiruparankundram Deepathoon lamp — SC one-time permission (20 Nov); TN HR&CE review petition (22 Nov 2026)",
+   "topics": [
+    "LEG-NEW",
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 137",
+    "Art 25",
+    "Art 26",
+    "Body: TN HR&CE Department"
+   ],
+   "fact": "SC bench Aravind Kumar & Vipul M. Pancholi JJ (order 20 Nov 2026) stayed Madras HC observations but allowed Karthigai Deepam lamp on the Deepathoon atop Thiruparankundram hill, Madurai (near a dargah) on 24 Nov 2026 as a one-time measure, not a final endorsement of the custom; only authorised representatives, no procession; Collector compliance report in 3 days. TN HR&CE Commissioner filed review petition (reported 22 Nov).",
+   "sources": "https://www.livelaw.in/top-stories/tamil-nadu-files-review-petition-against-supreme-court-order-allowing-karthigai-lamp-lighting-at-thiruparankundram-deepathoon-559492",
+   "tests": []
+  },
+  {
+   "id": "ca-20261124-3",
+   "logged": "2026-11-24",
+   "kind": "brief",
+   "category": "polity",
+   "label": "Parliament adjourned sine die 13 Aug 2026 but not prorogued (~100 days)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 85",
+    "Art 85(2)",
+    "Body: Lok Sabha"
+   ],
+   "fact": "Reported 23 Nov 2026: both Houses adjourned sine die on 13 Aug 2026 after Monsoon Session (20 Jul–13 Aug) and not prorogued; Speaker can recall a House not prorogued; reports link it to a possible constitutional amendment. Art 85: President summons/prorogues Houses, dissolves LS; gap between sessions < 6 months. NCRWC (2002) recommended 120 sitting days.",
+   "sources": "https://www.legacyias.com/current-affairs-23-november-2026/ ; https://www.nextias.com/ca/current-affairs/23-11-2026/news-in-brief-23-11-2026",
+   "tests": []
+  },
+  {
+   "id": "ca-20261124-4",
+   "logged": "2026-11-24",
+   "kind": "brief",
+   "category": "economy/schemes",
+   "label": "Small Hydro Power Development Scheme 2026-27 to 2030-31 — ₹2,584.60 cr, ~1,500 MW",
+   "topics": [
+    "GK-ECO",
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: MNRE",
+    "Event: Small Hydro Power Development Scheme"
+   ],
+   "fact": "PIB backgrounder 22 Nov 2026: outlay ₹2,584.60 crore, target ~1,500 MW, ~₹15,000 cr investment; small hydro = up to 25 MW, under MNRE; potential 21,134 MW at 7,133 sites; NE/border districts ₹3.6 cr/MW or 30% of cost.",
+   "sources": "https://cracktarget.com/current-affairs-23-november-2026/ (single source; 25 MW/MNRE standard)",
+   "tests": []
+  },
+  {
+   "id": "ca-20261124-5",
+   "logged": "2026-11-24",
+   "kind": "brief",
+   "category": "international",
+   "label": "COP31 Antalya (9–20 Nov 2026) ends without overarching agreement on fossil-fuel language; COP32 Addis Ababa 2027",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Event: COP31",
+    "Event: COP32",
+    "Body: UNFCCC",
+    "Person: Murat Kurum"
+   ],
+   "fact": "COP31, Antalya Expo Center, Türkiye, 9–20 Nov 2026, President Murat Kurum (Chris Bowen President of Negotiations); ended without an overarching agreement — dispute over mentioning fossil fuels (EU and others rejected the Turkish-Australian text; Saudi Arabia, Russia opposed explicit reference). Next: COP32 Addis Ababa, Ethiopia, 2027. UNFCCC secretariat Bonn.",
+   "sources": "https://cracktarget.com/current-affairs-23-november-2026/ ; https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference",
+   "tests": []
+  },
+  {
+   "id": "ca-20261124-6",
+   "logged": "2026-11-24",
+   "kind": "brief",
+   "category": "sports",
+   "label": "Anupama Ramachandran retains IBSF World Women's Snooker title, Indore (Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Person: Anupama Ramachandran",
+    "Body: IBSF"
+   ],
+   "fact": "Reported 22 Nov 2026: Anupama Ramachandran retained the IBSF World Women's Snooker Championship at Indore, beating So Man Yan (Hong Kong) 3-1 in the final.",
+   "sources": "https://cracktarget.com/current-affairs-23-november-2026/",
+   "tests": []
+  },
+  {
+   "id": "static-art360-approval",
+   "logged": "2026-11-24",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 360 — financial emergency approved by both Houses within 2 months, simple majority",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 360",
+    "Art 352"
+   ],
+   "fact": "Art 360(2): Proclamation of Financial Emergency ceases after two months unless approved by resolutions of both Houses (simple majority); once approved continues until revoked; never imposed. Contrast Art 352: one month, special majority.",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-24",
+     "q": "Q21",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-maneka",
+   "logged": "2026-11-24",
+   "kind": "static",
+   "category": "polity",
+   "label": "Maneka Gandhi (1978) — Art 21 procedure must be just, fair, reasonable",
+   "topics": [
+    "LEG-CONST"
+   ],
+   "hooks": [
+    "Art 21",
+    "Art 14",
+    "Art 19",
+    "Case: Maneka Gandhi v Union of India (1978)",
+    "Case: A. K. Gopalan v State of Madras (1950)"
+   ],
+   "fact": "Maneka Gandhi v UoI (1978, 7 judges): 'procedure established by law' in Art 21 must be just, fair and reasonable, not arbitrary; Arts 14, 19, 21 read together (golden triangle); moved away from A. K. Gopalan (1950).",
+   "sources": "Constitution of India; standard reference",
+   "tests": [
+    {
+     "date": "2026-11-24",
+     "q": "Q22",
      "result": "pending"
     }
    ]
