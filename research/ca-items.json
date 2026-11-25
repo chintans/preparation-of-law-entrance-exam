@@ -2058,7 +2058,13 @@
    ],
    "fact": "2 Nov 2026: SC (Vikram Nath, Aparesh Kumar Singh JJ), Surendra Manjhi v UoI, 2026 INSC 1185 — uniform revised SOP for identification, release and rehabilitation of bonded labourers: release certificate ordinarily within 24 h, immediate aid within 7 days, rehabilitation plan within 90 days; writs kept pending",
    "sources": "Verdictum weekly overview 2–6 Nov 2026 (10 Nov)",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-25",
+     "q": "Q11",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261111-5",
@@ -2076,7 +2082,13 @@
    ],
    "fact": "RBI weekly data (released 6 Nov 2026): reserves fell $2.691 bn to $717.056 bn in week ended 30 Oct 2026 (FCA $591.118 bn); record $785.706 bn (week ended 4 Sept 2026). CPI (base 2024) Sept 2026 5.54% (Aug 4.83%), food 7.74%; RBI target 4% ±2 (RBI Act s. 45ZA)",
    "sources": "Business Standard weekly policy watch 9 Nov 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-25",
+     "q": "Q12",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261111-6",
@@ -4280,6 +4292,193 @@
      "result": "pending"
     }
    ]
+  },
+  {
+   "id": "ca-20261125-1",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Police statement cannot override sworn testimony — contradiction only impeaches credit (Naresh v State of Haryana, 16 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "CrPC 161",
+    "BNSS 180",
+    "CrPC 162",
+    "BNSS 181",
+    "Case: Naresh v State of Haryana (2026)"
+   ],
+   "fact": "16 Nov 2026, Satish Chandra Sharma & N. Kotiswar Singh JJ, 2026 INSC 1220: double-murder conviction set aside; court cannot prefer a witness's police statement (s. 161 CrPC / s. 180 BNSS) over sworn testimony; s. 162 CrPC / s. 181 BNSS statement usable only to contradict; proved contradiction only impeaches credit.",
+   "sources": "Verdictum weekly overview 16–20 Nov 2026 (24 Nov)",
+   "tests": [],
+   "logged": "2026-11-25"
+  },
+  {
+   "id": "ca-20261125-2",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Recovery of tainted money alone cannot prove bribery; trap officer's account of panch = hearsay (Har Parsad Gaur, 17 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Act: Prevention of Corruption Act 1988",
+    "PC Act 7",
+    "PC Act 13(1)(d)",
+    "PC Act 20",
+    "Case: Har Parsad Gaur v State (NCT of Delhi) (2026)",
+    "Case: Neeraj Dutta v State (NCT of Delhi) (2022)"
+   ],
+   "fact": "17 Nov 2026, Ujjal Bhuyan & Atul S. Chandurkar JJ, 2026 INSC 1230: Delhi tehsildar acquitted; complainant and panch witness did not testify; trap officer's account of what panch told him is hearsay; demand unproved, recovery alone insufficient. Neeraj Dutta (2022, 5 judges): demand and acceptance must be proved (circumstantial evidence allowed); s. 20 presumption only after acceptance proved.",
+   "sources": "SC judgment PDF (api.sci.gov.in, 17 Nov 2026); Verdictum; LawChakra",
+   "tests": [],
+   "logged": "2026-11-25"
+  },
+  {
+   "id": "ca-20261125-3",
+   "kind": "brief",
+   "category": "polity",
+   "label": "West Bengal cabinet approves renaming the State 'Paschim Banga' (23 Nov 2026) — Art 3",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 3",
+    "Art 4",
+    "Person: Suvendu Adhikari"
+   ],
+   "fact": "23 Nov 2026: West Bengal cabinet (CM Suvendu Adhikari) approved proposal to rename the State Paschim Banga; to go to the Assembly 9 Dec 2026; earlier attempts 2011 (Paschim Banga), 2018 (Bangla) failed. Art 3: Parliament by law, Bill only on President's recommendation, referred to State Legislature for views (not binding), simple majority; Art 4: not an Art 368 amendment.",
+   "sources": "Bankersadda 24 Nov 2026; Outlook (BJP plan); Business Today (Adhikari govt May 2026)",
+   "tests": [],
+   "logged": "2026-11-25"
+  },
+  {
+   "id": "ca-20261125-4",
+   "kind": "brief",
+   "category": "economy",
+   "label": "RBI draft Digital Payment rules — stop switch, default-off channels, trusted person (23 Nov 2026)",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Body: RBI",
+    "Act: Payment and Settlement Systems Act 2007",
+    "Body: NPCI"
+   ],
+   "fact": "23 Nov 2026: RBI draft Digital Payment rules, seven safeguards: emergency stop switch, customer-set transaction/beneficiary/daily limits, channel controls, digital channels off by default for new customers, trusted-person mechanism, wider bank-negligence definition; covers payments banks; negligence provisions from 1 Jan 2027, rest 1 Jul 2027. Follows April 2026 discussion paper (1-hour lag for transfers > ₹10,000, kill switch). RBI regulates payment systems under PSS Act 2007; NPCI (2008) runs UPI.",
+   "sources": "Bankersadda 24 Nov 2026; Business Today & News On AIR (Apr 2026 paper)",
+   "tests": [],
+   "logged": "2026-11-25"
+  },
+  {
+   "id": "ca-20261125-5",
+   "kind": "brief",
+   "category": "international/sports",
+   "label": "FIFA Congress awards 2031 Women's World Cup (USA, Mexico, Costa Rica, Jamaica; first 48-team) and 2035 (UK) (23 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: FIFA",
+    "Event: FIFA Women's World Cup 2031",
+    "Event: FIFA Women's World Cup 2035",
+    "Person: Gianni Infantino"
+   ],
+   "fact": "23 Nov 2026, virtual Extraordinary FIFA Congress: 2031 Women's World Cup to USA, Mexico, Costa Rica, Jamaica (first 48 teams, 104 matches); 2035 to UK (England, Scotland, Wales, Northern Ireland); unanimous. FIFA HQ Zurich, president Infantino; 2027 edition in Brazil.",
+   "sources": "Bankersadda 24 Nov 2026; The Star 12 Nov 2026 (FIFA clears joint bids)",
+   "tests": [],
+   "logged": "2026-11-25"
+  },
+  {
+   "id": "ca-20261125-6",
+   "kind": "brief",
+   "category": "science",
+   "label": "BepiColombo (ESA–JAXA) enters Mercury orbit (21 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: ESA",
+    "Body: JAXA",
+    "Event: BepiColombo"
+   ],
+   "fact": "21 Nov 2026: ESA–JAXA BepiColombo entered Mercury orbit (launched Oct 2018, Ariane 5, Kourou; orbiters MPO (ESA) and Mio (JAXA)); 22 Nov ESA reported a software-related thruster glitch that shortened the insertion burn, spacecraft safe. Earlier only NASA MESSENGER (2011–15) orbited Mercury.",
+   "sources": "Bankersadda 24 Nov 2026; launch/MESSENGER standard reference",
+   "tests": [],
+   "logged": "2026-11-25"
+  },
+  {
+   "id": "ca-20261125-L1",
+   "kind": "lesson",
+   "category": "international",
+   "label": "Nepal PM Balendra Shah's India visit (22–23 Nov 2026) — ₹15,000 cr (₹3,500 cr grant + ₹11,500 cr LoC), Joint Vision, Lower Arun 669 MW",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Person: Balendra Shah",
+    "Treaty: India–Nepal Treaty of Peace and Friendship 1950",
+    "Event: Lower Arun HEP",
+    "Body: Deendayal Port (Kandla)"
+   ],
+   "fact": "22–23 Nov 2026: Nepal PM Balendra Shah's first bilateral visit since taking office; ₹15,000 cr package — ₹3,500 cr grant (reconstruction/infrastructure) + ₹11,500 cr rupee line of credit (energy); Joint Vision 'Viksit Bharat and Samunnat Nepal'; 8 MoUs (incl. South Asia Satellite network); Sarayu-Kamala Express Ayodhya–Janakpur; Dharchula–Darchula bridge; Lower Arun 669 MW foundation; Deendayal Port (Kandla, Gujarat) opened for Nepal transit. Static: 1950 Treaty of Peace and Friendship; Nepal borders 5 States (Uttarakhand, UP, Bihar, WB, Sikkim); 2020 map (Kalapani, Lipulekh, Limpiyadhura).",
+   "sources": "Bankersadda & NCA Academy 24 Nov 2026; Kathmandu Post 18 Nov 2026",
+   "tests": [
+    {
+     "date": "2026-11-25",
+     "q": "Q1-5",
+     "result": "pending"
+    }
+   ],
+   "logged": "2026-11-25"
+  },
+  {
+   "id": "static-art29-citizens",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 29(1) — any section of citizens (not only minorities); Art 30 minorities only; Art 25 all persons",
+   "topics": [
+    "LEG-CONST"
+   ],
+   "hooks": [
+    "Art 29",
+    "Art 30",
+    "Art 25",
+    "Art 26"
+   ],
+   "fact": "Art 25 all persons; Art 26 every religious denomination; Art 29(1) any section of citizens with distinct language, script or culture; Art 30(1) all minorities, religious or linguistic (30(1A) compensation, 44th Am.; 30(2) aid without discrimination).",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-25",
+     "q": "Q13",
+     "result": "pending"
+    }
+   ],
+   "logged": "2026-11-25"
+  },
+  {
+   "id": "static-art352-cabinet",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 352(3) — Emergency only on Union Cabinet's decision communicated in writing (44th Am. 1978)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 352",
+    "Act: 44th Amendment 1978"
+   ],
+   "fact": "Art 352(3), inserted by the 44th Amendment (1978): the President shall not issue a Proclamation of National Emergency unless the decision of the Union Cabinet (PM and Cabinet-rank Ministers) is communicated to him in writing.",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-25",
+     "q": "Q14",
+     "result": "pending"
+    }
+   ],
+   "logged": "2026-11-25"
   }
  ]
 }
