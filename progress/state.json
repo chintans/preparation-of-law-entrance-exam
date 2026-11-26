@@ -19,7 +19,7 @@
       "status": "confirmed",
       "marking": "+1/-0.25",
       "registration": "closed 2026-11-10 (no extension reported)",
-      "admit_card": "2026-11-30"
+      "admit_card": "RELEASED Tue 24 Nov 2026 (Careers360 upd. 24 Nov 8:30 PM IST) — registration ID + password at nationallawuniversitydelhi.in; exam 13 Dec offline"
     },
     "CUET": {
       "date": "2027-03-02",
@@ -35,17 +35,17 @@
       "application": "OPEN (nlsatadmissions.nls.ac.in, seen 6 Nov 2026); closes 2027-03-23 (Careers360)"
     }
   },
-  "calendar_last_verified": "2026-11-25",
+  "calendar_last_verified": "2026-11-26",
   "sessions_completed": 23,
   "streak": 0,
   "last_session": "2026-11-11",
-  "pending_session": "2026-11-25",
-  "sessions_since_surprise": 1,
+  "pending_session": "2026-11-26",
+  "sessions_since_surprise": 2,
   "last_session_type": "normal",
   "recent_topics": [
-    "GK-CA",
     "MIXED",
-    "GK-CA"
+    "GK-CA",
+    "LR-CR"
   ],
   "topics": {
     "ENG-RC": {
@@ -1541,14 +1541,19 @@
       "date": "2026-11-24",
       "exam": "CLAT",
       "topic": "MIXED (surprise)"
+    },
+    {
+      "date": "2026-11-25",
+      "exam": "CLAT",
+      "topic": "GK-CA"
     }
   ],
   "ca": {
     "backfill_cursor": "2026-11",
     "window": "2025-11 to 2026-11 (Phase 1)",
-    "briefs": 24,
-    "last_brief": "2026-11-25",
-    "pace_note": "Cursor reached the current month (2026-11) on 15 Nov. From now both streams draw on Nov 2026; backfill can fill remaining gaps in Nov 2025–Oct 2026 if a month looks thin."
+    "briefs": 25,
+    "last_brief": "2026-11-26",
+    "pace_note": "Cursor reached the current month (2026-11) on 15 Nov. From now both streams draw on Nov 2026; backfill can fill remaining gaps in Nov 2025–Oct 2026 if a month looks thin. 26 Nov: backfill stream used Oct 2026 legal gaps (BSA s.72 signatures; resign-and-recontest plea)."
   },
   "reading": {
     "level": 1,
@@ -1616,7 +1621,7 @@
     "technique_note": "Week 4 (chunking) named from 22 Nov; stems first, paragraph map and no regression stay on. No drills returned since 11 Nov (12–21 Nov sets unanswered)."
   },
   "constitution": {
-    "cursor": 11,
+    "cursor": 12,
     "track": "syllabus/constitution-track.md",
     "units_done": [
       1,
@@ -1628,14 +1633,15 @@
       7,
       8,
       9,
-      10
+      10,
+      11
     ],
     "weak_units": [
       3
     ],
-    "last_capsule": "2026-11-25",
+    "last_capsule": "2026-11-26",
     "repeat_pending": false,
-    "note": "Started 8 Nov 2026 at Chintan's request. Units 1 (Art 131/143) and 3 (Art 356 numbers) seeded as weak from Day-15 misses; unit 2 (Art 200) also missed — taught on day 2 of the track. 9 Nov: unit 1 capsule taught; Q11 (Art 226 wider) and Q12 (Art 145(3)) both right → unit 1 removed from weak_units. 10 Nov: unit 2 capsule (Governor & assent) taught; Q11 Art 200 proviso, Q12 Art 356(3) recall (weak unit 3). Graded 10 Nov: Q11 Art 200 proviso right (first time); Q12 Art 356(3) wrong again (six months) — unit 3 stays weak. 11 Nov: unit 3 capsule (Emergency numbers, ladder 1-2-6-3) taught; Q11 Art 352 vs 356 approval windows, Q12 B. P. Singhal recall (unit 2). Graded 12 Nov: Q11 Art 352 one month vs 356 two months right (1 of 2 needed to clear unit 3 from weak_units); Q12 B. P. Singhal right. 12 Nov: unit 4 capsule (Preamble) taught before a CLAT surprise test; Q21 Art 356(3) two months (weak unit 3), Q22 Art 141 (unit 1). 13 Nov: 12 Nov session missed → unit 4 (Preamble) repeated once (cursor stays 5, repeat done); Q11 42nd Am. words (static-preamble-42), Q12 Art 356 two-month approval / six-month extensions recast (weak unit 3). 14 Nov: 13 Nov session (unit 4 repeat) also missed — unit 4 had already had its one repeat, so moved on: unit 5 (FR map) taught; Q11 Art 300A (static-art300a), Q12 Art 359 — Arts 20 & 21 not suspendable (weak unit 3, static-art359). 15 Nov: 14 Nov session (unit 5) missed → unit 5 repeated once (cursor stays 6, repeat done); Q16 citizens-only rights (static-fr-citizens), Q17 Art 356 beyond one year (weak unit 3, static-art352-356). 16 Nov: 15 Nov session (unit 5 repeat) missed — unit 5 already repeated once, so moved on: unit 6 (Arts 14–18) taught; Q13 103rd Am. 15(6)/16(6) (static-ews-103), Q14 Art 360 continues until revoked (weak unit 3, static-art360). 17 Nov: 16 Nov session (unit 6) missed → unit 6 repeated once (cursor stays 7, repeat done); Q13 Art 18 Balaji Raghavan (static-art18-titles), Q14 Art 360 carried (weak unit 3, static-art360). 18 Nov: 17 Nov session (unit 6 repeat) missed — unit 6 had already had its one repeat, so moved on: unit 7 (Art 19) taught; Q13 Shreya Singhal (static-art19-66a), Q14 Art 356 beyond one year (static-art356-1yr, weak unit 3). Cursor → 8. 19 Nov: 18 Nov missed → unit 7 (Art 19) repeated once as recall questions (cursor stays 8); Q13 19(2) grounds (static-art19-2-grounds), Q14 Art 358 armed-rebellion (static-art358, weak unit 3). 20 Nov: 19 Nov (unit 7 repeat) missed — unit 7 had already had its one repeat, so moved on: unit 8 (Arts 20–22) taught; Q13 Art 20(2) vs departmental action (static-art20-2), Q14 Art 359 — 20 & 21 not suspendable (weak unit 3, static-art359). Cursor → 9. 21 Nov: 20 Nov (unit 8) missed → unit 8 repeated once before an AILET surprise test (cursor stays 9, repeat done; D. K. Basu as the case); Q21 Art 352 one month/special majority (weak unit 3, static-art352-approval), Q22 Romesh Thappar 19(1)(a) (unit 7, static-art19-press). 22 Nov: 21 Nov (unit 8 repeat) missed — unit 8 already had its one repeat, so moved on: unit 9 (Art 21) taught; Q16 Art 21A/86th Am. (static-art21a), Q17 S. R. Bommai (weak unit 3, static-bommai). Cursor → 10. 23 Nov: 22 Nov (unit 9) missed → unit 9 repeated once (second pass: rights read into Art 21; D. K. Basu as the case); cursor stays 10, repeat done. Q13 Olga Tellis — livelihood (static-olga-tellis), Q14 44th Am. 'armed rebellion' in Art 352 (weak unit 3, static-art352-armed-rebellion). 24 Nov: 23 Nov (unit 9 repeat) missed — unit 9 already had its one repeat, so moved on: unit 10 (Arts 23–30) taught before a CLAT surprise test; Q21 Art 360 two-month simple-majority approval (weak unit 3, static-art360-approval), Q22 Maneka Gandhi (unit 9, static-maneka). Cursor → 11. 25 Nov: 24 Nov (unit 10) missed → unit 10 repeated once (second pass: who holds each right; Arts 27, 28 tiers, 30(1A); Bijoe Emmanuel as the case); cursor stays 11, repeat done. Q13 Art 29 any section of citizens (static-art29-citizens), Q14 Art 352(3) Cabinet decision in writing (weak unit 3, static-art352-cabinet)."
+    "note": "Started 8 Nov 2026 at Chintan's request. Units 1 (Art 131/143) and 3 (Art 356 numbers) seeded as weak from Day-15 misses; unit 2 (Art 200) also missed — taught on day 2 of the track. 9 Nov: unit 1 capsule taught; Q11 (Art 226 wider) and Q12 (Art 145(3)) both right → unit 1 removed from weak_units. 10 Nov: unit 2 capsule (Governor & assent) taught; Q11 Art 200 proviso, Q12 Art 356(3) recall (weak unit 3). Graded 10 Nov: Q11 Art 200 proviso right (first time); Q12 Art 356(3) wrong again (six months) — unit 3 stays weak. 11 Nov: unit 3 capsule (Emergency numbers, ladder 1-2-6-3) taught; Q11 Art 352 vs 356 approval windows, Q12 B. P. Singhal recall (unit 2). Graded 12 Nov: Q11 Art 352 one month vs 356 two months right (1 of 2 needed to clear unit 3 from weak_units); Q12 B. P. Singhal right. 12 Nov: unit 4 capsule (Preamble) taught before a CLAT surprise test; Q21 Art 356(3) two months (weak unit 3), Q22 Art 141 (unit 1). 13 Nov: 12 Nov session missed → unit 4 (Preamble) repeated once (cursor stays 5, repeat done); Q11 42nd Am. words (static-preamble-42), Q12 Art 356 two-month approval / six-month extensions recast (weak unit 3). 14 Nov: 13 Nov session (unit 4 repeat) also missed — unit 4 had already had its one repeat, so moved on: unit 5 (FR map) taught; Q11 Art 300A (static-art300a), Q12 Art 359 — Arts 20 & 21 not suspendable (weak unit 3, static-art359). 15 Nov: 14 Nov session (unit 5) missed → unit 5 repeated once (cursor stays 6, repeat done); Q16 citizens-only rights (static-fr-citizens), Q17 Art 356 beyond one year (weak unit 3, static-art352-356). 16 Nov: 15 Nov session (unit 5 repeat) missed — unit 5 already repeated once, so moved on: unit 6 (Arts 14–18) taught; Q13 103rd Am. 15(6)/16(6) (static-ews-103), Q14 Art 360 continues until revoked (weak unit 3, static-art360). 17 Nov: 16 Nov session (unit 6) missed → unit 6 repeated once (cursor stays 7, repeat done); Q13 Art 18 Balaji Raghavan (static-art18-titles), Q14 Art 360 carried (weak unit 3, static-art360). 18 Nov: 17 Nov session (unit 6 repeat) missed — unit 6 had already had its one repeat, so moved on: unit 7 (Art 19) taught; Q13 Shreya Singhal (static-art19-66a), Q14 Art 356 beyond one year (static-art356-1yr, weak unit 3). Cursor → 8. 19 Nov: 18 Nov missed → unit 7 (Art 19) repeated once as recall questions (cursor stays 8); Q13 19(2) grounds (static-art19-2-grounds), Q14 Art 358 armed-rebellion (static-art358, weak unit 3). 20 Nov: 19 Nov (unit 7 repeat) missed — unit 7 had already had its one repeat, so moved on: unit 8 (Arts 20–22) taught; Q13 Art 20(2) vs departmental action (static-art20-2), Q14 Art 359 — 20 & 21 not suspendable (weak unit 3, static-art359). Cursor → 9. 21 Nov: 20 Nov (unit 8) missed → unit 8 repeated once before an AILET surprise test (cursor stays 9, repeat done; D. K. Basu as the case); Q21 Art 352 one month/special majority (weak unit 3, static-art352-approval), Q22 Romesh Thappar 19(1)(a) (unit 7, static-art19-press). 22 Nov: 21 Nov (unit 8 repeat) missed — unit 8 already had its one repeat, so moved on: unit 9 (Art 21) taught; Q16 Art 21A/86th Am. (static-art21a), Q17 S. R. Bommai (weak unit 3, static-bommai). Cursor → 10. 23 Nov: 22 Nov (unit 9) missed → unit 9 repeated once (second pass: rights read into Art 21; D. K. Basu as the case); cursor stays 10, repeat done. Q13 Olga Tellis — livelihood (static-olga-tellis), Q14 44th Am. 'armed rebellion' in Art 352 (weak unit 3, static-art352-armed-rebellion). 24 Nov: 23 Nov (unit 9 repeat) missed — unit 9 already had its one repeat, so moved on: unit 10 (Arts 23–30) taught before a CLAT surprise test; Q21 Art 360 two-month simple-majority approval (weak unit 3, static-art360-approval), Q22 Maneka Gandhi (unit 9, static-maneka). Cursor → 11. 25 Nov: 24 Nov (unit 10) missed → unit 10 repeated once (second pass: who holds each right; Arts 27, 28 tiers, 30(1A); Bijoe Emmanuel as the case); cursor stays 11, repeat done. Q13 Art 29 any section of citizens (static-art29-citizens), Q14 Art 352(3) Cabinet decision in writing (weak unit 3, static-art352-cabinet). 26 Nov: 25 Nov (unit 10 repeat) missed — unit 10 already had its one repeat, so moved on: unit 11 (Writs) taught; Q13 prohibition before decision (static-writ-prohibition), Q14 Art 356(5) beyond one year (weak unit 3, static-art356-5). Cursor → 12."
   },
   "dashboard": {
     "url": "https://claude.ai/artifact/7QP98w9CGCsG5QrdtasF8W",

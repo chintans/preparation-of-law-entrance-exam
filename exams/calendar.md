@@ -1,6 +1,6 @@
 # Exam calendar
 
-Last verified: **2026-11-25** (web search; official sites to be re-checked each Monday)
+Last verified: **2026-11-26** (web search; official sites to be re-checked each Monday)
 
 Status key: **Confirmed** = stated in official notice or consistently reported from it · **Announced** =
 exam date published, other dates pending · **Tentative** = expected from past cycles.
@@ -14,7 +14,7 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | CLAT 2027 | **Exam** | **2026-12-06 (Sun), 2–4 PM, offline** | Confirmed | Careers360, FPJ (one Careers360 headline says 7 Dec; body and FPJ say 6 Dec — re-check on official site) |
 | AILET 2027 | Registration opened | 2026-08-07 | Confirmed | nationallawuniversitydelhi.in (via PW, Careers360) |
 | AILET 2027 | Registration closes | **2026-11-10 — now closed; no extension reported (11 Nov)** | Confirmed | Careers360 |
-| AILET 2027 | Admit card | 2026-11-30 | Reported | Careers360 (8 Oct) |
+| AILET 2027 | Admit card | **Released Tue 2026-11-24** (registration ID + password; earlier date 30 Nov superseded) | Reported | Careers360 AILET admit-card page (upd. 24 Nov 2026, 8:30 PM IST) |
 | AILET 2027 | **Exam** | **2026-12-13 (Sun), 2–4 PM, offline** | Confirmed | PW, Careers360 |
 | CUET PG 2027 | Registration opens | Dec 2026 (some sources: Jan 2027) | Tentative | Careers360, PW |
 | CUET PG 2027 | **Exam window** | **2–31 Mar 2027 on 17 days: 2–5, 8–9, 12, 15–19, 24–25, 29–31 (revised 26 Oct, buffer dates removed)** | Tentative | Careers360, PW, findmycollege (26–27 Oct 2026; NTA notice not seen; LLB paper day not announced) |
@@ -24,9 +24,9 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | NLSAT-LLB 2027 | Offers | end May 2027 | Reported | Careers360 |
 | LSAT India | — | Discontinued after May 2024 | Confirmed | LSAC notice (via AglaSem) |
 
-## Days to exam (as of 2026-11-25)
+## Days to exam (as of 2026-11-26)
 
-CLAT 11 · AILET 18 · CUET PG ~97 (to 2 Mar) · NLSAT 151
+CLAT 10 · AILET 17 · CUET PG ~96 (to 2 Mar) · NLSAT 150
 
 ## Change log
 
@@ -67,3 +67,4 @@ CLAT 11 · AILET 18 · CUET PG ~97 (to 2 Mar) · NLSAT 151
 - 2026-11-23 (Day 35 run, Monday) — CLAT within 21 days. Careers360, Deccan Herald, Bar & Bench, LiveLaw (CLAT 2027 on Sun 6 Dec, unchanged); Careers360/PW AILET admit-card pages (30 Nov, exam 13 Dec, unchanged). No CUET PG or NLSAT news. No date changes. Alert repeated: CLAT admit card out (gate closes 2:15 PM); AILET admit card in 7 days.
 - 2026-11-24 (Day 36 run) — CLAT within 21 days. Careers360, Deccan Herald, Bar & Bench, LiveLaw CLAT 2027 pages (6 Dec, 2–4 PM, unchanged); PW/Careers360/Collegedunia AILET admit-card pages (30 Nov, exam 13 Dec, unchanged). No date changes. Alert repeated: CLAT admit card out; AILET admit card in 6 days.
 - 2026-11-25 (Day 37 run) — CLAT within 21 days. Careers360, Deccan Herald, Bar & Bench, LiveLaw CLAT 2027 pages (6 Dec, 2–4 PM, unchanged); Careers360/PW/Shiksha AILET pages (admit card 30 Nov, exam 13 Dec, unchanged). No date changes. Alert repeated: CLAT admit card out; AILET admit card in 5 days.
+- 2026-11-26 (Day 38 run) — CLAT within 21 days. Careers360 AILET admit-card page (upd. 24 Nov 2026 8:30 PM IST): **AILET 2027 admit card released 24 Nov 2026** (not 30 Nov); exam 13 Dec offline unchanged. Shiksha CLAT page (upd. 24 Nov 23:01 IST), Deccan Herald, Bar & Bench, LiveLaw: CLAT 6 Dec unchanged, admit card out since 21 Nov. No CUET PG notice. Alert: download the AILET admit card.

@@ -1,19 +1,19 @@
 {
  "summary": [
   {
-   "as_of": "2026-11-25",
-   "day": 37,
+   "as_of": "2026-11-26",
+   "day": 38,
    "streak": 0,
    "sessions_graded": 23,
    "reading_level": 1,
    "target_wpm": 180,
-   "days_clat": 11,
+   "days_clat": 10,
    "level_clat": "Not ready",
-   "days_ailet": 18,
+   "days_ailet": 17,
    "level_ailet": "Strong",
-   "days_cuet": 97,
+   "days_cuet": 96,
    "level_cuet": "Not ready",
-   "days_nlsat": 151,
+   "days_nlsat": 150,
    "level_nlsat": "Not ready",
    "clat_indicative": 0.7943
   }
