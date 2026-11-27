@@ -2208,7 +2208,13 @@
    ],
    "fact": "Late Jul 2026: SC (CJI Surya Kant, Joymalya Bagchi, V. Mohana JJ) refused to interfere with Chhattisgarh HC bail to Chaitanya Baghel (liquor scam); SC not a regular appellate court (Bihar Legal Support Society 1986); Art 136 for exceptional cases of grave injustice; Art 136(2) excludes armed-forces tribunals",
    "sources": "Supreme Court Observer, Monthly Review July 2026",
-   "tests": [],
+   "tests": [
+    {
+     "date": "2026-11-27",
+     "q": "Q11",
+     "result": "pending"
+    }
+   ],
    "logged": "2026-11-12"
   },
   {
@@ -2225,7 +2231,13 @@
    ],
    "fact": "12 Jul 2026: Jannik Sinner (Italy) beat Alexander Zverev (Germany) in the Wimbledon men's final — second straight Wimbledon title; Wimbledon oldest Grand Slam (1877), only one on grass, All England Club",
    "sources": "Al Jazeera 12 Jul 2026; ATP Tour",
-   "tests": [],
+   "tests": [
+    {
+     "date": "2026-11-27",
+     "q": "Q12",
+     "result": "pending"
+    }
+   ],
    "logged": "2026-11-12"
   },
   {
@@ -4649,6 +4661,193 @@
     }
    ],
    "logged": "2026-11-26"
+  },
+  {
+   "id": "ca-20261127-1",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Arbitral tribunal cannot rewrite the contract — specific-performance award set aside (Shreeram Builders, SC, 29 Oct 2026)",
+   "topics": [
+    "LEG-NEW",
+    "LEG-CONT"
+   ],
+   "hooks": [
+    "Act: Arbitration and Conciliation Act 1996",
+    "A&C 34",
+    "A&C 37",
+    "A&C 28(3)",
+    "Case: Shreeram Builders v Upendra Kantilal Thanawala (2026)"
+   ],
+   "fact": "29 Oct 2026, Sanjay Kumar & Sanjeev Sachdeva JJ (2026 INSC 1176): tribunal cannot add terms or grant relief contrary to the agreement; award of specific performance set aside; refund with 9% simple interest; s. 37 appeal.",
+   "sources": "Verdictum weekly overview 26–30 Oct 2026 https://www.verdictum.in/app-lite/weekly-summary/weekly-overview-supreme-court-judgments-october-26-october-30-2026-1625041",
+   "logged": "2026-11-27",
+   "tests": []
+  },
+  {
+   "id": "ca-20261127-2",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "Defect in serving grounds of arrest not by itself a bail ground — bail cancelled (State of Rajasthan v Jhabra Ram, SC, 28 Oct 2026)",
+   "topics": [
+    "LEG-NEW",
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 22",
+    "BNSS 47",
+    "CrPC 50",
+    "Case: State of Rajasthan v Jhabra Ram (2026)",
+    "Case: Pankaj Bansal (2023)",
+    "Case: Prabir Purkayastha (2024)",
+    "Act: Official Secrets Act 1923"
+   ],
+   "fact": "28 Oct 2026, M. M. Sundresh & Prasanna B. Varale JJ (2026 INSC 1169): espionage case; procedural defect in how grounds of arrest were served is not by itself a ground for bail absent demonstrable prejudice or denial of opportunity to defend; bail cancelled.",
+   "sources": "Verdictum weekly overview 26–30 Oct 2026 https://www.verdictum.in/app-lite/weekly-summary/weekly-overview-supreme-court-judgments-october-26-october-30-2026-1625041",
+   "logged": "2026-11-27",
+   "tests": []
+  },
+  {
+   "id": "ca-20261127-3",
+   "kind": "brief",
+   "category": "polity",
+   "label": "West Bengal to push Rajbanshi for the Eighth Schedule (reported 26 Nov 2026); 22 languages; 92nd Am. 2003",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Eighth Schedule",
+    "Art 344",
+    "Art 351",
+    "Act: 92nd Amendment 2003",
+    "Report: Pahwa Committee 1996",
+    "Report: Sitakant Mohapatra Committee 2003"
+   ],
+   "fact": "WB to work for inclusion of Rajbanshi; Census 2011 counted Rajbangsi under Bengali; no accepted criteria (Pahwa 1996, Sitakant Mohapatra 2003). Eighth Schedule 22 languages; Bodo, Dogri, Maithili, Santhali added by 92nd Am. 2003.",
+   "sources": "NextIAS News in Brief 26-11-2026 https://www.nextias.com/ca/current-affairs/26-11-2026/news-in-brief-26-11-2026",
+   "logged": "2026-11-27",
+   "tests": []
+  },
+  {
+   "id": "ca-20261127-4",
+   "kind": "brief",
+   "category": "economy",
+   "label": "Kamarajar Port second container terminal — ₹4,288.26 cr, PPP DBFOT, ~2 m TEU (CCEA, 25 Nov 2026)",
+   "topics": [
+    "GK-ECO",
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: Kamarajar Port Ltd",
+    "Body: Ministry of Ports, Shipping and Waterways",
+    "Event: CCEA 25 Nov 2026"
+   ],
+   "fact": "CCEA approved second container terminal at Kamarajar Port (Ennore, TN), ₹4,288.26 cr incl. GST, PPP on DBFOT basis, capacity ~2 million TEUs. Kamarajar = first major port run as a public company.",
+   "sources": "BankExamsToday one-liners 26 Nov 2026; DT Next https://www.dtnext.in/news/chennai/kamarajar-port-to-add-2-million-teus-with-rs4288-cr-second-container-terminal-expansion",
+   "logged": "2026-11-27",
+   "tests": []
+  },
+  {
+   "id": "ca-20261127-5",
+   "kind": "brief",
+   "category": "international/reports",
+   "label": "Lowy Asia Power Index 2026 — India 3rd (40.5); US 78.9, China 73.6 (reported 26 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Report: Asia Power Index 2026",
+    "Body: Lowy Institute (Sydney)"
+   ],
+   "fact": "27 countries; US 78.9, China 73.6 (gap 5.3, lowest since 2018); India 3rd at 40.5 (+0.5); major power since 2025 edition.",
+   "sources": "NextIAS News in Brief 26-11-2026 (single 2026 source); Lowy India profile https://power.lowyinstitute.org/countries/india",
+   "logged": "2026-11-27",
+   "tests": []
+  },
+  {
+   "id": "ca-20261127-6",
+   "kind": "brief",
+   "category": "appointments",
+   "label": "Rahul Madan named next IBBI Chairperson (announced 23 Nov 2026)",
+   "topics": [
+    "GK-CA",
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Body: IBBI",
+    "Person: Rahul Madan",
+    "Act: Insolvency and Bankruptcy Code 2016"
+   ],
+   "fact": "Announced by MCA Secretary Pallavi Jain Govil at IIIPI 10th Foundation Day; Madan MD of IIIPI, chairperson-designate; Ravi Mittal retired Sept 2026; Jayanti Prasad additional charge from 13 Sept. IBBI set up 1 Oct 2016 under IBC, under MCA.",
+   "sources": "GK365 26 Nov 2026; BankExamsToday 26 Nov 2026; Business Today Jun 2026",
+   "logged": "2026-11-27",
+   "tests": []
+  },
+  {
+   "id": "ca-20261127-L1",
+   "kind": "lesson",
+   "category": "legal/judgments",
+   "label": "s. 106 IEA / s. 109 BSA — failure to explain counts only after prosecution leads evidence sustaining conviction (Kamalbai Waman Patil, SC, 5 Nov 2026)",
+   "topics": [
+    "LEG-NEW",
+    "LEG-CRIM"
+   ],
+   "hooks": [
+    "IEA 106",
+    "BSA 109",
+    "Case: Kamalbai Waman Patil v State of Maharashtra (2026)",
+    "Case: Shambhu Nath Mehra v State of Ajmer (1956)",
+    "Case: Ramkishan Digambar Jadhav v State of Maharashtra (2026)"
+   ],
+   "fact": "5 Nov 2026, Ujjal Bhuyan & Atul S. Chandurkar JJ (2026 INSC 1196): accused's lack of explanation under s. 106 counts only after prosecution leads evidence which if believed would sustain conviction. 2 Nov 2026 Ramkishan Jadhav: false epileptic-fit defence completed the chain.",
+   "sources": "Verdictum weekly overview 2–6 Nov 2026 https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-november-2-november-6-2026-1625472",
+   "logged": "2026-11-27",
+   "tests": []
+  },
+  {
+   "id": "static-quo-warranto",
+   "kind": "static",
+   "category": "polity",
+   "label": "Quo warranto — any person may apply, even if not personally aggrieved; substantive public office",
+   "topics": [
+    "LEG-CONST"
+   ],
+   "hooks": [
+    "Art 32",
+    "Art 226"
+   ],
+   "fact": "Quo warranto asks by what authority a person holds a substantive public office (statutory/constitutional); any person may apply; locus standi relaxed.",
+   "sources": "Constitution of India; standard texts",
+   "logged": "2026-11-27",
+   "tests": [
+    {
+     "date": "2026-11-27",
+     "q": "Q13",
+     "result": "pending"
+    }
+   ]
+  },
+  {
+   "id": "static-art352-revoke",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 352(7)/(8) — Lok Sabha can revoke National Emergency by simple-majority disapproval; 1/10 members can seek special sitting (44th Am.)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 352",
+    "Act: 44th Amendment 1978"
+   ],
+   "fact": "44th Am. 1978: President must revoke if LS passes resolution disapproving the proclamation (simple majority); notice by 1/10 of LS members → special sitting within 14 days.",
+   "sources": "Constitution of India",
+   "logged": "2026-11-27",
+   "tests": [
+    {
+     "date": "2026-11-27",
+     "q": "Q14",
+     "result": "pending"
+    }
+   ]
   }
  ]
 }
