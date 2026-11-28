@@ -5,6 +5,22 @@ Newest first. Format: `logged (kind) · category · fact · sources` then the te
 
 CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly Apr 2026 – Mar 2027.
 
+2026-11-28 (static) · polity · Art 361: President/Governor not answerable to any court for exercise of powers and duties of office; mandamus lies against public authorities, municipal bodies, statutory universities that fail a public duty. · Constitution of India  
+  `static-mandamus-361` · LEG-CONST · hooks: Art 361, Art 32, Art 226 · tested: 2026-11-28 Q21 …
+2026-11-28 (static) · polity · President's Rule approved within 2 months, renewable 6 months at a time, maximum 3 years; beyond 1 year only if National Emergency + EC certificate (356(5)). · Constitution of India  
+  `static-art356-3yr` · GK-POL · hooks: Art 356 · tested: 2026-11-28 Q20 …
+2026-11-28 (brief) · sports · 26 Nov 2026: online interaction with IOC FHC (chair Kolinda Grabar-Kitarović, 9 members); Ahmedabad proposed host; IOC opinion survey Dec, evaluation Mar 2027; other bidders Germany, Hungary, Qatar, S. Korea, S. Africa, Türkiye; IOC HQ Lausanne · AIR News 26 Nov 2026 (single source)  
+  `ca-20261128-6` · GK-CA · hooks: Body: IOC, Event: 2036 Olympics, Person: Kolinda Grabar-Kitarović · not yet tested
+2026-11-28 (brief) · international · 27 Nov 2026: India (IORA Chair 2025–27) hosted 25th Council of Ministers, 23 member states; PM Modi met delegates, invoked MAHASAGAR; IORA founded 1997, Secretariat Ebene, Mauritius; 2-year chair · AIR News 27 Nov 2026; iora.int  
+  `ca-20261128-5` · GK-CA · hooks: Body: IORA, Event: IORA Council of Ministers · not yet tested
+2026-11-28 (brief) · economy/schemes · 25 Nov 2026: Cabinet extended Estates Management Scheme (₹1,491 cr) and Postal Operations Scheme (₹1,141 cr) to 2030-31; total ₹2,632 cr; Department of Posts, Ministry of Communications · PIB; Business Standard 25 Nov 2026  
+  `ca-20261128-4` · GK-ECO, GK-CA · hooks: Body: Department of Posts · not yet tested
+2026-11-28 (brief) · economy · 27 Nov 2026: RBI cut minimum daily CRR maintenance from 99% to 90% of requirement, effective fortnight beginning 1 Dec 2026, as liquidity turned deficit (GST outflows, forex intervention); reverses 9 Oct 2026 hike 90→99%; CRR under s. 42(1) RBI Act · AIR News 27 Nov 2026 (single source for the cut); RBI circular Oct 2026  
+  `ca-20261128-3` · GK-ECO · hooks: Body: RBI, Act: RBI Act 1934, RBI Act 42 · not yet tested
+2026-11-28 (brief) · polity · 27 Nov 2026: Union Cabinet approved revised Constitution Amendment Bill — uniform 50% rise in LS seats per State (543 to max 850), State shares frozen till 2051, delimitation on 2011 Census, 33% women's reservation before 2029; special sitting LS 30 Nov–1 Dec, RS 2–3 Dec; April 2026 version failed in LS 17 Apr (no two-thirds) · DT Next; NewsGram 27 Nov 2026; Telangana Today (background)  
+  `ca-20261128-2` · GK-POL · hooks: Art 368, Art 81, Art 82, Art 330A, Art 332A, Art 334A, Act: 106th Amendment 2023, Event: Delimitation · not yet tested
+2026-11-28 (brief) · legal/judgments · 16 Nov 2026, 2026 INSC 1226: Masih & Sachdeva JJ; HC acquittal 20 Jan 2018 never reached jail, released 19 May 2025; HC's ₹2 lakh raised to ₹30 lakh payable by Chhattisgarh in 4 weeks ('remedial minimum, not charity'); HCs asked to consider MP-style online criminal-justice platform · Bar & Bench; Verdictum weekly overview 16–20 Nov 2026  
+  `ca-20261128-1` · LEG-NEW · hooks: Art 21, Art 32, Art 226, Case: Devilal Gond v. State of Chhattisgarh, Case: Rudul Sah v. State of Bihar · not yet tested
 2026-11-27 (static) · polity · Quo warranto asks by what authority a person holds a substantive public office (statutory/constitutional); any person may apply; locus standi relaxed. · Constitution of India; standard texts  
   `static-quo-warranto` · LEG-CONST · hooks: Art 32, Art 226 · tested: 2026-11-27 Q13 …
 2026-11-27 (static) · polity · 44th Am. 1978: President must revoke if LS passes resolution disapproving the proclamation (simple majority); notice by 1/10 of LS members → special sitting within 14 days. · Constitution of India  
@@ -246,9 +262,9 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-13 (brief) · polity · 4 Nov 2026: SC (P. S. Narasimha, Alok Aradhe JJ), Mangala Bhimrao Ingle (2026 INSC 1193) — Sarpanch disqualified under s. 14(1)(j-1) MVP Act for >2 children; Court said such laws have lost relevance and referred the precedent upholding them to a larger bench (validity not challenged). Hook Art 243F (State law disqualifications); Javed (2003) leading earlier ruling · Verdictum weekly overview 2–6 Nov 2026  
   `ca-20261113-5` · GK-POL · hooks: Art 243F, Act: Maharashtra Village Panchayats Act 1959, Case: Javed v. State of Haryana, Amendment: 73rd · not yet tested
 2026-11-13 (brief) · legal/judgments · 6 Nov 2026: SC (Augustine George Masih, Sunita Agarwal JJ), J. Rajesh v. M. Kumaran (2026 INSC 1208) — share a son gets when father's estate devolves under s. 8 HSA is his separate property, not coparcenary; grandson has no birthright; followed Chander Sen (1986); s. 6 and TN s. 29-A (1989) inapplicable · Verdictum weekly overview 2–6 Nov 2026  
-  `ca-20261113-4` · LEG-NEW · hooks: Act: Hindu Succession Act 1956, HSA 8, HSA 6, Case: CWT v. Chander Sen · not yet tested
+  `ca-20261113-4` · LEG-NEW · hooks: Act: Hindu Succession Act 1956, HSA 8, HSA 6, Case: CWT v. Chander Sen · tested: 2026-11-28 Q7 …
 2026-11-13 (brief) · sports · Glasgow Commonwealth Games closed 2 Aug 2026: India 4th with 39 medals (13 gold); Australia top; no wrestling or shooting on the programme; 2030 centenary Games — Ahmedabad · The Week 2 Aug 2026; Business Today 3 Aug 2026  
-  `ca-20261113-3` · GK-CA · hooks: Event: Commonwealth Games 2026 · not yet tested
+  `ca-20261113-3` · GK-CA · hooks: Event: Commonwealth Games 2026 · tested: 2026-11-28 Q8 …
 2026-11-13 (brief) · economy · 5 Aug 2026: RBI MPC (Governor Sanjay Malhotra) kept repo at 5.25%, neutral stance; FY27 GDP projection raised to 6.7%. MPC: 6 members (3 RBI incl. Governor, 3 Centre-appointed), Governor casting vote; RBI Act s. 45ZB; target 4% CPI ±2% · SCC Online blog 10 Aug 2026; IIFL 5 Aug 2026  
   `ca-20261113-2` · GK-ECO · hooks: Body: RBI, Body: Monetary Policy Committee, RBI Act 45ZB, Person: Sanjay Malhotra · not yet tested
 2026-11-13 (brief) · legal/judgments · Early Aug 2026 (SCC blog 4 Aug): SC (Sanjay Karol, N. Kotiswar Singh JJ) — IPC 498-A (= BNS 85) applies to a man in a live-in relationship in the nature of marriage (intent to marry intrinsic), consenting adults only; extended reading limited to 498-A; Arnesh Kumar (2014) arrest safeguards apply strictly · SCC Online blog 4 Aug & 9 Sep 2026 (2026 SCC OnLine SC 1470)  
@@ -258,9 +274,9 @@ CLAT/AILET 2027 window: roughly Nov 2025 – Nov 2026. NLSAT/CUET 2027: roughly 
 2026-11-12 (brief) · economy/schemes · PIB 9–10 Nov 2026 (National Entrepreneurship Day): ~2.62 lakh DPIIT-recognised startups; 25.36 lakh jobs; Fund of Funds for Startups ~₹28,254 cr to 1,475 startups; Startup India launched 16 Jan 2016 (National Startup Day); FFS run by SIDBI · Legacy IAS PIB summary 10 Nov 2026 (PIB release 2334411) — approximate  
   `ca-20261112-6` · GK-ECO, GK-CA · hooks: Body: DPIIT, Body: SIDBI, Event: Startup India (2016) · not yet tested
 2026-11-12 (brief) · international · 9 Nov 2026: COP31 opened at Antalya Expo Center, Türkiye; COP31 President Murat Kurum ("Implementation COP"); Australia's Chris Bowen "president of negotiations" under a bilateral hosting deal; UNFCCC 1992, secretariat Bonn; COP30 Belém 2025 · Daily Sabah 9 Nov 2026  
-  `ca-20261112-5` · GK-CA · hooks: Event: COP31, Body: UNFCCC, Person: Murat Kurum, Person: Chris Bowen · not yet tested
+  `ca-20261112-5` · GK-CA · hooks: Event: COP31, Body: UNFCCC, Person: Murat Kurum, Person: Chris Bowen · tested: 2026-11-28 Q6 …
 2026-11-12 (brief) · legal/judgments · 5 Nov 2026: SC (Ujjal Bhuyan, Atul S. Chandurkar JJ), appeals from Tripura HC (NDPS bail) — 24 h for production before magistrate under Art 22(2) runs from actual detention (29 Sep 2025, 2 PM), not formal arrest; distinction "constitutionally unsustainable"; detention beyond 24 h without production → immediate release; magistrates to record time of detention; BNSS 58 (= CrPC 57) · The South First 5 Nov 2026 (citing LiveLaw, Bar & Bench); LiveLaw headline 5 Nov 2026  
-  `ca-20261112-4` · LEG-NEW · hooks: Art 22, BNSS 58, CrPC 57, Act: NDPS Act 1985 · not yet tested
+  `ca-20261112-4` · LEG-NEW · hooks: Art 22, BNSS 58, CrPC 57, Act: NDPS Act 1985 · tested: 2026-11-28 Q5 …
 2026-11-12 (brief) · sports · 12 Jul 2026: Jannik Sinner (Italy) beat Alexander Zverev (Germany) in the Wimbledon men's final — second straight Wimbledon title; Wimbledon oldest Grand Slam (1877), only one on grass, All England Club · Al Jazeera 12 Jul 2026; ATP Tour  
   `ca-20261112-3` · GK-CA · hooks: Event: Wimbledon 2026, Person: Jannik Sinner · tested: 2026-11-27 Q12 …
 2026-11-12 (brief) · polity · Late Jul 2026: SC (CJI Surya Kant, Joymalya Bagchi, V. Mohana JJ) refused to interfere with Chhattisgarh HC bail to Chaitanya Baghel (liquor scam); SC not a regular appellate court (Bihar Legal Support Society 1986); Art 136 for exceptional cases of grave injustice; Art 136(2) excludes armed-forces tribunals · Supreme Court Observer, Monthly Review July 2026  

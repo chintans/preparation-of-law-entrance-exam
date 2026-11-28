@@ -2256,7 +2256,13 @@
    ],
    "fact": "5 Nov 2026: SC (Ujjal Bhuyan, Atul S. Chandurkar JJ), appeals from Tripura HC (NDPS bail) — 24 h for production before magistrate under Art 22(2) runs from actual detention (29 Sep 2025, 2 PM), not formal arrest; distinction \"constitutionally unsustainable\"; detention beyond 24 h without production → immediate release; magistrates to record time of detention; BNSS 58 (= CrPC 57)",
    "sources": "The South First 5 Nov 2026 (citing LiveLaw, Bar & Bench); LiveLaw headline 5 Nov 2026",
-   "tests": [],
+   "tests": [
+    {
+     "date": "2026-11-28",
+     "q": "Q5",
+     "result": "pending"
+    }
+   ],
    "logged": "2026-11-12"
   },
   {
@@ -2275,7 +2281,13 @@
    ],
    "fact": "9 Nov 2026: COP31 opened at Antalya Expo Center, Türkiye; COP31 President Murat Kurum (\"Implementation COP\"); Australia's Chris Bowen \"president of negotiations\" under a bilateral hosting deal; UNFCCC 1992, secretariat Bonn; COP30 Belém 2025",
    "sources": "Daily Sabah 9 Nov 2026",
-   "tests": [],
+   "tests": [
+    {
+     "date": "2026-11-28",
+     "q": "Q6",
+     "result": "pending"
+    }
+   ],
    "logged": "2026-11-12"
   },
   {
@@ -2373,7 +2385,13 @@
    ],
    "fact": "Glasgow Commonwealth Games closed 2 Aug 2026: India 4th with 39 medals (13 gold); Australia top; no wrestling or shooting on the programme; 2030 centenary Games — Ahmedabad",
    "sources": "The Week 2 Aug 2026; Business Today 3 Aug 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-28",
+     "q": "Q8",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261113-4",
@@ -2392,7 +2410,13 @@
    ],
    "fact": "6 Nov 2026: SC (Augustine George Masih, Sunita Agarwal JJ), J. Rajesh v. M. Kumaran (2026 INSC 1208) — share a son gets when father's estate devolves under s. 8 HSA is his separate property, not coparcenary; grandson has no birthright; followed Chander Sen (1986); s. 6 and TN s. 29-A (1989) inapplicable",
    "sources": "Verdictum weekly overview 2–6 Nov 2026",
-   "tests": []
+   "tests": [
+    {
+     "date": "2026-11-28",
+     "q": "Q7",
+     "result": "pending"
+    }
+   ]
   },
   {
    "id": "ca-20261113-5",
@@ -4848,6 +4872,165 @@
      "result": "pending"
     }
    ]
+  },
+  {
+   "id": "ca-20261128-1",
+   "kind": "brief",
+   "category": "legal/judgments",
+   "label": "₹30 lakh compensation — jailed 7+ years after acquittal (Devilal Gond v. State of Chhattisgarh, 16 Nov 2026)",
+   "topics": [
+    "LEG-NEW"
+   ],
+   "hooks": [
+    "Art 21",
+    "Art 32",
+    "Art 226",
+    "Case: Devilal Gond v. State of Chhattisgarh",
+    "Case: Rudul Sah v. State of Bihar"
+   ],
+   "fact": "16 Nov 2026, 2026 INSC 1226: Masih & Sachdeva JJ; HC acquittal 20 Jan 2018 never reached jail, released 19 May 2025; HC's ₹2 lakh raised to ₹30 lakh payable by Chhattisgarh in 4 weeks ('remedial minimum, not charity'); HCs asked to consider MP-style online criminal-justice platform",
+   "sources": "Bar & Bench; Verdictum weekly overview 16–20 Nov 2026",
+   "tests": [],
+   "logged": "2026-11-28"
+  },
+  {
+   "id": "ca-20261128-2",
+   "kind": "brief",
+   "category": "polity",
+   "label": "Cabinet clears revised delimitation-linked women's-quota bill — LS 543→850, freeze to 2051, 2011 Census; special sitting 30 Nov–3 Dec (27 Nov 2026)",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 368",
+    "Art 81",
+    "Art 82",
+    "Art 330A",
+    "Art 332A",
+    "Art 334A",
+    "Act: 106th Amendment 2023",
+    "Event: Delimitation"
+   ],
+   "fact": "27 Nov 2026: Union Cabinet approved revised Constitution Amendment Bill — uniform 50% rise in LS seats per State (543 to max 850), State shares frozen till 2051, delimitation on 2011 Census, 33% women's reservation before 2029; special sitting LS 30 Nov–1 Dec, RS 2–3 Dec; April 2026 version failed in LS 17 Apr (no two-thirds)",
+   "sources": "DT Next; NewsGram 27 Nov 2026; Telangana Today (background)",
+   "tests": [],
+   "logged": "2026-11-28"
+  },
+  {
+   "id": "ca-20261128-3",
+   "kind": "brief",
+   "category": "economy",
+   "label": "RBI cuts daily CRR maintenance floor 99% → 90% (27 Nov 2026, from fortnight of 1 Dec)",
+   "topics": [
+    "GK-ECO"
+   ],
+   "hooks": [
+    "Body: RBI",
+    "Act: RBI Act 1934",
+    "RBI Act 42"
+   ],
+   "fact": "27 Nov 2026: RBI cut minimum daily CRR maintenance from 99% to 90% of requirement, effective fortnight beginning 1 Dec 2026, as liquidity turned deficit (GST outflows, forex intervention); reverses 9 Oct 2026 hike 90→99%; CRR under s. 42(1) RBI Act",
+   "sources": "AIR News 27 Nov 2026 (single source for the cut); RBI circular Oct 2026",
+   "tests": [],
+   "logged": "2026-11-28"
+  },
+  {
+   "id": "ca-20261128-4",
+   "kind": "brief",
+   "category": "economy/schemes",
+   "label": "Two India Post schemes extended to FY31 — ₹2,632 cr (Cabinet, 25 Nov 2026)",
+   "topics": [
+    "GK-ECO",
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: Department of Posts"
+   ],
+   "fact": "25 Nov 2026: Cabinet extended Estates Management Scheme (₹1,491 cr) and Postal Operations Scheme (₹1,141 cr) to 2030-31; total ₹2,632 cr; Department of Posts, Ministry of Communications",
+   "sources": "PIB; Business Standard 25 Nov 2026",
+   "tests": [],
+   "logged": "2026-11-28"
+  },
+  {
+   "id": "ca-20261128-5",
+   "kind": "brief",
+   "category": "international",
+   "label": "25th IORA Council of Ministers, New Delhi — India Chair 2025–27, MAHASAGAR (27 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: IORA",
+    "Event: IORA Council of Ministers"
+   ],
+   "fact": "27 Nov 2026: India (IORA Chair 2025–27) hosted 25th Council of Ministers, 23 member states; PM Modi met delegates, invoked MAHASAGAR; IORA founded 1997, Secretariat Ebene, Mauritius; 2-year chair",
+   "sources": "AIR News 27 Nov 2026; iora.int",
+   "tests": [],
+   "logged": "2026-11-28"
+  },
+  {
+   "id": "ca-20261128-6",
+   "kind": "brief",
+   "category": "sports",
+   "label": "India presents 2036 Olympics roadmap (Ahmedabad) to IOC Future Host Commission (26 Nov 2026)",
+   "topics": [
+    "GK-CA"
+   ],
+   "hooks": [
+    "Body: IOC",
+    "Event: 2036 Olympics",
+    "Person: Kolinda Grabar-Kitarović"
+   ],
+   "fact": "26 Nov 2026: online interaction with IOC FHC (chair Kolinda Grabar-Kitarović, 9 members); Ahmedabad proposed host; IOC opinion survey Dec, evaluation Mar 2027; other bidders Germany, Hungary, Qatar, S. Korea, S. Africa, Türkiye; IOC HQ Lausanne",
+   "sources": "AIR News 26 Nov 2026 (single source)",
+   "tests": [],
+   "logged": "2026-11-28"
+  },
+  {
+   "id": "static-art356-3yr",
+   "kind": "static",
+   "category": "polity",
+   "label": "Art 356(4) proviso — President's Rule max 3 years with six-monthly approvals",
+   "topics": [
+    "GK-POL"
+   ],
+   "hooks": [
+    "Art 356"
+   ],
+   "fact": "President's Rule approved within 2 months, renewable 6 months at a time, maximum 3 years; beyond 1 year only if National Emergency + EC certificate (356(5)).",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-28",
+     "q": "Q20",
+     "result": "pending"
+    }
+   ],
+   "logged": "2026-11-28"
+  },
+  {
+   "id": "static-mandamus-361",
+   "kind": "static",
+   "category": "polity",
+   "label": "Mandamus does not lie against the President or a Governor for official acts (Art 361)",
+   "topics": [
+    "LEG-CONST"
+   ],
+   "hooks": [
+    "Art 361",
+    "Art 32",
+    "Art 226"
+   ],
+   "fact": "Art 361: President/Governor not answerable to any court for exercise of powers and duties of office; mandamus lies against public authorities, municipal bodies, statutory universities that fail a public duty.",
+   "sources": "Constitution of India",
+   "tests": [
+    {
+     "date": "2026-11-28",
+     "q": "Q21",
+     "result": "pending"
+    }
+   ],
+   "logged": "2026-11-28"
   }
  ]
 }

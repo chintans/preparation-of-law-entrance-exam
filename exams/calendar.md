@@ -1,6 +1,6 @@
 # Exam calendar
 
-Last verified: **2026-11-27** (web search; official sites to be re-checked each Monday)
+Last verified: **2026-11-28** (web search; official sites to be re-checked each Monday)
 
 Status key: **Confirmed** = stated in official notice or consistently reported from it · **Announced** =
 exam date published, other dates pending · **Tentative** = expected from past cycles.
@@ -24,9 +24,9 @@ exam date published, other dates pending · **Tentative** = expected from past c
 | NLSAT-LLB 2027 | Offers | end May 2027 | Reported | Careers360 |
 | LSAT India | — | Discontinued after May 2024 | Confirmed | LSAC notice (via AglaSem) |
 
-## Days to exam (as of 2026-11-27)
+## Days to exam (as of 2026-11-28)
 
-CLAT 9 · AILET 16 · CUET PG ~95 (to 2 Mar) · NLSAT 149
+CLAT 8 · AILET 15 · CUET PG ~94 (to 2 Mar) · NLSAT 148
 
 ## Change log
 
@@ -69,3 +69,4 @@ CLAT 9 · AILET 16 · CUET PG ~95 (to 2 Mar) · NLSAT 149
 - 2026-11-25 (Day 37 run) — CLAT within 21 days. Careers360, Deccan Herald, Bar & Bench, LiveLaw CLAT 2027 pages (6 Dec, 2–4 PM, unchanged); Careers360/PW/Shiksha AILET pages (admit card 30 Nov, exam 13 Dec, unchanged). No date changes. Alert repeated: CLAT admit card out; AILET admit card in 5 days.
 - 2026-11-26 (Day 38 run) — CLAT within 21 days. Careers360 AILET admit-card page (upd. 24 Nov 2026 8:30 PM IST): **AILET 2027 admit card released 24 Nov 2026** (not 30 Nov); exam 13 Dec offline unchanged. Shiksha CLAT page (upd. 24 Nov 23:01 IST), Deccan Herald, Bar & Bench, LiveLaw: CLAT 6 Dec unchanged, admit card out since 21 Nov. No CUET PG notice. Alert: download the AILET admit card.
 - 2026-11-27 (Day 39 run) — CLAT within 21 days. Careers360, Deccan Herald, Bar & Bench, LiveLaw, FPJ CLAT 2027 pages: exam Sun 6 Dec 2026, 2–4 PM, unchanged; CLAT (21 Nov) and AILET (24 Nov) admit cards already out. No CUET PG or NLSAT news. No date changes.
+- 2026-11-28 (Day 40 run) — CLAT within 21 days. Careers360, Deccan Herald, Bar & Bench, LiveLaw CLAT 2027 pages: exam Sun 6 Dec 2026, 2–4 PM, unchanged; no new AILET (13 Dec), CUET PG or NLSAT notice seen. No date changes.

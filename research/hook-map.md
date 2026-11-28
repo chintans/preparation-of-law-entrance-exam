@@ -1,6 +1,6 @@
 # Hook map
 
-Generated 2026-11-27 by `tools/hookmap.py` from `research/ca-items.json` — do not edit by hand.
+Generated 2026-11-28 by `tools/hookmap.py` from `research/ca-items.json` — do not edit by hand.
 Record: ✓ right · ✗ wrong · – left blank · … awaiting answers · · never tested.
 
 Use: before writing a CA or polity question, look up its hook here — test a **neighbour** of a hook he has
@@ -11,17 +11,17 @@ already got right, re-test hooks with ✗/–, and avoid items already tested tw
 Never tested first (oldest first), then items whose last attempt was wrong or blank.
 
 - `ca-20261105-6` Exports H1 FY27 ~US$480 bn — GK-ECO · ·
-- `ca-20261112-4` 24-hour production clock runs from detention (SC, 5 Nov 2026) — LEG-NEW · ·
-- `ca-20261112-5` COP31 opens in Antalya, Türkiye (9 Nov 2026) — GK-CA · ·
 - `ca-20261112-6` Startup India: ~2.62 lakh DPIIT-recognised startups (Nov 2026) — GK-ECO, GK-CA · ·
 - `ca-20261113-1` s. 498-A covers live-in 'relationship in the nature of marriage' (Lokesh B. H., Aug 2026) — LEG-NEW · ·
 - `ca-20261113-2` RBI holds repo 5.25%, FY27 GDP 6.7% (MPC, 5 Aug 2026) — GK-ECO · ·
-- `ca-20261113-3` India 4th at Glasgow CWG 2026 — 39 medals (13 gold) — GK-CA · ·
-- `ca-20261113-4` No birthright in father's HSA s. 8 share (J. Rajesh, 6 Nov 2026) — LEG-NEW · ·
 - `ca-20261113-5` Two-child norm 'lost relevance' — referred to larger bench (Mangala Ingle, 4 Nov 2026) — GK-POL · ·
 - `ca-20261113-6` G20 Miami summit 14–15 Dec 2026; South Africa not invited — GK-CA · ·
 - `ca-20261114-1` Maharashtra Poisons Rules 18A/18B (methanol) struck down — Arts 14, 19(1)(g) (Balaji Formalin, 18 Sep 2026) — LEG-NEW · ·
 - `ca-20261114-2` GST Sept 2026 ₹2.04 lakh cr (+14.7%) — GK-ECO · ·
+- `ca-20261114-3` India 4th at Aichi-Nagoya Asian Games 2026 — 85 medals (21 gold) — GK-CA · ·
+- `ca-20261114-4` Cultivation alone ≠ forest dweller under FRA (A. John Kennedy, 6 Nov 2026) — LEG-NEW · ·
+- `ca-20261114-5` 7-judge bench closes sales-tax surcharge reference (Arjun Flour Mills, 4 Nov 2026); royalty not a tax (MADA 2024) — GK-POL · ·
+- `ca-20261114-6` PM Modi to visit Canada 11–12 Dec 2026; CEPA talks with Mark Carney — GK-CA · ·
 
 ## Confusions he has made (the wrong option he picked)
 
@@ -68,9 +68,9 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 19(1)(f) | Right to property — Art 300A (44th Am. 1978 deleted 19(1)(f), 31) `static-art300a` … |
 | Art 19(1)(a) | Internet access a fundamental right incl. children (Just Rights for Children Alliance v S. Harish, Oct 2026) `ca-20261115-1` ·; Romesh Thappar (1950) — press freedom within Art 19(1)(a) `static-art19-press` … |
 | Art 20 | Art 359 — Arts 20 and 21 cannot be suspended in emergency (44th Am.) `static-art359` ……; Art 20(2) double jeopardy — departmental action is not prosecution `static-art20-2` … |
-| Art 21 | s. 17A PC Act split verdict `ca-20261106-1` …; Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; Harish Rana passive euthanasia `ca-20261108-1` …; Right to walk on footpaths is a fundamental right `ca-20261111-1` …; Art 359 — Arts 20 and 21 cannot be suspended in emergency (44th Am.) `static-art359` ……; Internet access a fundamental right incl. children (Just Rights for Children Alliance v S. Harish, Oct 2026) `ca-20261115-1` ·; Citizens-only FRs: Arts 15, 16, 19, 29, 30 `static-fr-citizens` …; DPDP consent-manager rules in force (13 Nov 2026); register with Data Protection Board `ca-20261116-1` ·; Delhi HC: child's right to know biological father can outweigh father's privacy (DNA test upheld) `ca-20261122-1` ·; Jharkhand HC: PMLA bail conditions cannot override Art 21 (Prayag Group case) `ca-20261122-2` ·; Delhi HC final decree — Amitabh Bachchan personality rights (Nov 2026) `ca-20261123-2` ·; Olga Tellis (1985) — right to livelihood in Art 21 `static-olga-tellis` …; Maneka Gandhi (1978) — Art 21 procedure must be just, fair, reasonable `static-maneka` … |
+| Art 21 | s. 17A PC Act split verdict `ca-20261106-1` …; Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; Harish Rana passive euthanasia `ca-20261108-1` …; Right to walk on footpaths is a fundamental right `ca-20261111-1` …; Art 359 — Arts 20 and 21 cannot be suspended in emergency (44th Am.) `static-art359` ……; Internet access a fundamental right incl. children (Just Rights for Children Alliance v S. Harish, Oct 2026) `ca-20261115-1` ·; Citizens-only FRs: Arts 15, 16, 19, 29, 30 `static-fr-citizens` …; DPDP consent-manager rules in force (13 Nov 2026); register with Data Protection Board `ca-20261116-1` ·; Delhi HC: child's right to know biological father can outweigh father's privacy (DNA test upheld) `ca-20261122-1` ·; Jharkhand HC: PMLA bail conditions cannot override Art 21 (Prayag Group case) `ca-20261122-2` ·; Delhi HC final decree — Amitabh Bachchan personality rights (Nov 2026) `ca-20261123-2` ·; Olga Tellis (1985) — right to livelihood in Art 21 `static-olga-tellis` …; Maneka Gandhi (1978) — Art 21 procedure must be just, fair, reasonable `static-maneka` …; ₹30 lakh compensation — jailed 7+ years after acquittal (Devilal Gond v. State of Chhattisgarh, 16 Nov 2026) `ca-20261128-1` · |
 | Art 21A | Art 21A — education 6–14 by 86th Am. 2002 (also Art 45, 51A(k)) `static-art21a` … |
-| Art 22 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; Art 22(3) exceptions — enemy alien, preventive detention `static-art22-3` ✓; 24-hour production clock runs from detention (SC, 5 Nov 2026) `ca-20261112-4` ·; Defect in serving grounds of arrest not by itself a bail ground — bail cancelled (State of Rajasthan v Jhabra Ram, SC, 28 Oct 2026) `ca-20261127-2` · |
+| Art 22 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; Art 22(3) exceptions — enemy alien, preventive detention `static-art22-3` ✓; 24-hour production clock runs from detention (SC, 5 Nov 2026) `ca-20261112-4` …; Defect in serving grounds of arrest not by itself a bail ground — bail cancelled (State of Rajasthan v Jhabra Ram, SC, 28 Oct 2026) `ca-20261127-2` · |
 | Art 22(2) | Digital-arrest frauds — SC suo motu: banks failing due diligence may compensate (Oct 2026) `ca-20261123-L1` … |
 | Art 23 | Honorarium ₹7,000 is begar (Art 23) `ca-20261107-1` …; Bonded labour SOP (Surendra Manjhi, 2 Nov 2026) `ca-20261111-4` … |
 | Art 25 | Thiruparankundram Deepathoon lamp — SC one-time permission (20 Nov); TN HR&CE review petition (22 Nov 2026) `ca-20261124-2` ·; Art 29(1) — any section of citizens (not only minorities); Art 30 minorities only; Art 25 all persons `static-art29-citizens` … |
@@ -78,10 +78,12 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 29 | Citizens-only FRs: Arts 15, 16, 19, 29, 30 `static-fr-citizens` …; Art 29(1) — any section of citizens (not only minorities); Art 30 minorities only; Art 25 all persons `static-art29-citizens` … |
 | Art 30 | Citizens-only FRs: Arts 15, 16, 19, 29, 30 `static-fr-citizens` …; Art 29(1) — any section of citizens (not only minorities); Art 30 minorities only; Art 25 all persons `static-art29-citizens` … |
 | Art 31 | Right to property — Art 300A (44th Am. 1978 deleted 19(1)(f), 31) `static-art300a` … |
-| Art 32 | Art 131 — Union–State original suit `static-art131` ✗✓✓; CBI inquiry into Arunachal contracts (Art 14) `ca-20261109-1` …; Art 226 wider than Art 32 ("any other purpose") `static-art226-wider` ✓; Art 329(b): rejected RS nomination only by election petition `ca-20261111-2` …; Writ of prohibition — stops a lower court/tribunal before decision (certiorari quashes after) `static-writ-prohibition` …; Quo warranto — any person may apply, even if not personally aggrieved; substantive public office `static-quo-warranto` … |
+| Art 32 | Art 131 — Union–State original suit `static-art131` ✗✓✓; CBI inquiry into Arunachal contracts (Art 14) `ca-20261109-1` …; Art 226 wider than Art 32 ("any other purpose") `static-art226-wider` ✓; Art 329(b): rejected RS nomination only by election petition `ca-20261111-2` …; Writ of prohibition — stops a lower court/tribunal before decision (certiorari quashes after) `static-writ-prohibition` …; Quo warranto — any person may apply, even if not personally aggrieved; substantive public office `static-quo-warranto` …; ₹30 lakh compensation — jailed 7+ years after acquittal (Devilal Gond v. State of Chhattisgarh, 16 Nov 2026) `ca-20261128-1` ·; Mandamus does not lie against the President or a Governor for official acts (Art 361) `static-mandamus-361` … |
 | Art 45 | Art 21A — education 6–14 by 86th Am. 2002 (also Art 45, 51A(k)) `static-art21a` … |
 | Art 51A | Art 21A — education 6–14 by 86th Am. 2002 (also Art 45, 51A(k)) `static-art21a` … |
 | Art 72 | India votes against UN death-penalty moratorium (reported 16 Nov 2026) `ca-20261117-5` · |
+| Art 81 | Cabinet clears revised delimitation-linked women's-quota bill — LS 543→850, freeze to 2051, 2011 Census; special sitting 30 Nov–3 Dec (27 Nov 2026) `ca-20261128-2` · |
+| Art 82 | Cabinet clears revised delimitation-linked women's-quota bill — LS 543→850, freeze to 2051, 2011 Census; special sitting 30 Nov–3 Dec (27 Nov 2026) `ca-20261128-2` · |
 | Art 85 | Parliament adjourned sine die 13 Aug 2026 but not prorogued (~100 days) `ca-20261124-3` · |
 | Art 85(2) | Parliament adjourned sine die 13 Aug 2026 but not prorogued (~100 days) `ca-20261124-3` · |
 | Art 87 | Governors walk out of address (TN, Karnataka) `ca-20261106-2` … |
@@ -109,7 +111,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 201 | 16th Presidential Reference answered `ca-20261026-1` ✗✗✗✗✓✓ |
 | Art 215 | SC contempt notice to Kerala Congress (Art 129) `ca-20261110-4` …; Saharanpur mosque demolition contempt plea relegated to Allahabad HC (SC, 23 Nov 2026); 2024 demolition guidelines `ca-20261124-1` · |
 | Art 217 | SC notice on PIL to finalise judges' MoP, collegium under RTI (Lok Prahari, 18 Nov 2026) `ca-20261119-2` · |
-| Art 226 | Art 226 wider than Art 32 ("any other purpose") `static-art226-wider` ✓; Writ of prohibition — stops a lower court/tribunal before decision (certiorari quashes after) `static-writ-prohibition` …; Quo warranto — any person may apply, even if not personally aggrieved; substantive public office `static-quo-warranto` … |
+| Art 226 | Art 226 wider than Art 32 ("any other purpose") `static-art226-wider` ✓; Writ of prohibition — stops a lower court/tribunal before decision (certiorari quashes after) `static-writ-prohibition` …; Quo warranto — any person may apply, even if not personally aggrieved; substantive public office `static-quo-warranto` …; ₹30 lakh compensation — jailed 7+ years after acquittal (Devilal Gond v. State of Chhattisgarh, 16 Nov 2026) `ca-20261128-1` ·; Mandamus does not lie against the President or a Governor for official acts (Art 361) `static-mandamus-361` … |
 | Art 233 | Deemed one-year practice benefit not extended to 2026 law graduates (SC, 19 Nov 2026) `ca-20261120-2` · |
 | Art 234 | Deemed one-year practice benefit not extended to 2026 law graduates (SC, 19 Nov 2026) `ca-20261120-2` · |
 | Art 243D | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` …; No vested right to a reserved panchayat seat — rotation upheld (SC, 16 Nov 2026) `ca-20261117-3` · |
@@ -126,15 +128,19 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Art 326 | SIR: fresh window for excluded voters (ECI, 6 Nov 2026) `ca-20261109-5` …; Delhi SIR — SC asks EC to verify false Form 7 deletion complaint (Mustafabad, 19 Nov 2026) `ca-20261120-3` · |
 | Art 329 | Art 329(b): rejected RS nomination only by election petition `ca-20261111-2` … |
 | Art 330 | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` …; No vested right to a reserved panchayat seat — rotation upheld (SC, 16 Nov 2026) `ca-20261117-3` · |
+| Art 330A | Cabinet clears revised delimitation-linked women's-quota bill — LS 543→850, freeze to 2051, 2011 Census; special sitting 30 Nov–3 Dec (27 Nov 2026) `ca-20261128-2` · |
 | Art 332 | No rotation of SC/ST seats (Delimitation Act) `ca-20261105-4` …; No vested right to a reserved panchayat seat — rotation upheld (SC, 16 Nov 2026) `ca-20261117-3` · |
+| Art 332A | Cabinet clears revised delimitation-linked women's-quota bill — LS 543→850, freeze to 2051, 2011 Census; special sitting 30 Nov–3 Dec (27 Nov 2026) `ca-20261128-2` · |
+| Art 334A | Cabinet clears revised delimitation-linked women's-quota bill — LS 543→850, freeze to 2051, 2011 Census; special sitting 30 Nov–3 Dec (27 Nov 2026) `ca-20261128-2` · |
 | Art 344 | West Bengal to push Rajbanshi for the Eighth Schedule (reported 26 Nov 2026); 22 languages; 92nd Am. 2003 `ca-20261127-3` · |
 | Art 351 | West Bengal to push Rajbanshi for the Eighth Schedule (reported 26 Nov 2026); 22 languages; 92nd Am. 2003 `ca-20261127-3` · |
 | Art 352 | Art 352 one month vs Art 356 two months (approval) `static-art352-356` ✓…; Art 359 — Arts 20 and 21 cannot be suspended in emergency (44th Am.) `static-art359` ……; Art 360 — financial emergency: approval in 2 months, then until revoked `static-art360` …; Art 358 — Art 19 suspended automatically only for war/external aggression `static-art358` …; Art 352 — approval by each House within 1 month, special majority `static-art352-approval` …; 44th Am. 1978 — "armed rebellion" replaced "internal disturbance" in Art 352 `static-art352-armed-rebellion` …; Art 360 — financial emergency approved by both Houses within 2 months, simple majority `static-art360-approval` …; Art 352(3) — Emergency only on Union Cabinet's decision communicated in writing (44th Am. 1978) `static-art352-cabinet` …; Art 352(7)/(8) — Lok Sabha can revoke National Emergency by simple-majority disapproval; 1/10 members can seek special sitting (44th Am.) `static-art352-revoke` … |
-| Art 356 | Art 356 — Parliament approval within 2 months `static-art356` ✗✗……; Art 352 one month vs Art 356 two months (approval) `static-art352-356` ✓…; Art 360 — financial emergency: approval in 2 months, then until revoked `static-art360` …; Art 356(5) — beyond 1 year needs National Emergency + EC certificate `static-art356-1yr` …; S. R. Bommai (1994, 9 judges) — Art 356 reviewable; floor test `static-bommai` …; Art 356(5) — President's Rule beyond one year only with National Emergency + EC certificate (44th Am.) `static-art356-5` … |
+| Art 356 | Art 356 — Parliament approval within 2 months `static-art356` ✗✗……; Art 352 one month vs Art 356 two months (approval) `static-art352-356` ✓…; Art 360 — financial emergency: approval in 2 months, then until revoked `static-art360` …; Art 356(5) — beyond 1 year needs National Emergency + EC certificate `static-art356-1yr` …; S. R. Bommai (1994, 9 judges) — Art 356 reviewable; floor test `static-bommai` …; Art 356(5) — President's Rule beyond one year only with National Emergency + EC certificate (44th Am.) `static-art356-5` …; Art 356(4) proviso — President's Rule max 3 years with six-monthly approvals `static-art356-3yr` … |
 | Art 358 | Art 358 — Art 19 suspended automatically only for war/external aggression `static-art358` … |
 | Art 359 | Art 359 — Arts 20 and 21 cannot be suspended in emergency (44th Am.) `static-art359` …… |
 | Art 360 | Art 352 one month vs Art 356 two months (approval) `static-art352-356` ✓…; Art 360 — financial emergency: approval in 2 months, then until revoked `static-art360` …; Art 360 — financial emergency approved by both Houses within 2 months, simple majority `static-art360-approval` … |
-| Art 368 | Legislative Council polls; Art 169 `ca-20261105-5` ✓ |
+| Art 361 | Mandamus does not lie against the President or a Governor for official acts (Art 361) `static-mandamus-361` … |
+| Art 368 | Legislative Council polls; Art 169 `ca-20261105-5` ✓; Cabinet clears revised delimitation-linked women's-quota bill — LS 543→850, freeze to 2051, 2011 Census; special sitting 30 Nov–3 Dec (27 Nov 2026) `ca-20261128-2` · |
 | Art 394 | Samvidhan Divas 26 Nov — Constitution adopted 26 Nov 1949; observed since 2015; Art 394 `ca-20261126-3` · |
 | Tenth Schedule | Shiv Sena (UBT) LS merger challenge `ca-20261102-5` ✓; Telangana BRS defection petitions `ca-20261107-7` ✓; Tenth Schedule — merger ≥ 2/3; 91st Amdt deleted split `static-tenth-schedule` ✓✓; Shiv Sena split — 'dissent is not defection', Shinde tells SC (18 Nov 2026) `ca-20261119-3` ·; SC notice on resign-and-recontest pleas — election expenditure security, Tenth Schedule "side door" (CJI Surya Kant bench, 26–27 Oct 2026) `ca-20261126-2` · |
 
@@ -160,7 +166,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | BNSS 430 | No stay of conviction merely to contest elections (SC, 18 Nov 2026) `ca-20261119-1` · |
 | BNSS 47 | Defect in serving grounds of arrest not by itself a bail ground — bail cancelled (State of Rajasthan v Jhabra Ram, SC, 28 Oct 2026) `ca-20261127-2` · |
 | BNSS 528 | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` … |
-| BNSS 58 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; 24-hour production clock runs from detention (SC, 5 Nov 2026) `ca-20261112-4` · |
+| BNSS 58 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; 24-hour production clock runs from detention (SC, 5 Nov 2026) `ca-20261112-4` … |
 | BSA 109 | s. 106 IEA / s. 109 BSA — failure to explain counts only after prosecution leads evidence sustaining conviction (Kamalbai Waman Patil, SC, 5 Nov 2026) `ca-20261127-L1` · |
 | BSA 116 | Delhi HC: child's right to know biological father can outweigh father's privacy (DNA test upheld) `ca-20261122-1` · |
 | BSA 39 | Handwriting expert must be examined — not a s. 293 CrPC / s. 329 BNSS report (Goverdhan, 3 Nov 2026) `ca-20261116-2` ·; Courts must compare signatures themselves; expert only in real doubt — s. 72 BSA (SC, Amanullah & Manmohan JJ, reported 6 Oct 2026) `ca-20261126-1` · |
@@ -175,7 +181,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | CrPC 389 | No stay of conviction merely to contest elections (SC, 18 Nov 2026) `ca-20261119-1` · |
 | CrPC 482 | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` … |
 | CrPC 50 | Defect in serving grounds of arrest not by itself a bail ground — bail cancelled (State of Rajasthan v Jhabra Ram, SC, 28 Oct 2026) `ca-20261127-2` · |
-| CrPC 57 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; 24-hour production clock runs from detention (SC, 5 Nov 2026) `ca-20261112-4` · |
+| CrPC 57 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; 24-hour production clock runs from detention (SC, 5 Nov 2026) `ca-20261112-4` … |
 | IPC 304 | Negligence must be proximate cause — school pillar-collapse case quashed (Matin Bhosale, 2 Nov 2026) `ca-20261115-4` · |
 | IPC 304A | Negligence must be proximate cause — school pillar-collapse case quashed (Matin Bhosale, 2 Nov 2026) `ca-20261115-4` · |
 | IPC 304B | Piyush — insults not cruelty; FIR quashed `ca-20261106-4` … |
@@ -187,6 +193,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 
 | Hook | Items (record) |
 |---|---|
+| 106th Amendment 2023 | Cabinet clears revised delimitation-linked women's-quota bill — LS 543→850, freeze to 2051, 2011 Census; special sitting 30 Nov–3 Dec (27 Nov 2026) `ca-20261128-2` · |
 | 44th Amendment 1978 | Art 352(3) — Emergency only on Union Cabinet's decision communicated in writing (44th Am. 1978) `static-art352-cabinet` …; Art 356(5) — President's Rule beyond one year only with National Emergency + EC certificate (44th Am.) `static-art356-5` …; Art 352(7)/(8) — Lok Sabha can revoke National Emergency by simple-majority disapproval; 1/10 members can seek special sitting (44th Am.) `static-art352-revoke` … |
 | 92nd Amendment 2003 | West Bengal to push Rajbanshi for the Eighth Schedule (reported 26 Nov 2026); 22 languages; 92nd Am. 2003 `ca-20261127-3` · |
 | Administrative Tribunals Act 1985 | Tribunals Reforms Act 2021 struck down in part `ca-20261102-1` ✗ |
@@ -213,7 +220,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Explosives Act 1884 | NCDRC upholds CCPA ₹10 lakh × 2 penalty on ExportersIndia for explosives listings (12 Nov 2026) `ca-20261117-2` · |
 | Forest Rights Act 2006 | Commercial cultivation not a forest right (FRA) `ca-20261108-4` …; Cultivation alone ≠ forest dweller under FRA (A. John Kennedy, 6 Nov 2026) `ca-20261114-4` · |
 | Hindu Marriage Act 1955 | Foreign divorce no shield to bigamy `ca-20261104-4` … |
-| Hindu Succession Act 1956 | No birthright in father's HSA s. 8 share (J. Rajesh, 6 Nov 2026) `ca-20261113-4` · |
+| Hindu Succession Act 1956 | No birthright in father's HSA s. 8 share (J. Rajesh, 6 Nov 2026) `ca-20261113-4` … |
 | IT Act 2000 | Shreya Singhal (2015) — s. 66A IT Act struck: vague, outside Art 19(2) `static-art19-66a` … |
 | Income-tax Act 2025 | Union Budget 2026-27 (FD 4.3%) `ca-20261107-2` … |
 | Information Technology Act 2000 | Digital-arrest frauds — SC suo motu: banks failing due diligence may compensate (Oct 2026) `ca-20261123-L1` … |
@@ -225,7 +232,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Maharashtra Village Panchayats Act 1959 | Two-child norm 'lost relevance' — referred to larger bench (Mangala Ingle, 4 Nov 2026) `ca-20261113-5` · |
 | Maharashtra Zilla Parishads and Panchayat Samitis Act 1961 | No vested right to a reserved panchayat seat — rotation upheld (SC, 16 Nov 2026) `ca-20261117-3` · |
 | Motor Vehicles Act 1988 | Right to walk on footpaths is a fundamental right `ca-20261111-1` …; SC upholds end of Karnataka bike-taxi ban — "better to regulate than ban" (20 Nov 2026) `ca-20261121-1` · |
-| NDPS Act 1985 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; 24-hour production clock runs from detention (SC, 5 Nov 2026) `ca-20261112-4` · |
+| NDPS Act 1985 | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓; 24-hour production clock runs from detention (SC, 5 Nov 2026) `ca-20261112-4` … |
 | Official Secrets Act 1923 | Defect in serving grounds of arrest not by itself a bail ground — bail cancelled (State of Rajasthan v Jhabra Ram, SC, 28 Oct 2026) `ca-20261127-2` · |
 | PMLA 2002 s 45 | Jharkhand HC: PMLA bail conditions cannot override Art 21 (Prayag Group case) `ca-20261122-2` · |
 | POCSO Act 2012 | Internet access a fundamental right incl. children (Just Rights for Children Alliance v S. Harish, Oct 2026) `ca-20261115-1` · |
@@ -233,7 +240,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Prevention of Corruption Act 1988 | s. 17A PC Act split verdict `ca-20261106-1` …; Custody > 48 hours = deemed suspension (Vishwajeet Singh, 11 Nov 2026) `ca-20261117-1` ·; Recovery of tainted money alone cannot prove bribery; trap officer's account of panch = hearsay (Har Parsad Gaur, 17 Nov 2026) `ca-20261125-2` · |
 | Protection of Women from Domestic Violence Act 2005 | s. 498-A covers live-in 'relationship in the nature of marriage' (Lokesh B. H., Aug 2026) `ca-20261113-1` · |
 | Punjab Reorganisation Act 1966 s 78 | Bhakra-Beas power arrears to Himachal (SC, 6 Nov 2026) `ca-20261109-4` … |
-| RBI Act 1934 | RBI repo 5.25% (Dec 2025) `ca-20261104-2` ✗ |
+| RBI Act 1934 | RBI repo 5.25% (Dec 2025) `ca-20261104-2` ✗; RBI cuts daily CRR maintenance floor 99% → 90% (27 Nov 2026, from fortnight of 1 Dec) `ca-20261128-3` · |
 | RBI Act 1934 s 45ZB | RBI holds repo 5.25% (8 Apr 2026) `ca-20261109-2` … |
 | RBI Act 1934 s. 45ZB | RBI hikes repo 25 bps to 5.50%, stance "calibrated tightening" (9 Oct 2026); Oct CPI 6.09% `ca-20261115-3` · |
 | RFCTLARR Act 2013 | Gram Sabha consent mandatory in Scheduled Areas — s. 41(3) RFCTLARR (Bibol Toppo, 19 Nov 2026) `ca-20261120-1` · |
@@ -270,9 +277,10 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Bhumika Trust | Deemed one-year practice benefit not extended to 2026 law graduates (SC, 19 Nov 2026) `ca-20261120-2` · |
 | Bibol Toppo v State of Odisha | Gram Sabha consent mandatory in Scheduled Areas — s. 41(3) RFCTLARR (Bibol Toppo, 19 Nov 2026) `ca-20261120-1` · |
 | Bihar Legal Support Society v CJI (1986) | Art 136 not a regular appeal — Chaitanya Baghel bail upheld (Jul 2026) `ca-20261112-2` … |
-| CWT v. Chander Sen | No birthright in father's HSA s. 8 share (J. Rajesh, 6 Nov 2026) `ca-20261113-4` · |
+| CWT v. Chander Sen | No birthright in father's HSA s. 8 share (J. Rajesh, 6 Nov 2026) `ca-20261113-4` … |
 | Common Cause (2018) | Harish Rana passive euthanasia `ca-20261108-1` … |
 | D. K. Basu (1997) | Sujit Das — Art 22(2) clock from detention `ca-20261106-7` ✓✓✓ |
+| Devilal Gond v. State of Chhattisgarh | ₹30 lakh compensation — jailed 7+ years after acquittal (Devilal Gond v. State of Chhattisgarh, 16 Nov 2026) `ca-20261128-1` · |
 | Elaine Info Solutions v J & A Avenues (2026) | Doctrine of indoor management protects bona fide buyer (Elaine Info Solutions) `ca-20261118-2` · |
 | G. Srinivasan v Union of India (2026) | Probationer discharge for unsuitability not stigmatic (G. Srinivasan, Art 311(2)) `ca-20261118-3` · |
 | Goverdhan v State of Rajasthan (2026) | Handwriting expert must be examined — not a s. 293 CrPC / s. 329 BNSS report (Goverdhan, 3 Nov 2026) `ca-20261116-2` · |
@@ -314,6 +322,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Ramkishan Digambar Jadhav v State of Maharashtra (2026) | s. 106 IEA / s. 109 BSA — failure to explain counts only after prosecution leads evidence sustaining conviction (Kamalbai Waman Patil, SC, 5 Nov 2026) `ca-20261127-L1` · |
 | Romesh Thappar v State of Madras | Romesh Thappar (1950) — press freedom within Art 19(1)(a) `static-art19-press` … |
 | Royal British Bank v Turquand (1856) | Doctrine of indoor management protects bona fide buyer (Elaine Info Solutions) `ca-20261118-2` · |
+| Rudul Sah v. State of Bihar | ₹30 lakh compensation — jailed 7+ years after acquittal (Devilal Gond v. State of Chhattisgarh, 16 Nov 2026) `ca-20261128-1` · |
 | S R Bommai v Union of India | S. R. Bommai (1994, 9 judges) — Art 356 reviewable; floor test `static-bommai` … |
 | S. Kodar (1974) | 7-judge bench closes sales-tax surcharge reference (Arjun Flour Mills, 4 Nov 2026); royalty not a tax (MADA 2024) `ca-20261114-5` · |
 | Save Mon Region Federation v State of Arunachal Pradesh | CBI inquiry into Arunachal contracts (Art 14) `ca-20261109-1` … |
@@ -356,6 +365,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Data Protection Board | DPDP Rules 2025 (MeitY) `ca-20261027-1` ✓ |
 | Data Protection Board of India | DPDP consent-manager rules in force (13 Nov 2026); register with Data Protection Board `ca-20261116-1` · |
 | Deendayal Port (Kandla) | Nepal PM Balendra Shah's India visit (22–23 Nov 2026) — ₹15,000 cr (₹3,500 cr grant + ₹11,500 cr LoC), Joint Vision, Lower Arun 669 MW `ca-20261125-L1` … |
+| Department of Posts | Two India Post schemes extended to FY31 — ₹2,632 cr (Cabinet, 25 Nov 2026) `ca-20261128-4` · |
 | EPFO | EPFO 240th CBT eases withdrawals (19 Nov 2026) `ca-20261122-4` · |
 | ESA | BepiColombo (ESA–JAXA) enters Mercury orbit (21 Nov 2026) `ca-20261125-6` · |
 | Election Commission of India | CEC acting without full Commission plea `ca-20261102-4` ✓; Assembly polls 2026 schedule (5 States/UT) `ca-20261108-2` …; SIR: fresh window for excluded voters (ECI, 6 Nov 2026) `ca-20261109-5` …; Delhi SIR — SC asks EC to verify false Form 7 deletion complaint (Mustafabad, 19 Nov 2026) `ca-20261120-3` ·; SC notice on resign-and-recontest pleas — election expenditure security, Tenth Schedule "side door" (CJI Surya Kant bench, 26–27 Oct 2026) `ca-20261126-2` · |
@@ -374,6 +384,8 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | ICAR-NIHSAD | First indigenous H5N1 poultry vaccine — ICAR-NIHSAD Bhopal (20 Nov 2026) `ca-20261120-4` · |
 | ICC | India win Women's ODI World Cup 2025 `ca-20261102-3` ✓; International Criminal Court sits at The Hague `static-icc-hague` ✓; Jay Shah re-elected ICC Chair, second term (Bali, 16 Nov 2026) `ca-20261117-6` · |
 | IEA | IEA Paris vs IAEA Vienna `static-iea-iaea` ✗ |
+| IOC | India presents 2036 Olympics roadmap (Ahmedabad) to IOC Future Host Commission (26 Nov 2026) `ca-20261128-6` · |
+| IORA | 25th IORA Council of Ministers, New Delhi — India Chair 2025–27, MAHASAGAR (27 Nov 2026) `ca-20261128-5` · |
 | IRENA | International Solar Alliance HQ Gurugram `static-isa` ✗✓ |
 | ISRO | NVS-03 / NavIC `ca-20261104-6` ✓; ISRO ground-tests upgraded PSLV third stage PS3 (12 Nov 2026) `ca-20261123-6` · |
 | ITU | India re-elected to ITU Council 2027–30 (PP-26, Doha) `ca-20261118-5` · |
@@ -411,7 +423,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Olympic Council of Asia | India 4th at Aichi-Nagoya Asian Games 2026 — 85 medals (21 gold) `ca-20261114-3` · |
 | PESO | NCDRC upholds CCPA ₹10 lakh × 2 penalty on ExportersIndia for explosives listings (12 Nov 2026) `ca-20261117-2` · |
 | Quad | Quad Leaders' Summit, Manila (mid-Nov 2026) — Business Leaders' Forum 2027 `ca-20261123-5` · |
-| RBI | RBI holds repo 5.25% (8 Apr 2026) `ca-20261109-2` …; Forex reserves $717.06 bn (wk to 30 Oct 2026); CPI Sept 5.54% `ca-20261111-5` …; RBI holds repo 5.25%, FY27 GDP 6.7% (MPC, 5 Aug 2026) `ca-20261113-2` ·; RBI hikes repo 25 bps to 5.50%, stance "calibrated tightening" (9 Oct 2026); Oct CPI 6.09% `ca-20261115-3` ·; Digital-arrest frauds — SC suo motu: banks failing due diligence may compensate (Oct 2026) `ca-20261123-L1` …; RBI draft Digital Payment rules — stop switch, default-off channels, trusted person (23 Nov 2026) `ca-20261125-4` · |
+| RBI | RBI holds repo 5.25% (8 Apr 2026) `ca-20261109-2` …; Forex reserves $717.06 bn (wk to 30 Oct 2026); CPI Sept 5.54% `ca-20261111-5` …; RBI holds repo 5.25%, FY27 GDP 6.7% (MPC, 5 Aug 2026) `ca-20261113-2` ·; RBI hikes repo 25 bps to 5.50%, stance "calibrated tightening" (9 Oct 2026); Oct CPI 6.09% `ca-20261115-3` ·; Digital-arrest frauds — SC suo motu: banks failing due diligence may compensate (Oct 2026) `ca-20261123-L1` …; RBI draft Digital Payment rules — stop switch, default-off channels, trusted person (23 Nov 2026) `ca-20261125-4` ·; RBI cuts daily CRR maintenance floor 99% → 90% (27 Nov 2026, from fortnight of 1 Dec) `ca-20261128-3` · |
 | RBI MPC | RBI repo 5.25% (Dec 2025) `ca-20261104-2` ✗ |
 | RSF | World Press Freedom Index 2026 — India 157 `ca-20261109-3` … |
 | SAFF | India win record 10th SAFF Championship — 2-1 v Pakistan, Dhaka (17 Nov 2026) `ca-20261121-6` · |
@@ -423,7 +435,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | UGC | UGC Equity Regulations 2026 stayed `ca-20261105-1` … |
 | UN SDSN | World Happiness Report 2026 — India 116 `ca-20261108-3` … |
 | UNESCO | Mahabharata, Arthashastra, Rajatarangini on UNESCO MOWCAP register `ca-20261110-6` … |
-| UNFCCC | COP31 opens in Antalya (9-20 Nov 2026) `ca-20261109-7` …; COP31 opens in Antalya, Türkiye (9 Nov 2026) `ca-20261112-5` ·; COP31 Antalya (9–20 Nov 2026) ends without overarching agreement on fossil-fuel language; COP32 Addis Ababa 2027 `ca-20261124-5` · |
+| UNFCCC | COP31 opens in Antalya (9-20 Nov 2026) `ca-20261109-7` …; COP31 opens in Antalya, Türkiye (9 Nov 2026) `ca-20261112-5` …; COP31 Antalya (9–20 Nov 2026) ends without overarching agreement on fossil-fuel language; COP32 Addis Ababa 2027 `ca-20261124-5` · |
 | UNGA | India votes against UN death-penalty moratorium (reported 16 Nov 2026) `ca-20261117-5` · |
 | USTR | USTR Section 301 "structural excess capacity" probe — India among 16 economies; India rejects (Mar–Nov 2026) `ca-20261126-5` · |
 | United World Wrestling | Manisha Bhanwala world wrestling champion `ca-20261107-6` … |
@@ -443,7 +455,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Balendra Shah | Nepal PM Balendra Shah's India visit (22–23 Nov 2026) — ₹15,000 cr (₹3,500 cr grant + ₹11,500 cr LoC), Joint Vision, Lower Arun 669 MW `ca-20261125-L1` … |
 | Bhupender Yadav | LeadIT 3.0 launched by India & Sweden at COP31 (17 Nov 2026) `ca-20261121-5` · |
 | Birsa Munda | Janjatiya Gaurav Diwas 15 Nov — Birsa Munda 151st birth anniversary `ca-20261116-6` · |
-| Chris Bowen | COP31 opens in Antalya (9-20 Nov 2026) `ca-20261109-7` …; COP31 opens in Antalya, Türkiye (9 Nov 2026) `ca-20261112-5` · |
+| Chris Bowen | COP31 opens in Antalya (9-20 Nov 2026) `ca-20261109-7` …; COP31 opens in Antalya, Türkiye (9 Nov 2026) `ca-20261112-5` … |
 | D. Gukesh | Anuj Shrivatri India's 100th chess GM (8 Nov 2026) `ca-20261115-7` … |
 | Dipankar Datta | Gram Sabha consent mandatory in Scheduled Areas — s. 41(3) RFCTLARR (Bibol Toppo, 19 Nov 2026) `ca-20261120-1` ·; UP pension validation Acts 2021 & 2025 struck down (Prem Singh defect not cured) `ca-20261121-2` ·; CEC Act 2023 — Constitution Bench reference (23 Sep 2026, 1:1 split); recall plea not listed (20 Nov) `ca-20261121-3` · |
 | Divya Deshmukh | Anuj Shrivatri India's 100th chess GM (8 Nov 2026) `ca-20261115-7` … |
@@ -455,12 +467,13 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | Jay Shah | Jay Shah re-elected ICC Chair, second term (Bali, 16 Nov 2026) `ca-20261117-6` · |
 | Jonas Gahr Store | 3rd India–Nordic Summit, Oslo (19 May 2026) `ca-20261110-3` … |
 | Karthik Muralidharan | Karthik Muralidharan named ADB Chief Economist (from 1 Jul 2027) `ca-20261122-6` · |
+| Kolinda Grabar-Kitarović | India presents 2036 Olympics roadmap (Ahmedabad) to IOC Future Host Commission (26 Nov 2026) `ca-20261128-6` · |
 | M. John Harrison | Booker Prize 2026 — M. John Harrison, The End of Everything (9 Nov 2026) `ca-20261115-6` · |
 | M. S. Dhoni | M. S. Dhoni retires from IPL, CSK mentor from 2027 (18 Nov 2026) `ca-20261119-6` · |
 | Mansukh Mandaviya | EPFO 240th CBT eases withdrawals (19 Nov 2026) `ca-20261122-4` · |
 | Mark Carney | PM Modi to visit Canada 11–12 Dec 2026; CEPA talks with Mark Carney `ca-20261114-6` · |
 | Masato Kanda | Karthik Muralidharan named ADB Chief Economist (from 1 Jul 2027) `ca-20261122-6` · |
-| Murat Kurum | COP31 opens in Antalya (9-20 Nov 2026) `ca-20261109-7` …; COP31 opens in Antalya, Türkiye (9 Nov 2026) `ca-20261112-5` ·; COP31 Antalya (9–20 Nov 2026) ends without overarching agreement on fossil-fuel language; COP32 Addis Ababa 2027 `ca-20261124-5` · |
+| Murat Kurum | COP31 opens in Antalya (9-20 Nov 2026) `ca-20261109-7` …; COP31 opens in Antalya, Türkiye (9 Nov 2026) `ca-20261112-5` …; COP31 Antalya (9–20 Nov 2026) ends without overarching agreement on fossil-fuel language; COP32 Addis Ababa 2027 `ca-20261124-5` · |
 | Naushad Moosa | India win record 10th SAFF Championship — 2-1 v Pakistan, Dhaka (17 Nov 2026) `ca-20261121-6` · |
 | Nithya Raman | Nithya Raman elected Mayor of Los Angeles `ca-20261109-6` … |
 | Pema Khandu | CBI inquiry into Arunachal contracts (Art 14) `ca-20261109-1` … |
@@ -511,6 +524,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 
 | Hook | Items (record) |
 |---|---|
+| 2036 Olympics | India presents 2036 Olympics roadmap (Ahmedabad) to IOC Future Host Commission (26 Nov 2026) `ca-20261128-6` · |
 | 86th Amendment 2002 | Art 21A — education 6–14 by 86th Am. 2002 (also Art 45, 51A(k)) `static-art21a` … |
 | AI Impact Summit | India AI Impact Summit 2026 `ca-20261101-1` ✗✓–✓ |
 | APEC 2026 | APEC 2026 leaders meeting, Shenzhen (18–19 Nov) `ca-20261111-6` … |
@@ -521,11 +535,12 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | CCEA 25 Nov 2026 | Kamarajar Port second container terminal — ₹4,288.26 cr, PPP DBFOT, ~2 m TEU (CCEA, 25 Nov 2026) `ca-20261127-4` · |
 | CHOGM 2026 | 28th CHOGM, St John's, Antigua and Barbuda (1-4 Nov 2026) `ca-20261115-5` · |
 | CIE scheme 2026 | ₹11,000 cr Scheme for Enhancement of CIE Manufacturing Ecosystem (Cabinet, 25 Nov 2026) `ca-20261126-4` · |
-| COP31 | WMO GHG Bulletin No. 22 — CO2 426.8 ppm `ca-20261106-5` …; COP31 opens in Antalya (9-20 Nov 2026) `ca-20261109-7` …; COP31 opens in Antalya, Türkiye (9 Nov 2026) `ca-20261112-5` ·; CCPI 2027 — India 28th (60.85), down from 23rd; top 3 vacant; Denmark 4th `ca-20261120-5` ·; LeadIT 3.0 launched by India & Sweden at COP31 (17 Nov 2026) `ca-20261121-5` ·; COP31 Antalya (9–20 Nov 2026) ends without overarching agreement on fossil-fuel language; COP32 Addis Ababa 2027 `ca-20261124-5` · |
+| COP31 | WMO GHG Bulletin No. 22 — CO2 426.8 ppm `ca-20261106-5` …; COP31 opens in Antalya (9-20 Nov 2026) `ca-20261109-7` …; COP31 opens in Antalya, Türkiye (9 Nov 2026) `ca-20261112-5` …; CCPI 2027 — India 28th (60.85), down from 23rd; top 3 vacant; Denmark 4th `ca-20261120-5` ·; LeadIT 3.0 launched by India & Sweden at COP31 (17 Nov 2026) `ca-20261121-5` ·; COP31 Antalya (9–20 Nov 2026) ends without overarching agreement on fossil-fuel language; COP32 Addis Ababa 2027 `ca-20261124-5` · |
 | COP32 | COP31 Antalya (9–20 Nov 2026) ends without overarching agreement on fossil-fuel language; COP32 Addis Ababa 2027 `ca-20261124-5` · |
-| Commonwealth Games 2026 | India 4th at Glasgow CWG 2026 — 39 medals (13 gold) `ca-20261113-3` · |
+| Commonwealth Games 2026 | India 4th at Glasgow CWG 2026 — 39 medals (13 gold) `ca-20261113-3` … |
 | Constitution Day | Samvidhan Divas 26 Nov — Constitution adopted 26 Nov 1949; observed since 2015; Art 394 `ca-20261126-3` · |
 | Deep Ocean Mission | MATSYA-6000 completes unmanned trials (early Nov 2026) `ca-20261115-8` …… |
+| Delimitation | Cabinet clears revised delimitation-linked women's-quota bill — LS 543→850, freeze to 2051, 2011 Census; special sitting 30 Nov–3 Dec (27 Nov 2026) `ca-20261128-2` · |
 | East Asia Summit | 23rd ASEAN-India Summit & 21st EAS, Manila (17 Nov 2026) — Year of Maritime Cooperation `ca-20261117-7` …… |
 | FIFA Women's World Cup 2031 | FIFA Congress awards 2031 Women's World Cup (USA, Mexico, Costa Rica, Jamaica; first 48-team) and 2035 (UK) (23 Nov 2026) `ca-20261125-5` · |
 | FIFA Women's World Cup 2035 | FIFA Congress awards 2031 Women's World Cup (USA, Mexico, Costa Rica, Jamaica; first 48-team) and 2035 (UK) (23 Nov 2026) `ca-20261125-5` · |
@@ -533,6 +548,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | G20 Summit 2026 | G20 Miami summit 14–15 Dec 2026; South Africa not invited `ca-20261113-6` · |
 | GRAP | CAQM revokes GRAP Stage III in Delhi-NCR (17 Nov 2026) `ca-20261119-4` · |
 | IFFI | 57th IFFI Goa 20–28 Nov 2026 — opening film Fatherland `ca-20261120-6` · |
+| IORA Council of Ministers | 25th IORA Council of Ministers, New Delhi — India Chair 2025–27, MAHASAGAR (27 Nov 2026) `ca-20261128-5` · |
 | IPL | M. S. Dhoni retires from IPL, CSK mentor from 2027 (18 Nov 2026) `ca-20261119-6` · |
 | ITU Plenipotentiary Conference 2026 | India re-elected to ITU Council 2027–30 (PP-26, Doha) `ca-20261118-5` · |
 | India-Japan 2+2 | 4th India-Japan 2+2 Ministerial Dialogue, Tokyo (Nov 2026) `ca-20261119-5` · |
@@ -574,8 +590,8 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | FRA 2(c) | Cultivation alone ≠ forest dweller under FRA (A. John Kennedy, 6 Nov 2026) `ca-20261114-4` · |
 | FRA 2(o) | Cultivation alone ≠ forest dweller under FRA (A. John Kennedy, 6 Nov 2026) `ca-20261114-4` · |
 | Fifth Schedule | Gram Sabha consent mandatory in Scheduled Areas — s. 41(3) RFCTLARR (Bibol Toppo, 19 Nov 2026) `ca-20261120-1` · |
-| HSA 6 | No birthright in father's HSA s. 8 share (J. Rajesh, 6 Nov 2026) `ca-20261113-4` · |
-| HSA 8 | No birthright in father's HSA s. 8 share (J. Rajesh, 6 Nov 2026) `ca-20261113-4` · |
+| HSA 6 | No birthright in father's HSA s. 8 share (J. Rajesh, 6 Nov 2026) `ca-20261113-4` … |
+| HSA 8 | No birthright in father's HSA s. 8 share (J. Rajesh, 6 Nov 2026) `ca-20261113-4` … |
 | IBC 61 | Fake AI precedents void NCLT/NCLAT orders (Pooja Ramesh Singh, Jul 2026) `ca-20261112-1` … |
 | IBC 62 | Fake AI precedents void NCLT/NCLAT orders (Pooja Ramesh Singh, Jul 2026) `ca-20261112-1` … |
 | IBC 7 | Fake AI precedents void NCLT/NCLAT orders (Pooja Ramesh Singh, Jul 2026) `ca-20261112-1` … |
@@ -589,6 +605,7 @@ Never tested first (oldest first), then items whose last attempt was wrong or bl
 | PC Act 20 | Recovery of tainted money alone cannot prove bribery; trap officer's account of panch = hearsay (Har Parsad Gaur, 17 Nov 2026) `ca-20261125-2` · |
 | PC Act 7 | Custody > 48 hours = deemed suspension (Vishwajeet Singh, 11 Nov 2026) `ca-20261117-1` ·; Recovery of tainted money alone cannot prove bribery; trap officer's account of panch = hearsay (Har Parsad Gaur, 17 Nov 2026) `ca-20261125-2` · |
 | Preamble | Preamble — 42nd Am. added socialist, secular, integrity `static-preamble-42` … |
+| RBI Act 42 | RBI cuts daily CRR maintenance floor 99% → 90% (27 Nov 2026, from fortnight of 1 Dec) `ca-20261128-3` · |
 | RBI Act 45ZB | RBI holds repo 5.25%, FY27 GDP 6.7% (MPC, 5 Aug 2026) `ca-20261113-2` · |
 | RPA 158 | SC notice on resign-and-recontest pleas — election expenditure security, Tenth Schedule "side door" (CJI Surya Kant bench, 26–27 Oct 2026) `ca-20261126-2` · |
 | RPA 34 | SC notice on resign-and-recontest pleas — election expenditure security, Tenth Schedule "side door" (CJI Surya Kant bench, 26–27 Oct 2026) `ca-20261126-2` · |
